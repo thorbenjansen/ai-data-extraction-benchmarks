@@ -51,12 +51,14 @@ if(!h&&p.get('challenge'))h='#challenge-'+p.get('challenge');u.hash=h;location.r
     return H.fromstring(f'''<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Challenges &amp; workflow | Data extraction benchmarks</title><link rel="canonical" href="https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html"><script>{script}</script></head><body><main><h1>Challenges and workflow are now on one page</h1><p><a href="{base}">Open the combined benchmark supplement</a></p></main></body></html>''')
 
 
-def retarget(value):
+def retarget(value, context_path):
     u = urlsplit(value)
     if u.scheme or u.netloc:
         return value
     p = Path(u.path)
     if p.name not in {'workflow.html', 'challenges.html', 'all-benchmarks.html'}:
+        return value
+    if (context_path.parent/p).resolve().parent!=ROOT:
         return value
     fragment = u.fragment
     if p.name == 'workflow.html':
@@ -176,22 +178,26 @@ def build():
                      '<span>Original metric · separate test conditions</span></div></article>')
         body += '</div></section>'
     body += '''</div><section class="scope unified-scope"><h2>What the collection supports</h2><p>These benchmarks assess component skills and selected extraction tasks. None is a dedicated test of codebook-based extraction from psychological studies, and none validates the complete human–AI workflow or its auditability. The same benchmark can inform several challenges and workflow steps.</p><p>Every benchmark retains its APA references, individual result sources, model-release evidence and separate test conditions. The figures, observations and descriptive curves are unchanged.</p><p><a href="data/article_benchmark_register.csv">50-family register</a> · <a href="data/challenge_mapping.csv">Challenge/workflow mapping</a> · <a href="methods.html">Methods and limits</a></p></section>'''
+    fragment=ROOT/'materials/home.fragment'
+    if fragment.exists():
+        body=body.replace('<details class="unified-workflow"',fragment.read_text()+'<details class="unified-workflow"',1)
     for el in H.fragments_fromstring(body):
         main.append(el)
     save(ROOT / 'index.html', doc)
     for name in ['workflow.html', 'challenges.html', 'all-benchmarks.html']:
         save(ROOT / name, redirect_document(name))
-    for p in list(ROOT.glob('*.html')) + list((ROOT / 'benchmarks').glob('*.html')):
+    for p in list(ROOT.glob('*.html')) + list((ROOT / 'benchmarks').glob('*.html')) + [p for p in (ROOT/'materials').glob('*.html') if p.name!='home.fragment.html']:
         tree = H.parse(str(p)).getroot()
         for el in tree.xpath('//*[@href]'):
-            el.set('href', retarget(el.get('href')))
+            el.set('href', retarget(el.get('href'),p))
         navs = tree.xpath('//header[@class="site-header"]/nav')
         if navs:
             nav = navs[0]
             for child in list(nav):
                 nav.remove(child)
-            prefix = '../' if p.parent.name == 'benchmarks' else ''
+            prefix = '../' if p.parent!=ROOT else ''
             for path, label in [('index.html', 'Challenges & workflow'),
+                                ('index.html#article-materials', 'Article materials'),
                                 ('references.html', 'References'), ('model-releases.html', 'Model releases'), ('methods.html', 'Methods')]:
                 link = H.Element('a', href=prefix + path)
                 link.text = label
@@ -202,7 +208,7 @@ def build():
     # Cache-bust the shared UI assets on all detail pages as well as the homepage.
     css_hash = hashlib.sha256((ROOT / 'assets/style.css').read_bytes()).hexdigest()[:10]
     js_hash = hashlib.sha256((ROOT / 'assets/app.js').read_bytes()).hexdigest()[:10]
-    for p in list(ROOT.glob('*.html')) + list((ROOT / 'benchmarks').glob('*.html')):
+    for p in list(ROOT.glob('*.html')) + list((ROOT / 'benchmarks').glob('*.html')) + [p for p in (ROOT/'materials').glob('*.html') if p.name!='home.fragment.html']:
         tree = H.parse(str(p)).getroot()
         for el in tree.xpath('//link[@rel="stylesheet"]'):
             el.set('href', el.get('href').split('?')[0] + '?v=' + css_hash)

@@ -1,0 +1,1224 @@
+{
+  "download": "https://thorbenjansen.github.io/ai-data-extraction-benchmarks/materials/downloads/AI_Research_Package_2026-11-04.zip",
+  "paths_are_inside_download": true,
+  "sources": [
+    {
+      "artifact_id": "adam-et-al-2025-machine-learning-tools-to-semi-automate-evidence-synthesis-ara",
+      "paper_path": "literature/artifacts/adam-et-al-2025-machine-learning-tools-to-semi-automate-evidence-synthesis-ara/PAPER.md",
+      "sha256": "af3425cde836fbb8d1b88bae66bc85bc783b5c60fe028891af9912ce2c500a74",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "affengruber-et-al-2026-characteristics-of-studies-falsely-excluded-during-single-rev-ara",
+      "paper_path": "literature/artifacts/affengruber-et-al-2026-characteristics-of-studies-falsely-excluded-during-single-rev-ara/PAPER.md",
+      "sha256": "59f51852fdebac6da21de1b87dca5d5cc25c6985521a6cb9ba4780916a1d8c93",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "affengruber-et-al-2026-detecting-false-exclusions-in-single-reviewer-literature-scre-ara",
+      "paper_path": "literature/artifacts/affengruber-et-al-2026-detecting-false-exclusions-in-single-reviewer-literature-scre-ara/PAPER.md",
+      "sha256": "cd36ba6eab75e6f1b6fb782f21dcbdc93761a47a1455169e4367c78bdd5555ee",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "amoroso-und-tamburrini-2020-autonomous-weapons-systems-and-meaningful-human-control-ethical-and-legal-issues-ara",
+      "paper_path": "literature/artifacts/amoroso-und-tamburrini-2020-autonomous-weapons-systems-and-meaningful-human-control-ethical-and-legal-issues-ara/PAPER.md",
+      "sha256": "2b47f7d9284e66573778776690bb14cad624a5bdaff9307336961271f6090502",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "archer-et-al-2014-examining-the-effectiveness-of-technology-use-in-classrooms-a-tertiary-meta-analysis-ara",
+      "paper_path": "literature/artifacts/archer-et-al-2014-examining-the-effectiveness-of-technology-use-in-classrooms-a-tertiary-meta-analysis-ara/PAPER.md",
+      "sha256": "c35fe5af4c141ec3c00a982bb1b744f77be35c9918d8c94d9e71eeff1aae3b1e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "aronson-und-lang-2010-an-overview-of-metamap-historical-perspective-and-recent-advances-ara",
+      "paper_path": "literature/artifacts/aronson-und-lang-2010-an-overview-of-metamap-historical-perspective-and-recent-advances-ara/PAPER.md",
+      "sha256": "ceca2ee9c46bb525e77ec503df3956d82cb0b7be4993bd03a1141c4ef1291345",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "bail-2024-can-generative-ai-improve-social-science-ara",
+      "paper_path": "literature/artifacts/bail-2024-can-generative-ai-improve-social-science-ara/PAPER.md",
+      "sha256": "d729265d1dc19d3bca8d98e37de182f00b690217e28b59e90c354e7baf4c614f",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "bavel-et-al-2016-contextual-sensitivity-in-scientific-reproducibility-ara",
+      "paper_path": "literature/artifacts/bavel-et-al-2016-contextual-sensitivity-in-scientific-reproducibility-ara/PAPER.md",
+      "sha256": "75963bd8e90c5c08c14c3848048b0557d9249dbb4559f89057b74aa140834e62",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "beck-2025-improving-annotation-quality-empirical-insights-into-bias-human-ai-collabo-ara",
+      "paper_path": "literature/artifacts/beck-2025-improving-annotation-quality-empirical-insights-into-bias-human-ai-collabo-ara/PAPER.md",
+      "sha256": "e66e372cbd56d1347bfacbceb5530032ec6944ebe09bd0a7d29257c88836eff7",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "beck-et-al-2025-bias-in-the-loop-how-humans-evaluate-ai-generated-suggestions-ara",
+      "paper_path": "literature/artifacts/beck-et-al-2025-bias-in-the-loop-how-humans-evaluate-ai-generated-suggestions-ara/PAPER.md",
+      "sha256": "ab33ac122e5d7b3d01940b0bd9ce111f5e22efba38f196385b8a7c7e2d99026b",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "beller-et-al-2013-are-systematic-reviews-up-to-date-at-the-time-of-publication-ara",
+      "paper_path": "literature/artifacts/beller-et-al-2013-are-systematic-reviews-up-to-date-at-the-time-of-publication-ara/PAPER.md",
+      "sha256": "3296b81b5df8c0e26686034b05a0b7dc6faeb412692d14670b3bfb35cef0cc18",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "belur-et-al-2021-interrater-reliability-in-systematic-review-methodology-exploring-v-ara",
+      "paper_path": "literature/artifacts/belur-et-al-2021-interrater-reliability-in-systematic-review-methodology-exploring-v-ara/PAPER.md",
+      "sha256": "e1b0990670ed6bc68ec3b836343da0308cd80d0da62de8a26747836de9e4deb2",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "bennett-et-al-2023-male-suicide-risk-and-recovery-factors-a-systematic-review-and-qualitative-metasynthesis-of-two-ara",
+      "paper_path": "literature/artifacts/bennett-et-al-2023-male-suicide-risk-and-recovery-factors-a-systematic-review-and-qualitative-metasynthesis-of-two-ara/PAPER.md",
+      "sha256": "80e789034a3dffcba742e26eed62fc6f7a836e58318caeb7ba91f7312b48de8c",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "bergquist-et-al-2023-field-interventions-for-climate-change-mitigation-behaviors-a-second-order-meta-analysis-ara",
+      "paper_path": "literature/artifacts/bergquist-et-al-2023-field-interventions-for-climate-change-mitigation-behaviors-a-second-order-meta-analysis-ara/PAPER.md",
+      "sha256": "0c6c21204b07af934b830760af476349a15905b17cf642161a09663299eda4aa",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "bernard-et-al-2014-an-exploration-of-bias-in-meta-analysis-the-case-of-technology-integration-research-in-higher-ed-ara",
+      "paper_path": "literature/artifacts/bernard-et-al-2014-an-exploration-of-bias-in-meta-analysis-the-case-of-technology-integration-research-in-higher-ed-ara/PAPER.md",
+      "sha256": "7af4cc4253264578f8f8affb92423232d861df3af91c41c8b4bdbff8f3c915ff",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "bianchi-et-al-2025-data-extractions-using-a-large-language-model-elicit-and-human-reviewers-in-randomized-controlle-ara",
+      "paper_path": "literature/artifacts/bianchi-et-al-2025-data-extractions-using-a-large-language-model-elicit-and-human-reviewers-in-randomized-controlle-ara/PAPER.md",
+      "sha256": "7b9ab8c62c0c64960a573086e46f13056495a9dadf1b9e616706743cb1e85d2d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "blau-et-al-2024-protecting-scientific-integrity-in-an-age-of-generative-ai-ara",
+      "paper_path": "literature/artifacts/blau-et-al-2024-protecting-scientific-integrity-in-an-age-of-generative-ai-ara/PAPER.md",
+      "sha256": "89619f90c92fadc25e2cdb2aff4ef8899cb923efb90b49c45ef446df297e6457",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "borah-et-al-2017-analysis-of-the-time-and-workers-needed-to-conduct-systematic-reviews-of-medical-interventions-usi-ara",
+      "paper_path": "literature/artifacts/borah-et-al-2017-analysis-of-the-time-and-workers-needed-to-conduct-systematic-reviews-of-medical-interventions-usi-ara/PAPER.md",
+      "sha256": "7b9b47b281170748cba8c62e5c0357b3ba785595020ca2e1ceb1bb38c72b1c8d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "bowes-et-al-the-conspiratorial-mind-a-meta-analytic-review-of-motivational-and-personological-correlates-ara",
+      "paper_path": "literature/artifacts/bowes-et-al-the-conspiratorial-mind-a-meta-analytic-review-of-motivational-and-personological-correlates-ara/PAPER.md",
+      "sha256": "01fae40014f7bd816ad75705579f70cb9951d607ccfb867c99c40a0f6d43973f",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "buecker-et-al-2023-the-development-of-subjective-well-being-across-the-life-span-a-meta-analytic-review-of-longitud-ara",
+      "paper_path": "literature/artifacts/buecker-et-al-2023-the-development-of-subjective-well-being-across-the-life-span-a-meta-analytic-review-of-longitud-ara/PAPER.md",
+      "sha256": "2a97bd9a5dded194ef707910bbfe490cbe1ab9df6c31371c82a951962f134daa",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "bul-2025-2146-ara",
+      "paper_path": "literature/artifacts/bul-2025-2146-ara/PAPER.md",
+      "sha256": "f0a09ed02d9c472f0a7721a9d04b5bebef3dd1c2d7b350bc94055f54e42a231f",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "burenkova-et-al-2023-endogenous-oxytocin-and-human-social-interactions-a-systematic-review-and-meta-analysis-ara",
+      "paper_path": "literature/artifacts/burenkova-et-al-2023-endogenous-oxytocin-and-human-social-interactions-a-systematic-review-and-meta-analysis-ara/PAPER.md",
+      "sha256": "2df79c395886ed6fce45476cebc0229586b0a05c8a3248c5d5952c42e738ffa9",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "burnette-et-al-2023-a-systematic-review-and-meta-analysis-of-growth-mindset-interventions-for-whom-how-and-why-migh-ara",
+      "paper_path": "literature/artifacts/burnette-et-al-2023-a-systematic-review-and-meta-analysis-of-growth-mindset-interventions-for-whom-how-and-why-migh-ara/PAPER.md",
+      "sha256": "d88cbc01b26f17eb449a5cf17cd4d52bdde4327ebc258520904016c17f285267",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "buscemi-et-al-2006-single-data-extraction-generated-more-errors-than-double-data-extraction-in-systematic-reviews-ara",
+      "paper_path": "literature/artifacts/buscemi-et-al-2006-single-data-extraction-generated-more-errors-than-double-data-extraction-in-systematic-reviews-ara/PAPER.md",
+      "sha256": "e934cdebdf52de2fb3f9132ffbf5709aa04c1bae1b7153b57f9c410dfb28e9fd",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "butcher-et-al-2024-optimising-human-machine-collaboration-for-efficient-high-precision-information-extraction-from-ara",
+      "paper_path": "literature/artifacts/butcher-et-al-2024-optimising-human-machine-collaboration-for-efficient-high-precision-information-extraction-from-ara/PAPER.md",
+      "sha256": "7f6114cf5fe3e17efbdde2d58e3d0360ec11c48a4c3935dd00c1956662f4b2fc",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "calvert-2025-principles-and-framework-for-the-operationalisation-of-meaningful-human-control-over-autonomous-syst-ara",
+      "paper_path": "literature/artifacts/calvert-2025-principles-and-framework-for-the-operationalisation-of-meaningful-human-control-over-autonomous-syst-ara/PAPER.md",
+      "sha256": "320fd42272f5cc9d17b7a87a9cf841b9998f93db39f57263aaf4c1a5e1490a19",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "cao-et-al-2025-automation-of-systematic-reviews-with-large-language-models-ara",
+      "paper_path": "literature/artifacts/cao-et-al-2025-automation-of-systematic-reviews-with-large-language-models-ara/PAPER.md",
+      "sha256": "6328fa55965b7646203cd40fcef8cd89a5469a90e1dcaea5d0d6fa0e60d18112",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "caponio-et-al-2026-accuracy-of-llms-to-retrieve-numeric-data-for-meta-analysis-in-dentistry-ara",
+      "paper_path": "literature/artifacts/caponio-et-al-2026-accuracy-of-llms-to-retrieve-numeric-data-for-meta-analysis-in-dentistry-ara/PAPER.md",
+      "sha256": "cef9da88bf529713ae118fb53c69ea84c01fa6c30b98bb0b03dd7c57cfa9a2e4",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "causadias-et-al-2018-are-whites-and-minorities-more-similar-than-different-testing-the-cultural-similarities-hypoth-ara",
+      "paper_path": "literature/artifacts/causadias-et-al-2018-are-whites-and-minorities-more-similar-than-different-testing-the-cultural-similarities-hypoth-ara/PAPER.md",
+      "sha256": "337d2f4f2e030ffdd94dac8f50abe96f1bb711616fa87304ec1038eb869c9524",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "chow-und-ekholm-2018-do-published-studies-yield-larger-effect-sizes-than-unpublished-studies-in-education-and-speci-ara",
+      "paper_path": "literature/artifacts/chow-und-ekholm-2018-do-published-studies-yield-larger-effect-sizes-than-unpublished-studies-in-education-and-speci-ara/PAPER.md",
+      "sha256": "c1a13a593db49e5e7cc98c7379dcb8515bc4b47a58def69ac2acf7205cf9804f",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "chow-und-martinez-2026-community-and-participatory-evidence-and-research-synthesis-e-ara",
+      "paper_path": "literature/artifacts/chow-und-martinez-2026-community-and-participatory-evidence-and-research-synthesis-e-ara/PAPER.md",
+      "sha256": "0a73c2720805d66e0390f657659384cbd96c0b1178f300d148c0dd620088cf88",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "christensen-et-al-2023-youth-interventions-with-and-without-supervised-practice-a-second-order-meta-analysis-ara",
+      "paper_path": "literature/artifacts/christensen-et-al-2023-youth-interventions-with-and-without-supervised-practice-a-second-order-meta-analysis-ara/PAPER.md",
+      "sha256": "37ca4bc93801fd8b8ed34f924c2d4d7bc1bcd49ebc8b6ba6894ca6d90a6048bd",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "clark-et-al-2025-generative-artificial-intelligence-use-in-evidence-synthesis-a-systematic-review-ara",
+      "paper_path": "literature/artifacts/clark-et-al-2025-generative-artificial-intelligence-use-in-evidence-synthesis-a-systematic-review-ara/PAPER.md",
+      "sha256": "523c4de4e26db59b951d35091e34821a4f9435e94d9f929d6b3017c87ba2dffc",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "cobbe-et-al-2021-training-verifiers-to-solve-math-word-problems-ara",
+      "paper_path": "literature/artifacts/cobbe-et-al-2021-training-verifiers-to-solve-math-word-problems-ara/PAPER.md",
+      "sha256": "de6ecab4b12cc952276b7b232830664987fe508d09714965a88ceb5ab3127d54",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "commentary-lu-wang-context-engineering-ara",
+      "paper_path": "literature/artifacts/commentary-lu-wang-context-engineering-ara/PAPER.md",
+      "sha256": "b9a22fa2221116abf999e900481480c50c3591a87d7da0efae36c5896cc84635",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "commentary-macnamara-ai-partner-meta-analysis-ara",
+      "paper_path": "literature/artifacts/commentary-macnamara-ai-partner-meta-analysis-ara/PAPER.md",
+      "sha256": "b29a72b5b8b054ace043c10331722eeda54dbd3c4baf7c0ad5f2d66a5a918f1f",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "commission-2024-living-guidelines-on-the-responsible-use-of-generative-ai-in-research-ara",
+      "paper_path": "literature/artifacts/commission-2024-living-guidelines-on-the-responsible-use-of-generative-ai-in-research-ara/PAPER.md",
+      "sha256": "ce57a4d258784e6c90dde3a3aa33f6bff5f6925c0a85a6ef2b9c9235e7e4478d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "cooper-und-koenka-2012-the-overview-of-reviews-unique-challenges-and-opportunities-when-research-syntheses-are-the-ara",
+      "paper_path": "literature/artifacts/cooper-und-koenka-2012-the-overview-of-reviews-unique-challenges-and-opportunities-when-research-syntheses-are-the-ara/PAPER.md",
+      "sha256": "b984aa2634d9e96a15d6950b14e4c2c89eb2ccf853657e5f64cc1fe99245f9f0",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "costa-et-al-2015-personal-factors-of-creativity-a-second-order-meta-analysis-ara",
+      "paper_path": "literature/artifacts/costa-et-al-2015-personal-factors-of-creativity-a-second-order-meta-analysis-ara/PAPER.md",
+      "sha256": "2522d6e4cea537ff299db43deed9212b6fa57c95309d63685f4dbea983b4b766",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "crowston-2024-deskilling-and-upskilling-with-generative-ai-systems-ara",
+      "paper_path": "literature/artifacts/crowston-2024-deskilling-and-upskilling-with-generative-ai-systems-ara/PAPER.md",
+      "sha256": "187d8ef60de69a099cd154c46a66ac4d9b399eb14a36e71059e0ddcff168599d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "dai-et-al-2023-priming-behavior-a-meta-analysis-of-the-effects-of-behavioral-and-nonbehavioral-primes-on-overt-beh-ara",
+      "paper_path": "literature/artifacts/dai-et-al-2023-priming-behavior-a-meta-analysis-of-the-effects-of-behavioral-and-nonbehavioral-primes-on-overt-beh-ara/PAPER.md",
+      "sha256": "cdc0a5288ea836d325f4b9c77eda1ed142009cf268df6717508ab5bed01c99fe",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "daumiller-und-meyer-2026-advancing-feedback-research-in-educational-psychology-insights-into-feedback-processes-and-ara",
+      "paper_path": "literature/artifacts/daumiller-und-meyer-2026-advancing-feedback-research-in-educational-psychology-insights-into-feedback-processes-and-ara/PAPER.md",
+      "sha256": "9d78e33a4a235e98b6e0b579d27b8614085acf759046881b2e9e71ec01d6d849",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "demszky-et-al-2023-using-large-language-models-in-psychology-ara",
+      "paper_path": "literature/artifacts/demszky-et-al-2023-using-large-language-models-in-psychology-ara/PAPER.md",
+      "sha256": "c58b6932dc540965dc845a86664cdcfcc4591be10d6bf3a60ce3133414f4b7f8",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "ditzer-et-al-2023-child-maltreatment-and-alexithymia-a-meta-analytic-review-ara",
+      "paper_path": "literature/artifacts/ditzer-et-al-2023-child-maltreatment-and-alexithymia-a-meta-analytic-review-ara/PAPER.md",
+      "sha256": "696ae39059f20462b70587977e8e586e32ae2a4ee590efea7b53c3ebbbe88936",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "dora-et-al-2023-the-daily-association-between-affect-and-alcohol-use-a-meta-analysis-of-individual-participant-data-ara",
+      "paper_path": "literature/artifacts/dora-et-al-2023-the-daily-association-between-affect-and-alcohol-use-a-meta-analysis-of-individual-participant-data-ara/PAPER.md",
+      "sha256": "42802b2861d947bdfbaff9a3f04bf3e64f94c15f53c4ae34f9068e1da67efa4d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "dragioti-et-al-2022-impact-of-the-covid-19-pandemic-on-the-mental-health-of-hospital-staff-an-umbrella-review-of-44-ara",
+      "paper_path": "literature/artifacts/dragioti-et-al-2022-impact-of-the-covid-19-pandemic-on-the-mental-health-of-hospital-staff-an-umbrella-review-of-44-ara/PAPER.md",
+      "sha256": "ee11797db01c7f0076cb03d410d9241bfa400eacbf247fdef36fd3441127cd57",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "egami-et-al-2024-using-large-language-model-annotations-for-the-social-sciences-a-general-framework-of-using-predic-ara",
+      "paper_path": "literature/artifacts/egami-et-al-2024-using-large-language-model-annotations-for-the-social-sciences-a-general-framework-of-using-predic-ara/PAPER.md",
+      "sha256": "dfbe2fb6b06f21a78932913fbcfd3ed0f9783b06d078c7e5ce62b6e1d2de16e5",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "elsworth-et-al-2025-measuring-the-environmental-impact-of-delivering-ai-at-google-sc-ara",
+      "paper_path": "literature/artifacts/elsworth-et-al-2025-measuring-the-environmental-impact-of-delivering-ai-at-google-sc-ara/PAPER.md",
+      "sha256": "b6b398a6416d70fe6f1333cf13d40de82b89cf8d0ffa0608f2ae7c3e07f14dfe",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "emslander-et-al-2023-teacher-student-relationships-and-student-outcomes-a-systematic-review-of-meta-analyses-and-se-ara",
+      "paper_path": "literature/artifacts/emslander-et-al-2023-teacher-student-relationships-and-student-outcomes-a-systematic-review-of-meta-analyses-and-se-ara/PAPER.md",
+      "sha256": "27a5baab9b9617444619aef9bccedbbef9e33b51ceb2941faacf534782fb3684",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "emslander-et-al-seeing-what-is-not-there-a-systematic-review-of-meta-meta-analyses-in-education-ara",
+      "paper_path": "literature/artifacts/emslander-et-al-seeing-what-is-not-there-a-systematic-review-of-meta-meta-analyses-in-education-ara/PAPER.md",
+      "sha256": "736774c6f62f00294356f36cc1fe988f94e5e6545ec196a8631955f0826681d0",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "farotimi-et-al-2026-guidance-for-manuscript-submissions-testing-the-use-of-generative-ai-for-systematic-review-and-ara",
+      "paper_path": "literature/artifacts/farotimi-et-al-2026-guidance-for-manuscript-submissions-testing-the-use-of-generative-ai-for-systematic-review-and-ara/PAPER.md",
+      "sha256": "6f2bddac51751afb752ce4de4196f3a695ce5470ee6933f3c041aed1db4aeadf",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "farquhar-et-al-2024-detecting-hallucinations-in-large-language-models-using-semantic-entropy-ara",
+      "paper_path": "literature/artifacts/farquhar-et-al-2024-detecting-hallucinations-in-large-language-models-using-semantic-entropy-ara/PAPER.md",
+      "sha256": "ddf3243d0e6e2a9302a56186a7c5df74c22fef4cbf587850f741a6fc2f164f29",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "felkner-et-al-2024-gpt-is-not-an-annotator-the-necessity-of-human-annotation-in-fairness-benchmark-construction-ara",
+      "paper_path": "literature/artifacts/felkner-et-al-2024-gpt-is-not-an-annotator-the-necessity-of-human-annotation-in-fairness-benchmark-construction-ara/PAPER.md",
+      "sha256": "1cd5712d7a20d272fd9721314a18fa06bf18d2600ddc4824061ca1995de51690",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "fernandez-et-al-2025-umbrella-reviews-a-methodological-guide-ara",
+      "paper_path": "literature/artifacts/fernandez-et-al-2025-umbrella-reviews-a-methodological-guide-ara/PAPER.md",
+      "sha256": "4fe9e42b523a008995e8a4d62033bc7783b1ae562fb5f68d28b8be3604d61e66",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "fischer-et-al-2020-rapid-review-and-meta-meta-analysis-of-self-guided-interventions-to-address-anxiety-depression-a-ara",
+      "paper_path": "literature/artifacts/fischer-et-al-2020-rapid-review-and-meta-meta-analysis-of-self-guided-interventions-to-address-anxiety-depression-a-ara/PAPER.md",
+      "sha256": "04b30f5822dcd7131b1643af0e42a1e3f16b02dc94dc9b7ca6b6531d58c4795c",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "flemyng-et-al-2025-position-statement-on-artificial-intelligence-ai-use-in-evidence-synthesis-across-cochrane-the-c-ara",
+      "paper_path": "literature/artifacts/flemyng-et-al-2025-position-statement-on-artificial-intelligence-ai-use-in-evidence-synthesis-across-cochrane-the-c-ara/PAPER.md",
+      "sha256": "a9225fbea898bc68571236870f9f5ea4881cd4070e9676743667cb4564f71d73",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "gartlehner-et-al-2024-data-extraction-for-evidence-synthesis-using-a-large-language-ara",
+      "paper_path": "literature/artifacts/gartlehner-et-al-2024-data-extraction-for-evidence-synthesis-using-a-large-language-ara/PAPER.md",
+      "sha256": "5fcbe4a98a1b325340faed74f1d47e520226852f7af0be6a2857f45db99a97bc",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "gartlehner-et-al-2025-ai-assisted-data-extraction-with-a-large-language-model-a-study-within-reviews-ara",
+      "paper_path": "literature/artifacts/gartlehner-et-al-2025-ai-assisted-data-extraction-with-a-large-language-model-a-study-within-reviews-ara/PAPER.md",
+      "sha256": "5cf0e8392a0f130acacc189cccfa1f54f4fae579f1e26a9a1b903b4001a0b312",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "gartlehner-et-al-2026-cochrane-evaluation-of-semi-automated-review-methods-cesar-pro-ara",
+      "paper_path": "literature/artifacts/gartlehner-et-al-2026-cochrane-evaluation-of-semi-automated-review-methods-cesar-pro-ara/PAPER.md",
+      "sha256": "fa296f631a6c452a0557704228016aaf6efb093a35f84b49a78c319da275eaad",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "gligoric-et-al-2025-can-unconfident-llm-annotations-be-used-for-confident-conclusions-ara",
+      "paper_path": "literature/artifacts/gligoric-et-al-2025-can-unconfident-llm-annotations-be-used-for-confident-conclusions-ara/PAPER.md",
+      "sha256": "1427cc402836638defc9ea78e1fb81ef5cd01490c846c5a5c51f4f6138fd0368",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "goddard-et-al-2012-automation-bias-systematic-review-ara",
+      "paper_path": "literature/artifacts/goddard-et-al-2012-automation-bias-systematic-review-ara/PAPER.md",
+      "sha256": "f3b73a32674cdbf1f559e6479ecbb863d667bdd6ee653eed103e62b0a4017a86",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "gong-und-jiao-2019-are-effect-sizes-in-emotional-intelligence-field-declining-a-meta-meta-analysis-ara",
+      "paper_path": "literature/artifacts/gong-und-jiao-2019-are-effect-sizes-in-emotional-intelligence-field-declining-a-meta-meta-analysis-ara/PAPER.md",
+      "sha256": "7c698315c82512c3bab85e0fad0a411be3913f1fa814a94b9f24884d59f25307",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "gtzsche-et-al-2007-data-extraction-errors-in-meta-analyses-that-use-standardized-mean-differences-ara",
+      "paper_path": "literature/artifacts/gtzsche-et-al-2007-data-extraction-errors-in-meta-analyses-that-use-standardized-mean-differences-ara/PAPER.md",
+      "sha256": "2f3777daf67b218c25801d23ad34206cadcb044f6bcfea7d50170535f2e13c12",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "gue-et-al-2024-evaluating-the-openai-s-gpt-3-5-turbo-s-performance-in-extracting-information-from-scientific-articl-ara",
+      "paper_path": "literature/artifacts/gue-et-al-2024-evaluating-the-openai-s-gpt-3-5-turbo-s-performance-in-extracting-information-from-scientific-articl-ara/PAPER.md",
+      "sha256": "6fd9cc3a74d52815d6b0bd7bbed1304e393746d9caaf20d06c85c666b9373d8a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "gurevitch-et-al-2018-meta-analysis-and-the-science-of-research-synthesis-ara",
+      "paper_path": "literature/artifacts/gurevitch-et-al-2018-meta-analysis-and-the-science-of-research-synthesis-ara/PAPER.md",
+      "sha256": "a0a4d4f87945806556a86d356fbc8e3703fa5bb9b50f073b5bcaa40489d1e469",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "halpern-2026-multi-model-ai-consensus-pipeline-for-automated-data-extraction-in-plant-science-meta-analysis-ara",
+      "paper_path": "literature/artifacts/halpern-2026-multi-model-ai-consensus-pipeline-for-automated-data-extraction-in-plant-science-meta-analysis-ara/PAPER.md",
+      "sha256": "4e77592e85e176dad637c4accc739c270a3ac9ff3d9a4c5d0a14e462cad37b78",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "haring-et-al-2020-no-evidence-found-for-an-association-between-trial-characteristics-and-treatment-effects-in-rando-ara",
+      "paper_path": "literature/artifacts/haring-et-al-2020-no-evidence-found-for-an-association-between-trial-characteristics-and-treatment-effects-in-rando-ara/PAPER.md",
+      "sha256": "d6f1b72c676b5bcbbff607e20ce269bbb47c91c3193069fd66c58adf12f27351",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "helms-andersen-et-al-2025-using-artificial-intelligence-tools-as-second-reviewers-for-data-extraction-in-systematic-ara",
+      "paper_path": "literature/artifacts/helms-andersen-et-al-2025-using-artificial-intelligence-tools-as-second-reviewers-for-data-extraction-in-systematic-ara/PAPER.md",
+      "sha256": "78d749ac18fc3caa804f9dfd641da68771a6c3ed063cb3ec8c55ef54d8a6f405",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "helms-andersen-et-al-2025-using-artificial-intelligence-tools-as-second-reviewers-for-data-extraction-in-systematic-ara-2",
+      "paper_path": "literature/artifacts/helms-andersen-et-al-2025-using-artificial-intelligence-tools-as-second-reviewers-for-data-extraction-in-systematic-ara-2/PAPER.md",
+      "sha256": "8ea7c8bc8a673bc60e1ba558ac3a634b4bf8c56ea4f806f40273164fa8e75dab",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "hennessy-et-al-2019-best-practice-guidelines-and-essential-methodological-steps-to-conduct-rigorous-and-systematic-ara",
+      "paper_path": "literature/artifacts/hennessy-et-al-2019-best-practice-guidelines-and-essential-methodological-steps-to-conduct-rigorous-and-systematic-ara/PAPER.md",
+      "sha256": "954f1ad9063d65df4464481f147053a4ee9040a181dbac2e45eed291bc242d99",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "hennessy-und-johnson-2020-examining-overlap-of-included-studies-in-meta-reviews-guidance-for-using-the-corrected-co-ara",
+      "paper_path": "literature/artifacts/hennessy-und-johnson-2020-examining-overlap-of-included-studies-in-meta-reviews-guidance-for-using-the-corrected-co-ara/PAPER.md",
+      "sha256": "ec056f7df6145ffb037b437b836e1356ba8d7596575ed1ec32f830a0c32af68e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "hew-et-al-2021-on-the-use-of-flipped-classroom-across-various-disciplines-insights-from-a-second-order-meta-analys-ara",
+      "paper_path": "literature/artifacts/hew-et-al-2021-on-the-use-of-flipped-classroom-across-various-disciplines-insights-from-a-second-order-meta-analys-ara/PAPER.md",
+      "sha256": "7bb298133952df3c67e7902951072164a4590083ccb616c4f93eea004cf61303",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "hien-et-al-2024-project-harmony-a-systematic-review-and-network-meta-analysis-of-psychotherapy-and-pharmacologic-tr-ara",
+      "paper_path": "literature/artifacts/hien-et-al-2024-project-harmony-a-systematic-review-and-network-meta-analysis-of-psychotherapy-and-pharmacologic-tr-ara/PAPER.md",
+      "sha256": "8753ccc55e92fd44b0b7e7f207eb96c6428ee2ced75f69c9f5d9e20f4b8a7eaf",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "higgins-2016-meta-synthesis-and-comparative-meta-analysis-of-education-research-findings-some-risks-and-benefits-ara",
+      "paper_path": "literature/artifacts/higgins-2016-meta-synthesis-and-comparative-meta-analysis-of-education-research-findings-some-risks-and-benefits-ara/PAPER.md",
+      "sha256": "30152661c96d1e2a89a07727b4acf2acb95e2dc8ee92c444aafb3c56d558c72c",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "hill-et-al-2023-methods-for-using-bing-s-aipowered-search-engine-for-data-extraction-for-a-systematic-review-ara",
+      "paper_path": "literature/artifacts/hill-et-al-2023-methods-for-using-bing-s-aipowered-search-engine-for-data-extraction-for-a-systematic-review-ara/PAPER.md",
+      "sha256": "ef3e22ae5e58fea3d8dfa61dabf1c79e421b23f4e045e26fde84b9f75681773e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "holderness-et-al-2025-machine-learning-in-psychiatric-health-records-a-gold-standard-approach-to-trauma-annotation-ara",
+      "paper_path": "literature/artifacts/holderness-et-al-2025-machine-learning-in-psychiatric-health-records-a-gold-standard-approach-to-trauma-annotation-ara/PAPER.md",
+      "sha256": "0d4bf7ef76432a222ccce2dc988a92deb3d4bff6c44aefaa898fe4840f233155",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "howard-und-slemp-2025-why-we-need-a-living-meta-analysis-of-self-determination-theory-an-illustration-examining-tem-ara",
+      "paper_path": "literature/artifacts/howard-und-slemp-2025-why-we-need-a-living-meta-analysis-of-self-determination-theory-an-illustration-examining-tem-ara/PAPER.md",
+      "sha256": "bd64b758612d97710875e6c0c3d21e3de5cf01f7f637715de0ca1d7913d50d84",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "hu-et-al-2024-zero-shot-information-extraction-from-radiological-reports-using-chatgpt-ara",
+      "paper_path": "literature/artifacts/hu-et-al-2024-zero-shot-information-extraction-from-radiological-reports-using-chatgpt-ara/PAPER.md",
+      "sha256": "8d6b878e1dfd804fe2991a34c94a9bec2b8b1973e6cf6a1a8a339d507b87be1d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "ip-et-al-2012-a-web-based-archive-of-systematic-review-data-ara",
+      "paper_path": "literature/artifacts/ip-et-al-2012-a-web-based-archive-of-systematic-review-data-ara/PAPER.md",
+      "sha256": "c91f821135b03680f10176df1b6e54e489f79ecd98a86e22d320a04f72c4b79a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "jansen-et-al-2022-which-student-and-instructional-variables-are-most-strongly-related-to-academic-motivation-in-k-1-ara",
+      "paper_path": "literature/artifacts/jansen-et-al-2022-which-student-and-instructional-variables-are-most-strongly-related-to-academic-motivation-in-k-1-ara/PAPER.md",
+      "sha256": "244569212a774f16aba3f40a9a4fd05973507d8fcd567f876252161fc18b0954",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "jansen-et-al-2024-who-am-i-a-second-order-meta-analytic-review-of-correlates-of-the-self-in-childhood-and-adolescen-ara",
+      "paper_path": "literature/artifacts/jansen-et-al-2024-who-am-i-a-second-order-meta-analytic-review-of-correlates-of-the-self-in-childhood-and-adolescen-ara/PAPER.md",
+      "sha256": "31a998fe3d0d91b0416ce54e5aaf4c3376811c20ad0f74b9edac00a030ea1958",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "jegham-et-al-2025-how-hungry-is-ai-benchmarking-energy-water-and-carbon-footprint-of-llm-inference-ara",
+      "paper_path": "literature/artifacts/jegham-et-al-2025-how-hungry-is-ai-benchmarking-energy-water-and-carbon-footprint-of-llm-inference-ara/PAPER.md",
+      "sha256": "f5af41a8c445b971b9dfa053e4f1d2d0db5b5995353710364d0f96006c0bdec3",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "jensen-et-al-2025-chatgpt-4o-can-serve-as-the-second-rater-for-data-extraction-in-systematic-reviews-ara",
+      "paper_path": "literature/artifacts/jensen-et-al-2025-chatgpt-4o-can-serve-as-the-second-rater-for-data-extraction-in-systematic-reviews-ara/PAPER.md",
+      "sha256": "3c71691abd80abc8995f659f95d3af2d7e0098016de784aeaff9f72ec094c196",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "jones-et-al-2005-high-prevalence-but-low-impact-of-data-extraction-and-reporting-errors-were-found-in-cochrane-syst-ara",
+      "paper_path": "literature/artifacts/jones-et-al-2005-high-prevalence-but-low-impact-of-data-extraction-and-reporting-errors-were-found-in-cochrane-syst-ara/PAPER.md",
+      "sha256": "f58e9b7f31bf0e252bdeb16d19157f6685cb0df914c44eec6b051ebc0672d37d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "jonnalagadda-et-al-2015-automating-data-extraction-in-systematic-reviews-a-systematic-review-ara",
+      "paper_path": "literature/artifacts/jonnalagadda-et-al-2015-automating-data-extraction-in-systematic-reviews-a-systematic-review-ara/PAPER.md",
+      "sha256": "4f877dd8ebd983f469f1c390044b37070f3ab56fc8e7dd183ecbddbfb5dce1f0",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "kaplan-et-al-2020-scaling-laws-for-neural-language-models-ara",
+      "paper_path": "literature/artifacts/kaplan-et-al-2020-scaling-laws-for-neural-language-models-ara/PAPER.md",
+      "sha256": "f1ea25773b2c997f272afdb712c1cd2340db9818d3e8e0ae387c99080c7c6f7d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "kataoka-2024-automating-the-data-extraction-process-for-systematic-reviews-using-gpt-4o-github-automating-de-ara",
+      "paper_path": "literature/artifacts/kataoka-2024-automating-the-data-extraction-process-for-systematic-reviews-using-gpt-4o-github-automating-de-ara/PAPER.md",
+      "sha256": "b3fffcb2e976a89fc4c06be1870f1072466c4cb422a08f2bf798d939316fd3b9",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "khalil-et-al-2024-automation-tools-to-support-undertaking-scoping-reviews-ara",
+      "paper_path": "literature/artifacts/khalil-et-al-2024-automation-tools-to-support-undertaking-scoping-reviews-ara/PAPER.md",
+      "sha256": "7ff8fe94d39f4aa20badc436b40258287bbe8aabfbc5eb41f4d24d6c00f797cf",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "khraisha-et-al-2024-can-large-language-models-replace-humans-in-systematic-reviews-e-ara",
+      "paper_path": "literature/artifacts/khraisha-et-al-2024-can-large-language-models-replace-humans-in-systematic-reviews-e-ara/PAPER.md",
+      "sha256": "5aa0efd31ff35948087d1a39d64ee55271e5e958d5cc421fa53f50973703a0d2",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "khraisha-et-al-2024-can-large-language-models-replace-humans-in-systematic-reviews-evaluating-gpt-4-s-efficacy-in-s-ara",
+      "paper_path": "literature/artifacts/khraisha-et-al-2024-can-large-language-models-replace-humans-in-systematic-reviews-evaluating-gpt-4-s-efficacy-in-s-ara/PAPER.md",
+      "sha256": "4f558c685987ebfb16e04dc29b2679c208d4f505d8c8bd7d23f78ce36e54e107",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "kim-2022-fifty-years-of-parental-involvement-and-achievement-research-a-second-order-meta-analysis-ara",
+      "paper_path": "literature/artifacts/kim-2022-fifty-years-of-parental-involvement-and-achievement-research-a-second-order-meta-analysis-ara/PAPER.md",
+      "sha256": "ba5c8a90e6fce09b08bc3c4770d51fcd19f40d5e7c7e6e8adb5a150a04d93696",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "kocak-et-al-2021-the-factors-affecting-academic-achievement-a-systematic-review-of-meta-analyses-ara",
+      "paper_path": "literature/artifacts/kocak-et-al-2021-the-factors-affecting-academic-achievement-a-systematic-review-of-meta-analyses-ara/PAPER.md",
+      "sha256": "9690f43a26f96ad61bb6929d2d5baa3ff86c1f9bbe73ac1bbbfeffe3467fa236",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "kocoglu-und-kanadl-2025-the-effect-of-problem-based-learning-approach-on-learning-outcomes-a-second-order-meta-anal-ara",
+      "paper_path": "literature/artifacts/kocoglu-und-kanadl-2025-the-effect-of-problem-based-learning-approach-on-learning-outcomes-a-second-order-meta-anal-ara/PAPER.md",
+      "sha256": "c2f02960660138ca36b90bd036a6585e37e25a02de0e0fa5915361b77b4f2f44",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "konet-et-al-2024-performance-of-two-large-language-models-for-data-extraction-in-evidence-synthesis-ara",
+      "paper_path": "literature/artifacts/konet-et-al-2024-performance-of-two-large-language-models-for-data-extraction-in-evidence-synthesis-ara/PAPER.md",
+      "sha256": "6b10d6f3a4f23f936ae493e302105c6c9caf21a118ef5fb2659c5491774538c2",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "kovacevic-et-al-2026-owlless-a-semi-automated-llm-framework-for-extracting-methodological-design-and-network-data-f-ara",
+      "paper_path": "literature/artifacts/kovacevic-et-al-2026-owlless-a-semi-automated-llm-framework-for-extracting-methodological-design-and-network-data-f-ara/PAPER.md",
+      "sha256": "18f193326b5b0d7478747af0f3e8f50e4519538c8b6924fb719651591f45af3a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "kristensen-et-al-2024-suicidality-among-individuals-with-gambling-problems-a-meta-analytic-literature-review-ara",
+      "paper_path": "literature/artifacts/kristensen-et-al-2024-suicidality-among-individuals-with-gambling-problems-a-meta-analytic-literature-review-ara/PAPER.md",
+      "sha256": "cd6d47ef5eeb7ca2c3a3f348b827635c70a164045e1d73f15d5a75faf1033a06",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "labuda-und-gere-2023-a-meta-analytic-review-of-accuracy-and-bias-in-romantic-partner-perceptions-ara",
+      "paper_path": "literature/artifacts/labuda-und-gere-2023-a-meta-analytic-review-of-accuracy-and-bias-in-romantic-partner-perceptions-ara/PAPER.md",
+      "sha256": "895d65df11d467b6023c549892a100483b72ada00619fa6566c8858835399861",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "ledinger-et-al-2026-top-20-research-priorities-on-methods-of-co-production-in-evidence-synthesis-ara",
+      "paper_path": "literature/artifacts/ledinger-et-al-2026-top-20-research-priorities-on-methods-of-co-production-in-evidence-synthesis-ara/PAPER.md",
+      "sha256": "41cf7d623b8059a1c7330db7a2b18a51189108498b9529e615699556587df782",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "legate-2026-consensus-to-context-ai-driven-data-extraction-an-international-hrd-delphi-study-ara",
+      "paper_path": "literature/artifacts/legate-2026-consensus-to-context-ai-driven-data-extraction-an-international-hrd-delphi-study-ara/PAPER.md",
+      "sha256": "d3c9adfe901283a93c2f1efacfc03d74ab8af647e819d882fbf8046df63ed0e3",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "levin-estimating-the-value-of-a-knowledge-base-for-school-learning-ara",
+      "paper_path": "literature/artifacts/levin-estimating-the-value-of-a-knowledge-base-for-school-learning-ara/PAPER.md",
+      "sha256": "7969574c30fadddcf3f326b1c6457a034847bd317c22292c4c3833d07d7526f0",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "lex-et-al-2014-upset-visualization-of-intersecting-sets-ara",
+      "paper_path": "literature/artifacts/lex-et-al-2014-upset-visualization-of-intersecting-sets-ara/PAPER.md",
+      "sha256": "e7c0287552913a058dc97a6fec0a6e92e959b45af2a13d89ead6e61e6aac8005",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "li-et-al-2019-a-randomized-trial-provided-new-evidence-on-the-accuracy-and-efficiency-of-traditional-vs-electroni-ara",
+      "paper_path": "literature/artifacts/li-et-al-2019-a-randomized-trial-provided-new-evidence-on-the-accuracy-and-efficiency-of-traditional-vs-electroni-ara/PAPER.md",
+      "sha256": "bbdc16eebc5281e0d7c580b8e320b49d44b1ed54098378f2c4f25f7e77569bdd",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "li-et-al-2025-from-generation-to-judgment-opportunities-and-challenges-of-llm-as-a-judge-ara",
+      "paper_path": "literature/artifacts/li-et-al-2025-from-generation-to-judgment-opportunities-and-challenges-of-llm-as-a-judge-ara/PAPER.md",
+      "sha256": "73678c0050ad43bef7f814ba64c5bef04ed8b7e72e7aa696ed88229e65ed2a99",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "li-et-al-2025-read-oc-a-unified-benchmark-for-realistic-document-structured-extraction-ara",
+      "paper_path": "literature/artifacts/li-et-al-2025-read-oc-a-unified-benchmark-for-realistic-document-structured-extraction-ara/PAPER.md",
+      "sha256": "6d4cc81e04c5f77fa002ef3eda9f0293760822fc5c3cb2530cf7140c86f05290",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "lin-2024-prompt-engineering-applied-linguistics-ara",
+      "paper_path": "literature/artifacts/lin-2024-prompt-engineering-applied-linguistics-ara/PAPER.md",
+      "sha256": "ea596d83282c4717f6cfd3d804c6d82109f3973d3464a5446491a37adb994c77",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "liu-et-al-2026-ara",
+      "paper_path": "literature/artifacts/liu-et-al-2026-ara/PAPER.md",
+      "sha256": "ba49686158fcfa8eaa4e9dfe1656bea28e6f6c9e0877aa8497265f75b8efdc0a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "liu-et-al-2026-the-last-human-written-paper-agent-native-research-artifacts-ara",
+      "paper_path": "literature/artifacts/liu-et-al-2026-the-last-human-written-paper-agent-native-research-artifacts-ara/PAPER.md",
+      "sha256": "342bc4232471099d3ba63654b798164440c4fae107d498da5481d007ce7c6376",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "liu-und-almeida-knowing-before-doing-review-and-mega-analysis-of-action-understanding-in-prereaching-infants-ara",
+      "paper_path": "literature/artifacts/liu-und-almeida-knowing-before-doing-review-and-mega-analysis-of-action-understanding-in-prereaching-infants-ara/PAPER.md",
+      "sha256": "da958e1dbf76cb005785f4738805642bacf27d8322b6be8328a8a6fd90146118",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "lu-et-al-2023-age-effects-on-delay-discounting-across-the-lifespan-a-meta-analytical-approach-to-theory-compariso-ara",
+      "paper_path": "literature/artifacts/lu-et-al-2023-age-effects-on-delay-discounting-across-the-lifespan-a-meta-analytical-approach-to-theory-compariso-ara/PAPER.md",
+      "sha256": "4bd374c3d8b0239901f45214044f514fcc4b986c42dee093c16b99802d3d2dde",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "lu-et-al-2025-an-overview-of-applications-and-trends-of-stem-for-learning-effectivenessan-umbrella-review-based-ara",
+      "paper_path": "literature/artifacts/lu-et-al-2025-an-overview-of-applications-and-trends-of-stem-for-learning-effectivenessan-umbrella-review-based-ara/PAPER.md",
+      "sha256": "1670e317bf516669e41c42c32e9a44e84b63ac3fc66dc00733b503e397cfb02c",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "macnamara-und-burgoyne-do-growth-mindset-interventions-impact-students-academic-achievement-a-systematic-review-and-ara",
+      "paper_path": "literature/artifacts/macnamara-und-burgoyne-do-growth-mindset-interventions-impact-students-academic-achievement-a-systematic-review-and-ara/PAPER.md",
+      "sha256": "383690e177312339a213def6d0628907b738e504306677b532fb6436ddb38d95",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "madigan-et-al-2023-the-first-20-000-strange-situation-procedures-a-meta-analytic-review-ara",
+      "paper_path": "literature/artifacts/madigan-et-al-2023-the-first-20-000-strange-situation-procedures-a-meta-analytic-review-ara/PAPER.md",
+      "sha256": "6d4da7438f8a57b0383f15750905f13b02a3c9ae1a99487adbd922f4372436f3",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mahmoudi-et-al-2024-a-critical-assessment-of-large-language-models-for-systematic-reviews-ara",
+      "paper_path": "literature/artifacts/mahmoudi-et-al-2024-a-critical-assessment-of-large-language-models-for-systematic-reviews-ara/PAPER.md",
+      "sha256": "d5344560d0d72203fabb775223c91df4c76828f236416cc9109a802b76c1b687",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mahuli-et-al-2023-application-chatgpt-in-conducting-systematic-reviews-and-meta-analyses-ara",
+      "paper_path": "literature/artifacts/mahuli-et-al-2023-application-chatgpt-in-conducting-systematic-reviews-and-meta-analyses-ara/PAPER.md",
+      "sha256": "efa16446a6f046c4418a9b8634f281417c4afb3cbc1fae5b18ca1ddb82697d0e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "main-paper-ara",
+      "paper_path": "literature/artifacts/main-paper-ara/PAPER.md",
+      "sha256": "cac358a08ad3d4651e956b99fc540c3dc0ae44477e49f3839fee1d7825913ab8",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "marshall-und-wallace-2019-toward-systematic-review-automation-a-practical-guide-to-using-machine-learning-tools-in-ara",
+      "paper_path": "literature/artifacts/marshall-und-wallace-2019-toward-systematic-review-automation-a-practical-guide-to-using-machine-learning-tools-in-ara/PAPER.md",
+      "sha256": "1194a7b31bfffd86c1c68310a45f448f6f0eacdfcb0a3798e60e65454ec152ce",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "martin-et-al-2022-examining-research-on-the-impact-of-distance-and-online-learning-a-second-order-meta-analysis-stu-ara",
+      "paper_path": "literature/artifacts/martin-et-al-2022-examining-research-on-the-impact-of-distance-and-online-learning-a-second-order-meta-analysis-stu-ara/PAPER.md",
+      "sha256": "8d18517eadb8e3611765ce873064d4280175fc716ddb281b58b5c0cae7c1abe6",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mathes-et-al-2017-frequency-of-data-extraction-errors-and-methods-to-increase-data-extraction-quality-a-methodologi-ara",
+      "paper_path": "literature/artifacts/mathes-et-al-2017-frequency-of-data-extraction-errors-and-methods-to-increase-data-extraction-quality-a-methodologi-ara/PAPER.md",
+      "sha256": "780cb96a913082c2a9fc07104f12361d386ae8f0df60a7a072a22ff6346e48a5",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mckern-et-al-2023-comparing-gesture-frequency-between-autistic-and-neurotypical-individuals-a-systematic-review-and-ara",
+      "paper_path": "literature/artifacts/mckern-et-al-2023-comparing-gesture-frequency-between-autistic-and-neurotypical-individuals-a-systematic-review-and-ara/PAPER.md",
+      "sha256": "290aee640e8135c045ec9a331d534edb1c09f4e19a68af5d30be663157f7ba91",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mckinnon-et-al-2015-sustainability-map-the-evidence-ara",
+      "paper_path": "literature/artifacts/mckinnon-et-al-2015-sustainability-map-the-evidence-ara/PAPER.md",
+      "sha256": "66a0254fdda8d5c249372b7c362e9f36ec09830b682842927757c6fb37e235ad",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "meincke-et-al-2025-prompt-engineering-complicated-contingent-ara",
+      "paper_path": "literature/artifacts/meincke-et-al-2025-prompt-engineering-complicated-contingent-ara/PAPER.md",
+      "sha256": "c36095cb6856f0ae5ff053543d1c78d0a280e03bf34fee24ddee82012e7bf65d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "meincke-et-al-2025-prompting-science-report-2-the-decreasing-value-of-chain-of-thought-in-prompting-ara",
+      "paper_path": "literature/artifacts/meincke-et-al-2025-prompting-science-report-2-the-decreasing-value-of-chain-of-thought-in-prompting-ara/PAPER.md",
+      "sha256": "acca3242fac7a2b1e1f5b343c13596fa0923aab0881aee1130081b26afd6bbc3",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "michelson-und-reuter-2019-the-significant-cost-of-systematic-reviews-and-meta-analyses-a-call-for-greater-involveme-ara",
+      "paper_path": "literature/artifacts/michelson-und-reuter-2019-the-significant-cost-of-systematic-reviews-and-meta-analyses-a-call-for-greater-involveme-ara/PAPER.md",
+      "sha256": "56bca87b3eb67eadb8ec829ddbd510e727adb8c422632937bb04de9c2d4ad370",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mikulova-et-al-2022-quality-and-efficiency-of-manual-annotation-pre-annotation-bias-ara",
+      "paper_path": "literature/artifacts/mikulova-et-al-2022-quality-and-efficiency-of-manual-annotation-pre-annotation-bias-ara/PAPER.md",
+      "sha256": "25989e52f3f367bcb6cc295e4bca0d3c2b0f7cace6c079dcae6aec2c4f8d43a9",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mitchell-et-al-2025-using-artificial-intelligence-tools-to-automate-data-extraction-for-living-evidence-syntheses-ara",
+      "paper_path": "literature/artifacts/mitchell-et-al-2025-using-artificial-intelligence-tools-to-automate-data-extraction-for-living-evidence-syntheses-ara/PAPER.md",
+      "sha256": "8f263231829cbb50a7fb6ea48930cd1d036dda88207621d07413b2b5ee44aa6a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mtotywa-et-al-2026-artificial-intelligence-in-literature-review-synthesis-a-step-by-ara",
+      "paper_path": "literature/artifacts/mtotywa-et-al-2026-artificial-intelligence-in-literature-review-synthesis-a-step-by-ara/PAPER.md",
+      "sha256": "6cddbf2646dc024b5385cf95f8ce1a2c405cd10a8953c022b394812e4063482a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "murton-et-al-2025-harnessing-large-language-models-for-efficient-data-extraction-in-systematic-reviews-the-role-of-ara",
+      "paper_path": "literature/artifacts/murton-et-al-2025-harnessing-large-language-models-for-efficient-data-extraction-in-systematic-reviews-the-role-of-ara/PAPER.md",
+      "sha256": "2a145604634e198c12ec5048545a79194f865c455cd89b555f61a6ec263eed7e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "mutinda-et-al-2022-automatic-data-extraction-to-support-meta-analysis-statistical-analysis-a-case-study-on-breast-c-ara",
+      "paper_path": "literature/artifacts/mutinda-et-al-2022-automatic-data-extraction-to-support-meta-analysis-statistical-analysis-a-case-study-on-breast-c-ara/PAPER.md",
+      "sha256": "e21b1bc421af421f207172de6239b2411efdabc17d56c6d5c5f5a912955a996a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "natarajan-2025-human-in-the-loop-or-ai-in-the-loop",
+      "paper_path": "literature/artifacts/natarajan-2025-human-in-the-loop-or-ai-in-the-loop/PAPER.md",
+      "sha256": "acb409a9ac5451735d4f4f1d9bd5b889ef01552b23fe68cd234ee6e98973ebfc",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "nature-human-behaviour-2025-ai-not-substitute-human-intelligence-ara",
+      "paper_path": "literature/artifacts/nature-human-behaviour-2025-ai-not-substitute-human-intelligence-ara/PAPER.md",
+      "sha256": "b984060ce928b800ac50e2159bcb24cbd05060216793be839d134fade9441f33",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "ng-et-al-2023-how-do-cognitive-behavioral-therapy-and-interpersonal-psychotherapy-improve-youth-depression-applyi-ara",
+      "paper_path": "literature/artifacts/ng-et-al-2023-how-do-cognitive-behavioral-therapy-and-interpersonal-psychotherapy-improve-youth-depression-applyi-ara/PAPER.md",
+      "sha256": "6a90fdb84b8178d2129381d33c106a38c4274c903b5bb460bfc19f009ea96b31",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "nguyen-et-al-2022-changing-patterns-in-reporting-and-sharing-of-review-data-in-systematic-reviews-with-meta-analysi-ara",
+      "paper_path": "literature/artifacts/nguyen-et-al-2022-changing-patterns-in-reporting-and-sharing-of-review-data-in-systematic-reviews-with-meta-analysi-ara/PAPER.md",
+      "sha256": "93f6d4b4f55082a8f4cf5eda36053c2d07330ed943fc8191b2c8764f39c8cb4d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "nov-2025-ai-annotation-orchestration-evaluating-llm-verifiers-to-improve-the-quality-of",
+      "paper_path": "literature/artifacts/nov-2025-ai-annotation-orchestration-evaluating-llm-verifiers-to-improve-the-quality-of/PAPER.md",
+      "sha256": "f8cbb257c5087e10e3d4f7abc89fa0454f4779f606867f2abfffa6f53b9896e9",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "nuijten-et-al-2020-effect-sizes-power-and-biases-in-intelligence-research-a-meta-meta-analysis-ara",
+      "paper_path": "literature/artifacts/nuijten-et-al-2020-effect-sizes-power-and-biases-in-intelligence-research-a-meta-meta-analysis-ara/PAPER.md",
+      "sha256": "4de3d61538904918c6033e25cd76e02753700221cd118146a5e754b2920d09db",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "nussbaumer-streit-et-al-2021-resource-use-during-systematic-review-production-varies-widely-a-scoping-review-ara",
+      "paper_path": "literature/artifacts/nussbaumer-streit-et-al-2021-resource-use-during-systematic-review-production-varies-widely-a-scoping-review-ara/PAPER.md",
+      "sha256": "ab7ee9f6ff34b3bf8df0628ad48b8d9952df3f93552a2619ef7d12d62ad2aa51",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "oami-et-al-2025-optimal-large-language-models-to-screen-citations-for-systematic-rev-ara",
+      "paper_path": "literature/artifacts/oami-et-al-2025-optimal-large-language-models-to-screen-citations-for-systematic-rev-ara/PAPER.md",
+      "sha256": "8b6f39dd7b2b8aa0d53ad2b99dfb5290c601109e568f7bef1ba9503e76506908",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "oconnor-et-al-2019-a-question-of-trust-can-we-build-an-evidence-base-to-gain-trust-in-systematic-review-automation-ara",
+      "paper_path": "literature/artifacts/oconnor-et-al-2019-a-question-of-trust-can-we-build-an-evidence-base-to-gain-trust-in-systematic-review-automation-ara/PAPER.md",
+      "sha256": "9320dec7f628119be93131394203c11fba30ca54eeb0874c7be5d55a02359c43",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "ong-et-al-2024-ethical-and-regulatory-challenges-of-large-language-models-in-medicine-ara",
+      "paper_path": "literature/artifacts/ong-et-al-2024-ethical-and-regulatory-challenges-of-large-language-models-in-medicine-ara/PAPER.md",
+      "sha256": "34e52ebf31d4cc0485cf83d262f9ffcefe8de73d88081347da4cc228d66c32ad",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "ozturk-et-al-2022-does-inquiry-based-learning-model-improve-learning-outcomes-a-second-order-meta-analysis-ara",
+      "paper_path": "literature/artifacts/ozturk-et-al-2022-does-inquiry-based-learning-model-improve-learning-outcomes-a-second-order-meta-analysis-ara/PAPER.md",
+      "sha256": "b5de00376e677221840191a3898a6643d9fb67a71e4f9f438d6ed9aec5b445dd",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "page-et-al-2022-data-and-code-availability-statements-in-systematic-reviews-of-interventions-were-often-missing-or-ara",
+      "paper_path": "literature/artifacts/page-et-al-2022-data-and-code-availability-statements-in-systematic-reviews-of-interventions-were-often-missing-or-ara/PAPER.md",
+      "sha256": "ba002a8775167ad800aec94697e8b83b9fa556c21629f08e92d44d4f3f477806",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "palmer-et-al-2024-sleep-loss-and-emotion-a-systematic-review-and-meta-analysis-of-over-50-years-of-experimental-res-ara",
+      "paper_path": "literature/artifacts/palmer-et-al-2024-sleep-loss-and-emotion-a-systematic-review-and-meta-analysis-of-over-50-years-of-experimental-res-ara/PAPER.md",
+      "sha256": "285b41824aac4293b8557bf0ae3d4e448a20896479749a72aef5c81806defaf8",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "pangakis-and-wolken-2024-keeping-humans-in-the-loop-human-centered-automated-annotation-with-generative-ai-ara",
+      "paper_path": "literature/artifacts/pangakis-and-wolken-2024-keeping-humans-in-the-loop-human-centered-automated-annotation-with-generative-ai-ara/PAPER.md",
+      "sha256": "dfae23c28933c6c9625b8ad783d676d9f40c2e9a7850e999ba7902099366148f",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "pietschnig-et-al-2019-effect-declines-are-systematic-strong-and-ubiquitous-a-meta-meta-analysis-of-the-decline-effe-ara",
+      "paper_path": "literature/artifacts/pietschnig-et-al-2019-effect-declines-are-systematic-strong-and-ubiquitous-a-meta-meta-analysis-of-the-decline-effe-ara/PAPER.md",
+      "sha256": "fd1f8423fb9adbc09db1b3d65a7cf726279e60714da0dacbc50a73aa5219040d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "polanin-et-al-2020-transparency-and-reproducibility-of-meta-analyses-in-psychology-a-meta-review-ara",
+      "paper_path": "literature/artifacts/polanin-et-al-2020-transparency-and-reproducibility-of-meta-analyses-in-psychology-a-meta-review-ara/PAPER.md",
+      "sha256": "b55da8ebb13ab786eadf9aaa54bf1e82df7f3949f8818e49cd5931c9721e98cd",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "poppe-et-al-the-efficacy-of-combining-cognitive-training-and-noninvasive-brain-stimulation-a-transdiagnostic-sy-ara",
+      "paper_path": "literature/artifacts/poppe-et-al-the-efficacy-of-combining-cognitive-training-and-noninvasive-brain-stimulation-a-transdiagnostic-sy-ara/PAPER.md",
+      "sha256": "2201302b610c47b4d66fa696e6c6d112c6eb0e54afee41c951e5ac9699cc9757",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "pourcel-et-al-2025-self-improving-language-models-for-evolutionary-program-synthesis-a-case-study-on-arc-agi-ara",
+      "paper_path": "literature/artifacts/pourcel-et-al-2025-self-improving-language-models-for-evolutionary-program-synthesis-a-case-study-on-arc-agi-ara/PAPER.md",
+      "sha256": "95fc02e748445c105e30e945bc6dbd67ec3a06e087f4921a8300828a90b693e0",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "purewal-et-al-2025-human-versus-artificial-intelligence-evaluating-chatgpts-performance-in-conducting-published-sys-ara",
+      "paper_path": "literature/artifacts/purewal-et-al-2025-human-versus-artificial-intelligence-evaluating-chatgpts-performance-in-conducting-published-sys-ara/PAPER.md",
+      "sha256": "20f5b25237da6965ca3959ff3deab26529a0acc4b809d175b9bf626b962035b4",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "qureshi-et-al-2023-are-chatgpt-and-large-language-models-the-answer-to-bringing-us-closer-to-systematic-review-auto-ara",
+      "paper_path": "literature/artifacts/qureshi-et-al-2023-are-chatgpt-and-large-language-models-the-answer-to-bringing-us-closer-to-systematic-review-auto-ara/PAPER.md",
+      "sha256": "3ff0c70f5e71f77de6edd926301841b6d443bbb98ac3cf3b7e382873a3d8fce1",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "reason-et-al-2024-automated-mass-extraction-of-over-680-000-picos-from-clinical-study-abstracts-using-generative-ai-ara",
+      "paper_path": "literature/artifacts/reason-et-al-2024-automated-mass-extraction-of-over-680-000-picos-from-clinical-study-abstracts-using-generative-ai-ara/PAPER.md",
+      "sha256": "d58793ed068c7398a058e3d2e45115ee464a23ff9759052d6ce79b46a416404d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "rnic-et-al-2023-the-vicious-cycle-of-psychopathology-and-stressful-life-events-a-meta-analytic-review-testing-the-s-ara",
+      "paper_path": "literature/artifacts/rnic-et-al-2023-the-vicious-cycle-of-psychopathology-and-stressful-life-events-a-meta-analytic-review-testing-the-s-ara/PAPER.md",
+      "sha256": "f5105182a3fb11c6f855b22208326938566b400334f928319acd86359c7655ad",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "roberts-et-al-2024-artificial-intelligence-and-qualitative-research-the-promise-and-perils-of-large-language-model-ara",
+      "paper_path": "literature/artifacts/roberts-et-al-2024-artificial-intelligence-and-qualitative-research-the-promise-and-perils-of-large-language-model-ara/PAPER.md",
+      "sha256": "25963bb2ecc452b2033d19fca917a80f50b144d38cab17960673937a2fcdae72",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "rose-et-al-2020-the-effect-of-meditation-on-health-a-metasynthesis-of-randomized-controlled-trials-ara",
+      "paper_path": "literature/artifacts/rose-et-al-2020-the-effect-of-meditation-on-health-a-metasynthesis-of-randomized-controlled-trials-ara/PAPER.md",
+      "sha256": "ce0b960d3e945613e447439ce6997626cba8683fb2f578b401af34bbaa54a065",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "rousson-et-al-2002-assessing-intrarater-interrater-and-testretest-reliability-of-continuous-measurements-ara",
+      "paper_path": "literature/artifacts/rousson-et-al-2002-assessing-intrarater-interrater-and-testretest-reliability-of-continuous-measurements-ara/PAPER.md",
+      "sha256": "c7e8342e2912e473a6312f8410e6d81218d928628b08fe6959954abbb5056c6e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "s0883-0355-2896-2980001-220161108-16361-1gb41p5-libre-ara",
+      "paper_path": "literature/artifacts/s0883-0355-2896-2980001-220161108-16361-1gb41p5-libre-ara/PAPER.md",
+      "sha256": "c13d1c1dec2b731f1ecb6b0478e37d9f16228e386fd129af049af28088ffd760",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "saeri-et-al-2022-what-works-to-increase-charitable-donations-a-meta-review-with-meta-meta-analysis-ara",
+      "paper_path": "literature/artifacts/saeri-et-al-2022-what-works-to-increase-charitable-donations-a-meta-review-with-meta-meta-analysis-ara/PAPER.md",
+      "sha256": "fcd78c2bd517b8aeace0fef1150a664246e4b2108263616a19a560bfd8a41c7b",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "sahoo-2024-systematic-survey-prompt-engineering-large-language-models",
+      "paper_path": "literature/artifacts/sahoo-2024-systematic-survey-prompt-engineering-large-language-models/PAPER.md",
+      "sha256": "fb2d6996eaae3a7883ec18cd3e05a5e29bd7303ca7213641fd24c73481fb1c5f",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "sala-et-al-2019-near-and-far-transfer-in-cognitive-training-a-second-order-meta-analysis-ara",
+      "paper_path": "literature/artifacts/sala-et-al-2019-near-and-far-transfer-in-cognitive-training-a-second-order-meta-analysis-ara/PAPER.md",
+      "sha256": "24d8c9cedea8403a385ce453b8408aa319e54c6907251228c674f91a5d312a91",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "salanti-2026-the-use-of-ai-to-improve-the-efficiency-of-systematic-reviews-a-literat-ara",
+      "paper_path": "literature/artifacts/salanti-2026-the-use-of-ai-to-improve-the-efficiency-of-systematic-reviews-a-literat-ara/PAPER.md",
+      "sha256": "33a0dacb317e4ceca9a0b6c1b95219602a559b1f281044d3f85a79fa4ed93d0e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "saldanha-et-al-2016-evaluating-data-abstraction-assistant-a-novel-software-application-for-data-abstraction-during-ara",
+      "paper_path": "literature/artifacts/saldanha-et-al-2016-evaluating-data-abstraction-assistant-a-novel-software-application-for-data-abstraction-during-ara/PAPER.md",
+      "sha256": "b71f779ca11c697d72121e40ae5f092be3f812b7bf000211bb5284488788a6db",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "saldanha-et-al-2019-the-systematic-review-data-repository-descriptive-characteristics-of-publicly-available-data-an-ara",
+      "paper_path": "literature/artifacts/saldanha-et-al-2019-the-systematic-review-data-repository-descriptive-characteristics-of-publicly-available-data-an-ara/PAPER.md",
+      "sha256": "ce9e609c8a46986f77a4427d947e522853ece2a882e3a924543465fa6c97669c",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "santoni-de-sio-und-van-den-hoven-2018-meaningful-human-control-over-autonomous-systems-a-philosophical-account-ara",
+      "paper_path": "literature/artifacts/santoni-de-sio-und-van-den-hoven-2018-meaningful-human-control-over-autonomous-systems-a-philosophical-account-ara/PAPER.md",
+      "sha256": "b4204beff60580b5b99ad976f26c832fb62dd9eb1b87d052109d37afd67f738d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "schneider-und-preckel-2017-variables-associated-with-achievement-in-higher-education-a-systematic-review-of-meta-an-ara",
+      "paper_path": "literature/artifacts/schneider-und-preckel-2017-variables-associated-with-achievement-in-higher-education-a-systematic-review-of-meta-an-ara/PAPER.md",
+      "sha256": "9177054d5faae2b0bc168500efdd09a616ad584d92cc8aebbe79444823e166f3",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "siebert-et-al-2023-meaningful-human-control-actionable-properties-for-ai-system-development-ara",
+      "paper_path": "literature/artifacts/siebert-et-al-2023-meaningful-human-control-actionable-properties-for-ai-system-development-ara/PAPER.md",
+      "sha256": "2047f8ba67622c84ed7ca59afe189a906344d3883c5b760240cfe24339f77cca",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "simmons-et-al-2025-assessing-the-feasibility-and-acceptability-of-a-bespoke-large-language-model-pipeline-to-extrac-ara",
+      "paper_path": "literature/artifacts/simmons-et-al-2025-assessing-the-feasibility-and-acceptability-of-a-bespoke-large-language-model-pipeline-to-extrac-ara/PAPER.md",
+      "sha256": "05c8f4ea3eedbb46f0697ece530a35fea9afe299dd309b389869b0a2b83665be",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "sipe-und-curlette-1996-a-meta-synthesis-of-factors-related-to-educational-achievement-a-methodological-approach-to-ara",
+      "paper_path": "literature/artifacts/sipe-und-curlette-1996-a-meta-synthesis-of-factors-related-to-educational-achievement-a-methodological-approach-to-ara/PAPER.md",
+      "sha256": "73143868770c0ec3cef7853059497d86347d32b3db120ed3fd1d09f9b2da75f3",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "sun-et-al-2024-how-good-are-large-language-models-for-automated-data-extraction-ara",
+      "paper_path": "literature/artifacts/sun-et-al-2024-how-good-are-large-language-models-for-automated-data-extraction-ara/PAPER.md",
+      "sha256": "fe31109d3d8920b3abdf15399c7e0273e56257f4476e404414d571ad9f66d018",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "swk-2024-large-language-models-und-ihre-potenziale-ara",
+      "paper_path": "literature/artifacts/swk-2024-large-language-models-und-ihre-potenziale-ara/PAPER.md",
+      "sha256": "2044d4649fd83575c7d1a0c179a72f6697a26aecd08ca0e9bbc4f5bdf0f4b30d",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "tamim-et-al-2011-what-forty-years-of-research-says-about-the-impact-of-technology-on-learning-a-second-order-meta-a-ara",
+      "paper_path": "literature/artifacts/tamim-et-al-2011-what-forty-years-of-research-says-about-the-impact-of-technology-on-learning-a-second-order-meta-a-ara/PAPER.md",
+      "sha256": "e927c6bed0f7145bcb6fa47a3fa4486ea07b00fd68fec09d6a74a4373cb6cb6e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "taneri-2025-human-versus-artificial-intelligence-comparing-cochrane-authors-and-chatgpt-s-risk-of-bias-assessm-ara",
+      "paper_path": "literature/artifacts/taneri-2025-human-versus-artificial-intelligence-comparing-cochrane-authors-and-chatgpt-s-risk-of-bias-assessm-ara/PAPER.md",
+      "sha256": "9dc72983d3f681e39038bee05605b455aa9ec25f53e446698bca843075f35751",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "tao-et-al-2024-gpt-4-performance-on-querying-scientific-publications-reproducibility-accuracy-and-impact-of-an-i-ara",
+      "paper_path": "literature/artifacts/tao-et-al-2024-gpt-4-performance-on-querying-scientific-publications-reproducibility-accuracy-and-impact-of-an-i-ara/PAPER.md",
+      "sha256": "187403b1059f4d850bbd589f6e4764aa3038e3e7f49b1287887b1750a1e661b7",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "tarrahi-und-eisend-2016-the-influence-of-judgment-calls-on-meta-analytic-findings-ara",
+      "paper_path": "literature/artifacts/tarrahi-und-eisend-2016-the-influence-of-judgment-calls-on-meta-analytic-findings-ara/PAPER.md",
+      "sha256": "32c58683f008642c87f5b1a981943671f6e1c21e113e761a3044cb592034ddea",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "thomas-et-al-2025-beyond-agreement-rethinking-ground-truth-in-educational-ai-annotation-ara",
+      "paper_path": "literature/artifacts/thomas-et-al-2025-beyond-agreement-rethinking-ground-truth-in-educational-ai-annotation-ara/PAPER.md",
+      "sha256": "a95e04b6e17e8de8deca24e20696d01afd72bff85880237738884cb0bac5b302",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-1-ara",
+      "paper_path": "literature/artifacts/thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-1-ara/PAPER.md",
+      "sha256": "56fb35286b717131238923cc44e11386924357826be17aa81116941a7bc13083",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-2-ara",
+      "paper_path": "literature/artifacts/thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-2-ara/PAPER.md",
+      "sha256": "408187f23ac4c4f40aa87b5c9a8ec8faf39445eccdc654d11e5b41c47b47de67",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-3-ara",
+      "paper_path": "literature/artifacts/thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-3-ara/PAPER.md",
+      "sha256": "1ecc3377b9f1baafc320aabcda1126b720a5cac2216eeb477b46753e1730d0af",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-4-ara",
+      "paper_path": "literature/artifacts/thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-4-ara/PAPER.md",
+      "sha256": "aa227c3974a614c0456c45e67c46d7bcc8df54790d530ef043339bdfaccded31",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-ara",
+      "paper_path": "literature/artifacts/thomas-et-al-2025-responsible-use-of-ai-in-evidence-synthesis-raise-recommendations-and-guidance-ara/PAPER.md",
+      "sha256": "46b657504bf76947bda992ff99a31dec9fb0aee771080d6d2457437228372c4e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "tran-et-al-2025-using-large-language-models-to-directly-screen-electronic-databases-ara",
+      "paper_path": "literature/artifacts/tran-et-al-2025-using-large-language-models-to-directly-screen-electronic-databases-ara/PAPER.md",
+      "sha256": "71bcbc6703adc1f81ad392702dd515c2d91c63ad5ddcd6fb9dc73bdad949b766",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "tung-et-al-2024-prenatal-stress-and-externalizing-behaviors-in-childhood-and-adolescence-a-systematic-review-and-me-ara",
+      "paper_path": "literature/artifacts/tung-et-al-2024-prenatal-stress-and-externalizing-behaviors-in-childhood-and-adolescence-a-systematic-review-and-me-ara/PAPER.md",
+      "sha256": "071d149c79a1d5e2f518b3070da213dd2e0e3933f123af629cca82a38db72218",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "turker-et-al-2023-cortical-subcortical-and-cerebellar-contributions-to-language-processing-a-meta-analytic-review-o-ara",
+      "paper_path": "literature/artifacts/turker-et-al-2023-cortical-subcortical-and-cerebellar-contributions-to-language-processing-a-meta-analytic-review-o-ara/PAPER.md",
+      "sha256": "24f5ee4f9bb387f19b55e73b39627a8e3d446ecb53cf7a8ba1254cb6e25ee883",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "vanderbauwhede-2025-estimating-the-increase-in-emissions-caused-by-ai-augmented-search-ara",
+      "paper_path": "literature/artifacts/vanderbauwhede-2025-estimating-the-increase-in-emissions-caused-by-ai-augmented-search-ara/PAPER.md",
+      "sha256": "be93668b3d22bfd4e642fecbb80446c24625e7a1d853a3f4d62f844da5129cbc",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "vanhove-und-harms-2015-reconciling-the-two-disciplines-of-organizational-science-a-comparison-of-findings-from-lab-ara",
+      "paper_path": "literature/artifacts/vanhove-und-harms-2015-reconciling-the-two-disciplines-of-organizational-science-a-comparison-of-findings-from-lab-ara/PAPER.md",
+      "sha256": "f5ad9ce3b6b18a4c937de7eefca1bd2b97624a46ee6c2a8402d409dd81b5c2b2",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "vieira-et-al-2024-customer-relational-benefit-a-second-order-meta-analysis-and-an-alternative-framework-ara",
+      "paper_path": "literature/artifacts/vieira-et-al-2024-customer-relational-benefit-a-second-order-meta-analysis-and-an-alternative-framework-ara/PAPER.md",
+      "sha256": "c70756af060c558d85b1d6f200f14ff9ef481bed7ae511a3bdbd6afc07abd0aa",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "viswesvaran-und-ones-1995-theory-testing-combining-psychometric-metaanalysis-and-structural-equations-modeling-ara",
+      "paper_path": "literature/artifacts/viswesvaran-und-ones-1995-theory-testing-combining-psychometric-metaanalysis-and-structural-equations-modeling-ara/PAPER.md",
+      "sha256": "f0ec1012ed7857a81db9f9bfe7b5284e2a050a65c78312b2c96ed70a304967ab",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "vu-et-al-2023-ignorance-by-choice-a-meta-analytic-review-of-the-underlying-motives-of-willful-ignorance-and-its-c-ara",
+      "paper_path": "literature/artifacts/vu-et-al-2023-ignorance-by-choice-a-meta-analytic-review-of-the-underlying-motives-of-willful-ignorance-and-its-c-ara/PAPER.md",
+      "sha256": "0c41b110178b71bcdd984d354da30fed74688935e89e3ffe669fd804164cf58a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "wang-et-al-2024-human-llm-collaborative-annotation-through-effective-verification-of-llm-labels-ara",
+      "paper_path": "literature/artifacts/wang-et-al-2024-human-llm-collaborative-annotation-through-effective-verification-of-llm-labels-ara/PAPER.md",
+      "sha256": "41901a0f3d39e3122ff4dd84d29919cf3481cfa18aa307d12b38a659dd19dd92",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "wang-et-al-2025-a-foundation-model-for-human-ai-collaboration-in-medical-literature-mining-ara",
+      "paper_path": "literature/artifacts/wang-et-al-2025-a-foundation-model-for-human-ai-collaboration-in-medical-literature-mining-ara/PAPER.md",
+      "sha256": "3b85d313575cec93b6ad13c59f2eab34de86caf78a07c93e40b0b4ff129e7a19",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "wang-et-al-2025-accelerating-clinical-evidence-synthesis-with-large-language-models-ara",
+      "paper_path": "literature/artifacts/wang-et-al-2025-accelerating-clinical-evidence-synthesis-with-large-language-models-ara/PAPER.md",
+      "sha256": "f19025cc449de6257571608d56f5223041d18ea46e9a985a54bf67750135a829",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "weber-et-al-2019-treatment-of-child-externalizing-behavior-problems-a-comprehensive-review-and-meta-meta-analysis-o-ara",
+      "paper_path": "literature/artifacts/weber-et-al-2019-treatment-of-child-externalizing-behavior-problems-a-comprehensive-review-and-meta-meta-analysis-o-ara/PAPER.md",
+      "sha256": "d368a7bde6aaef4a94fce7a03536439eed9dd72eba055c6291c37f428f48fe3e",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "white-et-al-2023-prompt-pattern-catalog-chatgpt-ara",
+      "paper_path": "literature/artifacts/white-et-al-2023-prompt-pattern-catalog-chatgpt-ara/PAPER.md",
+      "sha256": "d6927c42b02972db036886095eced667f5e297eb6f45f3a5b8d293523e20703a",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "widder-et-al-2024-why-open-ai-systems-are-actually-closed-and-why-this-matters-ara",
+      "paper_path": "literature/artifacts/widder-et-al-2024-why-open-ai-systems-are-actually-closed-and-why-this-matters-ara/PAPER.md",
+      "sha256": "ae1fef3943bda0950994856826f0d3788354600276b21fda18e29c4496c546b3",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "wilkinson-et-al-2016-the-fair-guiding-principles-for-scientific-data-management-and-stewardship-ara",
+      "paper_path": "literature/artifacts/wilkinson-et-al-2016-the-fair-guiding-principles-for-scientific-data-management-and-stewardship-ara/PAPER.md",
+      "sha256": "33e0afb8f4b4f9e7f3b3010532f2625f1c29dce233d6b49ea7f67520dce94563",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "wilmot-und-ones-2019-a-century-of-research-on-conscientiousness-at-work-ara",
+      "paper_path": "literature/artifacts/wilmot-und-ones-2019-a-century-of-research-on-conscientiousness-at-work-ara/PAPER.md",
+      "sha256": "873ba8f8aa1111ae50ebca80d900b94498da7e3d1927b67f13056a2d0113b122",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "woelfle-et-al-2024-benchmarking-humanai-collaboration-for-common-evidence-appraisal-tools-ara",
+      "paper_path": "literature/artifacts/woelfle-et-al-2024-benchmarking-humanai-collaboration-for-common-evidence-appraisal-tools-ara/PAPER.md",
+      "sha256": "aa4d85ccdbbe0ddc47264cb1e5875253c73a437ff40632ba8f9c8e8296e3daa6",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "wu-et-al-2021-effects-of-virtual-reality-training-on-upper-limb-function-and-balance-in-stroke-patients-systemati-ara",
+      "paper_path": "literature/artifacts/wu-et-al-2021-effects-of-virtual-reality-training-on-upper-limb-function-and-balance-in-stroke-patients-systemati-ara/PAPER.md",
+      "sha256": "15516c74014319e2a09cbc45cee1c240d02f7d4c0c7c751e7bfd54a9368b0948",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "xavier-et-al-2026-from-solo-graders-to-assisted-annotation-integrating-llm-suggestions-into-the-educational-data-cr-ara",
+      "paper_path": "literature/artifacts/xavier-et-al-2026-from-solo-graders-to-assisted-annotation-integrating-llm-suggestions-into-the-educational-data-cr-ara/PAPER.md",
+      "sha256": "1d5d61ff85fea9311ea699865ac3a6d286c6653fc676f17d2006050131156b75",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "xing-et-al-2025-leveraging-ai-for-meta-analysis-evaluating-llms-in-detecting-publication-bias-for-next-generation-e-ara",
+      "paper_path": "literature/artifacts/xing-et-al-2025-leveraging-ai-for-meta-analysis-evaluating-llms-in-detecting-publication-bias-for-next-generation-e-ara/PAPER.md",
+      "sha256": "903d6010675963be1839c88f23478be3b334993d5008c4f5fdf9c263b9f68458",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "yang-et-al-data-annotation-with-large-language-models-lessons-from-a-large-empirical-evaluation-ara",
+      "paper_path": "literature/artifacts/yang-et-al-data-annotation-with-large-language-models-lessons-from-a-large-empirical-evaluation-ara/PAPER.md",
+      "sha256": "764f632c86f8c56a8e487d46f4c39fc1df56cfa46b85e09d9fd708d5d856c5fb",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "yoong-et-al-2022-the-benefits-of-data-sharing-and-ensuring-open-sources-of-systematic-review-data-ara",
+      "paper_path": "literature/artifacts/yoong-et-al-2022-the-benefits-of-data-sharing-and-ensuring-open-sources-of-systematic-review-data-ara/PAPER.md",
+      "sha256": "f01f95f7e63542c6b3da95d353b9e9efe18deaaf159b3be2a3bada9617f33191",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "young-2017-technology-enhanced-mathematics-instruction-a-second-order-meta-analysis-of-30-years-of-research-ara",
+      "paper_path": "literature/artifacts/young-2017-technology-enhanced-mathematics-instruction-a-second-order-meta-analysis-of-30-years-of-research-ara/PAPER.md",
+      "sha256": "3a059ae2dc3ed6f0e53c6ab9272f41b476ebebd76d5d39b9e72a0dc390d9e2f6",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "zeng-et-al-2025-enhanced-evaluative-language-annotation",
+      "paper_path": "literature/artifacts/zeng-et-al-2025-enhanced-evaluative-language-annotation/PAPER.md",
+      "sha256": "034d03db513c832983daf61343281eb9c42260641d3d7cb812ca66ff70fdd8b6",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "zhang-et-al-2020-effect-of-confidence-and-explanation-on-accuracy-and-trust-calibration-in-ai-assisted-decision-mak-ara",
+      "paper_path": "literature/artifacts/zhang-et-al-2020-effect-of-confidence-and-explanation-on-accuracy-and-trust-calibration-in-ai-assisted-decision-mak-ara/PAPER.md",
+      "sha256": "233d01e24c5b81fe648657f01e2bc58117c6d09fa1f1e56d00399b52bebef289",
+      "role": "retained source evidence; not the current author position"
+    },
+    {
+      "artifact_id": "zhang-et-al-2023-how-emotional-stimuli-modulate-cognitive-control-a-meta-analytic-review-of-studies-with-conflict-t-ara",
+      "paper_path": "literature/artifacts/zhang-et-al-2023-how-emotional-stimuli-modulate-cognitive-control-a-meta-analytic-review-of-studies-with-conflict-t-ara/PAPER.md",
+      "sha256": "e869156810a07d28729edf6c8a21ceea1419b404dc541c627b88aa7299c8ce24",
+      "role": "retained source evidence; not the current author position"
+    }
+  ]
+}

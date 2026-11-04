@@ -1,0 +1,191 @@
+{
+  "nodes": [
+    {
+      "id": "protocol",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 660,
+      "height": 200,
+      "text": "## 01 · Define variables and coding rules\n\nDefine the variables, eligible evidence, extraction units, missingness conventions and decision rules before comparing extractors.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "documents",
+      "type": "text",
+      "x": 0,
+      "y": 240,
+      "width": 660,
+      "height": 200,
+      "text": "## 02 · Prepare and read source documents\n\nEstablish which article versions, appendices and other eligible materials enter the extraction, and preserve the information needed downstream.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "retrieve",
+      "type": "text",
+      "x": 0,
+      "y": 480,
+      "width": 660,
+      "height": 200,
+      "text": "## 03 · Locate relevant evidence\n\nFind the evidence relevant to a variable across text, tables, figures, appendices and dispersed passages.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "bind",
+      "type": "text",
+      "x": 0,
+      "y": 720,
+      "width": 660,
+      "height": 200,
+      "text": "## 04 · Bind values to the correct unit\n\nAssociate a candidate value with the correct study, sample, group, outcome, time point and analytical unit.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "code",
+      "type": "text",
+      "x": 0,
+      "y": 960,
+      "width": 660,
+      "height": 200,
+      "text": "## 05 · Interpret evidence and apply coding rules\n\nTranslate evidence into the category or value specified by the codebook, retaining defensible alternatives when the source is ambiguous.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "coordinate",
+      "type": "text",
+      "x": 0,
+      "y": 1200,
+      "width": 660,
+      "height": 200,
+      "text": "## 06 · Coordinate retrieval, tools and intermediate steps\n\nCoordinate retrieval, tool use and dependent operations so intermediate decisions can be inspected and reconsidered.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "derive",
+      "type": "text",
+      "x": 0,
+      "y": 1440,
+      "width": 660,
+      "height": 200,
+      "text": "## 07 · Transform and calculate values\n\nTransform reported inputs into the requested value using explicit formulas, units and executable operations where appropriate.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "verify",
+      "type": "text",
+      "x": 0,
+      "y": 1680,
+      "width": 660,
+      "height": 200,
+      "text": "## 08 · Verify source support and detect errors\n\nCheck whether a candidate value and its interpretation are supported by the recorded source and extraction rule.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "collaborate",
+      "type": "text",
+      "x": 0,
+      "y": 1920,
+      "width": 660,
+      "height": 200,
+      "text": "## 09 · Combine human and LLM contributions\n\nSpecify how human experts, research assistants and LLMs contribute, and when each sees another actor's output.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "adjudicate",
+      "type": "text",
+      "x": 0,
+      "y": 2160,
+      "width": 660,
+      "height": 200,
+      "text": "## 10 · Resolve disagreements without yielding to pressure\n\nResolve discrepancies through source evidence and coding rules, while retaining uncertainty when the available information does not support one defensible answer.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "product",
+      "type": "text",
+      "x": 0,
+      "y": 2400,
+      "width": 660,
+      "height": 200,
+      "text": "## 11 · Assess the complete extraction product\n\nEvaluate the resulting review data at the field, relationship and whole-record levels, with omissions and unsupported additions made explicit.\n\nResearch component; evaluate accuracy and auditability."
+    },
+    {
+      "id": "audit",
+      "type": "text",
+      "x": 0,
+      "y": 2640,
+      "width": 660,
+      "height": 200,
+      "text": "## 12 · Retain an auditable extraction record\n\nEnable another researcher to reconstruct consequential decisions and assess where the process could be checked, corrected or redirected.\n\nResearch component; evaluate accuracy and auditability."
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "protocol",
+      "fromSide": "bottom",
+      "toNode": "documents",
+      "toSide": "top"
+    },
+    {
+      "id": "e2",
+      "fromNode": "documents",
+      "fromSide": "bottom",
+      "toNode": "retrieve",
+      "toSide": "top"
+    },
+    {
+      "id": "e3",
+      "fromNode": "retrieve",
+      "fromSide": "bottom",
+      "toNode": "bind",
+      "toSide": "top"
+    },
+    {
+      "id": "e4",
+      "fromNode": "bind",
+      "fromSide": "bottom",
+      "toNode": "code",
+      "toSide": "top"
+    },
+    {
+      "id": "e5",
+      "fromNode": "code",
+      "fromSide": "bottom",
+      "toNode": "coordinate",
+      "toSide": "top"
+    },
+    {
+      "id": "e6",
+      "fromNode": "coordinate",
+      "fromSide": "bottom",
+      "toNode": "derive",
+      "toSide": "top"
+    },
+    {
+      "id": "e7",
+      "fromNode": "derive",
+      "fromSide": "bottom",
+      "toNode": "verify",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "verify",
+      "fromSide": "bottom",
+      "toNode": "collaborate",
+      "toSide": "top"
+    },
+    {
+      "id": "e9",
+      "fromNode": "collaborate",
+      "fromSide": "bottom",
+      "toNode": "adjudicate",
+      "toSide": "top"
+    },
+    {
+      "id": "e10",
+      "fromNode": "adjudicate",
+      "fromSide": "bottom",
+      "toNode": "product",
+      "toSide": "top"
+    },
+    {
+      "id": "e11",
+      "fromNode": "product",
+      "fromSide": "bottom",
+      "toNode": "audit",
+      "toSide": "top"
+    }
+  ]
+}

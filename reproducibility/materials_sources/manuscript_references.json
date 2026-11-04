@@ -1,0 +1,272 @@
+[
+  {
+    "id": "R01",
+    "paragraph_id": "P040",
+    "apa": "Beck, J., Eckman, S., Kern, C., & Kreuter, F. (2025). Bias in the loop: How humans evaluate AI-generated suggestions [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2509.08514",
+    "url": "https://doi.org/10.48550/arXiv.2509.08514"
+  },
+  {
+    "id": "R02",
+    "paragraph_id": "P041",
+    "apa": "Bertran, M., Fogliato, R., & Wu, Z. S. (2026). Many AI analysts, one dataset: Navigating the agentic data science multiverse. Proceedings of the National Academy of Sciences, 123(29), Article e2606495123. https://doi.org/10.1073/pnas.2606495123",
+    "url": "https://doi.org/10.1073/pnas.2606495123"
+  },
+  {
+    "id": "R03",
+    "paragraph_id": "P042",
+    "apa": "Buscemi, N., Hartling, L., Vandermeer, B., Tjosvold, L., & Klassen, T. P. (2006). Single data extraction generated more errors than double data extraction in systematic reviews. Journal of Clinical Epidemiology, 59(7), 697–703. https://doi.org/10.1016/j.jclinepi.2005.11.010",
+    "url": "https://doi.org/10.1016/j.jclinepi.2005.11.010"
+  },
+  {
+    "id": "R04",
+    "paragraph_id": "P043",
+    "apa": "Butcher, B., Zilka, M., Hron, J., Cook, D., & Weller, A. (2024). Optimising human-machine collaboration for efficient high-precision information extraction from text documents. ACM Journal on Responsible Computing, 1(2), Article 16. https://doi.org/10.1145/3652591",
+    "url": "https://doi.org/10.1145/3652591"
+  },
+  {
+    "id": "R05",
+    "paragraph_id": "P044",
+    "apa": "Chan, J. S., Chowdhury, N., Jaffe, O., Aung, J., Sherburn, D., Mays, E., Starace, G., Liu, K., Maksin, L., Patwardhan, T., Weng, L., & Mądry, A. (2024). MLE-bench: Evaluating machine learning agents on machine learning engineering [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2410.07095",
+    "url": "https://doi.org/10.48550/arXiv.2410.07095"
+  },
+  {
+    "id": "R06",
+    "paragraph_id": "P045",
+    "apa": "Courvoisier, D. S., Buitrago-Garcia, D., Buclin, C. P., Bürgisser, N., Iudici, M., & Mongin, D. (2025). Beyond human gold standards: A multimodel framework for automated abstract classification and information extraction. Research Synthesis Methods. Advance online publication. https://doi.org/10.1017/rsm.2025.10054",
+    "url": "https://doi.org/10.1017/rsm.2025.10054"
+  },
+  {
+    "id": "R07",
+    "paragraph_id": "P046",
+    "apa": "Farotimi, O., Dunn, A., Van Lissa, C. J., Polanin, J. R., Mavridis, D., & Pigott, T. D. (2026). Guidance for manuscript submissions testing the use of generative AI for systematic review and meta-analysis. Research Synthesis Methods, 17, 237–239. https://doi.org/10.1017/rsm.2025.10058",
+    "url": "https://doi.org/10.1017/rsm.2025.10058"
+  },
+  {
+    "id": "R08",
+    "paragraph_id": "P047",
+    "apa": "Flemyng, E., Noel-Storr, A., Macura, B., Gartlehner, G., Thomas, J., Meerpohl, J. J., Jordan, Z., Minx, J., Eisele-Metzger, A., Hamel, C., Jemioło, P., Porritt, K., & Grainger, M. (2025). Position statement on artificial intelligence (AI) use in evidence synthesis across Cochrane, the Campbell Collaboration, JBI, and the Collaboration for Environmental Evidence 2025. JBI Evidence Synthesis, 23(11), 2162–2166. https://doi.org/10.11124/JBIES-25-00480",
+    "url": "https://doi.org/10.11124/JBIES-25-00480"
+  },
+  {
+    "id": "R09",
+    "paragraph_id": "P048",
+    "apa": "Gartlehner, G., Kugley, S., Crotty, K., Viswanathan, M., Dobrescu, A., Nussbaumer-Streit, B., Booth, G., Treadwell, J. R., Han, J. M., Wagner, J., Apaydin, E. A., Coppola, E. L., Maglione, M., Hilscher, R., Chew, R., Pilar, M., Swanton, B., & Kahwati, L. C. (2025). AI-assisted data extraction with a large language model: A study within reviews [Preprint]. medRxiv. https://doi.org/10.1101/2025.03.20.25324350",
+    "url": "https://doi.org/10.1101/2025.03.20.25324350"
+  },
+  {
+    "id": "R10",
+    "paragraph_id": "P049",
+    "apa": "Gligorić, K., Zrnic, T., Lee, C., Candès, E. J., & Jurafsky, D. (2025). Can unconfident LLM annotations be used for confident conclusions? In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 3514–3533). Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.naacl-long.179",
+    "url": "https://doi.org/10.18653/v1/2025.naacl-long.179"
+  },
+  {
+    "id": "R11",
+    "paragraph_id": "P050",
+    "apa": "Hernández-Orallo, J., Collins, K. M., Cheke, L., Weidinger, L., Bhatt, U., Griffiths, T. L., & Cave, S. (2026). The next Turing tests: Reimagining conceptions and measures of AI. Science, 393(6811), 566–568. https://doi.org/10.1126/science.aee3176",
+    "url": "https://doi.org/10.1126/science.aee3176"
+  },
+  {
+    "id": "R12",
+    "paragraph_id": "P051",
+    "apa": "Holderness, E., Atwood, B., Verhagen, M., Shinn, A. K., Cawkwell, P., Cerruti, H., Pustejovsky, J., & Hall, M.-H. (2025). Machine learning in psychiatric health records: A gold standard approach to trauma annotation. Translational Psychiatry, 15, Article 260. https://doi.org/10.1038/s41398-025-03487-0",
+    "url": "https://doi.org/10.1038/s41398-025-03487-0"
+  },
+  {
+    "id": "R13",
+    "paragraph_id": "P052",
+    "apa": "Horton, J., Vandermeer, B., Hartling, L., Tjosvold, L., Klassen, T. P., & Buscemi, N. (2010). Systematic review data extraction: Cross-sectional study showed that experience did not increase accuracy. Journal of Clinical Epidemiology, 63(3), 289–298. https://doi.org/10.1016/j.jclinepi.2009.04.007",
+    "url": "https://doi.org/10.1016/j.jclinepi.2009.04.007"
+  },
+  {
+    "id": "R14",
+    "paragraph_id": "P053",
+    "apa": "Jansen, T., Liebenow, L. W., Mertens, U., Schmidt, F. T. C., Lohmann, J. F., Fleckenstein, J., & Meyer, J. (2025). Data extraction by generative artificial intelligence: Assessing determinants of accuracy using human-extracted data from systematic-review databases. Psychological Bulletin, 151(10), 1280–1306. https://doi.org/10.1037/bul0000501",
+    "url": "https://doi.org/10.1037/bul0000501"
+  },
+  {
+    "id": "R15",
+    "paragraph_id": "P054",
+    "apa": "Jansen, T., Liebenow, L. W., Schaller, N.-J., Hattie, J., & Möller, J. (2026). Automated data extraction by large language models: Assessing accuracy in comparison to human experts using the example of Visible Learning. Educational Psychology Review, 38, Article 38. https://doi.org/10.1007/s10648-026-10136-5",
+    "url": "https://doi.org/10.1007/s10648-026-10136-5"
+  },
+  {
+    "id": "R16",
+    "paragraph_id": "P055",
+    "apa": "Jones, A. P., Remmington, T., Williamson, P. R., Ashby, D., & Smyth, R. L. (2005). High prevalence but low impact of data extraction and reporting errors were found in Cochrane systematic reviews. Journal of Clinical Epidemiology, 58(7), 741–742. https://doi.org/10.1016/j.jclinepi.2004.11.010",
+    "url": "https://doi.org/10.1016/j.jclinepi.2004.11.010"
+  },
+  {
+    "id": "R17",
+    "paragraph_id": "P056",
+    "apa": "Jonnalagadda, S. R., Goyal, P., & Huffman, M. D. (2015). Automating data extraction in systematic reviews: A systematic review. Systematic Reviews, 4, Article 78. https://doi.org/10.1186/s13643-015-0066-7",
+    "url": "https://doi.org/10.1186/s13643-015-0066-7"
+  },
+  {
+    "id": "R18",
+    "paragraph_id": "P057",
+    "apa": "Li, D., Jiang, B., Huang, L., Beigi, A., Zhao, C., Tan, Z., Bhattacharjee, A., Jiang, Y., Chen, C., Wu, T., Shu, K., Cheng, L., & Liu, H. (2025). From generation to judgment: Opportunities and challenges of LLM-as-a-judge. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (pp. 2757–2791). Association for Computational Linguistics. https://doi.org/10.18653/v1/2025.emnlp-main.138",
+    "url": "https://doi.org/10.18653/v1/2025.emnlp-main.138"
+  },
+  {
+    "id": "R19",
+    "paragraph_id": "P058",
+    "apa": "Li, T., Saldanha, I. J., Jap, J., Smith, B. T., Canner, J., Hutfless, S. M., Branch, V., Carini, S., Chan, W., De Bruijn, B., Wallace, B. C., Walsh, S. A., Whamond, E. J., Murad, M. H., Sim, I., Berlin, J. A., Lau, J., Dickersin, K., & Schmid, C. H. (2019). A randomized trial provided new evidence on the accuracy and efficiency of traditional vs. electronically annotated abstraction approaches in systematic reviews. Journal of Clinical Epidemiology, 115, 77–89. https://doi.org/10.1016/j.jclinepi.2019.07.005",
+    "url": "https://doi.org/10.1016/j.jclinepi.2019.07.005"
+  },
+  {
+    "id": "R20",
+    "paragraph_id": "P059",
+    "apa": "Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement is not quality: Blind expert verification of human and LLM qualitative coding when human consensus is not ground truth [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2607.28890",
+    "url": "https://doi.org/10.48550/arXiv.2607.28890"
+  },
+  {
+    "id": "R21",
+    "paragraph_id": "P060",
+    "apa": "Liu, J., Pei, J., Huang, J., Si, C., Qu, A., Tang, X., Lu, R., Chen, L., Bai, X., Zheng, H., Chen, C., Chen, Z., Ye, H., Fu, Y., He, Z., Jin, Z., Zhang, Z., Sun, S., Harmon, M., . . . Zhang, Z. (2026). The last human-written paper: Agent-native research artifacts [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2604.24658",
+    "url": "https://doi.org/10.48550/arXiv.2604.24658"
+  },
+  {
+    "id": "R22",
+    "paragraph_id": "P061",
+    "apa": "Lu, J., & Wang, X. T. (2026). Tackling challenges in large language model–based data extraction via context engineering: A commentary on Jansen et al. (2025). Psychological Bulletin, 152(4), 404–419. https://doi.org/10.1037/bul0000520",
+    "url": "https://doi.org/10.1037/bul0000520"
+  },
+  {
+    "id": "R23",
+    "paragraph_id": "P062",
+    "apa": "Macnamara, B. N. (2026). Artificial intelligence as a partner in meta-analysis—Research agenda, user recommendations, and speed–accuracy tradeoffs: Commentary on Jansen et al. (2025). Psychological Bulletin, 152(3), 349–354. https://doi.org/10.1037/bul0000519",
+    "url": "https://doi.org/10.1037/bul0000519"
+  },
+  {
+    "id": "R24",
+    "paragraph_id": "P063",
+    "apa": "Manrai, A. K. (2026). Medical AI has a measurement problem. Nature, 655(8125), 1138–1139. https://doi.org/10.1038/d41586-026-02125-z",
+    "url": "https://doi.org/10.1038/d41586-026-02125-z"
+  },
+  {
+    "id": "R25",
+    "paragraph_id": "P064",
+    "apa": "Mathes, T., Klassen, P., & Pieper, D. (2017). Frequency of data extraction errors and methods to increase data extraction quality: A methodological review. BMC Medical Research Methodology, 17, Article 152. https://doi.org/10.1186/s12874-017-0431-4",
+    "url": "https://doi.org/10.1186/s12874-017-0431-4"
+  },
+  {
+    "id": "R26",
+    "paragraph_id": "P065",
+    "apa": "OpenAI. (2026). Codex-maxxing for long-running work: How Codex helps work continue beyond a single prompt [White paper]. https://cdn.openai.com/pdf/8a9f00cf-d379-4e20-b06f-dd7ba5196a11/OAI_WhitePaper_Codex-maxxing26.pdf",
+    "url": "https://cdn.openai.com/pdf/8a9f00cf-d379-4e20-b06f-dd7ba5196a11/OAI_WhitePaper_Codex-maxxing26.pdf"
+  },
+  {
+    "id": "R27",
+    "paragraph_id": "P066",
+    "apa": "OpenClaw. (2026, July 13). OpenClaw v2026.7.1 release notes. https://docs.openclaw.ai/releases/2026.7.1",
+    "url": "https://docs.openclaw.ai/releases/2026.7.1"
+  },
+  {
+    "id": "R28",
+    "paragraph_id": "P067",
+    "apa": "Ouyang, L., Qu, Y., Zhou, H., Zhu, J., Zhang, R., Lin, Q., Wang, B., Zhao, Z., Jiang, M., Zhao, X., Shi, J., Wu, F., Chu, P., Liu, M., Li, Z., Xu, C., Zhang, B., Shi, B., Tu, Z., & He, C. (2025). OmniDocBench: Benchmarking diverse PDF document parsing with comprehensive annotations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 24838–24848). IEEE. https://openaccess.thecvf.com/content/CVPR2025/html/Ouyang_OmniDocBench_Benchmarking_Diverse_PDF_Document_Parsing_with_Comprehensive_Annotations_CVPR_2025_paper.html",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Ouyang_OmniDocBench_Benchmarking_Diverse_PDF_Document_Parsing_with_Comprehensive_Annotations_CVPR_2025_paper.html"
+  },
+  {
+    "id": "R29",
+    "paragraph_id": "P068",
+    "apa": "Porsdam Mann, S., Vazirani, A. A., Aboy, M., Earp, B. D., Minssen, T., Cohen, I. G., & Savulescu, J. (2024). Guidelines for ethical use and acknowledgement of large language models in academic writing. Nature Machine Intelligence, 6(11), 1272–1274. https://doi.org/10.1038/s42256-024-00922-7",
+    "url": "https://doi.org/10.1038/s42256-024-00922-7"
+  },
+  {
+    "id": "R30",
+    "paragraph_id": "P069",
+    "apa": "Pustejovsky, J., & Stubbs, A. (2013). Natural language annotation for machine learning: A guide to corpus-building for applications. O’Reilly Media.",
+    "url": ""
+  },
+  {
+    "id": "R31",
+    "paragraph_id": "P070",
+    "apa": "Raj, H., Gupta, V., Mahmoud, A., Dumitru, R.-G., Yi, D., Sabharwal, A., & He, Y. (2026). Model or harness? An interaction-centric taxonomy for localizing agent failures [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2607.28802",
+    "url": "https://doi.org/10.48550/arXiv.2607.28802"
+  },
+  {
+    "id": "R32",
+    "paragraph_id": "P071",
+    "apa": "Rouzrokh, P., Khosravi, B., Rouzrokh, P., & Shariatnia, M. (2025). LatteReview: A multi-agent framework for systematic review automation using large language models [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2501.05468",
+    "url": "https://doi.org/10.48550/arXiv.2501.05468"
+  },
+  {
+    "id": "R33",
+    "paragraph_id": "P072",
+    "apa": "Shankar, R., Lim, A., & Qian, X. (2026). Performance of large language models in data extraction for evidence synthesis: A systematic review. Journal of Biomedical Informatics, Article 105086. Advance online publication. https://doi.org/10.1016/j.jbi.2026.105086",
+    "url": "https://doi.org/10.1016/j.jbi.2026.105086"
+  },
+  {
+    "id": "R34",
+    "paragraph_id": "P073",
+    "apa": "Taherinezhad, M., Maier, S., Vitagliano, G., Pierri, F., & Feuerriegel, S. (2026). AutoSynthesis: An agentic system for automated meta-analysis [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2607.15247",
+    "url": "https://doi.org/10.48550/arXiv.2607.15247"
+  },
+  {
+    "id": "R35",
+    "paragraph_id": "P074",
+    "apa": "Thomas, J., Flemyng, E., & Noel-Storr, A. (2025a). Responsible use of AI in evidence SynthEsis (RAISE) 1: Recommendations for practice. Open Science Framework. https://doi.org/10.17605/OSF.IO/FWAUD",
+    "url": "https://doi.org/10.17605/OSF.IO/FWAUD"
+  },
+  {
+    "id": "R36",
+    "paragraph_id": "P075",
+    "apa": "Thomas, J., Flemyng, E., & Noel-Storr, A. (2025b). Responsible use of AI in evidence SynthEsis (RAISE) 2: Building and evaluating AI evidence synthesis tools. Open Science Framework. https://doi.org/10.17605/OSF.IO/FWAUD",
+    "url": "https://doi.org/10.17605/OSF.IO/FWAUD"
+  },
+  {
+    "id": "R37",
+    "paragraph_id": "P076",
+    "apa": "Thomas, J., Flemyng, E., & Noel-Storr, A. (2025c). Responsible use of AI in evidence SynthEsis (RAISE) 3: Selecting and using AI evidence synthesis tools. Open Science Framework. https://doi.org/10.17605/OSF.IO/FWAUD",
+    "url": "https://doi.org/10.17605/OSF.IO/FWAUD"
+  },
+  {
+    "id": "R38",
+    "paragraph_id": "P077",
+    "apa": "Villiger, J., Schweiger, S. A., & Baldauf, A. (2022). Making the invisible visible: Guidelines for the coding process in meta-analyses. Organizational Research Methods, 25(4), 716–740. https://doi.org/10.1177/10944281211046312",
+    "url": "https://doi.org/10.1177/10944281211046312"
+  },
+  {
+    "id": "R39",
+    "paragraph_id": "P078",
+    "apa": "Vodrahalli, K., Ontañón, S., Tripuraneni, N., Xu, K., Jain, S., Shivanna, R., Hui, J., Dikkala, N., Kazemi, M., Fatemi, B., Anil, R., Dyer, E., Shakeri, S., Vij, R., Mehta, H., Ramasesh, V., Le, Q., Chi, E., Lu, Y., . . . Olszewska, K. (2024). Michelangelo: Long context evaluations beyond haystacks via latent structure queries [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2409.12640",
+    "url": "https://doi.org/10.48550/arXiv.2409.12640"
+  },
+  {
+    "id": "R40",
+    "paragraph_id": "P079",
+    "apa": "Wang, Z., Cao, L., Jin, Q., Chan, J., Wan, N., Afzali, B., Cho, H. J., Choi, C. I., Emamverdi, M., Gill, M. K., Kim, S. H., Li, Y., Liu, Y., Luo, Y., Ong, H., Rousseau, J. F., Sheikh, I., Wei, J. J., Xu, Z., . . . Sun, J. (2025). A foundation model for human–AI collaboration in medical literature mining. Nature Communications, 16, Article 8361. https://doi.org/10.1038/s41467-025-62058-5",
+    "url": "https://doi.org/10.1038/s41467-025-62058-5"
+  },
+  {
+    "id": "R41",
+    "paragraph_id": "P080",
+    "apa": "Xavier, C., Rodrigues, L., Valdo, A., Carvalho, A., Matos, G., Kalinke, L., Vilela, R., Resende, E., Moraes, T., Silva, M., Nobre-Silva, N., Costa, N., Ribeiro, F., Pinheiro, A., Gasevic, D., & Mello, R. F. (2026). From solo graders to assisted annotation: Integrating LLM suggestions into the educational data creation pipeline. In Proceedings of the LAK26: 16th International Learning Analytics and Knowledge Conference (pp. 96–105). Association for Computing Machinery. https://doi.org/10.1145/3785022.3785033",
+    "url": "https://doi.org/10.1145/3785022.3785033"
+  },
+  {
+    "id": "R42",
+    "paragraph_id": "P081",
+    "apa": "Xi, S., Rao, V., Payan, J., & Shah, N. B. (2025). FLAWS: A benchmark for error identification and localization in scientific papers [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2511.21843",
+    "url": "https://doi.org/10.48550/arXiv.2511.21843"
+  },
+  {
+    "id": "R43",
+    "paragraph_id": "P082",
+    "apa": "Xu, W., Zhang, W., Ling, F., Fei, B., Hu, Y., Ma, R., Zhang, B., Ren, F., Lin, J., Ouyang, W., & Bai, L. (2025). Manalyzer: End-to-end automated meta-analysis with multi-agent system [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2505.20310",
+    "url": "https://doi.org/10.48550/arXiv.2505.20310"
+  },
+  {
+    "id": "R44",
+    "paragraph_id": "P083",
+    "apa": "Zeng, J., Wang, H., Bunt, H., Cao, X., Cardey, S., Dong, M., Hao, T., Jia, Y., Lee, K., Liao, S., Pustejovsky, J., Rey, F. C., Romary, L., Zong, J., & Fang, A. C. (2025). Enhanced evaluative language annotation through refined theoretical framework and workflow. In Proceedings of the 21st Joint ACL-ISO Workshop on Interoperable Semantic Annotation (ISA-21) (pp. 76–84). Association for Computational Linguistics. https://aclanthology.org/2025.isa-1.8/",
+    "url": "https://aclanthology.org/2025.isa-1.8/"
+  },
+  {
+    "id": "R45",
+    "paragraph_id": "P084",
+    "apa": "Zhang, Y., Liao, Q. V., & Bellamy, R. K. E. (2020). Effect of confidence and explanation on accuracy and trust calibration in AI-assisted decision making. In Proceedings of the 2020 ACM Conference on Fairness, Accountability, and Transparency (pp. 295–305). Association for Computing Machinery. https://doi.org/10.1145/3351095.3372852",
+    "url": "https://doi.org/10.1145/3351095.3372852"
+  }
+]

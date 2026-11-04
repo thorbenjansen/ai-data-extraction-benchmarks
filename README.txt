@@ -61,3 +61,12 @@ The source archive manifest records all input checksums. The complete selection
 script and validation are included. The frozen snapshot predates GitHub publication. The supplement is now public
 at https://thorbenjansen.github.io/ai-data-extraction-benchmarks/ .
 No journal submission was made by this publication workflow.
+
+CURRENT WORKFLOW/LITERATURE AND AI RESOURCES (4 November 2026)
+Open index.html#article-materials for the shared entry point.
+materials/workflow.html is the current reader guide.
+materials/literature.html contains the manuscript references and workflow roles.
+materials/ai.html explains the downloadable current AI research package.
+Both reader and AI ZIP files are in materials/downloads/.
+These resources supersede the earlier rejoinder-draft navigation and leave
+the 50-benchmark source data and figures unchanged.

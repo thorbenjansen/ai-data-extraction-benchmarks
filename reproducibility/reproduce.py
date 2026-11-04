@@ -6,4 +6,6 @@ out=Path(sys.argv[1]).expanduser().resolve()
 if out.exists():raise SystemExit('Choose a new output folder.')
 shutil.copytree(here,out,ignore=shutil.ignore_patterns('.git','__pycache__','*.pyc'))
 subprocess.run([sys.executable,str(out/'reproducibility/validate_selection.py')],check=True)
+if(out/'materials').is_dir():
+ subprocess.run([sys.executable,str(out/'reproducibility/validate_article_materials.py')],check=True)
 print('Reproduced the frozen selected-50 snapshot:',out)

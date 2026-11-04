@@ -1,0 +1,16 @@
+{
+  "version": "2026-11-04",
+  "source_manuscript_sha256": "181c806a276189ba1e7ba01ee0cc37f8e426dadacde2ede19bca7d853c142783",
+  "source_manuscript_not_modified": true,
+  "workflow_modules": 12,
+  "current_manuscript_references": 45,
+  "source_aras_retained": 203,
+  "benchmark_cards": 50,
+  "source_observations": 4094,
+  "old_draft_navigation_replaced": true,
+  "new_model_evaluations": false,
+  "downloads": {
+    "AI_Research_Package_2026-11-04.zip": "05be4d92c5db3da85589ca8a59361bf14c8a853b17ce9720ab0a9555ad68392d",
+    "Workflow_Literature_Supplement_2026-11-04.zip": "caee31ac1ffbac7ce0840016b031c699ed880280393a898e2aea5d3b1460ffd8"
+  }
+}

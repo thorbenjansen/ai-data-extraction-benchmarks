@@ -1,0 +1,170 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Illustrative extraction decision event",
+  "description": "Research template, not a validated reporting standard. Null records an unavailable or inapplicable value; it is not evidence of absence.",
+  "type": "object",
+  "required": [
+    "event_id",
+    "step",
+    "actor",
+    "condition_id",
+    "instruction_version",
+    "source",
+    "decision",
+    "uncertainty"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string"
+    },
+    "step": {
+      "enum": [
+        "protocol",
+        "documents",
+        "retrieve",
+        "bind",
+        "code",
+        "coordinate",
+        "derive",
+        "verify",
+        "collaborate",
+        "adjudicate",
+        "product",
+        "audit"
+      ]
+    },
+    "actor": {
+      "type": "object",
+      "required": [
+        "type",
+        "identifier"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "human expert",
+            "research assistant",
+            "LLM",
+            "human-AI",
+            "adjudicator"
+          ]
+        },
+        "identifier": {
+          "type": "string"
+        },
+        "model_snapshot": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "harness_and_tools": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "training_or_expertise": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "condition_id": {
+      "type": "string"
+    },
+    "instruction_version": {
+      "type": "string"
+    },
+    "codebook_version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "document_id",
+        "locator"
+      ],
+      "properties": {
+        "document_id": {
+          "type": "string"
+        },
+        "locator": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_version": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "decision": {
+      "type": "object",
+      "required": [
+        "candidate_value",
+        "disposition",
+        "reason"
+      ],
+      "properties": {
+        "candidate_value": {},
+        "disposition": {
+          "enum": [
+            "proposed",
+            "accepted",
+            "rejected",
+            "corrected",
+            "escalated",
+            "unresolved"
+          ]
+        },
+        "reason": {
+          "type": "string"
+        },
+        "alternatives_considered": {
+          "type": "array"
+        }
+      }
+    },
+    "transformation": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "initial_judgment_before_assistance": {},
+    "assistance_exposure_time": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verification": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "reference_definition": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "uncertainty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

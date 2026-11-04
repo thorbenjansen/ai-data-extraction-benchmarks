@@ -10,6 +10,16 @@ This repository publishes the selected 50-benchmark supplementary atlas for AI-s
 - [Methods](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/methods.html)
 - [Complete PDF atlas](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/All_Benchmarks_Article_Atlas.pdf)
 
+## Current article companions (4 November 2026)
+
+- [All article materials](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html#article-materials)
+- [Workflow and literature guide](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/materials/workflow.html): 12 candidate research components and 45 manuscript bibliography records.
+- [AI research package](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/materials/ai.html): current argument and agent entry points, 203 retained source ARAs, 50 benchmark cards, and unchanged benchmark data.
+
+The current reader and agent resources replace the earlier draft-centered navigation. They are aligned to the saved manuscript snapshot identified in `materials/version.json`; the source manuscript is not published or modified. The original study's agreement comparison is kept distinct from independently assessed accuracy, and no general human-versus-LLM accuracy ordering is assumed. Candidate workflow components and research record templates are not presented as a validated universal workflow.
+
+To rebuild these resources, use Python with lxml and Pandoc, download the original public OSF AI archive listed in `reproducibility/materials_sources/context.json`, and run `python reproducibility/build_article_materials.py --source-ai-zip /path/to/archive.zip`, followed by `python reproducibility/unified_home.py` and `python reproducibility/validate_article_materials.py`. The original archive's checksum is checked before use. The complete source ARA corpus remains inside the downloadable current AI package.
+
 The snapshot contains 4,094 source observations across 391 separately identified test conditions. Forty families supply 1,716 plotted time-series observations; families without supported dated observations remain documented without invented time-series points. Each benchmark has APA references, source-bound scores, and a mapping to workflow steps and commentary challenges. Click a figure to inspect its data.
 
 ## Interpretation
