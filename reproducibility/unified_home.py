@@ -145,7 +145,7 @@ def build():
     body += f'''</select></label><button type="button" id="flow-reset">Show all selected benchmarks</button><span id="flow-count" role="status" aria-live="polite">{len(register)} benchmark families · 4 challenges</span></div>
 <p class="flow-help">Hover over a point for its model, score and reference; click or tap to keep the details open. X: documented model release date. Y: the original benchmark metric. Dashed curves describe mean performance within the named test condition. Calendar ranges can differ. <a href="methods.html#figure-order">Figure order</a> · <a href="methods.html#interactive-points">Using the interactive figures</a>.</p>
 <div class="supplement-links"><a href="model-releases.html">Model release-date sources</a><a href="methods.html#mean-curves">Mean-curve methods</a><a href="methods.html#progress-selection">Selection and limits</a><a href="evidence.html">Screening record</a></div></div>
-<details class="unified-workflow" id="workflow-map"><summary>The 12 workflow steps and their links to A–D</summary><p>Challenge badges indicate links through the mapped benchmark tasks. They do not establish that an entire step is validated. Select a step to filter the figures below.</p><div class="workflow-tiles">'''
+<details class="unified-workflow" id="workflow-map"><summary>Links to the challenges A–D from Lu &amp; Wang (2026)</summary><p>Challenge badges indicate links through the mapped benchmark tasks. They do not establish that an entire step is validated. Select a step to filter the figures below.</p><div class="workflow-tiles">'''
     for i, sid in enumerate(ORDER, 1):
         families = [f for f in byfamily if sid in stepmap[f]]
         if sid == 'audit':
