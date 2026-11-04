@@ -20,7 +20,10 @@ assert len(load(M/'AI Data Extraction Workflow 2026-11-04.canvas')['nodes'])==12
 assert set(load(M/'extraction_event.schema.json')['properties']['step']['enum'])==ids
 with(ROOT/'data/article_benchmark_register.csv').open(encoding='utf-8-sig')as f:reg=list(csv.DictReader(f))
 families={r['family']for r in reg};assert len(families)==50
-for m in modules:assert set(m['benchmark_families'])<=families
+progress=load(ROOT/'data/progress_selection.json');selected=set(progress['families'])
+for m in modules:
+    assert set(m['benchmark_families'])<=selected
+    assert set(m['source_archive_benchmark_families'])<=families
 assert next(m for m in modules if m['id']=='audit')['benchmark_role']=='partial diagnostic only'
 assert not next(m for m in modules if m['id']=='collaborate')['benchmark_families']
 assert not next(m for m in modules if m['id']=='adjudicate')['benchmark_families']
@@ -33,7 +36,9 @@ with zipfile.ZipFile(M/'downloads/AI_Research_Package_2026-11-04.zip')as z:
     for path,digest in manifest['files'].items():assert sha(z.read(prefix+path))==digest,path
     source_index=json.loads(z.read(prefix+'literature/source_index.json'));assert len(source_index)==203
     assert all(prefix+r['paper_path']in names for r in source_index)
-    assert sum(n.startswith(prefix+'benchmarks/')and n.endswith('.md')for n in names)==50
+    assert sum(n.startswith(prefix+'benchmarks/')and n.endswith('.md')for n in names)==len(selected)
+    assert sum(n.startswith(prefix+'archive/benchmarks/')and n.endswith('.md')for n in names)==50-len(selected)
+    assert manifest['current_benchmark_families']==len(selected)
     assert sum(n.startswith(prefix+'workflow/')and Path(n).name[:2].isdigit()and n.endswith('.md')for n in names)==12
     assert json.loads(z.read(prefix+'CURRENT_CONTEXT.json'))==context
     assert 'REJOINDER_CONTEXT.md'not in [n[len(prefix):]for n in names]
@@ -71,8 +76,8 @@ for path,doc in cache.items():
         if u.fragment and target.suffix=='.html':assert unquote(u.fragment)in cache[target].xpath('//@id'),(path.name,link)
 home=cache[(ROOT/'index.html').resolve()]
 assert home.xpath('//*[@id="article-materials"]')
-assert len(home.xpath('//article[@data-family]'))==86
+assert {c.get('data-family')for c in home.xpath('//article[@data-family]')}==selected
 assert not (ROOT/'claims.html').exists()
 assert len(cache[(M/'workflow.html').resolve()].xpath('//h3[starts-with(@id,"module-")]'))==12
-report={'status':'passed','version':'2026-11-04','reader_and_ai_packages_reopened':True,'source_ara_paths_checked':203,'benchmark_cards':50,'workflow_modules':12,'reference_entries':45,'source_observations':4094,'copied_benchmark_data_files_byte_identical':len(data_files),'active_html_pages_checked':len(pages),'local_links_checked':links,'obsolete_commentary_page_absent':True,'source_manuscript_not_published':True,'old_draft_navigation_not_reused':True}
+report={'status':'passed','version':'2026-11-04','reader_and_ai_packages_reopened':True,'source_ara_paths_checked':203,'current_benchmark_cards':len(selected),'archived_benchmark_cards':50-len(selected),'workflow_modules':12,'reference_entries':45,'source_observations':4094,'copied_benchmark_data_files_byte_identical':len(data_files),'active_html_pages_checked':len(pages),'local_links_checked':links,'obsolete_commentary_page_absent':True,'source_manuscript_not_published':True,'old_draft_navigation_not_reused':True}
 (M/'validation.json').write_text(json.dumps(report,indent=2)+'\n');print(json.dumps(report,indent=2))

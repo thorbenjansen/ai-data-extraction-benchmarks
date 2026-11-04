@@ -44,12 +44,14 @@ for p in benchmark_pages:
     assert len(doc.xpath('//*[@class="records"]//tbody/tr'))==sum(r['family']==next(x['family']for x in reg if Path(x['html']).name==p.name)for r in raw)
     assert not doc.xpath('//*[@id="records"]/@open'),'Raw values must remain collapsed until requested'
 home=H.fromstring((ROOT/'index.html').read_bytes());cards=home.xpath('//article[@data-family]')
-assert len(cards)==86 and{c.get('data-family')for c in cards}==families
+progress=json.loads((ROOT/'data/progress_selection.json').read_text());selected=set(progress['families'])
+current_maps=[m for m in maps if m['family']in selected]
+assert len(cards)==len(current_maps) and{c.get('data-family')for c in cards}==selected
 sections=home.xpath('//section[@data-challenge]')
 assert [s.get('data-challenge')for s in sections]==list('ABCD')
 for section in sections:
     challenge=section.get('data-challenge')
-    expected={m['family']for m in maps if m['challenge']==challenge}
+    expected={m['family']for m in current_maps if m['challenge']==challenge}
     assert {c.get('data-family')for c in section.xpath('.//article[@data-family]')}==expected
 for card in cards:
     family=card.get('data-family')
@@ -90,5 +92,5 @@ assert'2,036 eligible points'not in cover and'125 definition-held'not in cover
 for r in ix:
     page=pdf.pages[int(r['first_page'])-1];text=page.extract_text();assert r['figure_id']in text and'Challenges:'in text
     if r['family']=='VaxScope':assert'no visible mean curve:'in text
-result=dict(status='passed',benchmark_families=50,source_observations=4094,conditions=391,challenge_assignments=86,challenge_family_counts=dict(counts),visible_observations=1716,unchanged_figure_assets=len(assets),local_links_checked=links_checked,local_anchors_checked=anchors_checked,pdf_pages=len(pdf.pages),pdf_family_chapters=50,all_source_rows_have_result_and_benchmark_references=True)
+result=dict(status='passed',current_benchmark_families=len(selected),current_homepage_assignments=len(cards),current_dated_observations=progress['counts']['displayed_source_observations'],archive_benchmark_families=50,source_observations=4094,archive_conditions=391,archive_challenge_assignments=86,archive_challenge_family_counts=dict(counts),archive_visible_observations=1716,unchanged_figure_assets=len(assets),local_links_checked=links_checked,local_anchors_checked=anchors_checked,pdf_pages=len(pdf.pages),pdf_family_chapters=50,all_source_rows_have_result_and_benchmark_references=True)
 (ROOT/'validation.json').write_text(json.dumps(result,indent=2)+'\n');print(json.dumps(result,indent=2))

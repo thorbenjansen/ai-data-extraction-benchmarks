@@ -1,37 +1,19 @@
 {
   "status": "passed",
-  "main_overview_pages": 1,
+  "current_families": 8,
   "challenge_sections": 4,
-  "challenge_counts": {
-    "A": 24,
-    "B": 25,
-    "C": 17,
-    "D": 20
-  },
-  "unique_benchmark_families": 50,
-  "challenge_assignments": 86,
+  "homepage_assignments": 13,
+  "condition_options_unique": 27,
+  "dated_observations_unique": 650,
   "workflow_steps": 12,
-  "legacy_entry_points_redirected": [
-    "workflow.html",
-    "challenges.html",
-    "all-benchmarks.html"
+  "archived_families": 50,
+  "source_cutoff": "2026-10-31",
+  "checks": [
+    "Workflow audit filter shows the evidence gap and zero selected families",
+    "Reset restores all eight families",
+    "LongBench short no-CoT switches to series_10 with 18 shown observations and its reference",
+    "Search ProcessBench yields one family in two challenges",
+    "Criteria page explains outcome selection and retains complete decisions"
   ],
-  "browser_checks": [
-    "search",
-    "workflow dropdown",
-    "chronological workflow buttons",
-    "horizontal benchmark navigation",
-    "condition selector and APA reference update",
-    "figure to raw data and sources",
-    "evidence gap display",
-    "partial audit diagnostics",
-    "all three legacy entry points and anchors"
-  ],
-  "unchanged_scientific_files": 1011,
-  "unchanged_figure_assets": 882,
-  "data_dates_conditions_and_curves_unchanged": true,
-  "new_model_evaluations": false,
-  "commentary_requirements_page_removed": true,
-  "commentary_requirements_navigation_links_removed": true,
-  "html_pages": 57
+  "browser_scope": "Representative affected controls and existing figures inspected; frozen figure assets retained unchanged"
 }

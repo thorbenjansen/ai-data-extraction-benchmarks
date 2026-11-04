@@ -1,0 +1,51 @@
+﻿figure_id,family,included,adequate_conditions,progress_conditions,contrary_conditions,commentary_challenges,workflow_steps,reason
+F001,OmniDocBench,True,1,1,0,A,documents; bind,Included: at least one well-populated positive series and no contrary adequately sampled series
+F002,READoc,False,0,0,0,A,documents; bind,No condition meets the minimum data and temporal-coverage criteria
+F003,olmOCR-bench,True,1,1,0,A,documents; bind,Included: at least one well-populated positive series and no contrary adequately sampled series
+F004,OCRBench,False,0,0,0,A,documents; bind,No condition meets the minimum data and temporal-coverage criteria
+F005,MDPBench,False,0,0,0,A,documents; bind,No condition meets the minimum data and temporal-coverage criteria
+F006,PureDocBench,True,3,3,0,A,documents; bind,Included: at least one well-populated positive series and no contrary adequately sampled series
+F007,Dr. DocBench,False,0,0,0,A,documents; bind,No condition meets the minimum data and temporal-coverage criteria
+F008,DocVQA,False,0,0,0,A,documents; bind,No condition meets the minimum data and temporal-coverage criteria
+F010,ChartQA,False,0,0,0,A; C,bind; derive,No condition meets the minimum data and temporal-coverage criteria
+F011,ChartQAPro,False,0,0,0,A; C,bind; derive,No condition meets the minimum data and temporal-coverage criteria
+F012,HiTab,False,0,0,0,A; C,bind; derive,No condition meets the minimum data and temporal-coverage criteria
+F013,MultiHiertt,False,0,0,0,A; B; C,retrieve; bind; derive,No condition meets the minimum data and temporal-coverage criteria
+F014,TAT-QA,False,0,0,0,A; C,bind; derive,No condition meets the minimum data and temporal-coverage criteria
+F015,FinQA,False,0,0,0,A; C; D,bind; coordinate; derive,No condition meets the minimum data and temporal-coverage criteria
+F018,DocMath-Eval,False,8,0,0,A; B; C,retrieve; bind; derive,"Adequately sampled, but no series meets the positive-trend criteria"
+F019,MMLongBench-Doc,False,0,0,0,A; B,documents; retrieve; bind,No condition meets the minimum data and temporal-coverage criteria
+F020,LongBench,True,12,10,0,B; D,retrieve; bind; coordinate,Included: at least one well-populated positive series and no contrary adequately sampled series
+F021,RULER,True,6,1,0,B; D,retrieve; coordinate,Included: at least one well-populated positive series and no contrary adequately sampled series
+F022,HELMET,False,0,0,0,B; D,retrieve; coordinate; verify,No condition meets the minimum data and temporal-coverage criteria
+F023,NoLiMa,False,0,0,0,B; D,retrieve; coordinate,No condition meets the minimum data and temporal-coverage criteria
+F024,InfiniteBench,False,0,0,0,B; C; D,retrieve; coordinate; derive,No condition meets the minimum data and temporal-coverage criteria
+F026,MRCR,False,0,0,0,B,retrieve,No condition meets the minimum data and temporal-coverage criteria
+F031,GSM-Symbolic,True,2,2,0,C,protocol; code; derive,Included: at least one well-populated positive series and no contrary adequately sampled series
+F033,DROP,False,0,0,0,B; C,retrieve; bind; derive,No condition meets the minimum data and temporal-coverage criteria
+F034,FRAMES,False,0,0,0,B; D,retrieve; coordinate; verify,No condition meets the minimum data and temporal-coverage criteria
+F035,MuSiQue,False,0,0,0,B; D,retrieve; coordinate,No condition meets the minimum data and temporal-coverage criteria
+F036,HotpotQA,False,0,0,0,B; D,retrieve; coordinate; verify,No condition meets the minimum data and temporal-coverage criteria
+F038,QASPER,False,0,0,0,B,retrieve; bind; verify,No condition meets the minimum data and temporal-coverage criteria
+F040,SciAssess,False,0,0,0,A; B; D,retrieve; bind; coordinate,No condition meets the minimum data and temporal-coverage criteria
+F041,LAB-Bench,False,0,0,0,A; B; D,retrieve; bind; coordinate; verify,No condition meets the minimum data and temporal-coverage criteria
+F044,CORE-Bench,False,0,0,0,D,coordinate; verify,No condition meets the minimum data and temporal-coverage criteria
+F046,GAIA,False,0,0,0,B; D,retrieve; coordinate,No condition meets the minimum data and temporal-coverage criteria
+F047,BFCL,False,12,3,5,D,protocol; code; coordinate,Mixed evidence: at least one adequately sampled condition has a nonpositive or inconsistent direction
+F051,ComplexBench,False,0,0,0,D,protocol; code; coordinate,No condition meets the minimum data and temporal-coverage criteria
+F059,ALCE,False,0,0,0,B,retrieve; verify,No condition meets the minimum data and temporal-coverage criteria
+F065,RoBBR,False,0,0,0,B,retrieve; code; verify,No condition meets the minimum data and temporal-coverage criteria
+F066,TrialReviewBench,False,0,0,0,B; D,retrieve; bind; coordinate; product,No condition meets the minimum data and temporal-coverage criteria
+F067,Manalyzer,False,0,0,0,A; B; C; D,retrieve; bind; coordinate; derive; product,No condition meets the minimum data and temporal-coverage criteria
+F068,DTBench,False,0,0,0,C,protocol; bind; code; derive; verify; product,No condition meets the minimum data and temporal-coverage criteria
+F069,UNIKIE-BENCH,False,0,0,0,A,protocol; documents; bind; code; product,No condition meets the minimum data and temporal-coverage criteria
+F073,TableBench,True,1,1,0,A; C; D,bind; coordinate; derive,Included: at least one well-populated positive series and no contrary adequately sampled series
+F074,SUC,False,0,0,0,A,protocol; bind; code,No condition meets the minimum data and temporal-coverage criteria
+F075,NUPA,False,0,0,0,C,derive,No condition meets the minimum data and temporal-coverage criteria
+F076,Symbolic manipulation,False,0,0,0,C,protocol; code; derive,No condition meets the minimum data and temporal-coverage criteria
+F077,ProcessBench,True,1,1,0,C; D,coordinate; derive; verify,Included: at least one well-populated positive series and no contrary adequately sampled series
+F078,NIAH,False,0,0,0,B,retrieve,No condition meets the minimum data and temporal-coverage criteria
+F079,LooGLE,False,0,0,0,B; C; D,retrieve; coordinate; derive; verify,No condition meets the minimum data and temporal-coverage criteria
+F080,MM-NIAH,False,0,0,0,A; B,retrieve; bind,No condition meets the minimum data and temporal-coverage criteria
+F081,VaxScope,False,0,0,0,B,protocol; retrieve; bind; code; product,No condition meets the minimum data and temporal-coverage criteria
+F082,CONSORT diagrams,False,0,0,0,A,protocol; documents; bind; code; product,No condition meets the minimum data and temporal-coverage criteria

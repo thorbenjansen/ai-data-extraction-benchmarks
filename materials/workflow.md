@@ -1,6 +1,6 @@
 # Workflow and literature supplement
 
-Updated 4 November 2026. This resource accompanies the author's saved manuscript snapshot read on that date and the selected 50-benchmark atlas. It replaces the earlier reader guide and its draft-centered agent navigation.
+Updated 4 November 2026. This resource accompanies the author's saved manuscript snapshot read on that date, the focused eight-benchmark progress selection and the preserved 50-family source archive. It replaces the earlier reader guide and its draft-centered agent navigation.
 
 ## Why accuracy and auditability belong together
 
@@ -16,7 +16,9 @@ These modules are a research blueprint. They do not establish a universally vali
 
 Each module separates its purpose, a proposed research record, possible evaluation targets and an open question. The proposed records and comparisons are authored operationalizations, not validated scales or established cutoffs. Source references indicate their methodological basis; benchmark links indicate related tasks.
 
-The atlas retains 50 benchmark families, 4,094 source observations and 391 separate conditions. Forty families supply 1,716 plotted observations. No included family is a dedicated test of codebook-based extraction from psychological studies. Challenge assignments overlap; raw scores and fitted curves remain condition-specific. The audit module offers partial diagnostics, not a benchmark of the complete audit trail.
+The main page now shows eight benchmark families with 650 dated observations in 27 separate conditions. A condition needs at least ten model configurations, six release positions and 180 days of coverage. A selected family must have a qualifying positive trend and no contrary adequately sampled condition. Every adequately sampled condition in each retained family remains visible, including weaker positive associations. [Read all criteria and inclusion decisions](../methods.html#progress-selection).
+
+This selection explicitly depends on observed progress. It illustrates positive trajectories; it cannot estimate how often benchmarks improve or average general progress. The [full source archive](../archive.html) retains 50 families, 4,094 observations and 391 conditions, including mixed findings and sparse time series. No family is a dedicated test of codebook-based extraction from psychological studies. Challenge assignments overlap; raw scores and curves remain condition-specific. The audit module has no benchmark in the current progress selection; the source archive retains three partial diagnostics, not a benchmark of the complete audit trail.
 
 ## Workflow modules
 
@@ -34,9 +36,11 @@ The atlas retains 50 benchmark families, 4,094 source observations and 391 separ
 
 **Literature.** [Farotimi et al. (2026)](literature.html#R07); [Pustejovsky and Stubbs (2013)](literature.html#R30); [Thomas et al. (2025a)](literature.html#R35); [Villiger et al. (2022)](literature.html#R38).
 
-**Benchmark coverage.** 9 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=protocol).
+**Benchmark coverage.** 1 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=protocol).
 
-GSM-Symbolic, BFCL, ComplexBench, DTBench, UNIKIE-BENCH, SUC, Symbolic manipulation, VaxScope, CONSORT diagrams.
+GSM-Symbolic.
+
+**Source archive.** BFCL, ComplexBench, DTBench, UNIKIE-BENCH, SUC, Symbolic manipulation, VaxScope, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 02. Prepare and read source documents
 
@@ -52,9 +56,11 @@ GSM-Symbolic, BFCL, ComplexBench, DTBench, UNIKIE-BENCH, SUC, Symbolic manipulat
 
 **Literature.** [Farotimi et al. (2026)](literature.html#R07); [Lu and Wang (2026)](literature.html#R22); [Ouyang et al. (2025)](literature.html#R28); [Villiger et al. (2022)](literature.html#R38).
 
-**Benchmark coverage.** 11 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=documents).
+**Benchmark coverage.** 3 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=documents).
 
-OmniDocBench, READoc, olmOCR-bench, OCRBench, MDPBench, PureDocBench, Dr. DocBench, DocVQA, MMLongBench-Doc, UNIKIE-BENCH, CONSORT diagrams.
+OmniDocBench, olmOCR-bench, PureDocBench.
+
+**Source archive.** READoc, OCRBench, MDPBench, Dr. DocBench, DocVQA, MMLongBench-Doc, UNIKIE-BENCH, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 03. Locate relevant evidence
 
@@ -70,9 +76,11 @@ OmniDocBench, READoc, olmOCR-bench, OCRBench, MDPBench, PureDocBench, Dr. DocBen
 
 **Literature.** [Butcher et al. (2024)](literature.html#R04); [Farotimi et al. (2026)](literature.html#R07); [Lu and Wang (2026)](literature.html#R22).
 
-**Benchmark coverage.** 25 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=retrieve).
+**Benchmark coverage.** 2 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=retrieve).
 
-MultiHiertt, DocMath-Eval, MMLongBench-Doc, LongBench, RULER, HELMET, NoLiMa, InfiniteBench, MRCR, DROP, FRAMES, MuSiQue, HotpotQA, QASPER, SciAssess, LAB-Bench, GAIA, ALCE, RoBBR, TrialReviewBench, Manalyzer, NIAH, LooGLE, MM-NIAH, VaxScope.
+LongBench, RULER.
+
+**Source archive.** MultiHiertt, DocMath-Eval, MMLongBench-Doc, HELMET, NoLiMa, InfiniteBench, MRCR, DROP, FRAMES, MuSiQue, HotpotQA, QASPER, SciAssess, LAB-Bench, GAIA, ALCE, RoBBR, TrialReviewBench, Manalyzer, NIAH, LooGLE, MM-NIAH, VaxScope. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 04. Bind values to the correct unit
 
@@ -88,9 +96,11 @@ MultiHiertt, DocMath-Eval, MMLongBench-Doc, LongBench, RULER, HELMET, NoLiMa, In
 
 **Literature.** [Farotimi et al. (2026)](literature.html#R07); [Jones et al. (2005)](literature.html#R16); [Mathes et al. (2017)](literature.html#R25); [Villiger et al. (2022)](literature.html#R38).
 
-**Benchmark coverage.** 30 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=bind).
+**Benchmark coverage.** 5 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=bind).
 
-OmniDocBench, READoc, olmOCR-bench, OCRBench, MDPBench, PureDocBench, Dr. DocBench, DocVQA, ChartQA, ChartQAPro, HiTab, MultiHiertt, TAT-QA, FinQA, DocMath-Eval, MMLongBench-Doc, LongBench, DROP, QASPER, SciAssess, LAB-Bench, TrialReviewBench, Manalyzer, DTBench, UNIKIE-BENCH, TableBench, SUC, MM-NIAH, VaxScope, CONSORT diagrams.
+OmniDocBench, olmOCR-bench, PureDocBench, LongBench, TableBench.
+
+**Source archive.** READoc, OCRBench, MDPBench, Dr. DocBench, DocVQA, ChartQA, ChartQAPro, HiTab, MultiHiertt, TAT-QA, FinQA, DocMath-Eval, MMLongBench-Doc, DROP, QASPER, SciAssess, LAB-Bench, TrialReviewBench, Manalyzer, DTBench, UNIKIE-BENCH, SUC, MM-NIAH, VaxScope, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 05. Interpret evidence and apply coding rules
 
@@ -106,9 +116,11 @@ OmniDocBench, READoc, olmOCR-bench, OCRBench, MDPBench, PureDocBench, Dr. DocBen
 
 **Literature.** [Courvoisier et al. (2025)](literature.html#R06); [Horton et al. (2010)](literature.html#R13); [Mathes et al. (2017)](literature.html#R25); [Pustejovsky and Stubbs (2013)](literature.html#R30); [Villiger et al. (2022)](literature.html#R38).
 
-**Benchmark coverage.** 10 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=code).
+**Benchmark coverage.** 1 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=code).
 
-GSM-Symbolic, BFCL, ComplexBench, RoBBR, DTBench, UNIKIE-BENCH, SUC, Symbolic manipulation, VaxScope, CONSORT diagrams.
+GSM-Symbolic.
+
+**Source archive.** BFCL, ComplexBench, RoBBR, DTBench, UNIKIE-BENCH, SUC, Symbolic manipulation, VaxScope, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 06. Coordinate retrieval, tools and intermediate steps
 
@@ -124,9 +136,11 @@ GSM-Symbolic, BFCL, ComplexBench, RoBBR, DTBench, UNIKIE-BENCH, SUC, Symbolic ma
 
 **Literature.** [Farotimi et al. (2026)](literature.html#R07); [Lu and Wang (2026)](literature.html#R22); [Raj et al. (2026)](literature.html#R31).
 
-**Benchmark coverage.** 20 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=coordinate).
+**Benchmark coverage.** 4 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=coordinate).
 
-FinQA, LongBench, RULER, HELMET, NoLiMa, InfiniteBench, FRAMES, MuSiQue, HotpotQA, SciAssess, LAB-Bench, CORE-Bench, GAIA, BFCL, ComplexBench, TrialReviewBench, Manalyzer, TableBench, ProcessBench, LooGLE.
+LongBench, RULER, TableBench, ProcessBench.
+
+**Source archive.** FinQA, HELMET, NoLiMa, InfiniteBench, FRAMES, MuSiQue, HotpotQA, SciAssess, LAB-Bench, CORE-Bench, GAIA, BFCL, ComplexBench, TrialReviewBench, Manalyzer, LooGLE. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 07. Transform and calculate values
 
@@ -142,9 +156,11 @@ FinQA, LongBench, RULER, HELMET, NoLiMa, InfiniteBench, FRAMES, MuSiQue, HotpotQ
 
 **Literature.** [Farotimi et al. (2026)](literature.html#R07); [Lu and Wang (2026)](literature.html#R22); [Mathes et al. (2017)](literature.html#R25); [Villiger et al. (2022)](literature.html#R38).
 
-**Benchmark coverage.** 17 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=derive).
+**Benchmark coverage.** 3 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=derive).
 
-ChartQA, ChartQAPro, HiTab, MultiHiertt, TAT-QA, FinQA, DocMath-Eval, InfiniteBench, GSM-Symbolic, DROP, Manalyzer, DTBench, TableBench, NUPA, Symbolic manipulation, ProcessBench, LooGLE.
+GSM-Symbolic, TableBench, ProcessBench.
+
+**Source archive.** ChartQA, ChartQAPro, HiTab, MultiHiertt, TAT-QA, FinQA, DocMath-Eval, InfiniteBench, DROP, Manalyzer, DTBench, NUPA, Symbolic manipulation, LooGLE. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 08. Verify source support and detect errors
 
@@ -160,9 +176,11 @@ ChartQA, ChartQAPro, HiTab, MultiHiertt, TAT-QA, FinQA, DocMath-Eval, InfiniteBe
 
 **Literature.** [Buscemi et al. (2006)](literature.html#R03); [Courvoisier et al. (2025)](literature.html#R06); [Farotimi et al. (2026)](literature.html#R07); [Gartlehner et al. (2025)](literature.html#R09); [Villiger et al. (2022)](literature.html#R38).
 
-**Benchmark coverage.** 11 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=verify).
+**Benchmark coverage.** 1 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=verify).
 
-HELMET, FRAMES, HotpotQA, QASPER, LAB-Bench, CORE-Bench, ALCE, RoBBR, DTBench, ProcessBench, LooGLE.
+ProcessBench.
+
+**Source archive.** HELMET, FRAMES, HotpotQA, QASPER, LAB-Bench, CORE-Bench, ALCE, RoBBR, DTBench, LooGLE. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 09. Combine human and LLM contributions
 
@@ -210,9 +228,9 @@ HELMET, FRAMES, HotpotQA, QASPER, LAB-Bench, CORE-Bench, ALCE, RoBBR, DTBench, P
 
 **Literature.** [Courvoisier et al. (2025)](literature.html#R06); [Farotimi et al. (2026)](literature.html#R07); [Gartlehner et al. (2025)](literature.html#R09); [Jansen et al. (2025)](literature.html#R14); [Mathes et al. (2017)](literature.html#R25).
 
-**Benchmark coverage.** 6 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=product).
+**Benchmark coverage.** 0 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=product).
 
-TrialReviewBench, Manalyzer, DTBench, UNIKIE-BENCH, VaxScope, CONSORT diagrams.
+**Source archive.** TrialReviewBench, Manalyzer, DTBench, UNIKIE-BENCH, VaxScope, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 12. Retain an auditable extraction record
 
@@ -228,9 +246,9 @@ TrialReviewBench, Manalyzer, DTBench, UNIKIE-BENCH, VaxScope, CONSORT diagrams.
 
 **Literature.** [Farotimi et al. (2026)](literature.html#R07); [Flemyng et al. (2025)](literature.html#R08); [Thomas et al. (2025a)](literature.html#R35); [Thomas et al. (2025b)](literature.html#R36); [Thomas et al. (2025c)](literature.html#R37); [Villiger et al. (2022)](literature.html#R38).
 
-**Benchmark coverage.** 3 families; partial diagnostic only. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=audit).
+**Benchmark coverage.** 0 families; partial diagnostic only. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=audit).
 
-ALCE, DTBench, CONSORT diagrams.
+**Source archive.** ALCE, DTBench, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ## Comparing workflows on common terms
 

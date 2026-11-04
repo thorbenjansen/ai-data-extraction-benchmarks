@@ -4,7 +4,7 @@
   "source_manuscript_sha256": "181c806a276189ba1e7ba01ee0cc37f8e426dadacde2ede19bca7d853c142783",
   "revision_view": "Author revised text; deletions and moved-from text excluded; deleted paragraph marks joined",
   "source_manuscript_modified": false,
-  "benchmark_selection": "2026-11-02",
+  "benchmark_selection": "2026-11-04: focused positive-trend selection; original 50-family source archive selected 2026-11-02",
   "benchmark_source_cutoff": "2026-10-31",
   "source_ai_package": {
     "url": "https://osf.io/download/bv6js/",
@@ -26,6 +26,6 @@
       "sha256": "0a8c61c34af4d5c920608cb66af40a7dd0569af745f086a0d6a1e7b7951adf57"
     }
   ],
-  "change_scope": "New reader and agent navigation aligned to current manuscript, 12 workflow components, same 50 benchmark families. Existing benchmark observations, dates and curves are unchanged.",
+  "change_scope": "Current reader and agent navigation aligned to the saved manuscript snapshot; 12 workflow components. Focused progress view contains 8 benchmark families, 27 conditions and 650 dated observations. Complete 50-family source evidence, observations, dates, figures and curves are preserved unchanged.",
   "source_snapshot_note": "The author was editing the manuscript during preparation. This resource is aligned with the saved snapshot read on 4 November 2026; it does not modify the manuscript."
 }

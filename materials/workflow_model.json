@@ -17,7 +17,7 @@
       "id": "protocol",
       "number": 1,
       "name": "Define variables and coding rules",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "GSM-Symbolic",
         "BFCL",
         "ComplexBench",
@@ -28,11 +28,11 @@
         "VaxScope",
         "CONSORT diagrams"
       ],
+      "benchmark_families": [
+        "GSM-Symbolic"
+      ],
       "benchmark_challenges": [
-        "A",
-        "B",
-        "C",
-        "D"
+        "C"
       ],
       "benchmark_role": "mapped component or extraction task"
     },
@@ -51,7 +51,7 @@
       "id": "documents",
       "number": 2,
       "name": "Prepare and read source documents",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "OmniDocBench",
         "READoc",
         "olmOCR-bench",
@@ -64,9 +64,13 @@
         "UNIKIE-BENCH",
         "CONSORT diagrams"
       ],
+      "benchmark_families": [
+        "OmniDocBench",
+        "olmOCR-bench",
+        "PureDocBench"
+      ],
       "benchmark_challenges": [
-        "A",
-        "B"
+        "A"
       ],
       "benchmark_role": "mapped component or extraction task"
     },
@@ -84,7 +88,7 @@
       "id": "retrieve",
       "number": 3,
       "name": "Locate relevant evidence",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "MultiHiertt",
         "DocMath-Eval",
         "MMLongBench-Doc",
@@ -111,10 +115,12 @@
         "MM-NIAH",
         "VaxScope"
       ],
+      "benchmark_families": [
+        "LongBench",
+        "RULER"
+      ],
       "benchmark_challenges": [
-        "A",
         "B",
-        "C",
         "D"
       ],
       "benchmark_role": "mapped component or extraction task"
@@ -134,7 +140,7 @@
       "id": "bind",
       "number": 4,
       "name": "Bind values to the correct unit",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "OmniDocBench",
         "READoc",
         "olmOCR-bench",
@@ -166,6 +172,13 @@
         "VaxScope",
         "CONSORT diagrams"
       ],
+      "benchmark_families": [
+        "OmniDocBench",
+        "olmOCR-bench",
+        "PureDocBench",
+        "LongBench",
+        "TableBench"
+      ],
       "benchmark_challenges": [
         "A",
         "B",
@@ -190,7 +203,7 @@
       "id": "code",
       "number": 5,
       "name": "Interpret evidence and apply coding rules",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "GSM-Symbolic",
         "BFCL",
         "ComplexBench",
@@ -202,11 +215,11 @@
         "VaxScope",
         "CONSORT diagrams"
       ],
+      "benchmark_families": [
+        "GSM-Symbolic"
+      ],
       "benchmark_challenges": [
-        "A",
-        "B",
-        "C",
-        "D"
+        "C"
       ],
       "benchmark_role": "mapped component or extraction task"
     },
@@ -224,7 +237,7 @@
       "id": "coordinate",
       "number": 6,
       "name": "Coordinate retrieval, tools and intermediate steps",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "FinQA",
         "LongBench",
         "RULER",
@@ -245,6 +258,12 @@
         "TableBench",
         "ProcessBench",
         "LooGLE"
+      ],
+      "benchmark_families": [
+        "LongBench",
+        "RULER",
+        "TableBench",
+        "ProcessBench"
       ],
       "benchmark_challenges": [
         "A",
@@ -269,7 +288,7 @@
       "id": "derive",
       "number": 7,
       "name": "Transform and calculate values",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "ChartQA",
         "ChartQAPro",
         "HiTab",
@@ -288,9 +307,13 @@
         "ProcessBench",
         "LooGLE"
       ],
+      "benchmark_families": [
+        "GSM-Symbolic",
+        "TableBench",
+        "ProcessBench"
+      ],
       "benchmark_challenges": [
         "A",
-        "B",
         "C",
         "D"
       ],
@@ -312,7 +335,7 @@
       "id": "verify",
       "number": 8,
       "name": "Verify source support and detect errors",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "HELMET",
         "FRAMES",
         "HotpotQA",
@@ -325,9 +348,10 @@
         "ProcessBench",
         "LooGLE"
       ],
+      "benchmark_families": [
+        "ProcessBench"
+      ],
       "benchmark_challenges": [
-        "A",
-        "B",
         "C",
         "D"
       ],
@@ -351,6 +375,7 @@
       "id": "collaborate",
       "number": 9,
       "name": "Combine human and LLM contributions",
+      "source_archive_benchmark_families": [],
       "benchmark_families": [],
       "benchmark_challenges": [],
       "benchmark_role": "mapped component or extraction task"
@@ -371,6 +396,7 @@
       "id": "adjudicate",
       "number": 10,
       "name": "Resolve disagreements without yielding to pressure",
+      "source_archive_benchmark_families": [],
       "benchmark_families": [],
       "benchmark_challenges": [],
       "benchmark_role": "mapped component or extraction task"
@@ -391,7 +417,7 @@
       "id": "product",
       "number": 11,
       "name": "Assess the complete extraction product",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "TrialReviewBench",
         "Manalyzer",
         "DTBench",
@@ -399,12 +425,8 @@
         "VaxScope",
         "CONSORT diagrams"
       ],
-      "benchmark_challenges": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
+      "benchmark_families": [],
+      "benchmark_challenges": [],
       "benchmark_role": "mapped component or extraction task"
     },
     {
@@ -424,16 +446,13 @@
       "id": "audit",
       "number": 12,
       "name": "Retain an auditable extraction record",
-      "benchmark_families": [
+      "source_archive_benchmark_families": [
         "ALCE",
         "DTBench",
         "CONSORT diagrams"
       ],
-      "benchmark_challenges": [
-        "A",
-        "B",
-        "C"
-      ],
+      "benchmark_families": [],
+      "benchmark_challenges": [],
       "benchmark_role": "partial diagnostic only"
     }
   ],

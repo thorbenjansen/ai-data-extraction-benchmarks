@@ -70,3 +70,5 @@ materials/ai.html explains the downloadable current AI research package.
 Both reader and AI ZIP files are in materials/downloads/.
 These resources supersede the earlier rejoinder-draft navigation and leave
 the 50-benchmark source data and figures unchanged.
+
+CURRENT DISPLAY (4 November 2026): eight benchmark families, 650 dated observations, 27 separate conditions, all Challenges A–D. Selected to illustrate well-populated positive trends; not an unbiased estimate of general progress. The complete 50-family source evidence remains accessible at archive.html and in the AI package. See methods.html#progress-selection and data/progress_selection.json.

@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "source_scientific_files_byte_identical": 1011,
+  "independent_input_source": "Original source observations plus release audit, without using mean_curve_inputs for model counts or trend calculations",
+  "current_families": [
+    "GSM-Symbolic",
+    "LongBench",
+    "OmniDocBench",
+    "ProcessBench",
+    "PureDocBench",
+    "RULER",
+    "TableBench",
+    "olmOCR-bench"
+  ],
+  "current_conditions": 27,
+  "current_dated_observations": 650,
+  "homepage_assignments": 13,
+  "challenge_family_counts": {
+    "A": 4,
+    "B": 2,
+    "C": 3,
+    "D": 4
+  },
+  "original_values_and_figures_modified": false
+}

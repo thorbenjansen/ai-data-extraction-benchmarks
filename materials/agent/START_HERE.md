@@ -12,4 +12,6 @@ The original study measured agreement with existing human-extracted data; it did
 
 The research objective is to determine where humans, LLMs and human–AI combinations perform better and how their abilities can be combined. The 50 benchmark families do not validate transfer to psychological codebook extraction or establish one universal workflow. Proposed record templates are not validated scales. No new model runs were conducted for this package.
 
+The current progress selection contains eight benchmark families, 650 dated observations and 27 separate conditions. It deliberately selects positive time trends and must not be used to estimate the prevalence or average size of progress. Read `data/progress_selection.json` and both progress-decision CSVs. Current benchmark cards are in `benchmarks/`; the other 42 cards remain in `archive/benchmarks/`. Full source observations and mappings retain all 50 families. A benchmark's exclusion from this progress selection does not establish its irrelevance to the research agenda.
+
 Paths in `source_index.json` are the actual paths in this download. Canonical raw-PDF/Markdown paths inside retained ARAs are provenance pointers; raw PDFs and the source manuscript are not included. Earlier draft navigation and claim indexes have been replaced rather than treated as the current position.
