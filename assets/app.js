@@ -1,4 +1,5 @@
 'use strict';
+if(document.body.classList.contains('workflow-home')&&location.hash==='#article-materials')location.replace(new URL('materials/index.html',location.href).href);
 const cards=[...document.querySelectorAll('.benchmark-card')];
 const search=document.querySelector('#benchmark-search'),step=document.querySelector('#step-filter');
 function filterCards(){const q=(search?.value||'').trim().toLowerCase(),s=step?.value||'';let n=0;for(const c of cards){c.hidden=!(c.dataset.search.includes(q)&&(!s||c.dataset.steps.split(' ').includes(s)));if(!c.hidden)n++;}const el=document.querySelector('#benchmark-count');if(el)el.textContent=n+' benchmark '+(n===1?'family':'families');const empty=document.querySelector('.empty');if(empty)empty.hidden=n>0;}

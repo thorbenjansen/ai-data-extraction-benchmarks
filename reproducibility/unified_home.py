@@ -151,7 +151,7 @@ def build():
         if sid == 'audit':
             families = sorted(PARTIAL & selected)
         related = sorted({c for f in families for c in chmap[f]})
-        number = f'{len(families)} partial diagnostics' if sid == 'audit' else f'{len(families)} benchmark families'
+        number = f'{len(families)} partial diagnostics' if sid == 'audit' else f'{len(families)} benchmark '+('family' if len(families)==1 else 'families')
         if not families:
             number = 'Evidence gap in this selection'
         badges = ''.join(f'<span class="mini-challenge">{c}</span>' for c in related)
@@ -223,11 +223,36 @@ def build():
         body += '</div></section>'
     body += '</div>'
     fragment=ROOT/'materials/home.fragment'
-    if fragment.exists():
-        body=body.replace('<details class="unified-workflow"',fragment.read_text()+'<details class="unified-workflow"',1)
-    for el in H.fragments_fromstring(body):
+    # Start directly with the workflow; retain compact filters after the steps.
+    content=H.fragment_fromstring(body,create_parent='div')
+    tools=content.xpath('.//div[@class="flow-tools"]')[0]
+    tools.getparent().remove(tools)
+    intro=content.xpath('./div[@class="flow-intro"]')[0]
+    intro.getparent().remove(intro)
+    workflow=content.xpath('./details[@id="workflow-map"]')[0]
+    workflow.set('open','')
+    for p in workflow.xpath('./p[not(@class)]'):workflow.remove(p)
+    workflow.addnext(tools)
+    for el in list(content):
         main.append(el)
     save(ROOT / 'index.html', doc)
+    # Article resources have their own page, accessible through the shared navigation.
+    if fragment.exists():
+        materials=H.parse(str(ROOT/'index.html')).getroot()
+        materials.find('body').set('class','supplement-page article-materials')
+        materials.find('head/title').text='Article materials | Data extraction supplement'
+        mm=materials.xpath('//main')[0];mm.clear();mm.set('id','content')
+        for el in H.fragments_fromstring(fragment.read_text()):mm.append(el)
+        for a in mm.xpath('.//a[starts-with(@href,"materials/")]'):a.set('href',a.get('href')[len('materials/'):])
+        for h in mm.xpath('.//h2'):
+            h.tag='h1'
+            break
+        materials.xpath('//a[@class="brand"]')[0].set('href','../index.html')
+        for el in materials.xpath('//link[@rel="stylesheet"]'):el.set('href','../'+el.get('href').removeprefix('../'))
+        for el in materials.xpath('//script[@src]'):el.set('src','../'+el.get('src').removeprefix('../'))
+        footer=materials.find('body/footer')
+        for a in footer.xpath('.//a[@href]'):a.set('href','../'+a.get('href').removeprefix('../'))
+        save(ROOT/'materials/index.html',materials)
     # Keep the full source map accessible without presenting it as the current selection.
     archive = H.parse(str(ROOT/'index.html')).getroot()
     archive.find('body').set('class', 'supplement-page')
@@ -264,11 +289,11 @@ def build():
                 nav.remove(child)
             prefix = '../' if p.parent!=ROOT else ''
             for path, label in [('index.html', 'Challenges & workflow'),
-                                ('index.html#article-materials', 'Article materials'),
+                                ('materials/index.html', 'Article materials'),
                                 ('references.html', 'References'), ('model-releases.html', 'Model releases'), ('methods.html', 'Methods')]:
                 link = H.Element('a', href=prefix + path)
                 link.text = label
-                if p.name == path:
+                if str(p.relative_to(ROOT)) == path:
                     link.set('aria-current', 'page')
                 nav.append(link)
         save(p, tree)

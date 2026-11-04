@@ -75,7 +75,9 @@ for path,doc in cache.items():
         links+=1
         if u.fragment and target.suffix=='.html':assert unquote(u.fragment)in cache[target].xpath('//@id'),(path.name,link)
 home=cache[(ROOT/'index.html').resolve()]
-assert home.xpath('//*[@id="article-materials"]')
+assert cache[(M/'index.html').resolve()].xpath('//*[@id="article-materials"]')
+assert home.xpath('//main/*[1][@id="workflow-map"]')
+assert not home.xpath('//*[@class="flow-intro"]|//*[@id="article-materials"]')
 assert {c.get('data-family')for c in home.xpath('//article[@data-family]')}==selected
 assert not (ROOT/'claims.html').exists()
 assert len(cache[(M/'workflow.html').resolve()].xpath('//h3[starts-with(@id,"module-")]'))==12

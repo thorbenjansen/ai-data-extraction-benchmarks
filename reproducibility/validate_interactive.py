@@ -15,6 +15,8 @@ for oid,p in points.items():
     assert anchor==oid and H.parse(str(ROOT/path)).xpath(f'//*[@id="{oid}"]')
     assert p['result_reference_apa']and p['source_locator']and p['source_url']and p['model']
 home=H.parse(str(ROOT/'index.html')).getroot()
+assert home.xpath('//main/*[1][@id="workflow-map" and @open]')
+assert not home.xpath('//*[@class="flow-intro"]|//*[@id="article-materials"]')
 cards=home.xpath('//article[@data-family]');assert len(cards)==13
 svgs={o.get('value')for o in home.xpath('//select[@class="time-variant"]/option')}
 assert len(svgs)==27
