@@ -30,5 +30,8 @@
   "unchanged_scientific_files": 1011,
   "unchanged_figure_assets": 882,
   "data_dates_conditions_and_curves_unchanged": true,
-  "new_model_evaluations": false
+  "new_model_evaluations": false,
+  "commentary_requirements_page_removed": true,
+  "commentary_requirements_navigation_links_removed": true,
+  "html_pages": 57
 }

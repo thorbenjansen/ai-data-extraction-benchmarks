@@ -191,7 +191,7 @@ def build():
             for child in list(nav):
                 nav.remove(child)
             prefix = '../' if p.parent.name == 'benchmarks' else ''
-            for path, label in [('index.html', 'Challenges & workflow'), ('claims.html', 'Commentary requirements'),
+            for path, label in [('index.html', 'Challenges & workflow'),
                                 ('references.html', 'References'), ('model-releases.html', 'Model releases'), ('methods.html', 'Methods')]:
                 link = H.Element('a', href=prefix + path)
                 link.text = label
