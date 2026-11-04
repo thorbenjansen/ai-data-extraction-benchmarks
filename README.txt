@@ -1,10 +1,13 @@
 SELECTED 50 BENCHMARKS FOR DATA EXTRACTION
 Selection: 2 November 2026. Source-data cutoff: 31 October 2026.
 
-Open index.html after extracting the complete folder. Scroll down through
-the 12 workflow steps and right through each step's benchmarks. Filter by
-commentary Challenge A, B, C or D. challenges.html maps all 50 families to
-both challenges and workflow steps; all-benchmarks.html has one card per family.
+Open index.html after extracting the complete folder. The main page combines
+Challenges A-D with the extraction workflow. Scroll down through the four
+challenges and right through each challenge's benchmark figures. Search or
+select a workflow step to filter the figures. Expand the workflow map for all
+12 chronological steps, their challenge links and evidence gaps. The former
+workflow, challenge and all-benchmark URLs redirect to this one main page.
+The 4 November 2026 navigation update changes no observations or figures.
 
 CURRENT SCOPE
 {
@@ -55,4 +58,6 @@ this frozen selected snapshot, without model calls. To re-derive the selection
 from the original 82-family archive, run:
 python reproducibility/curate.py /path/to/original-82-atlas /new/output/folder
 The source archive manifest records all input checksums. The complete selection
-script and validation are included. No upload or journal submission was made.
+script and validation are included. The frozen snapshot predates GitHub publication. The supplement is now public
+at https://thorbenjansen.github.io/ai-data-extraction-benchmarks/ .
+No journal submission was made by this publication workflow.

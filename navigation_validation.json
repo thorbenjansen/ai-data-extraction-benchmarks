@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "main_overview_pages": 1,
+  "challenge_sections": 4,
+  "challenge_counts": {
+    "A": 24,
+    "B": 25,
+    "C": 17,
+    "D": 20
+  },
+  "unique_benchmark_families": 50,
+  "challenge_assignments": 86,
+  "workflow_steps": 12,
+  "legacy_entry_points_redirected": [
+    "workflow.html",
+    "challenges.html",
+    "all-benchmarks.html"
+  ],
+  "browser_checks": [
+    "search",
+    "workflow dropdown",
+    "chronological workflow buttons",
+    "horizontal benchmark navigation",
+    "condition selector and APA reference update",
+    "figure to raw data and sources",
+    "evidence gap display",
+    "partial audit diagnostics",
+    "all three legacy entry points and anchors"
+  ],
+  "unchanged_scientific_files": 1011,
+  "unchanged_figure_assets": 882,
+  "data_dates_conditions_and_curves_unchanged": true,
+  "new_model_evaluations": false
+}

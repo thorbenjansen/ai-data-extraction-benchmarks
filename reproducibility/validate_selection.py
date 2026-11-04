@@ -43,18 +43,33 @@ for p in benchmark_pages:
     assert doc.xpath('//*[@id="benchmark-reference"]')
     assert len(doc.xpath('//*[@class="records"]//tbody/tr'))==sum(r['family']==next(x['family']for x in reg if Path(x['html']).name==p.name)for r in raw)
     assert not doc.xpath('//*[@id="records"]/@open'),'Raw values must remain collapsed until requested'
-overview=H.fromstring((ROOT/'all-benchmarks.html').read_bytes());cards=overview.xpath('//article[@data-family]');assert len(cards)==50 and{c.get('data-family')for c in cards}==families
+home=H.fromstring((ROOT/'index.html').read_bytes());cards=home.xpath('//article[@data-family]')
+assert len(cards)==86 and{c.get('data-family')for c in cards}==families
+sections=home.xpath('//section[@data-challenge]')
+assert [s.get('data-challenge')for s in sections]==list('ABCD')
+for section in sections:
+    challenge=section.get('data-challenge')
+    expected={m['family']for m in maps if m['challenge']==challenge}
+    assert {c.get('data-family')for c in section.xpath('.//article[@data-family]')}==expected
 for card in cards:
-    assert card.get('data-challenges')and card.get('data-steps')
-assert overview.xpath('//*[@id="atlas-challenge"]')
-home=H.fromstring((ROOT/'index.html').read_bytes());assert{c.get('data-family')for c in home.xpath('//article[@data-family]')}==families
-assert len(home.xpath('//section[@data-step-id]'))==12
-assert home.xpath('//*[@id="flow-challenge"]')
-for doc in [home,overview]:assert not doc.xpath('//*[@class="records"]'),'Raw observations must not appear on overview pages'
+    family=card.get('data-family')
+    assert set(card.get('data-challenges').split())=={m['challenge']for m in maps if m['family']==family}
+    assert set(card.get('data-steps').split())=={m['step']for m in workflow if m['family']==family}
+    assert bool(card.get('data-diagnostic-steps'))==(family in {'ALCE','DTBench','CONSORT diagrams'})
+assert len(home.xpath('//*[@id="workflow-map"]//button[@data-workflow-step]'))==12
+assert home.xpath('//*[@id="flow-step-filter"]')
+assert not home.xpath('//*[@class="records"]'),'Raw observations must not appear on the main page'
+for name in ['workflow.html','challenges.html','all-benchmarks.html']:
+    legacy=H.fromstring((ROOT/name).read_bytes())
+    assert legacy.xpath('//link[@rel="canonical" and contains(@href,"/index.html")]')
+    assert 'location.replace'in ''.join(legacy.xpath('//script/text()'))
+    assert not legacy.xpath('//article[@data-family]'),'Former overviews must route to the single main page'
 broken=[];links_checked=0;anchors_checked=0
 cache={}
 for p in list(ROOT.glob('*.html'))+benchmark_pages+list((ROOT/'figures').glob('*.svg')):
     doc=H.fromstring(p.read_bytes())if p.suffix=='.html'else E.parse(str(p))
+    if p.suffix=='.html':
+        ids_in_page=doc.xpath('//@id');assert len(ids_in_page)==len(set(ids_in_page)),p.name
     attrs=doc.xpath('//@href|//@src')
     for value in attrs:
         u=urlsplit(str(value))
