@@ -17,7 +17,7 @@
       "id": "protocol",
       "number": 1,
       "name": "Define variables and coding rules",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "GSM-Symbolic",
         "BFCL",
         "ComplexBench",
@@ -51,7 +51,7 @@
       "id": "documents",
       "number": 2,
       "name": "Prepare and read source documents",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "OmniDocBench",
         "READoc",
         "olmOCR-bench",
@@ -88,7 +88,7 @@
       "id": "retrieve",
       "number": 3,
       "name": "Locate relevant evidence",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "MultiHiertt",
         "DocMath-Eval",
         "MMLongBench-Doc",
@@ -140,7 +140,7 @@
       "id": "bind",
       "number": 4,
       "name": "Bind values to the correct unit",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "OmniDocBench",
         "READoc",
         "olmOCR-bench",
@@ -203,7 +203,7 @@
       "id": "code",
       "number": 5,
       "name": "Interpret evidence and apply coding rules",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "GSM-Symbolic",
         "BFCL",
         "ComplexBench",
@@ -237,7 +237,7 @@
       "id": "coordinate",
       "number": 6,
       "name": "Coordinate retrieval, tools and intermediate steps",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "FinQA",
         "LongBench",
         "RULER",
@@ -288,7 +288,7 @@
       "id": "derive",
       "number": 7,
       "name": "Transform and calculate values",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "ChartQA",
         "ChartQAPro",
         "HiTab",
@@ -335,7 +335,7 @@
       "id": "verify",
       "number": 8,
       "name": "Verify source support and detect errors",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "HELMET",
         "FRAMES",
         "HotpotQA",
@@ -375,7 +375,7 @@
       "id": "collaborate",
       "number": 9,
       "name": "Combine human and LLM contributions",
-      "source_archive_benchmark_families": [],
+      "screened_candidate_families": [],
       "benchmark_families": [],
       "benchmark_challenges": [],
       "benchmark_role": "mapped component or extraction task"
@@ -396,7 +396,7 @@
       "id": "adjudicate",
       "number": 10,
       "name": "Resolve disagreements without yielding to pressure",
-      "source_archive_benchmark_families": [],
+      "screened_candidate_families": [],
       "benchmark_families": [],
       "benchmark_challenges": [],
       "benchmark_role": "mapped component or extraction task"
@@ -417,7 +417,7 @@
       "id": "product",
       "number": 11,
       "name": "Assess the complete extraction product",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "TrialReviewBench",
         "Manalyzer",
         "DTBench",
@@ -446,7 +446,7 @@
       "id": "audit",
       "number": 12,
       "name": "Retain an auditable extraction record",
-      "source_archive_benchmark_families": [
+      "screened_candidate_families": [
         "ALCE",
         "DTBench",
         "CONSORT diagrams"

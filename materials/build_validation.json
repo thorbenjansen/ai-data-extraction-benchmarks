@@ -6,13 +6,13 @@
   "current_manuscript_references": 45,
   "source_aras_retained": 203,
   "benchmark_cards": 8,
-  "archived_benchmark_cards": 42,
+  "additional_screened_cards": 42,
   "source_observations": 4094,
   "current_dated_observations": 650,
-  "old_draft_navigation_replaced": true,
+  "standalone_navigation": true,
   "new_model_evaluations": false,
   "downloads": {
-    "AI_Research_Package_2026-11-04.zip": "bde62866c4d26685cde6b02a1641f14344a9172d0693bae949a9e356e1120470",
-    "Workflow_Literature_Supplement_2026-11-04.zip": "ee5665630a43167540b29a4135a52722a0bfdefe3be17687d3c155e5eb5813bd"
+    "AI_Research_Package_2026-11-04.zip": "a96510f1704d520b9a70a8c00c6bbc3fedb285f142a04fbe7b561ef0fe4792b4",
+    "Workflow_Literature_Supplement_2026-11-04.zip": "7e48d10035f7349affcf86100f851e612966727c935a0bb2a9b803dfa285e25c"
   }
 }

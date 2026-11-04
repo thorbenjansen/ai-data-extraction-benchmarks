@@ -1,44 +1,19 @@
 {
   "status": "passed",
-  "current_families": 8,
+  "benchmark_families": 8,
+  "displayed_conditions": 27,
+  "displayed_observations": 650,
   "challenge_sections": 4,
   "homepage_assignments": 13,
-  "condition_options_unique": 27,
-  "dated_observations_unique": 650,
   "workflow_steps": 12,
-  "archived_families": 50,
-  "source_cutoff": "2026-10-31",
   "checks": [
-    "Workflow audit filter shows the evidence gap and zero selected families",
-    "Reset restores all eight families",
-    "LongBench short no-CoT switches to series_10 with 18 shown observations and its reference",
-    "Search ProcessBench yields one family in two challenges",
-    "Criteria page explains outcome selection and retains complete decisions",
-    "Left-to-right order follows the existing default mean-curve gain; all A-D orders checked in the generated HTML and A/D inspected in the browser",
-    "Removed only the user-marked What the selection supports box; all other homepage DOM content and A-D orders preserved"
+    "Source popup on Pixtral-12B: original 42.3, release 2024-09-17, APA leaderboard reference, source locator and row V00391",
+    "Explicit source-row link opens benchmark page at V00391 with records expanded",
+    "Keyboard focus opens an unpinned source panel; click pins it; close button and Escape dismiss it",
+    "Changing LongBench to short/no-CoT loads the matching figure and GPT-4o mini 31.8 with source row V00325",
+    "Overlapping GSM-Symbolic observations V03222 and V03223 can be selected individually, with the corresponding model names and source locators",
+    "Eight-family A-D orders and the absence of the removed scope box preserved"
   ],
-  "browser_scope": "Representative affected controls and existing figures inspected; frozen figure assets retained unchanged",
-  "display_order": {
-    "A": [
-      "OmniDocBench",
-      "TableBench",
-      "olmOCR-bench",
-      "PureDocBench"
-    ],
-    "B": [
-      "LongBench",
-      "RULER"
-    ],
-    "C": [
-      "GSM-Symbolic",
-      "TableBench",
-      "ProcessBench"
-    ],
-    "D": [
-      "TableBench",
-      "ProcessBench",
-      "LongBench",
-      "RULER"
-    ]
-  }
+  "interaction_surface": "Local HTTP preview in in-app browser",
+  "hover_implementation": "Pointer-over and keyboard focus share the source-detail renderer; click and keyboard interactions inspected in the browser"
 }

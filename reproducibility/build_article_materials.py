@@ -16,6 +16,8 @@ VERSION = '2026-11-04'
 ORDER = ['protocol','documents','retrieve','bind','code','coordinate','derive','verify','collaborate','adjudicate','product','audit']
 DATA_FILES = ['article_benchmark_register.csv','article_observations.csv','article_conditions.csv','all_source_values.csv','challenge_mapping.csv','workflow_mapping.csv','workflow_steps.json','challenge_definitions.json','bibliography.json','date_sources.csv','release_date_audit.csv','model_release_registry.json','time_plot_geometry.csv','mean_curve_grid.csv','mean_curve_method.json','time_chart_index.json']
 DATA_FILES += ['progress_selection.json','progress_family_decisions.csv','progress_condition_decisions.csv','progress_benchmark_register.csv','progress_observations.csv']
+DATA_FILES += ['point_details.json','progress_display_order.json']
+DATA_FILES = ['curve_method.json' if name=='mean_curve_method.json' else name for name in DATA_FILES]
 
 def load(path): return json.loads(path.read_text())
 def dump(path, value):
@@ -45,7 +47,12 @@ def page(path,title,body):
 def main():
     parser=argparse.ArgumentParser();parser.add_argument('--source-ai-zip',type=Path,required=True);args=parser.parse_args()
     content=load(ROOT/'reproducibility/materials_content.json');context=load(ROOT/'reproducibility/materials_sources/context.json')
-    assert sha(args.source_ai_zip)==context['source_ai_package']['sha256'],'Wrong source package'
+    source_digest=sha(args.source_ai_zip)
+    source_format='corpus'
+    if source_digest!=context['source_ai_package']['sha256']:
+        expected=load(ROOT/'materials/build_validation.json')['downloads'][f'AI_Research_Package_{VERSION}.zip']
+        assert source_digest==expected,'Wrong source package checksum'
+        source_format='research-package'
     refs=load(ROOT/'reproducibility/materials_sources/manuscript_references.json');ref={r['id']:r for r in refs}
     steps={s['id']:s for s in load(ROOT/'data/workflow_steps.json')};register=read('article_benchmark_register.csv')
     progress=load(ROOT/'data/progress_selection.json');selected=set(progress['families']);n_selected=len(selected)
@@ -55,7 +62,7 @@ def main():
         m=dict(content['modules'][sid]);m.update(id=sid,number=i,name=steps[sid]['name'])
         matches=[r for r in register if sid in r['workflow_steps'].split('; ')]
         if sid=='audit':matches=[r for r in register if r['family']in ['ALCE','DTBench','CONSORT diagrams']]
-        m['source_archive_benchmark_families']=[r['family']for r in matches]
+        m['screened_candidate_families']=[r['family']for r in matches]
         m['benchmark_families']=[r['family']for r in matches if r['family']in selected]
         m['benchmark_challenges']=sorted({c.strip()for r in matches if r['family']in selected for c in r['commentary_challenges'].split(';')})
         m['benchmark_role']='partial diagnostic only'if sid=='audit'else'mapped component or extraction task'
@@ -67,7 +74,7 @@ def main():
     def cite(ids):return '; '.join(f'[{citation_label(rid)}](literature.html#{rid})'for rid in ids)
     intro='''# Workflow and literature supplement
 
-Updated 4 November 2026. This resource accompanies the author's saved manuscript snapshot read on that date, the focused eight-benchmark progress selection and the preserved 50-family source archive. It replaces the earlier reader guide and its draft-centered agent navigation.
+This supplement connects a twelve-component research workflow, its supporting literature and eight benchmark families with source-linked time trends. Evidence cutoff: 31 October 2026.
 
 ## Why accuracy and auditability belong together
 
@@ -85,7 +92,7 @@ Each module separates its purpose, a proposed research record, possible evaluati
 
 The main page now shows eight benchmark families with 650 dated observations in 27 separate conditions. A condition needs at least ten model configurations, six release positions and 180 days of coverage. A selected family must have a qualifying positive trend and no contrary adequately sampled condition. Every adequately sampled condition in each retained family remains visible, including weaker positive associations. [Read all criteria and inclusion decisions](../methods.html#progress-selection).
 
-This selection explicitly depends on observed progress. It illustrates positive trajectories; it cannot estimate how often benchmarks improve or average general progress. The [full source archive](../archive.html) retains 50 families, 4,094 observations and 391 conditions, including mixed findings and sparse time series. No family is a dedicated test of codebook-based extraction from psychological studies. Challenge assignments overlap; raw scores and curves remain condition-specific. The audit module has no benchmark in the current progress selection; the source archive retains three partial diagnostics, not a benchmark of the complete audit trail.
+This selection explicitly depends on observed progress. It illustrates positive trajectories; it cannot estimate how often benchmarks improve or average general progress. The [screening record](../evidence.html) documents all 50 candidate families, including mixed findings and sparse time series. No family is a dedicated test of codebook-based extraction from psychological studies. Challenge assignments overlap; raw scores and curves remain condition-specific. No displayed benchmark tests the complete audit trail.
 
 ## Workflow modules
 
@@ -98,7 +105,6 @@ This selection explicitly depends on observed progress. It illustrates positive 
         guide+=f'**Benchmark coverage.** {len(m["benchmark_families"])} families; '+m['benchmark_role']+'. '
         guide+=f'[Explore the corresponding figures]({BASE}index.html?step={m["id"]}).\n\n'
         if m['benchmark_families']:guide+=', '.join(m['benchmark_families'])+'.\n\n'
-        if set(m['source_archive_benchmark_families'])-set(m['benchmark_families']):guide+='**Source archive.** '+', '.join(f for f in m['source_archive_benchmark_families']if f not in selected)+'. These families are not part of the focused progress selection; [see the source archive]('+BASE+'archive.html).\n\n'
     guide+='''## Comparing workflows on common terms
 
 Define the eligible documents, variables and extraction units; coder expertise and training; model snapshots, prompts, context and tools; and the information available at each decision. Record which differences are intentional parts of the workflow comparison. Separate held-out evaluation from adaptation of the instructions or codebook. Document the reference procedure, adjudicator independence, denominators and treatment of missing and ambiguous cases.
@@ -111,9 +117,9 @@ An audit should determine whether a reader can reconstruct the evidence and the 
 
 The companion event schema is an illustrative template for research. It records the actor and condition, codebook and instruction versions, source locator, candidate value, transformation, exposure timing, verification, final disposition and remaining uncertainty. It specifies information to preserve; it does not validate an extraction decision or prescribe one verification policy for all reviews.
 
-## Sources and version
+## Sources and provenance
 
-The current manuscript remains unchanged. Reference strings are preserved from its bibliography. The step-to-literature assignments and operational research questions were authored for this supplement. The earlier OSF corpus remains the source of the retained literature ARAs; their quality labels and source-grounding limitations remain visible. The earlier draft's framing and routes are superseded by the current starting documents.
+Reference strings follow the accompanying manuscript bibliography. The step-to-literature assignments and operational research questions were authored for this supplement. Literature ARAs provide structured routes to source evidence; their quality labels and source-grounding limitations remain visible. Check the cited primary publication before making a citation-grade claim.
 
 [Open the reference collection](literature.html). [Open the AI research package guide](ai.html). [Return to the benchmark atlas](../index.html).
 '''
@@ -156,7 +162,7 @@ The current manuscript remains unchanged. Reference strings are preserved from i
         package=Path(temp)/('AI_Data_Extraction_Research_Package_'+VERSION);package.mkdir()
         inventory=[]
         with zipfile.ZipFile(args.source_ai_zip) as z:
-            prefix=z.namelist()[0].split('/')[0]+'/agent_native_artifacts/'
+            prefix=z.namelist()[0].split('/')[0]+('/agent_native_artifacts/'if source_format=='corpus'else'/literature/artifacts/')
             for item in z.infolist():
                 if not item.filename.startswith(prefix) or item.is_dir():continue
                 rel=Path(item.filename[len(prefix):]);artifact=rel.parts[0]
@@ -168,7 +174,7 @@ The current manuscript remains unchanged. Reference strings are preserved from i
         assert len(inventory)==203
         starter='''# Start here: current AI-supported data extraction research package
 
-Version: 4 November 2026. This package replaces the earlier rejoinder-draft navigation. It supports literature retrieval, comparison of candidate workflow components and source-bound interpretation of the selected benchmark data. It does not implement or validate an automated extraction workflow.
+This package supports literature retrieval, comparison of candidate workflow components and source-bound interpretation of the benchmark data. Evidence cutoff: 31 October 2026. It does not implement or validate an automated extraction workflow.
 
 1. Read `PAPER.md` and `CURRENT_CONTEXT.json` for the current author position.
 2. Select a workflow component in `workflow/workflow_model.json` or its Markdown module.
@@ -180,9 +186,9 @@ The original study measured agreement with existing human-extracted data; it did
 
 The research objective is to determine where humans, LLMs and human–AI combinations perform better and how their abilities can be combined. The 50 benchmark families do not validate transfer to psychological codebook extraction or establish one universal workflow. Proposed record templates are not validated scales. No new model runs were conducted for this package.
 
-The current progress selection contains eight benchmark families, 650 dated observations and 27 separate conditions. It deliberately selects positive time trends and must not be used to estimate the prevalence or average size of progress. Read `data/progress_selection.json` and both progress-decision CSVs. Current benchmark cards are in `benchmarks/`; the other 42 cards remain in `archive/benchmarks/`. Full source observations and mappings retain all 50 families. A benchmark's exclusion from this progress selection does not establish its irrelevance to the research agenda.
+The progress figures contain eight benchmark families, 650 dated observations and 27 separate conditions. They deliberately select positive time trends and must not be used to estimate the prevalence or average size of progress. Read `data/progress_selection.json` and both progress-decision CSVs. Displayed benchmark cards are in `benchmarks/`; additional screened candidates are in `screening/benchmarks/`. Source observations and mappings cover all 50 candidate families. A benchmark's exclusion from the figures does not establish its irrelevance to the research agenda.
 
-Paths in `source_index.json` are the actual paths in this download. Canonical raw-PDF/Markdown paths inside retained ARAs are provenance pointers; raw PDFs and the source manuscript are not included. Earlier draft navigation and claim indexes have been replaced rather than treated as the current position.
+Paths in `source_index.json` are actual paths in this download. Raw-PDF/Markdown paths inside literature ARAs are provenance pointers; raw PDFs and the source manuscript are not included.
 '''
         (package/'START_HERE.md').write_text(starter);(package/'AGENT_NAVIGATION.md').write_text(starter)
         (package/'README.md').write_text('# AI-supported data extraction: current research companion\n\n'+starter.split('\n',1)[1])
@@ -200,11 +206,11 @@ Paths in `source_index.json` are the actual paths in this download. Canonical ra
         for name in DATA_FILES:
             target=package/'data'/name;target.parent.mkdir(exist_ok=True);shutil.copy2(ROOT/'data'/name,target)
         for r in register:
-            target=package/('benchmarks'if r['family']in selected else'archive/benchmarks')/f'{r["figure_id"]}.md';target.parent.mkdir(parents=True,exist_ok=True)
+            target=package/('benchmarks'if r['family']in selected else'screening/benchmarks')/f'{r["figure_id"]}.md';target.parent.mkdir(parents=True,exist_ok=True)
             target.write_text(f'# {r["figure_id"]} · {r["family"]}\n\nTask: {r["task"]}\n\nChallenges: {r["commentary_challenges"]}\n\nWorkflow links: {r["workflow_step_names"]}\n\nScope: {r["evidence_scope"]}\n\nTransfer limit: {r["transfer_limits"]}\n\nBenchmark APA: {r["benchmark_apa"]}\n\nCondition-specific values and result references: `data/article_observations.csv`, filtered by family.\n\nPublic figures and source rows: {BASE}{r["html"]}\n')
         dump(package/'provenance/build_inputs.json',context)
         files={str(p.relative_to(package)):sha(p)for p in sorted(package.rglob('*'))if p.is_file()}
-        manifest={'version':VERSION,'source_aras_retained':len(inventory),'current_workflow_modules':12,'current_benchmark_families':n_selected,'archived_benchmark_families':50-n_selected,'current_dated_observations':progress['counts']['displayed_source_observations'],'current_conditions':progress['counts']['displayed_conditions'],'archive_source_observations':4094,'source_cutoff':'2026-10-31','files':files,'scope':'Outcome-selected positive trends plus complete source archive; no raw PDFs, source manuscript or new evaluations'}
+        manifest={'version':VERSION,'source_aras_retained':len(inventory),'current_workflow_modules':12,'current_benchmark_families':n_selected,'additional_screened_families':50-n_selected,'current_dated_observations':progress['counts']['displayed_source_observations'],'current_conditions':progress['counts']['displayed_conditions'],'archive_source_observations':4094,'source_cutoff':'2026-10-31','files':files,'scope':'Source-bound progress figures, screened candidate evidence and literature research modules; no raw PDFs, source manuscript or new evaluations'}
         dump(package/'MANIFEST.json',manifest)
         ai_zip=downloads/f'AI_Research_Package_{VERSION}.zip'
         with zipfile.ZipFile(ai_zip,'w',zipfile.ZIP_DEFLATED) as z:
@@ -215,7 +221,10 @@ Paths in `source_index.json` are the actual paths in this download. Canonical ra
             shutil.copy2(package/name,agent/name)
         dump(agent/'source_index.json',{'download':BASE+'materials/downloads/'+ai_zip.name,'paths_are_inside_download':True,'sources':inventory})
     ai_body='''<p class="eyebrow">Current AI-facing research companion · 4 November 2026</p><h1>AI research package</h1><p class="lead">Use the current argument, workflow modules and source evidence together.</p><div class="page-links"><a class="button" href="downloads/AI_Research_Package_2026-11-04.zip" download>Download current AI package</a><a href="agent/START_HERE.md">Agent starting instructions</a><a href="agent/PAPER.md">Current research context</a><a href="agent/MANIFEST.json">File manifest and checksums</a></div><section class="scope"><h2>What is current</h2><p>The starting documents and argument routes follow the author’s current saved manuscript. They replace the earlier draft’s navigation and make the agreement–accuracy distinction explicit. Human, LLM and human–AI workflows share the same accuracy and auditability criteria.</p></section><h2>Contents</h2><ul><li>12 candidate workflow modules, linked to research questions and literature.</li><li>50 benchmark cards and unchanged source data, reference definitions, release-date evidence and descriptive curve inputs.</li><li>203 retained source ARAs with their existing evidence and quality labels; the earlier rejoinder super-ARA is replaced by the current starting context.</li><li>Current manuscript bibliography, claim routes, proposed extraction-event schema and a source inventory.</li></ul><h2>Use with an agent</h2><ol><li>Download and extract the complete package.</li><li>Read <code>START_HERE.md</code>, <code>PAPER.md</code> and <code>CURRENT_CONTEXT.json</code>.</li><li>Select a workflow module and follow its reference and source-ARA routes.</li><li>For benchmark questions, retain the named test condition and cite the result source for each value.</li><li>Verify citation-grade statements at the primary source. The retained ARAs are retrieval aids, and their source-grounding limits remain visible.</li></ol><p class="scope">The package supports research and source retrieval. It is not a validated extraction pipeline or a new performance evaluation. Raw PDFs and the source manuscript are not included.</p><p><a href="workflow.html">Reader workflow guide</a> · <a href="literature.html">References</a> · <a href="version.json">Source versions and provenance</a></p>'''
-    ai_body=ai_body.replace('50 benchmark cards and unchanged source data','8 current benchmark cards, 42 archived cards and unchanged full source data')
+    ai_body=ai_body.replace('50 benchmark cards and unchanged source data','8 displayed benchmark cards, 42 additional screened candidates and source data')
+    ai_body=ai_body.replace('They replace the earlier draft’s navigation and make the agreement–accuracy distinction explicit.','The agreement–accuracy distinction is explicit.')
+    ai_body=ai_body.replace('; the earlier rejoinder super-ARA is replaced by the current starting context','')
+    ai_body=ai_body.replace('Current AI-facing research companion','AI-facing research companion').replace('Download current AI package','Download AI research package').replace('What is current','Research context').replace('Source versions and provenance','Source provenance')
     ai_body=ai_body.replace('<h2>Use with an agent</h2>','<p class="progress-selection-note">The current eight-family view deliberately selects well-populated positive time trends. It cannot estimate overall progress. The full 50-family evidence remains in the download. <a href="../methods.html#progress-selection">Selection criteria and decisions</a>.</p><h2>Use with an agent</h2>')
     page(materials/'ai.html','AI research package',ai_body)
     # Reader download: self-contained HTML, Markdown, references, canvas and template.
@@ -236,9 +245,10 @@ Paths in `source_index.json` are the actual paths in this download. Canonical ra
             z.writestr(name,'<!doctype html>'+H.tostring(doc,encoding='unicode'))
         z.writestr('README.md','# Current workflow and literature supplement\n\nOpen workflow.html. This is the 4 November 2026 reader guide. Benchmark figures and the full AI research package are linked to the public article site. The workflow is a research blueprint, not a validated universal procedure.\n')
     fragment='''<section id="article-materials" class="article-materials-hub"><div><p class="eyebrow">All article materials · updated 4 November 2026</p><h2>Workflow, literature and AI research companion</h2><p>Current companions to the benchmark atlas, aligned with the manuscript snapshot read on 4 November 2026.</p></div><div class="materials-grid"><article><h3>Workflow &amp; literature</h3><p>12 candidate components, source-linked research questions and a current literature guide.</p><a href="materials/workflow.html">Read the supplement ↗</a><a href="materials/downloads/Workflow_Literature_Supplement_2026-11-04.zip" download>Download reader package</a></article><article><h3>AI research package</h3><p>Current argument and agent instructions, 203 source ARAs, 50 benchmark cards and the source data.</p><a href="materials/ai.html">Open the agent guide ↗</a><a href="materials/downloads/AI_Research_Package_2026-11-04.zip" download>Download AI package</a></article><article><h3>References &amp; research records</h3><p>APA references, workflow roles, an illustrative event schema and source-version provenance.</p><a href="materials/literature.html">Explore the literature ↗</a><a href="materials/extraction_event.schema.json" download>Download record template</a></article></div></section>'''
-    fragment=fragment.replace('50 benchmark cards and the source data','8 current benchmark cards, the 50-family source archive and all source data')
+    fragment=fragment.replace('50 benchmark cards and the source data','8 displayed benchmark cards, screened candidate evidence and source data')
+    fragment=fragment.replace('Current companions to the benchmark atlas, aligned with the manuscript snapshot read on 4 November 2026.','Workflow components, supporting literature and source-linked benchmark evidence for the article.')
     (materials/'home.fragment').write_text(fragment)
-    report={'version':VERSION,'source_manuscript_sha256':context['source_manuscript_sha256'],'source_manuscript_not_modified':True,'workflow_modules':12,'current_manuscript_references':len(refs),'source_aras_retained':203,'benchmark_cards':n_selected,'archived_benchmark_cards':50-n_selected,'source_observations':4094,'current_dated_observations':progress['counts']['displayed_source_observations'],'old_draft_navigation_replaced':True,'new_model_evaluations':False,'downloads':{ai_zip.name:sha(ai_zip),human_zip.name:sha(human_zip)}}
+    report={'version':VERSION,'source_manuscript_sha256':context['source_manuscript_sha256'],'source_manuscript_not_modified':True,'workflow_modules':12,'current_manuscript_references':len(refs),'source_aras_retained':203,'benchmark_cards':n_selected,'additional_screened_cards':50-n_selected,'source_observations':4094,'current_dated_observations':progress['counts']['displayed_source_observations'],'standalone_navigation':True,'new_model_evaluations':False,'downloads':{ai_zip.name:sha(ai_zip),human_zip.name:sha(human_zip)}}
     dump(materials/'build_validation.json',report);print(json.dumps(report,indent=2))
 
 if __name__=='__main__':main()

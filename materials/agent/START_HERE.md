@@ -1,6 +1,6 @@
 # Start here: current AI-supported data extraction research package
 
-Version: 4 November 2026. This package replaces the earlier rejoinder-draft navigation. It supports literature retrieval, comparison of candidate workflow components and source-bound interpretation of the selected benchmark data. It does not implement or validate an automated extraction workflow.
+This package supports literature retrieval, comparison of candidate workflow components and source-bound interpretation of the benchmark data. Evidence cutoff: 31 October 2026. It does not implement or validate an automated extraction workflow.
 
 1. Read `PAPER.md` and `CURRENT_CONTEXT.json` for the current author position.
 2. Select a workflow component in `workflow/workflow_model.json` or its Markdown module.
@@ -12,6 +12,6 @@ The original study measured agreement with existing human-extracted data; it did
 
 The research objective is to determine where humans, LLMs and human–AI combinations perform better and how their abilities can be combined. The 50 benchmark families do not validate transfer to psychological codebook extraction or establish one universal workflow. Proposed record templates are not validated scales. No new model runs were conducted for this package.
 
-The current progress selection contains eight benchmark families, 650 dated observations and 27 separate conditions. It deliberately selects positive time trends and must not be used to estimate the prevalence or average size of progress. Read `data/progress_selection.json` and both progress-decision CSVs. Current benchmark cards are in `benchmarks/`; the other 42 cards remain in `archive/benchmarks/`. Full source observations and mappings retain all 50 families. A benchmark's exclusion from this progress selection does not establish its irrelevance to the research agenda.
+The progress figures contain eight benchmark families, 650 dated observations and 27 separate conditions. They deliberately select positive time trends and must not be used to estimate the prevalence or average size of progress. Read `data/progress_selection.json` and both progress-decision CSVs. Displayed benchmark cards are in `benchmarks/`; additional screened candidates are in `screening/benchmarks/`. Source observations and mappings cover all 50 candidate families. A benchmark's exclusion from the figures does not establish its irrelevance to the research agenda.
 
-Paths in `source_index.json` are the actual paths in this download. Canonical raw-PDF/Markdown paths inside retained ARAs are provenance pointers; raw PDFs and the source manuscript are not included. Earlier draft navigation and claim indexes have been replaced rather than treated as the current position.
+Paths in `source_index.json` are actual paths in this download. Raw-PDF/Markdown paths inside literature ARAs are provenance pointers; raw PDFs and the source manuscript are not included.

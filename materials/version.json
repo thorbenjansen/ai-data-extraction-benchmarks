@@ -4,28 +4,12 @@
   "source_manuscript_sha256": "181c806a276189ba1e7ba01ee0cc37f8e426dadacde2ede19bca7d853c142783",
   "revision_view": "Author revised text; deletions and moved-from text excluded; deleted paragraph marks joined",
   "source_manuscript_modified": false,
-  "benchmark_selection": "2026-11-04: focused positive-trend selection; original 50-family source archive selected 2026-11-02",
+  "benchmark_selection": "Eight families with adequately sampled positive time trends; 50 candidate families screened",
   "benchmark_source_cutoff": "2026-10-31",
   "source_ai_package": {
-    "url": "https://osf.io/download/bv6js/",
     "sha256": "74447e85c545e058204b19c98f34b6b40a1dd0f82fe97d4ac6191c01a9139a1b",
-    "source_file_url": "https://osf.io/kgxew/files/osfstorage/6a0648c3e66fb1d62720191c",
-    "role": "Retained source-ARA corpus; previous draft navigation replaced"
+    "role": "Source-ARA corpus build input"
   },
-  "previous_human_supplement": [
-    {
-      "url": "https://osf.io/download/4bvmt/",
-      "sha256": "15b510bf9c0a402b3ef25f5e6765452422dc6422897e5bed29f04fe48346c177"
-    },
-    {
-      "url": "https://osf.io/download/6a0648ac756ed53dcc201b54/",
-      "sha256": "527582e50ae26540d2d3bb797b1ef837b542cf0ea2319cb0a0e3c7e66d3d94cf"
-    },
-    {
-      "url": "https://osf.io/download/6a0649024a09d5b424201b02/",
-      "sha256": "0a8c61c34af4d5c920608cb66af40a7dd0569af745f086a0d6a1e7b7951adf57"
-    }
-  ],
-  "change_scope": "Current reader and agent navigation aligned to the saved manuscript snapshot; 12 workflow components. Focused progress view contains 8 benchmark families, 27 conditions and 650 dated observations. Complete 50-family source evidence, observations, dates, figures and curves are preserved unchanged.",
-  "source_snapshot_note": "The author was editing the manuscript during preparation. This resource is aligned with the saved snapshot read on 4 November 2026; it does not modify the manuscript."
+  "change_scope": "Self-contained research supplement: 12 workflow components, 45 manuscript references, 203 source ARAs, and 8 displayed benchmark families with 27 conditions and 650 dated observations. Source evidence and candidate screening decisions are retained.",
+  "source_snapshot_note": "Based on the source manuscript text identified by its checksum. The manuscript is not distributed in this package."
 }

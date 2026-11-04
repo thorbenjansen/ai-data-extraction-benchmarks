@@ -49,7 +49,7 @@ def redirect_document(name):
     script = '''const u=new URL('index.html',location.href),p=new URLSearchParams(location.search);u.search=p.toString();let h=location.hash;
 if(location.pathname.endsWith('/workflow.html'))h=h?'#step-'+h.slice(1):'#workflow-map';
 if(!h&&p.get('challenge'))h='#challenge-'+p.get('challenge');u.hash=h;location.replace(u.href);'''
-    return H.fromstring(f'''<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Challenges &amp; workflow | Data extraction benchmarks</title><link rel="canonical" href="https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html"><script>{script}</script></head><body><main><h1>Challenges and workflow are now on one page</h1><p><a href="{base}">Open the combined benchmark supplement</a></p></main></body></html>''')
+    return H.fromstring(f'''<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Challenges &amp; workflow | Data extraction benchmarks</title><link rel="canonical" href="https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html"><script>{script}</script></head><body><main><h1>Benchmark supplement</h1><p><a href="{base}">Open the benchmark figures</a></p></main></body></html>''')
 
 
 def retarget(value, context_path):
@@ -58,7 +58,7 @@ def retarget(value, context_path):
         return value
     p = Path(u.path)
     if p.name in {'index.html', 'workflow.html', 'challenges.html', 'all-benchmarks.html'} and u.fragment in ARCHIVED_FIGURES and (context_path.parent/p).resolve().parent == ROOT:
-        return urlunsplit(('', '', str(p.with_name('archive.html')), u.query, u.fragment))
+        return urlunsplit(('', '', str(p.with_name('evidence.html')), u.query, u.fragment))
     if p.name not in {'workflow.html', 'challenges.html', 'all-benchmarks.html'}:
         return value
     if (context_path.parent/p).resolve().parent!=ROOT:
@@ -134,7 +134,7 @@ def build():
 <h1>Challenges A–D across the extraction workflow</h1>
 <p class="lead">Four challenges, one map. Scroll down through A–D and across their benchmark figures. Select a workflow step to explore its evidence.</p>
 <p class="integration-note"><strong>{len(register)} benchmark families</strong> · {selection['counts']['displayed_source_observations']:,} dated observations · {selection['counts']['displayed_conditions']} separate test conditions. Each family has a well-populated positive time series; no adequately sampled condition shows a contrary direction.</p>
-<p class="progress-selection-note">Selected to illustrate observed progress. This outcome-based selection cannot establish how often benchmarks improve or the average progress across all benchmarks. <a href="methods.html#progress-selection">Criteria and every inclusion decision</a> · <a href="archive.html">Full 50-family source archive</a>.</p>
+<p class="progress-selection-note">Selected to illustrate observed progress. This outcome-based selection cannot establish how often benchmarks improve or the average progress across all benchmarks. <a href="methods.html#progress-selection">Selection criteria and screening decisions</a>.</p>
 <div class="challenge-jump" aria-label="Commentary challenges">'''
     for c, d in defs.items():
         body += (f'<a href="#challenge-{c}"><strong>{c}</strong><span>{esc(d["name"])}'
@@ -143,8 +143,8 @@ def build():
     body += ''.join(f'<option value="{sid}" data-name="{esc(steps[sid]["name"])}" data-task="{esc(steps[sid]["task"])}" data-gap="{esc(steps[sid]["gap"])}">{i:02} · {esc(steps[sid]["name"])}</option>'
                     for i, sid in enumerate(ORDER, 1))
     body += f'''</select></label><button type="button" id="flow-reset">Show all selected benchmarks</button><span id="flow-count" role="status" aria-live="polite">{len(register)} benchmark families · 4 challenges</span></div>
-<p class="flow-help">X: documented model release date. Y: the original benchmark metric. Date ranges can differ between figures; compare the calendar labels. Dashed curves describe mean performance within the named test condition. Within each challenge, the larger displayed mean-curve gains come first. <a href="methods.html#figure-order">How the figures are ordered</a>. Click a figure for its raw data and sources.</p>
-<div class="supplement-links"><a href="model-releases.html">Model release-date sources</a><a href="methods.html#mean-curves">Mean-curve methods</a><a href="methods.html#progress-selection">Progress selection and limits</a><a href="archive.html">Source archive and PDF</a></div></div>
+<p class="flow-help">Hover over a point for its model, score and reference; click or tap to keep the details open. X: documented model release date. Y: the original benchmark metric. Dashed curves describe mean performance within the named test condition. Calendar ranges can differ. <a href="methods.html#figure-order">Figure order</a> · <a href="methods.html#interactive-points">Using the interactive figures</a>.</p>
+<div class="supplement-links"><a href="model-releases.html">Model release-date sources</a><a href="methods.html#mean-curves">Mean-curve methods</a><a href="methods.html#progress-selection">Selection and limits</a><a href="evidence.html">Screening record</a></div></div>
 <details class="unified-workflow" id="workflow-map"><summary>The 12 workflow steps and their links to A–D</summary><p>Challenge badges indicate links through the mapped benchmark tasks. They do not establish that an entire step is validated. Select a step to filter the figures below.</p><div class="workflow-tiles">'''
     for i, sid in enumerate(ORDER, 1):
         families = [f for f in byfamily if sid in stepmap[f]]
@@ -158,7 +158,7 @@ def build():
         body += (f'<button id="step-{sid}" type="button" data-workflow-step="{sid}" aria-pressed="false">'
                  f'<span class="workflow-order">{i:02} · {SHORT[i-1]}</span><strong>{esc(steps[sid]["name"])}</strong>'
                  f'<span class="tile-challenges">{badges}</span><small>{number}</small></button>')
-    body += '''</div><p class="map-source">The coding-protocol and interaction requirements remain distinct from A–D. Auditability, human–AI collaboration and adjudication have no direct benchmark in this focused progress selection. The source archive retains three partial audit diagnostics; none tests the complete audit trail. <a href="data/challenge_mapping.csv">Download all source challenge/workflow assignments</a>.</p></details>
+    body += '''</div><p class="map-source">The coding-protocol and interaction requirements remain distinct from A–D. Auditability, human–AI collaboration and adjudication have no direct benchmark in the displayed selection. <a href="evidence.html">Screening decisions and additional component evidence</a>.</p></details>
 <aside id="workflow-context" class="workflow-context" hidden aria-live="polite"><h2 id="workflow-context-title"></h2><p id="workflow-context-task"></p><p id="workflow-context-gap"></p></aside>
 <p id="flow-empty" class="flow-empty" hidden>No benchmarks match this search and workflow step. Try another step or show all benchmarks.</p>
 <div class="flow-sequence challenge-sequence">'''
@@ -213,9 +213,9 @@ def build():
                          f'data-benchmark-id="{esc(vv["benchmark_id"])}" data-apa-html="{esc(citation(bib[vv["benchmark_id"]]))}"'
                          + (' selected' if vv['id'] == v['id'] else '') + f'>{esc(label)}</option>')
             body += ('</select></label>'
-                     f'<a class="figure-link" href="{r["html"]}#records" aria-label="Open the data and references for {esc(family)}">'
+                     f'<div class="figure-link interactive-figure">'
                      f'<img class="time-preview" src="{esc(v["path"])}" alt="{esc(family)}: benchmark performance versus model release date" '
-                     'width="860" height="565" loading="lazy"><span class="figure-open">Open data and references ↗</span></a>'
+                     f'width="860" height="565" loading="lazy"><a class="figure-open" href="{r["html"]}#records">Open all data and references ↗</a></div>'
                      f'<div class="benchmark-apa" data-benchmark-id="{esc(v["benchmark_id"])}"><p class="eyebrow">Benchmark reference (APA)</p>{apa}</div>'
                      f'<div class="card-foot"><span class="variant-count">{v["plotted"]} shown / {v["observations"]} observations · '
                      f'{v.get("undated",v["observations"]-v["dated"])} undated · {v.get("definition_held",0)} definition-held</span>'
@@ -231,22 +231,23 @@ def build():
     # Keep the full source map accessible without presenting it as the current selection.
     archive = H.parse(str(ROOT/'index.html')).getroot()
     archive.find('body').set('class', 'supplement-page')
-    archive.find('head/title').text = 'Full source archive | Data extraction benchmarks'
+    archive.find('head/title').text = 'Benchmark screening record | Data extraction benchmarks'
     amain = archive.xpath('//main')[0]; amain.clear(); amain.set('id','content')
-    archive_body = '''<p class="eyebrow">Source archive · original 50-family selection</p><h1>Full benchmark source archive</h1><p class="lead">The current main page retains eight families with well-populated, consistently positive release-date trends. All 50 original families and their evidence remain accessible here.</p><p>This archive preserves 4,094 source observations, 391 conditions and the original mappings. A missing or weak time trend is not evidence that a benchmark is unimportant. BFCL, for example, improves on its overall tool-calling score while adequately sampled subtasks show regressions; it is therefore excluded from the focused selection.</p><div class="page-links"><a href="index.html">Current progress figures</a><a href="methods.html#progress-selection">Selection criteria</a><a href="All_Benchmarks_Article_Atlas.pdf">Original 50-family PDF atlas</a><a href="data/article_benchmark_register.csv">Full source register</a><a href="data/progress_family_decisions.csv">All inclusion decisions</a></div><div class="table-scroll"><table><thead><tr><th>Benchmark</th><th>Current status</th><th>Adequately sampled conditions</th><th>Reason</th></tr></thead><tbody>'''
+    archive_body = '''<p class="eyebrow">Benchmark screening record</p><h1>Evidence considered for the figures</h1><p class="lead">Eight benchmark families provide the displayed positive time trends. This record documents the 50 candidate families screened using the same data and trend criteria.</p><p>The candidate evidence comprises 4,094 source observations in 391 conditions. A sparse or mixed time trend does not establish that a benchmark is irrelevant. BFCL, for example, improves on its overall tool-calling score while adequately sampled subtasks regress, so it is not included in the progress figures.</p><div class="page-links"><a href="index.html">Benchmark figures</a><a href="methods.html#progress-selection">Selection criteria</a><a href="data/article_benchmark_register.csv">Candidate evidence register</a><a href="data/progress_family_decisions.csv">All screening decisions</a></div><div class="table-scroll"><table><thead><tr><th>Benchmark</th><th>Display status</th><th>Adequately sampled conditions</th><th>Reason</th></tr></thead><tbody>'''
     for r in archive_register:
         decision = family_decisions[r['family']]
-        status = 'Current progress selection' if r['family'] in selected else 'Archive only'
+        status = 'Included in figures' if r['family'] in selected else 'Not included in figures'
         archive_body += f'<tr id="{r["figure_id"]}"><td><a href="{r["html"]}">{esc(r["family"])}</a></td><td>{status}</td><td>{decision["adequate_conditions"]}</td><td>{esc(decision["reason"])}</td></tr>'
     archive_body += '</tbody></table></div>'
     for el in H.fragments_fromstring(archive_body): amain.append(el)
-    save(ROOT/'archive.html',archive)
+    save(ROOT/'evidence.html',archive)
+    save(ROOT/'archive.html',redirect_document('archive.html'))
     # The original detail pages remain accessible, with their selection status visible.
     for r in archive_register:
         p=ROOT/r['html']; detail=H.parse(str(p)).getroot()
         for el in detail.xpath('//*[@id="progress-selection-status"]'): el.getparent().remove(el)
-        status='Current progress selection' if r['family'] in selected else 'Source archive only'
-        note=H.fragment_fromstring(f'<aside id="progress-selection-status" class="progress-selection-note"><strong>{status}.</strong> {esc(family_decisions[r["family"]]["reason"])}. All original conditions and source values are retained below. <a href="../methods.html#progress-selection">Criteria</a> · <a href="../archive.html#{r["figure_id"]}">Archive record</a>.</aside>')
+        status='Included in progress figures' if r['family'] in selected else 'Additional screened evidence'
+        note=H.fragment_fromstring(f'<aside id="progress-selection-status" class="progress-selection-note"><strong>{status}.</strong> {esc(family_decisions[r["family"]]["reason"])}. <a href="../methods.html#progress-selection">Criteria</a> · <a href="../evidence.html#{r["figure_id"]}">Screening record</a>.</aside>')
         detail.xpath('//main')[0].insert(0,note); save(p,detail)
     for name in ['workflow.html', 'challenges.html', 'all-benchmarks.html']:
         save(ROOT / name, redirect_document(name))
@@ -255,7 +256,7 @@ def build():
         for el in tree.xpath('//*[@href]'):
             el.set('href', retarget(el.get('href'),p))
         for link in tree.xpath('//footer//a[contains(@href,"all_source_values.csv")]'):
-            link.text = 'All 4,094 source archive values (CSV)'
+            link.text = 'Candidate evidence data (CSV)'
         navs = tree.xpath('//header[@class="site-header"]/nav')
         if navs:
             nav = navs[0]

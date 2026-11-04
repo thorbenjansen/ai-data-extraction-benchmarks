@@ -1,0 +1,19 @@
+{
+  "method": "Nadaraya-Watson Gaussian kernel regression",
+  "bandwidth_days": 180,
+  "sensitivity_bandwidth_days": [
+    90,
+    180,
+    365
+  ],
+  "minimum_configurations": 5,
+  "minimum_release_dates": 4,
+  "minimum_span_days": 90,
+  "weighting": "One weight per model-configuration/release/condition; repeated results averaged first",
+  "uncertainty": "No confidence interval: selected reported configurations are not a probability sample",
+  "extrapolation": false,
+  "scope": "Descriptive within-condition smoothing for the benchmark supplement",
+  "displayed_conditions": 27,
+  "displayed_families": 8,
+  "displayed_dated_observations": 650
+}

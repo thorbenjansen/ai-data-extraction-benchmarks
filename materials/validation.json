@@ -4,14 +4,14 @@
   "reader_and_ai_packages_reopened": true,
   "source_ara_paths_checked": 203,
   "current_benchmark_cards": 8,
-  "archived_benchmark_cards": 42,
+  "additional_screened_cards": 42,
   "workflow_modules": 12,
   "reference_entries": 45,
   "source_observations": 4094,
-  "copied_benchmark_data_files_byte_identical": 21,
-  "active_html_pages_checked": 61,
-  "local_links_checked": 13718,
+  "copied_benchmark_data_files_byte_identical": 23,
+  "active_html_pages_checked": 62,
+  "local_links_checked": 13538,
   "obsolete_commentary_page_absent": true,
   "source_manuscript_not_published": true,
-  "old_draft_navigation_not_reused": true
+  "standalone_navigation": true
 }

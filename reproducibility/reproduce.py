@@ -10,4 +10,6 @@ if(out/'materials').is_dir():
  subprocess.run([sys.executable,str(out/'reproducibility/validate_article_materials.py')],check=True)
 if(out/'data/progress_selection.json').exists():
     subprocess.run([sys.executable,str(out/'reproducibility/validate_progress.py')],check=True)
+if(out/'data/point_details.json').exists():
+    subprocess.run([sys.executable,str(out/'reproducibility/validate_interactive.py')],check=True)
 print('Reproduced the source snapshot and its current presentation:',out)

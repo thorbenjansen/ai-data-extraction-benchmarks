@@ -101,7 +101,7 @@ for section in home.xpath('//section[@data-challenge]'):
     values={r['family']:r for r in order['default_conditions']}
     assert all(values[a]['gain_as_percent_of_axis']>=values[b]['gain_as_percent_of_axis']for a,b in zip(families,families[1:]))
 assert {c:fs[0]for c,fs in order['challenge_order'].items()}=={'A':'OmniDocBench','B':'LongBench','C':'GSM-Symbolic','D':'TableBench'}
-archive=H.parse(str(ROOT/'archive.html')).getroot()
+archive=H.parse(str(ROOT/'evidence.html')).getroot()
 assert len(archive.xpath('//tbody/tr'))==50
 assert not (ROOT/'claims.html').exists()
 report=dict(status='passed',source_scientific_files_byte_identical=checked,independent_input_source='Original source observations plus release audit, without using mean_curve_inputs for model counts or trend calculations',current_families=sorted(selected),current_conditions=len(shown),current_dated_observations=len(obsids),homepage_assignments=len(cards),challenge_family_counts=selection['counts']['challenge_family_counts'],original_values_and_figures_modified=False)

@@ -3,20 +3,20 @@
   "current_benchmark_families": 8,
   "current_homepage_assignments": 13,
   "current_dated_observations": 650,
-  "archive_benchmark_families": 50,
+  "candidate_benchmark_families": 50,
   "source_observations": 4094,
-  "archive_conditions": 391,
-  "archive_challenge_assignments": 86,
-  "archive_challenge_family_counts": {
+  "candidate_conditions": 391,
+  "candidate_challenge_assignments": 86,
+  "candidate_challenge_family_counts": {
     "A": 24,
     "C": 17,
     "B": 25,
     "D": 20
   },
-  "archive_visible_observations": 1716,
+  "candidate_dated_observations": 1716,
   "unchanged_figure_assets": 882,
-  "local_links_checked": 18701,
-  "local_anchors_checked": 17594,
+  "local_links_checked": 18521,
+  "local_anchors_checked": 17596,
   "pdf_pages": 377,
   "pdf_family_chapters": 50,
   "all_source_rows_have_result_and_benchmark_references": true

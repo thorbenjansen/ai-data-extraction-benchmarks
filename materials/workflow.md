@@ -1,6 +1,6 @@
 # Workflow and literature supplement
 
-Updated 4 November 2026. This resource accompanies the author's saved manuscript snapshot read on that date, the focused eight-benchmark progress selection and the preserved 50-family source archive. It replaces the earlier reader guide and its draft-centered agent navigation.
+This supplement connects a twelve-component research workflow, its supporting literature and eight benchmark families with source-linked time trends. Evidence cutoff: 31 October 2026.
 
 ## Why accuracy and auditability belong together
 
@@ -18,7 +18,7 @@ Each module separates its purpose, a proposed research record, possible evaluati
 
 The main page now shows eight benchmark families with 650 dated observations in 27 separate conditions. A condition needs at least ten model configurations, six release positions and 180 days of coverage. A selected family must have a qualifying positive trend and no contrary adequately sampled condition. Every adequately sampled condition in each retained family remains visible, including weaker positive associations. [Read all criteria and inclusion decisions](../methods.html#progress-selection).
 
-This selection explicitly depends on observed progress. It illustrates positive trajectories; it cannot estimate how often benchmarks improve or average general progress. The [full source archive](../archive.html) retains 50 families, 4,094 observations and 391 conditions, including mixed findings and sparse time series. No family is a dedicated test of codebook-based extraction from psychological studies. Challenge assignments overlap; raw scores and curves remain condition-specific. The audit module has no benchmark in the current progress selection; the source archive retains three partial diagnostics, not a benchmark of the complete audit trail.
+This selection explicitly depends on observed progress. It illustrates positive trajectories; it cannot estimate how often benchmarks improve or average general progress. The [screening record](../evidence.html) documents all 50 candidate families, including mixed findings and sparse time series. No family is a dedicated test of codebook-based extraction from psychological studies. Challenge assignments overlap; raw scores and curves remain condition-specific. No displayed benchmark tests the complete audit trail.
 
 ## Workflow modules
 
@@ -40,8 +40,6 @@ This selection explicitly depends on observed progress. It illustrates positive 
 
 GSM-Symbolic.
 
-**Source archive.** BFCL, ComplexBench, DTBench, UNIKIE-BENCH, SUC, Symbolic manipulation, VaxScope, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
-
 ### 02. Prepare and read source documents
 
 **Purpose.** Establish which article versions, appendices and other eligible materials enter the extraction, and preserve the information needed downstream.
@@ -59,8 +57,6 @@ GSM-Symbolic.
 **Benchmark coverage.** 3 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=documents).
 
 OmniDocBench, olmOCR-bench, PureDocBench.
-
-**Source archive.** READoc, OCRBench, MDPBench, Dr. DocBench, DocVQA, MMLongBench-Doc, UNIKIE-BENCH, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 03. Locate relevant evidence
 
@@ -80,8 +76,6 @@ OmniDocBench, olmOCR-bench, PureDocBench.
 
 LongBench, RULER.
 
-**Source archive.** MultiHiertt, DocMath-Eval, MMLongBench-Doc, HELMET, NoLiMa, InfiniteBench, MRCR, DROP, FRAMES, MuSiQue, HotpotQA, QASPER, SciAssess, LAB-Bench, GAIA, ALCE, RoBBR, TrialReviewBench, Manalyzer, NIAH, LooGLE, MM-NIAH, VaxScope. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
-
 ### 04. Bind values to the correct unit
 
 **Purpose.** Associate a candidate value with the correct study, sample, group, outcome, time point and analytical unit.
@@ -99,8 +93,6 @@ LongBench, RULER.
 **Benchmark coverage.** 5 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=bind).
 
 OmniDocBench, olmOCR-bench, PureDocBench, LongBench, TableBench.
-
-**Source archive.** READoc, OCRBench, MDPBench, Dr. DocBench, DocVQA, ChartQA, ChartQAPro, HiTab, MultiHiertt, TAT-QA, FinQA, DocMath-Eval, MMLongBench-Doc, DROP, QASPER, SciAssess, LAB-Bench, TrialReviewBench, Manalyzer, DTBench, UNIKIE-BENCH, SUC, MM-NIAH, VaxScope, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 05. Interpret evidence and apply coding rules
 
@@ -120,8 +112,6 @@ OmniDocBench, olmOCR-bench, PureDocBench, LongBench, TableBench.
 
 GSM-Symbolic.
 
-**Source archive.** BFCL, ComplexBench, RoBBR, DTBench, UNIKIE-BENCH, SUC, Symbolic manipulation, VaxScope, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
-
 ### 06. Coordinate retrieval, tools and intermediate steps
 
 **Purpose.** Coordinate retrieval, tool use and dependent operations so intermediate decisions can be inspected and reconsidered.
@@ -139,8 +129,6 @@ GSM-Symbolic.
 **Benchmark coverage.** 4 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=coordinate).
 
 LongBench, RULER, TableBench, ProcessBench.
-
-**Source archive.** FinQA, HELMET, NoLiMa, InfiniteBench, FRAMES, MuSiQue, HotpotQA, SciAssess, LAB-Bench, CORE-Bench, GAIA, BFCL, ComplexBench, TrialReviewBench, Manalyzer, LooGLE. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 07. Transform and calculate values
 
@@ -160,8 +148,6 @@ LongBench, RULER, TableBench, ProcessBench.
 
 GSM-Symbolic, TableBench, ProcessBench.
 
-**Source archive.** ChartQA, ChartQAPro, HiTab, MultiHiertt, TAT-QA, FinQA, DocMath-Eval, InfiniteBench, DROP, Manalyzer, DTBench, NUPA, Symbolic manipulation, LooGLE. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
-
 ### 08. Verify source support and detect errors
 
 **Purpose.** Check whether a candidate value and its interpretation are supported by the recorded source and extraction rule.
@@ -179,8 +165,6 @@ GSM-Symbolic, TableBench, ProcessBench.
 **Benchmark coverage.** 1 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=verify).
 
 ProcessBench.
-
-**Source archive.** HELMET, FRAMES, HotpotQA, QASPER, LAB-Bench, CORE-Bench, ALCE, RoBBR, DTBench, LooGLE. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
 
 ### 09. Combine human and LLM contributions
 
@@ -230,8 +214,6 @@ ProcessBench.
 
 **Benchmark coverage.** 0 families; mapped component or extraction task. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=product).
 
-**Source archive.** TrialReviewBench, Manalyzer, DTBench, UNIKIE-BENCH, VaxScope, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
-
 ### 12. Retain an auditable extraction record
 
 **Purpose.** Enable another researcher to reconstruct consequential decisions and assess where the process could be checked, corrected or redirected.
@@ -248,8 +230,6 @@ ProcessBench.
 
 **Benchmark coverage.** 0 families; partial diagnostic only. [Explore the corresponding figures](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/index.html?step=audit).
 
-**Source archive.** ALCE, DTBench, CONSORT diagrams. These families are not part of the focused progress selection; [see the source archive](https://thorbenjansen.github.io/ai-data-extraction-benchmarks/archive.html).
-
 ## Comparing workflows on common terms
 
 Define the eligible documents, variables and extraction units; coder expertise and training; model snapshots, prompts, context and tools; and the information available at each decision. Record which differences are intentional parts of the workflow comparison. Separate held-out evaluation from adaptation of the instructions or codebook. Document the reference procedure, adjudicator independence, denominators and treatment of missing and ambiguous cases.
@@ -262,8 +242,8 @@ An audit should determine whether a reader can reconstruct the evidence and the 
 
 The companion event schema is an illustrative template for research. It records the actor and condition, codebook and instruction versions, source locator, candidate value, transformation, exposure timing, verification, final disposition and remaining uncertainty. It specifies information to preserve; it does not validate an extraction decision or prescribe one verification policy for all reviews.
 
-## Sources and version
+## Sources and provenance
 
-The current manuscript remains unchanged. Reference strings are preserved from its bibliography. The step-to-literature assignments and operational research questions were authored for this supplement. The earlier OSF corpus remains the source of the retained literature ARAs; their quality labels and source-grounding limitations remain visible. The earlier draft's framing and routes are superseded by the current starting documents.
+Reference strings follow the accompanying manuscript bibliography. The step-to-literature assignments and operational research questions were authored for this supplement. Literature ARAs provide structured routes to source evidence; their quality labels and source-grounding limitations remain visible. Check the cited primary publication before making a citation-grade claim.
 
 [Open the reference collection](literature.html). [Open the AI research package guide](ai.html). [Return to the benchmark atlas](../index.html).
