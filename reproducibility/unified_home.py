@@ -221,7 +221,7 @@ def build():
                      f'{v.get("undated",v["observations"]-v["dated"])} undated · {v.get("definition_held",0)} definition-held</span>'
                      '<span>Original metric · separate test conditions</span></div></article>')
         body += '</div></section>'
-    body += '''</div><section class="scope unified-scope"><h2>What the selection supports</h2><p>These are illustrative positive trends in component skills. None is a dedicated test of codebook-based extraction from psychological studies, and none validates the complete human–AI workflow or its auditability. The same benchmark can inform several challenges and workflow steps.</p><p>The main page shows every adequately sampled condition in each selected family, including weaker positive associations. Detail pages retain all conditions, APA references, individual result sources and model-release evidence. Original figures, observations and descriptive curves are unchanged.</p><p><a href="data/progress_benchmark_register.csv">Current eight-family register</a> · <a href="data/progress_observations.csv">Current plotted observations</a> · <a href="data/progress_family_decisions.csv">All 50 inclusion decisions</a> · <a href="archive.html">Complete source archive</a></p></section>'''
+    body += '</div>'
     fragment=ROOT/'materials/home.fragment'
     if fragment.exists():
         body=body.replace('<details class="unified-workflow"',fragment.read_text()+'<details class="unified-workflow"',1)

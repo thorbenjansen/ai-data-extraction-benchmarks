@@ -14,7 +14,8 @@
     "LongBench short no-CoT switches to series_10 with 18 shown observations and its reference",
     "Search ProcessBench yields one family in two challenges",
     "Criteria page explains outcome selection and retains complete decisions",
-    "Left-to-right order follows the existing default mean-curve gain; all A-D orders checked in the generated HTML and A/D inspected in the browser"
+    "Left-to-right order follows the existing default mean-curve gain; all A-D orders checked in the generated HTML and A/D inspected in the browser",
+    "Removed only the user-marked What the selection supports box; all other homepage DOM content and A-D orders preserved"
   ],
   "browser_scope": "Representative affected controls and existing figures inspected; frozen figure assets retained unchanged",
   "display_order": {
