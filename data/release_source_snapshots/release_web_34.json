@@ -1,0 +1,29 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "983ac0e3e4300230dc0c27772c6af82cac7fecced79157b2f08c0b72280019e5",
+  "primary_sources": [
+    "https://openai.com/index/introducing-chatgpt-and-whisper-apis/",
+    "https://openai.com/index/introducing-gpt-5-5/",
+    "https://ai.meta.com/blog/llama-2/",
+    "https://huggingface.co/microsoft/Phi-2"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD072",
+      "release_date": "2026-04-23",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "locator": "April 23 heading; April 24 API update",
+      "evidence": "The general model release is April 23; the separately reported API availability is April 24."
+    },
+    {
+      "release_id": "RD073",
+      "release_date": "2023-07-18",
+      "url": "https://ai.meta.com/blog/llama-2/",
+      "locator": "July 18 heading; pretrained and conversational weights",
+      "evidence": "The weights of the original pretrained and conversational Llama 2 models are publicly available at launch."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

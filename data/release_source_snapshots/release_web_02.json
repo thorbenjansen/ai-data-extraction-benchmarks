@@ -1,0 +1,36 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "f6edb2724d261271278b9675ee9edb6667177e31c20a58cc7ee232b157a7c2dc",
+  "primary_sources": [
+    "https://ai.meta.com/blog/meta-llama-3-1/",
+    "https://mistral.ai/news/mistral-large-2407",
+    "https://www.anthropic.com/news/claude-3-5-sonnet",
+    "https://www.anthropic.com/news/claude-3-7-sonnet"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD005",
+      "release_date": "2024-07-23",
+      "url": "https://ai.meta.com/blog/meta-llama-3-1/",
+      "locator": "July 23 heading and public-release announcement",
+      "evidence": "The developer releases the Llama 3.1 family with the 8B, 70B and 405B models."
+    },
+    {
+      "release_id": "RD006",
+      "release_date": "2024-07-24",
+      "url": "https://mistral.ai/news/mistral-large-2407/",
+      "locator": "July 24 heading; Mistral Large 2 and version 24.07",
+      "evidence": "The release is explicitly available as mistral-large-2407, distinct from the later November update."
+    },
+    {
+      "release_id": "RD011",
+      "release_date": "2025-02-24",
+      "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+      "locator": "February 24 heading and availability paragraph",
+      "evidence": "The named Sonnet 3.7 model launches on February 24."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

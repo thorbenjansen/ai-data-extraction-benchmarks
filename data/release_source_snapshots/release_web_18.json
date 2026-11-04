@@ -1,0 +1,22 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "c6ef72993d519dd33ae69f64dcb611bca0778d625da732b42d6935d4ff4b8d3a",
+  "primary_sources": [
+    "https://qwenlm.github.io/blog/qwen2.5-1m/",
+    "https://huggingface.co/zai-org/GLM-4.5",
+    "https://github.com/MiniMax-AI/MiniMax-01",
+    "https://api-docs.deepseek.com/news/news0617"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD022",
+      "release_date": "2025-01-27",
+      "url": "https://qwenlm.github.io/blog/qwen2.5-1m/",
+      "locator": "January 27 heading and open-source models paragraph",
+      "evidence": "The 7B and 14B 1M-context checkpoints are explicitly released together on January 27."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

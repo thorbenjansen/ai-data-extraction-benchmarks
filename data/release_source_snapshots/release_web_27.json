@@ -1,0 +1,22 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "f0f6a8dc105904ce7a1273b2a155d716965ff4d01a4ecf9b8e4887c68a413b57",
+  "primary_sources": [
+    "https://github.com/Liyan06/MiniCheck",
+    "https://huggingface.co/lytang/MiniCheck-Flan-T5-Large",
+    "https://www.vectara.com/blog/hhem-2-1-a-better-hallucination-detection-model",
+    "https://openai.com/index/better-language-models/"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD050",
+      "release_date": "2024-08-05",
+      "url": "https://www.vectara.com/blog/hhem-2-1-a-better-hallucination-detection-model",
+      "locator": "August 5 heading and HHEM-2.1-Open availability",
+      "evidence": "The developer introduces HHEM-2.1 and releases the open variant in the same announcement."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

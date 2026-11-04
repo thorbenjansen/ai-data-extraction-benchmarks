@@ -1,0 +1,36 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "59ad061a315d6332d8f706188841dce34f210dc3573535829a2fd6bb43b21463",
+  "primary_sources": [
+    "https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+    "https://arxiv.org/html/2502.08177",
+    "https://arxiv.org/html/2305.13062",
+    "https://arxiv.org/html/2401.00396"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD046",
+      "release_date": "2022-03-15",
+      "url": "https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+      "locator": "Developer announcement by Adam-OpenAI; March 15, 2022",
+      "evidence": "An OpenAI employee explicitly announces API availability for text-davinci-002 and code-davinci-002."
+    },
+    {
+      "release_id": "RD074",
+      "release_date": "2022-03-15",
+      "url": "https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+      "locator": "Developer announcement by Adam-OpenAI; March 15, 2022",
+      "evidence": "An OpenAI employee explicitly announces API availability for text-davinci-002 and code-davinci-002."
+    },
+    {
+      "release_id": "RD075",
+      "release_date": "2022-03-15",
+      "url": "https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+      "locator": "Developer announcement by Adam-OpenAI; March 15, 2022",
+      "evidence": "An OpenAI employee explicitly announces API availability for text-davinci-002 and code-davinci-002."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

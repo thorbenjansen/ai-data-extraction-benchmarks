@@ -1,0 +1,138 @@
+[
+  {
+    "id": "R001",
+    "url": "https://arxiv.org/pdf/2507.11407",
+    "resolved_url": "https://arxiv.org/pdf/2507.11407",
+    "file": "R001.pdf",
+    "sha256": "d37e9bc3e6864cb5e3f5da2f325811dc0171568d10d573e5d0e448f80601847f",
+    "bytes": 3529190,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R002",
+    "url": "https://raw.githubusercontent.com/opendatalab/OmniDocBench/main/README.md",
+    "resolved_url": "https://raw.githubusercontent.com/opendatalab/OmniDocBench/main/README.md",
+    "file": "R002.txt",
+    "sha256": "b9dd8855b75f3007ed3b991f977ba49eab55d667f6969a6aa9a80c54f48a020e",
+    "bytes": 97098,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R003",
+    "url": "https://raw.githubusercontent.com/studio-dots-ai/dots.ocr/master/tools/eval_omnidocbench.md",
+    "resolved_url": "https://raw.githubusercontent.com/studio-dots-ai/dots.ocr/master/tools/eval_omnidocbench.md",
+    "file": "R003.txt",
+    "sha256": "1f26278720bd2f4512aab9f3b6e681047769f963bd78a703835bf1549781f52d",
+    "bytes": 9924,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R004",
+    "url": "https://raw.githubusercontent.com/allenai/olmocr/main/README.md",
+    "resolved_url": "https://raw.githubusercontent.com/allenai/olmocr/main/README.md",
+    "file": "R004.txt",
+    "sha256": "1383b3f0f5a10cc9a7eebab46e929cddaedf370a80d17b379d21dc380b31ada3",
+    "bytes": 22320,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R005",
+    "url": "https://arxiv.org/pdf/2408.12570",
+    "resolved_url": "https://arxiv.org/pdf/2408.12570",
+    "file": "R005.pdf",
+    "sha256": "5f88feb923ca464d0de2ee2edb02669474ef0f52e1494dd9bd2c19dc59699838",
+    "bytes": 1026558,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R006",
+    "url": "https://raw.githubusercontent.com/huggingface/leaderboards/main/docs/source/en/open_llm_leaderboard/about.md",
+    "resolved_url": "https://raw.githubusercontent.com/huggingface/leaderboards/main/docs/source/en/open_llm_leaderboard/about.md",
+    "file": "R006.txt",
+    "sha256": "0143d232b2800eeb215145825b449a8ce112da63bf30df180c6292e3a5bb9089",
+    "bytes": 8590,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R007",
+    "url": "https://ernie.baidu.com/blog/publication/PaddleOCR-VL_Technical_Report.pdf",
+    "resolved_url": "https://ernie.baidu.com/blog/publication/PaddleOCR-VL_Technical_Report.pdf",
+    "file": "R007.pdf",
+    "sha256": "2641feb4c630302bfd0943d1bcd790db97a38bbc387d56f29d7a795c7ed9f7ce",
+    "bytes": 31004491,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R008",
+    "url": "https://arxiv.org/abs/2505.09388",
+    "resolved_url": "https://arxiv.org/abs/2505.09388",
+    "file": "R008.txt",
+    "sha256": "006225337c190863a34263dcfd995fd679868d307ccb34d257dda6682733979d",
+    "bytes": 51042,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R009",
+    "url": "https://arxiv.org/abs/2412.15115",
+    "resolved_url": "https://arxiv.org/abs/2412.15115",
+    "file": "R009.txt",
+    "sha256": "9004492b58e870a7256bf495f0ae48c220be3076f7b82c0a50dca39c69079bee",
+    "bytes": 49650,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R010",
+    "url": "https://arxiv.org/abs/2508.06471",
+    "resolved_url": "https://arxiv.org/abs/2508.06471",
+    "file": "R010.txt",
+    "sha256": "01748080d16d3a5b631f71b0fa3e47d91b4550b11f2390c757c22979010c7426",
+    "bytes": 68087,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R011",
+    "url": "https://arxiv.org/abs/2511.21631",
+    "resolved_url": "https://arxiv.org/abs/2511.21631",
+    "file": "R011.txt",
+    "sha256": "003c59f24422c2462a31ab9110badb6abf1266fd4d61ca01bf4f661baa6293e5",
+    "bytes": 51642,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R012",
+    "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard/raw/main/src/display/formatting.py",
+    "status": "unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "R013",
+    "url": "https://arxiv.org/pdf/2408.09174",
+    "resolved_url": "https://arxiv.org/pdf/2408.09174",
+    "file": "R013.pdf",
+    "sha256": "d62a117cba33004419eddcd8a706c1046e05330513899064eec416eeb55134f0",
+    "bytes": 895663,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  },
+  {
+    "id": "R014",
+    "url": "https://raw.githubusercontent.com/huggingface/leaderboards/main/docs/source/en/open_llm_leaderboard/archive.md",
+    "resolved_url": "https://raw.githubusercontent.com/huggingface/leaderboards/main/docs/source/en/open_llm_leaderboard/archive.md",
+    "file": "R014.txt",
+    "sha256": "e2df3b01f864a25502d5ab1b42759ecfe475011664f768c3b9c1306016a0f3ed",
+    "bytes": 7306,
+    "status": "retrieved",
+    "accessed": "2026-10-31"
+  }
+]

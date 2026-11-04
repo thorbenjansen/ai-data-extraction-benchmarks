@@ -1,0 +1,22 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "05a477b4a419c736a141efd2dc26d9b3bee997248b88e37580486ebf0bbf799e",
+  "primary_sources": [
+    "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct",
+    "https://huggingface.co/microsoft/Phi-3-medium-128k-instruct",
+    "https://huggingface.co/microsoft/Phi-3.5-mini-instruct",
+    "https://huggingface.co/CohereForAI/c4ai-command-r-plus"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD027",
+      "release_date": "2024-05-21",
+      "url": "https://huggingface.co/microsoft/Phi-3-medium-128k-instruct",
+      "locator": "Technical Specifications; Release dates",
+      "evidence": "The developer explicitly states that the model weights were released on May 21, 2024."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

@@ -1,0 +1,21 @@
+{
+  "benchmark_families": 50,
+  "benchmark_versions": 54,
+  "source_observations": 4094,
+  "added_model_card_observations": 683,
+  "separate_conditions": 391,
+  "visible_observations": 1716,
+  "families_with_time_points": 40,
+  "definition_held_observations": 29,
+  "visible_mean_curves": 81,
+  "challenge_family_counts": {
+    "A": 24,
+    "B": 25,
+    "C": 17,
+    "D": 20
+  },
+  "source_cutoff": "2026-10-31",
+  "selection_date": "2026-11-02",
+  "source_archive_families": 82,
+  "axis_policy": "Retained condition-specific full supported release histories; native metrics; unchanged curves"
+}

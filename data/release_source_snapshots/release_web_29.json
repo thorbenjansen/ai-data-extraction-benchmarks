@@ -1,0 +1,13 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "aa266e89ccf49a2e4f64948219f4cd1e9341af989be302577b00190a24b6f981",
+  "primary_sources": [
+    "https://arxiv.org/html/2502.08177",
+    "https://arxiv.org/html/2406.17755v2",
+    "https://www.vectara.com/blog/hhem-2-1-a-better-hallucination-detection-model"
+  ],
+  "reviewed_release_facts": [],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

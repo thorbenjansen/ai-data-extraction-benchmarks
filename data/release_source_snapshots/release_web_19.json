@@ -1,0 +1,43 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "891f7c7960950f95635594195b3fb73274af452391ef1a1617492e63d732679b",
+  "primary_sources": [
+    "https://github.com/MiniMax-AI/MiniMax-01",
+    "https://github.com/zai-org/GLM-4.5",
+    "https://github.com/QwenLM/Qwen3",
+    "https://github.com/MoonshotAI/Kimi-K2"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD017",
+      "release_date": "2025-07-21",
+      "url": "https://github.com/QwenLM/Qwen3",
+      "locator": "News entry 2025.07.21",
+      "evidence": "The developer lists July 21 for the 235B Instruct update, correcting the July 22 date in the benchmark register."
+    },
+    {
+      "release_id": "RD018",
+      "release_date": "2025-07-25",
+      "url": "https://github.com/QwenLM/Qwen3",
+      "locator": "News entry 2025.07.25",
+      "evidence": "The developer lists July 25 for the 235B Thinking update."
+    },
+    {
+      "release_id": "RD019",
+      "release_date": "2025-07-31",
+      "url": "https://github.com/QwenLM/Qwen3",
+      "locator": "News entry 2025.07.31",
+      "evidence": "The developer lists July 31 for the 30B Thinking update, distinct from the 235B release."
+    },
+    {
+      "release_id": "RD020",
+      "release_date": "2025-07-30",
+      "url": "https://github.com/QwenLM/Qwen3",
+      "locator": "News entry 2025.07.30",
+      "evidence": "The developer lists July 30 for the 30B Instruct update."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

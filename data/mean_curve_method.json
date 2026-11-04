@@ -1,0 +1,24 @@
+{
+  "method": "Nadaraya-Watson Gaussian kernel regression",
+  "bandwidth_days": 180,
+  "sensitivity_bandwidth_days": [
+    90,
+    180,
+    365
+  ],
+  "minimum_configurations": 5,
+  "minimum_release_dates": 4,
+  "minimum_span_days": 90,
+  "weighting": "One weight per model-configuration/release/condition; repeated results averaged first",
+  "uncertainty": "No confidence interval: selected reported configurations are not a probability sample",
+  "extrapolation": false,
+  "conditions": 581,
+  "conditions_with_curve": 94,
+  "families_with_curve": 25,
+  "nonfit_reasons": {
+    "Fewer than five dated model configurations": 427,
+    "Release-date coverage shorter than 90 days": 2,
+    "Metric or version definition unresolved; source data retained": 42,
+    "Fewer than four distinct release dates": 16
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "ada0c7107689faa8cbb14922dd6ffb2cde988b4b6f76a4a2fcb35111b04efee2",
+  "primary_sources": [
+    "https://mistral.ai/news/mistral-nemo/",
+    "https://mistral.ai/news/announcing-mistral-7b/",
+    "https://mistral.ai/news/mixtral-of-experts/",
+    "https://mistral.ai/news/mixtral-8x22b/"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD023",
+      "release_date": "2024-07-18",
+      "url": "https://mistral.ai/news/mistral-nemo/",
+      "locator": "July 18 heading and weights availability",
+      "evidence": "The base and instruction-tuned NeMo weights are released together."
+    },
+    {
+      "release_id": "RD024",
+      "release_date": "2023-09-27",
+      "url": "https://mistral.ai/news/announcing-mistral-7b/",
+      "locator": "September 27 heading; download and chat-tuned model",
+      "evidence": "The original 7B and chat-tuned 7B models are available on the release date; later v0.2/v0.3 are excluded."
+    },
+    {
+      "release_id": "RD025",
+      "release_date": "2023-12-11",
+      "url": "https://mistral.ai/news/mixtral-of-experts/",
+      "locator": "December 11 announcement; Instructed models",
+      "evidence": "The release announcement makes both base and instruction-tuned weights available. This is documented announcement availability, not a reconstructed torrent timestamp."
+    },
+    {
+      "release_id": "RD026",
+      "release_date": "2024-04-17",
+      "url": "https://mistral.ai/news/mixtral-8x22b/",
+      "locator": "April 17 announcement; instructed version released today",
+      "evidence": "The post explicitly dates the instruction-tuned release; it also documents public base-model availability by this announcement."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

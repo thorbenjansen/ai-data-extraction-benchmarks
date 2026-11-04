@@ -1,0 +1,43 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "bc7ca9822aee6840376b3c4d06368e97cf0279a729b3618d87f8c7907662efcf",
+  "primary_sources": [
+    "https://openai.com/index/hello-gpt-4o/",
+    "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+    "https://openai.com/index/gpt-4/",
+    "https://openai.com/index/introducing-chatgpt-and-whisper-apis/"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD036",
+      "release_date": "2024-05-13",
+      "url": "https://openai.com/index/hello-gpt-4o/",
+      "locator": "May 13 heading and API availability",
+      "evidence": "The explicitly identified original GPT-4o snapshot is matched to the launch announcement; generic GPT-4o aliases are excluded."
+    },
+    {
+      "release_id": "RD037",
+      "release_date": "2024-08-06",
+      "url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+      "locator": "August 6 heading; gpt-4o-2024-08-06 released today",
+      "evidence": "The announcement explicitly identifies the API snapshot and its release date."
+    },
+    {
+      "release_id": "RD038",
+      "release_date": "2024-08-06",
+      "url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+      "locator": "August 6 heading and exact snapshot",
+      "evidence": "The benchmark date independently identifies the same snapshot; the provider corroborates it."
+    },
+    {
+      "release_id": "RD066",
+      "release_date": "2024-05-13",
+      "url": "https://openai.com/index/hello-gpt-4o/",
+      "locator": "May 13 heading and API availability",
+      "evidence": "The explicitly identified original GPT-4o snapshot is matched to the launch announcement; generic GPT-4o aliases are excluded."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

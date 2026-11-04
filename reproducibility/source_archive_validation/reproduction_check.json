@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checked_files": 1598,
+  "byte_identical_files": 1598,
+  "differences": [],
+  "scope": "All analytical inputs, data-adaptive time charts, article registers, HTML, assets, vector figures, 534-page article PDF, reproduction code and README",
+  "excluded_observer_metadata": [
+    "article_browser_check.json",
+    "browser_check.json",
+    "package_manifest.json",
+    "reproduction_check.json",
+    "validation.json"
+  ],
+  "rebuilt_validation": "passed"
+}

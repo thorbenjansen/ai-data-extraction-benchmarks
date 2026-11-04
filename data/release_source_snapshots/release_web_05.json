@@ -1,0 +1,29 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "ce60b02b3642f717dafcf40c71462fbb3807dbe0bc6bf4a015bd9891d4375c74",
+  "primary_sources": [
+    "https://qwenlm.github.io/blog/qwen2.5/",
+    "https://qwenlm.github.io/blog/qwen3/",
+    "https://qwenlm.github.io/blog/qwen3-235b-a22b-instruct-2507/",
+    "https://qwenlm.github.io/blog/qwen3-235b-a22b-thinking-2507/"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD015",
+      "release_date": "2024-09-19",
+      "url": "https://qwenlm.github.io/blog/qwen2.5/",
+      "locator": "September 19 heading and size list",
+      "evidence": "The release covers the named dense Qwen2.5 model sizes. VL, 1M, Coder and later versions do not inherit this rule."
+    },
+    {
+      "release_id": "RD016",
+      "release_date": "2025-04-29",
+      "url": "https://qwenlm.github.io/blog/qwen3/",
+      "locator": "April 29 heading; open-weight model list",
+      "evidence": "The first Qwen3 release includes six dense models and two MoE models; July updates are separate."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

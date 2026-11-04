@@ -1,0 +1,24 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "109f76f1ce910ff10093ac069445e4bf603082afe7d6967b31f0d208994d77b2",
+  "primary_sources": [
+    "https://qwenlm.github.io/blog/qwen3-2507/",
+    "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+    "https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
+    "https://x.ai/news/grok-3",
+    "https://huggingface.co/microsoft/Phi-3.5-mini-instruct",
+    "https://huggingface.co/microsoft/Phi-3-mini-128k-instruct"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD028",
+      "release_date": "2024-08",
+      "url": "https://huggingface.co/microsoft/Phi-3.5-mini-instruct",
+      "locator": "Technical Specifications; Release date",
+      "evidence": "The model card gives August 2024, without a day; the plot preserves month precision."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

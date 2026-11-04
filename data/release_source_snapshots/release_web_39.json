@@ -1,0 +1,26 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "primary_sources": [
+    "https://cohere.com/blog/command-series-0824"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD076",
+      "release_date": "2024-08-30",
+      "url": "https://cohere.com/blog/command-series-0824",
+      "locator": "August 30 heading; Command R and R+ 08-2024 release",
+      "evidence": "The developer introduces the August 2024 Command R and R+ update. A benchmark row explicitly dated August 30 is not reassigned to the April launch."
+    },
+    {
+      "release_id": "RD077",
+      "release_date": "2024-08-30",
+      "url": "https://cohere.com/blog/command-series-0824",
+      "locator": "August 30 heading; Command R and R+ 08-2024 release",
+      "evidence": "The developer introduces the August 2024 Command R and R+ update. A benchmark row explicitly dated August 30 is not reassigned to the April launch."
+    }
+  ],
+  "note": "Reviewed factual assertions; full source article not reproduced.",
+  "inspected_response_sha256": "12802aa68815a7d83bfdbaea4fc5193d116ecee51bd39d3cff9262365db7bd48",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material"
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "MC013",
+    "url": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl_4b_8b_vl_instruct.jpg",
+    "path": "/Users/admin/Desktop/Own Thoughts LLM Wiki/Sub_Branch_AI Data Extraction/output/scratch/model_card_recheck_2026-10-31/images/MC013.jpg",
+    "sha256": "74ea909866e42fca39a4b69dcbe75b3bea3bd49cbfdd1b1951bedce63b17ccba",
+    "status": "retrieved"
+  },
+  {
+    "source_id": "MC037",
+    "url": "https://huggingface.co/OpenGVLab/InternVL3_5-241B-A28B/resolve/main/images/performance_ocr.jpg",
+    "path": "/Users/admin/Desktop/Own Thoughts LLM Wiki/Sub_Branch_AI Data Extraction/output/scratch/model_card_recheck_2026-10-31/images/MC037.jpg",
+    "sha256": "b3f7e8eef3d6b88af2167594043c6bb07ae829762b68239e11f7a4d7d2cc1d20",
+    "status": "retrieved"
+  },
+  {
+    "source_id": "MC038",
+    "url": "https://huggingface.co/datasets/PaddlePaddle/PaddleOCR-VL_demo/resolve/main/imgs/omni15.png",
+    "path": "/Users/admin/Desktop/Own Thoughts LLM Wiki/Sub_Branch_AI Data Extraction/output/scratch/model_card_recheck_2026-10-31/images/MC038.png",
+    "sha256": "2548af1528b00f588835fc147d804f2c6ad08eb07d24bdd3cc8491b601e24013",
+    "status": "retrieved"
+  },
+  {
+    "source_id": "MC100",
+    "url": "https://raw.githubusercontent.com/cuicheng01/PaddleX_doc_images/refs/heads/main/images/paddleocr_vl_1_6/table2.png",
+    "path": "/Users/admin/Desktop/Own Thoughts LLM Wiki/Sub_Branch_AI Data Extraction/output/scratch/model_card_recheck_2026-10-31/images/MC100.png",
+    "sha256": "c772f01690cdf78c9dd6160ba756579fa1f49f91833327c49f0a24142baec167",
+    "status": "retrieved"
+  }
+]

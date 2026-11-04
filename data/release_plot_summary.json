@@ -1,0 +1,23 @@
+{
+  "observations": 4940,
+  "plotted": 2108,
+  "families_with_plotted_values": 65,
+  "reasons": {
+    "Benchmark Date field not independently established as a model release": 108,
+    "Human/team/other reference has no model release date": 68,
+    "Result/submission date is not model release date": 5,
+    "No documented release date": 2035,
+    "Fine-tuned configuration has no independently documented release date": 29,
+    "Checkpoint date alone does not establish public release date": 98,
+    "No unambiguous prior release audit for the retained checkpoint identity": 413,
+    "Rolling API alias: this new result source does not identify a release snapshot; a different benchmark crosswalk cannot identify it.": 75,
+    "The source labels Gemini 2.5 Pro GA but gives model ID gemini-2.5-pro-preview-06-05; release identity remains ambiguous.": 1
+  },
+  "axis_policy": "Per-condition full eligible release-date range, with 14\u201360 days padding (30 days for a single exact date), capped at evidence cutoff",
+  "display_start": "2019-09-06",
+  "display_end": "2026-10-31",
+  "visible_observations": 2036,
+  "dated_outside_window": 0,
+  "definition_held_within_window": 72,
+  "families_with_visible_values": 65
+}

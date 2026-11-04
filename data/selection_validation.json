@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "families": 50,
+  "all_have_challenge_and_workflow_mapping": true,
+  "source_observations": 4094,
+  "source_observations_unchanged": true,
+  "source_archive_unchanged": true,
+  "retained_figure_assets_unchanged": 882,
+  "retained_date_geometry_curve_rows_unchanged": true,
+  "challenge_counts": {
+    "A": 24,
+    "B": 25,
+    "C": 17,
+    "D": 20
+  }
+}

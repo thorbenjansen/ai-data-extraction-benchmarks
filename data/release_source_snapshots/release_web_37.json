@@ -1,0 +1,13 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "39ba58c73c5248d42cf898c0a6738278f5a597b78d47249ff3f010eb10d12cca",
+  "primary_sources": [
+    "https://openai.com/index/introducing-chatgpt-and-whisper-apis/",
+    "https://openai.com/index/gpt-2-6-month-follow-up/",
+    "https://www.microsoft.com/en-us/research/blog/pubmedbert-a-domain-specific-language-model-for-biomedical-text-mining/"
+  ],
+  "reviewed_release_facts": [],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

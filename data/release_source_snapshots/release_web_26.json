@@ -1,0 +1,43 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "b354d31eead565fe0dd99d03555032d6e9b32de54bf62e1366b6ac1a59db02a1",
+  "primary_sources": [
+    "https://openai.com/index/gpt-5-6/",
+    "https://openai.com/index/function-calling-and-other-api-updates/",
+    "https://huggingface.co/blog/idefics2",
+    "https://huggingface.co/vectara/hallucination_evaluation_model"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD048",
+      "release_date": "2024-04-15",
+      "url": "https://huggingface.co/blog/idefics2",
+      "locator": "April 15 heading and release paragraph",
+      "evidence": "The developer announces the public Idefics2 model release on April 15."
+    },
+    {
+      "release_id": "RD054",
+      "release_date": "2026-07-09",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "locator": "July 9 heading; general availability",
+      "evidence": "Sol, Terra and Luna reach general availability on July 9. This is not the earlier limited-preview date."
+    },
+    {
+      "release_id": "RD057",
+      "release_date": "2023-06-13",
+      "url": "https://openai.com/index/function-calling-and-other-api-updates/",
+      "locator": "June 13 heading; new API model versions",
+      "evidence": "The provider announces the named 0613 model updates on June 13."
+    },
+    {
+      "release_id": "RD065",
+      "release_date": "2023-06-13",
+      "url": "https://openai.com/index/function-calling-and-other-api-updates/",
+      "locator": "June 13 heading; new API model versions",
+      "evidence": "The provider announces the named 0613 model updates on June 13."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

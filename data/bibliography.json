@@ -1,0 +1,3439 @@
+{
+  "benchmarks": {
+    "OCR1": {
+      "apa": "Liu, Y., Li, Z., Huang, M., Yang, B., Yu, W., Li, C., Yin, X.-C., Liu, C.-L., Jin, L., & Bai, X. (2024). OCRBench: on the hidden mystery of OCR in large multimodal models. Science China Information Sciences, 67(12). https://doi.org/10.1007/s11432-024-4235-6",
+      "title": "OCRBench: on the hidden mystery of OCR in large multimodal models",
+      "authors": [
+        "Liu, Yuliang",
+        "Li, Zhang",
+        "Huang, Mingxin",
+        "Yang, Biao",
+        "Yu, Wenwen",
+        "Li, Chunyuan",
+        "Yin, Xu-Cheng",
+        "Liu, Cheng-Lin",
+        "Jin, Lianwen",
+        "Bai, Xiang"
+      ],
+      "year": "2024",
+      "url": "https://doi.org/10.1007/s11432-024-4235-6",
+      "metadata_url": "http://dx.doi.org/10.1007/s11432-024-4235-6",
+      "metadata_sha256": "",
+      "kind": "Paper",
+      "verified_basis": "Recommended BibTeX in frozen official source"
+    },
+    "READOC": {
+      "apa": "Li, Z., Abulaiti, A., Lu, Y., Chen, X., Zheng, J., Lin, H., Han, X., & Sun, L. (2024). READoc: A unified benchmark for realistic document structured extraction. arXiv. https://arxiv.org/abs/2409.05137",
+      "title": "READoc: A unified benchmark for realistic document structured extraction",
+      "authors": [
+        "Li, Zichao",
+        "Abulaiti, Aizier",
+        "Lu, Yaojie",
+        "Chen, Xuanang",
+        "Zheng, Jia",
+        "Lin, Hongyu",
+        "Han, Xianpei",
+        "Sun, Le"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2409.05137",
+      "metadata_url": "https://arxiv.org/abs/2409.05137",
+      "metadata_sha256": "98af976b732d7626f384563cf35ee2694bb0fa33c36530ac0c217a561bd2f3f8",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "OMNI": {
+      "apa": "Ouyang, L., Qu, Y., Zhou, H., Zhu, J., Zhang, R., Lin, Q., Wang, B., Zhao, Z., Jiang, M., Zhao, X., Shi, J., Wu, F., Chu, P., Liu, M., Li, Z., Xu, C., Zhang, B., Shi, B., Tu, Z., & He, C. (2024). OmniDocBench: Benchmarking diverse PDF document parsing with comprehensive annotations. arXiv. https://arxiv.org/abs/2412.07626",
+      "title": "OmniDocBench: Benchmarking diverse PDF document parsing with comprehensive annotations",
+      "authors": [
+        "Ouyang, Linke",
+        "Qu, Yuan",
+        "Zhou, Hongbin",
+        "Zhu, Jiawei",
+        "Zhang, Rui",
+        "Lin, Qunshu",
+        "Wang, Bin",
+        "Zhao, Zhiyuan",
+        "Jiang, Man",
+        "Zhao, Xiaomeng",
+        "Shi, Jin",
+        "Wu, Fan",
+        "Chu, Pei",
+        "Liu, Minghao",
+        "Li, Zhenxiang",
+        "Xu, Chao",
+        "Zhang, Bo",
+        "Shi, Botian",
+        "Tu, Zhongying",
+        "He, Conghui"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2412.07626",
+      "metadata_url": "https://arxiv.org/abs/2412.07626",
+      "metadata_sha256": "32925ca10606243ae1fddc79917251675bd4147a0354b2f1a37f95d2dece5e81",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "OCR2": {
+      "apa": "Fu, L., Kuang, Z., Song, J., Huang, M., Yang, B., Li, Y., Zhu, L., Luo, Q., Wang, X., Lu, H., Li, Z., Tang, G., Shan, B., Lin, C., Liu, Q., Wu, B., Feng, H., Liu, H., Huang, C., … Bai, X. (2024). OCRBench v2: An improved benchmark for evaluating large multimodal models on visual text localization and reasoning. arXiv. https://arxiv.org/abs/2501.00321",
+      "title": "OCRBench v2: An improved benchmark for evaluating large multimodal models on visual text localization and reasoning",
+      "authors": [
+        "Fu, Ling",
+        "Kuang, Zhebin",
+        "Song, Jiajun",
+        "Huang, Mingxin",
+        "Yang, Biao",
+        "Li, Yuzhe",
+        "Zhu, Linghao",
+        "Luo, Qidi",
+        "Wang, Xinyu",
+        "Lu, Hao",
+        "Li, Zhang",
+        "Tang, Guozhi",
+        "Shan, Bin",
+        "Lin, Chunhui",
+        "Liu, Qi",
+        "Wu, Binghong",
+        "Feng, Hao",
+        "Liu, Hao",
+        "Huang, Can",
+        "Tang, Jingqun",
+        "Chen, Wei",
+        "Jin, Lianwen",
+        "Liu, Yuliang",
+        "Bai, Xiang"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2501.00321",
+      "metadata_url": "https://arxiv.org/abs/2501.00321",
+      "metadata_sha256": "0661d99230895b45363d7969b754a0d50c58d668728518c680bc730b5d7bca18",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "MDP": {
+      "apa": "Li, Z., Lin, Z., Liu, Q., Zhang, Z., Zhang, S., Guo, Z., Song, J., Zhang, J., Bai, X., & Liu, Y. (2026). MDPBench: A benchmark for multilingual document parsing in real-world scenarios. arXiv. https://arxiv.org/abs/2603.28130",
+      "title": "MDPBench: A benchmark for multilingual document parsing in real-world scenarios",
+      "authors": [
+        "Li, Zhang",
+        "Lin, Zhibo",
+        "Liu, Qiang",
+        "Zhang, Ziyang",
+        "Zhang, Shuo",
+        "Guo, Zidun",
+        "Song, Jiajun",
+        "Zhang, Jiarui",
+        "Bai, Xiang",
+        "Liu, Yuliang"
+      ],
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2603.28130",
+      "metadata_url": "https://arxiv.org/abs/2603.28130",
+      "metadata_sha256": "8f11aa249313f61dadf2548342138f097bd39c037c799a37e9253aee95fc67ff",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "OLMOCR": {
+      "apa": "Poznanski, J., Rangapur, A., Borchardt, J., Dunkelberger, J., Huff, R., Lin, D., Rangapur, A., Wilhelm, C., Lo, K., & Soldaini, L. (2025). olmOCR: Unlocking trillions of tokens in PDFs with vision language models. arXiv. https://arxiv.org/abs/2502.18443",
+      "title": "olmOCR: Unlocking trillions of tokens in PDFs with vision language models",
+      "authors": [
+        "Poznanski, Jake",
+        "Rangapur, Aman",
+        "Borchardt, Jon",
+        "Dunkelberger, Jason",
+        "Huff, Regan",
+        "Lin, Daniel",
+        "Rangapur, Aman",
+        "Wilhelm, Christopher",
+        "Lo, Kyle",
+        "Soldaini, Luca"
+      ],
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2502.18443",
+      "metadata_url": "https://arxiv.org/abs/2502.18443",
+      "metadata_sha256": "1ddbbcc6468560c88c2e2510e33e914eaf880f928331d3897a74ef47e6b523da",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "PUREDOC": {
+      "apa": "Li, Z., Ma, Z., Chen, J., Zhang, J., Su, Z., Zhang, Y., Yu, Z., Liu, R., Lv, X., Li, B., Gao, J., Zhang, Z., Yuan, C., Li, B., & Hu, W. (2026). How far is document parsing from solved? PureDocBench: A source-traceable benchmark across clean, degraded, and real-world settings. arXiv. https://arxiv.org/abs/2605.07492",
+      "title": "How far is document parsing from solved? PureDocBench: A source-traceable benchmark across clean, degraded, and real-world settings",
+      "authors": [
+        "Li, Zhiheng",
+        "Ma, Zongyang",
+        "Chen, Jiaxian",
+        "Zhang, Jianing",
+        "Su, Zhaolong",
+        "Zhang, Yutong",
+        "Yu, Zhiyin",
+        "Liu, Ruiqi",
+        "Lv, Xiaolei",
+        "Li, Bo",
+        "Gao, Jun",
+        "Zhang, Ziqi",
+        "Yuan, Chunfeng",
+        "Li, Bing",
+        "Hu, Weiming"
+      ],
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2605.07492",
+      "metadata_url": "https://arxiv.org/abs/2605.07492",
+      "metadata_sha256": "0d75f5c60a3290f3f82c309e3a59e5c873636ed133f60cfa56b0f5e1ebf37845",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "CHARTQA": {
+      "apa": "Masry, A., Long, D. X., Tan, J. Q., Joty, S., & Hoque, E. (2022). ChartQA: A benchmark for question answering about charts with visual and logical reasoning. In Findings of the Association for Computational Linguistics: ACL 2022 (pp. 2263–2279). https://doi.org/10.18653/v1/2022.findings-acl.177",
+      "title": "ChartQA: A benchmark for question answering about charts with visual and logical reasoning",
+      "authors": [
+        "Ahmed Masry",
+        "Do Xuan Long",
+        "Jia Qing Tan",
+        "Shafiq Joty",
+        "Enamul Hoque"
+      ],
+      "year": "2022",
+      "url": "https://doi.org/10.18653/v1/2022.findings-acl.177",
+      "metadata_url": "https://aclanthology.org/2022.findings-acl.177/",
+      "metadata_sha256": "6848a9bbafaee7021b1f72befe43ac1ffd47a47e2ce0c84dc1a920aa7a6d5e39",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "CHARTPRO": {
+      "apa": "Masry, A., Islam, M. S., Ahmed, M., Bajaj, A., Kabir, F., Kartha, A., Laskar, M. T. R., Rahman, M., Rahman, S., Shahmohammadi, M., Thakkar, M., Parvez, M. R., Hoque, E., & Joty, S. (2025). ChartQAPro: A more diverse and challenging benchmark for chart question answering. Findings of the Association for Computational Linguistics: ACL 2025. https://arxiv.org/abs/2504.05506v2",
+      "title": "ChartQAPro: A more diverse and challenging benchmark for chart question answering",
+      "authors": [
+        "Masry, Ahmed",
+        "Islam, Mohammed Saidul",
+        "Ahmed, Mahir",
+        "Bajaj, Aayush",
+        "Kabir, Firoz",
+        "Kartha, Aaryaman",
+        "Laskar, Md Tahmid Rahman",
+        "Rahman, Mizanur",
+        "Rahman, Shadikur",
+        "Shahmohammadi, Mehrad",
+        "Thakkar, Megh",
+        "Parvez, Md Rizwan",
+        "Hoque, Enamul",
+        "Joty, Shafiq"
+      ],
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2504.05506v2",
+      "metadata_url": "https://arxiv.org/abs/2504.05506v2",
+      "metadata_sha256": "4119fb324a4d210300608e9ccef8fb8f05a3b0ede116a4b4aee5a1348603f23f",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+    },
+    "DRDOC": {
+      "apa": "Yang, M., Yu, X. V., Li, P., Guo, X., Qi, Z., Kim, K., Ye, L., Luo, X., Bi, J., Zhang, H., Riaz, H., Zhang, X., Xiao, Y., Liu, B., Tang, T., Zhao, Y., Lin, Q., Wang, Z., Liu, M., … He, Z. (2026). Dr. DocBench: A comprehensive benchmark for expert-level and difficult document parsing. arXiv. https://arxiv.org/abs/2606.01393",
+      "title": "Dr. DocBench: A comprehensive benchmark for expert-level and difficult document parsing",
+      "authors": [
+        "Yang, Minglai",
+        "Yu, Xinyan Velocity",
+        "Li, Pengyuan",
+        "Guo, Xinyu",
+        "Qi, Zhenting",
+        "Kim, Konwoo",
+        "Ye, Longtian",
+        "Luo, Xiaolong",
+        "Bi, Jinhe",
+        "Zhang, Henry",
+        "Riaz, Haris",
+        "Zhang, Xuan",
+        "Xiao, Yunze",
+        "Liu, Bangya",
+        "Tang, Tom",
+        "Zhao, Yunfei",
+        "Lin, Qunshu",
+        "Wang, Zihan",
+        "Liu, Minghao",
+        "Li, Michael Lingzhi",
+        "Du, Yilun",
+        "Thomason, Jesse",
+        "Feris, Rogerio",
+        "Pentland, Alex",
+        "He, Zexue"
+      ],
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2606.01393",
+      "metadata_url": "https://arxiv.org/abs/2606.01393",
+      "metadata_sha256": "730764a09550912885cfde6367f61b82d9ff4e881c37ec5488ed33757746d593",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "HITAB": {
+      "apa": "Cheng, Z., Dong, H., Wang, Z., Jia, R., Guo, J., Gao, Y., Han, S., Lou, J.-G., & Zhang, D. (2021). HiTab: A hierarchical table dataset for question answering and natural language generation. arXiv. https://arxiv.org/abs/2108.06712",
+      "title": "HiTab: A hierarchical table dataset for question answering and natural language generation",
+      "authors": [
+        "Cheng, Zhoujun",
+        "Dong, Haoyu",
+        "Wang, Zhiruo",
+        "Jia, Ran",
+        "Guo, Jiaqi",
+        "Gao, Yan",
+        "Han, Shi",
+        "Lou, Jian-Guang",
+        "Zhang, Dongmei"
+      ],
+      "year": "2021",
+      "url": "https://arxiv.org/abs/2108.06712",
+      "metadata_url": "https://arxiv.org/abs/2108.06712",
+      "metadata_sha256": "d8ec4de238c9b814ca9b9ea2cdfc9a19c8b583c5bfd546ecece3bfb2793a4039",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "DOCVQA": {
+      "apa": "Mathew, M., Karatzas, D., & Jawahar, C. V. (2020). DocVQA: A dataset for VQA on document images. arXiv. https://arxiv.org/abs/2007.00398",
+      "title": "DocVQA: A dataset for VQA on document images",
+      "authors": [
+        "Mathew, Minesh",
+        "Karatzas, Dimosthenis",
+        "Jawahar, C. V."
+      ],
+      "year": "2020",
+      "url": "https://arxiv.org/abs/2007.00398",
+      "metadata_url": "https://arxiv.org/abs/2007.00398",
+      "metadata_sha256": "8026d439a903f45ba6cac821725ae08546019e0aaa03f55ea282238783e8db9b",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "MULTIHI": {
+      "apa": "Zhao, Y., Li, Y., Li, C., & Zhang, R. (2022). MultiHiertt: Numerical reasoning over multi hierarchical tabular and textual data. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 6588–6600). https://doi.org/10.18653/v1/2022.acl-long.454",
+      "title": "MultiHiertt: Numerical reasoning over multi hierarchical tabular and textual data",
+      "authors": [
+        "Yilun Zhao",
+        "Yunxiang Li",
+        "Chenying Li",
+        "Rui Zhang"
+      ],
+      "year": "2022",
+      "url": "https://doi.org/10.18653/v1/2022.acl-long.454",
+      "metadata_url": "https://aclanthology.org/2022.acl-long.454/",
+      "metadata_sha256": "7b9bb4b7395f5a9e0f277b53e2a180b2c8fc48a102e5b0ade86982ceb24c4a93",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "TATQA": {
+      "apa": "Zhu, F., Lei, W., Huang, Y., Wang, C., Zhang, S., Lv, J., Feng, F., & Chua, T.-S. (2021). TAT-QA: A question answering benchmark on a hybrid of tabular and textual content in finance. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 3277–3287). https://doi.org/10.18653/v1/2021.acl-long.254",
+      "title": "TAT-QA: A question answering benchmark on a hybrid of tabular and textual content in finance",
+      "authors": [
+        "Fengbin Zhu",
+        "Wenqiang Lei",
+        "Youcheng Huang",
+        "Chao Wang",
+        "Shuo Zhang",
+        "Jiancheng Lv",
+        "Fuli Feng",
+        "Tat-Seng Chua"
+      ],
+      "year": "2021",
+      "url": "https://doi.org/10.18653/v1/2021.acl-long.254",
+      "metadata_url": "https://aclanthology.org/2021.acl-long.254/",
+      "metadata_sha256": "ef08842182c804e59fb641fa95ac7a92a933976e04e4d41533729794804f52e6",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "DOCMATH": {
+      "apa": "Zhao, Y., Long, Y., Liu, H., Kamoi, R., Nan, L., Chen, L., Liu, Y., Tang, X., Zhang, R., & Cohan, A. (2023). DocMath-Eval: Evaluating math reasoning capabilities of LLMs in understanding long and specialized documents. arXiv. https://arxiv.org/abs/2311.09805",
+      "title": "DocMath-Eval: Evaluating math reasoning capabilities of LLMs in understanding long and specialized documents",
+      "authors": [
+        "Zhao, Yilun",
+        "Long, Yitao",
+        "Liu, Hongjun",
+        "Kamoi, Ryo",
+        "Nan, Linyong",
+        "Chen, Lyuhao",
+        "Liu, Yixin",
+        "Tang, Xiangru",
+        "Zhang, Rui",
+        "Cohan, Arman"
+      ],
+      "year": "2023",
+      "url": "https://arxiv.org/abs/2311.09805",
+      "metadata_url": "https://arxiv.org/abs/2311.09805",
+      "metadata_sha256": "cb1f62ab96fc6c4e23e0ecd8729c989137ae5c882027e641aaf7e699bec53a6d",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "FINQA": {
+      "apa": "Chen, Z., Chen, W., Smiley, C., Shah, S., Borova, I., Langdon, D., Moussa, R., Beane, M., Huang, T.-H., Routledge, B., & Wang, W. Y. (2021). FinQA: A dataset of numerical reasoning over financial data. arXiv. https://arxiv.org/abs/2109.00122",
+      "title": "FinQA: A dataset of numerical reasoning over financial data",
+      "authors": [
+        "Chen, Zhiyu",
+        "Chen, Wenhu",
+        "Smiley, Charese",
+        "Shah, Sameena",
+        "Borova, Iana",
+        "Langdon, Dylan",
+        "Moussa, Reema",
+        "Beane, Matt",
+        "Huang, Ting-Hao",
+        "Routledge, Bryan",
+        "Wang, William Yang"
+      ],
+      "year": "2021",
+      "url": "https://arxiv.org/abs/2109.00122",
+      "metadata_url": "https://arxiv.org/abs/2109.00122",
+      "metadata_sha256": "5a7f338514146b4f603b66b88a5a98e4d54932398059f6f04511c819410c998b",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "MMLONGDOC": {
+      "apa": "Ma, Y., Zang, Y., Chen, L., Chen, M., Jiao, Y., Li, X., Lu, X., Liu, Z., Ma, Y., Dong, X., Zhang, P., Pan, L., Jiang, Y.-G., Wang, J., Cao, Y., & Sun, A. (2024). MMLongBench-Doc: Benchmarking Long-context document understanding with visualizations. arXiv. https://arxiv.org/abs/2407.01523",
+      "title": "MMLongBench-Doc: Benchmarking Long-context document understanding with visualizations",
+      "authors": [
+        "Ma, Yubo",
+        "Zang, Yuhang",
+        "Chen, Liangyu",
+        "Chen, Meiqi",
+        "Jiao, Yizhu",
+        "Li, Xinze",
+        "Lu, Xinyuan",
+        "Liu, Ziyu",
+        "Ma, Yan",
+        "Dong, Xiaoyi",
+        "Zhang, Pan",
+        "Pan, Liangming",
+        "Jiang, Yu-Gang",
+        "Wang, Jiaqi",
+        "Cao, Yixin",
+        "Sun, Aixin"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.01523",
+      "metadata_url": "https://arxiv.org/abs/2407.01523",
+      "metadata_sha256": "92582b6f8152f30b12f15a6bee11a08cc955e7ca36de54d38a266f894c8dbd39",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "LONGB1": {
+      "apa": "Bai, Y., Lv, X., Zhang, J., Lyu, H., Tang, J., Huang, Z., Du, Z., Liu, X., Zeng, A., Hou, L., Dong, Y., Tang, J., & Li, J. (2023). LongBench: A bilingual, multitask benchmark for long context understanding. arXiv. https://arxiv.org/abs/2308.14508",
+      "title": "LongBench: A bilingual, multitask benchmark for long context understanding",
+      "authors": [
+        "Bai, Yushi",
+        "Lv, Xin",
+        "Zhang, Jiajie",
+        "Lyu, Hongchang",
+        "Tang, Jiankai",
+        "Huang, Zhidian",
+        "Du, Zhengxiao",
+        "Liu, Xiao",
+        "Zeng, Aohan",
+        "Hou, Lei",
+        "Dong, Yuxiao",
+        "Tang, Jie",
+        "Li, Juanzi"
+      ],
+      "year": "2023",
+      "url": "https://arxiv.org/abs/2308.14508",
+      "metadata_url": "https://arxiv.org/abs/2308.14508",
+      "metadata_sha256": "5a3f3d9c0d9faec0d71fe849d0e481574a356f70b23cafdf6317225a96613767",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "LONGB2": {
+      "apa": "Bai, Y., Tu, S., Zhang, J., Peng, H., Wang, X., Lv, X., Cao, S., Xu, J., Hou, L., Dong, Y., Tang, J., & Li, J. (2024). LongBench v2: Towards deeper understanding and reasoning on realistic Long-context multitasks. arXiv. https://arxiv.org/abs/2412.15204",
+      "title": "LongBench v2: Towards deeper understanding and reasoning on realistic Long-context multitasks",
+      "authors": [
+        "Bai, Yushi",
+        "Tu, Shangqing",
+        "Zhang, Jiajie",
+        "Peng, Hao",
+        "Wang, Xiaozhi",
+        "Lv, Xin",
+        "Cao, Shulin",
+        "Xu, Jiazheng",
+        "Hou, Lei",
+        "Dong, Yuxiao",
+        "Tang, Jie",
+        "Li, Juanzi"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2412.15204",
+      "metadata_url": "https://arxiv.org/abs/2412.15204",
+      "metadata_sha256": "55a37ca82f9cdc313322cdc8c24b4694a8a2f898da1b05463f39c7215e2e77aa",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "HELMET": {
+      "apa": "Yen, H., Gao, T., Hou, M., Ding, K., Fleischer, D., Izsak, P., Wasserblat, M., & Chen, D. (2025). HELMET: How to evaluate long-context language models effectively and thoroughly. International Conference on Learning Representations (ICLR). https://arxiv.org/abs/2410.02694",
+      "title": "HELMET: How to evaluate long-context language models effectively and thoroughly",
+      "authors": [
+        "Yen, Howard",
+        "Gao, Tianyu",
+        "Hou, Minmin",
+        "Ding, Ke",
+        "Fleischer, Daniel",
+        "Izsak, Peter",
+        "Wasserblat, Moshe",
+        "Chen, Danqi"
+      ],
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2410.02694",
+      "metadata_url": "https://arxiv.org/abs/2410.02694",
+      "metadata_sha256": "ec398a9bae6cfb022e6b34962d4be724ef1d37e6a55156eb94b790593987ded6",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+    },
+    "INFINITE": {
+      "apa": "Zhang, X., Chen, Y., Hu, S., Xu, Z., Chen, J., Hao, M. K., Han, X., Thai, Z. L., Wang, S., Liu, Z., & Sun, M. (2024). ∞bench: Extending long context evaluation beyond 100k tokens. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). https://arxiv.org/abs/2402.13718",
+      "title": "∞bench: Extending long context evaluation beyond 100k tokens",
+      "authors": [
+        "Zhang, Xinrong",
+        "Chen, Yingfa",
+        "Hu, Shengding",
+        "Xu, Zihang",
+        "Chen, Junhao",
+        "Hao, Moo Khai",
+        "Han, Xu",
+        "Thai, Zhen Leng",
+        "Wang, Shuo",
+        "Liu, Zhiyuan",
+        "Sun, Maosong"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2402.13718",
+      "metadata_url": "https://arxiv.org/abs/2402.13718",
+      "metadata_sha256": "f8e4fb2ab9ad42d4135ad1ec6d6e54e84902a9028f4a0f4af4a7ce14a50e32eb",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+    },
+    "NOLIMA": {
+      "apa": "Modarressi, A., Deilamsalehy, H., Dernoncourt, F., Bui, T., Rossi, R. A., Yoon, S., & Schütze, H. (2025). NoLiMa: Long-context evaluation beyond literal matching. Forty-second International Conference on Machine Learning. https://arxiv.org/abs/2502.05167",
+      "title": "NoLiMa: Long-context evaluation beyond literal matching",
+      "authors": [
+        "Modarressi, Ali",
+        "Deilamsalehy, Hanieh",
+        "Dernoncourt, Franck",
+        "Bui, Trung",
+        "Rossi, Ryan A.",
+        "Yoon, Seunghyun",
+        "SchÃ¼tze, Hinrich"
+      ],
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2502.05167",
+      "metadata_url": "https://arxiv.org/abs/2502.05167",
+      "metadata_sha256": "a01bf52dae11d8f9946194d6ecb977fd1aed9ed83f14ad6352bac548681e9e74",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+    },
+    "GSMSYM": {
+      "apa": "Mirzadeh, I., Alizadeh, K., Shahrokhi, H., Tuzel, O., Bengio, S., & Farajtabar, M. (2024). GSM-Symbolic: Understanding the limitations of mathematical reasoning in large language models. arXiv. https://arxiv.org/abs/2410.05229",
+      "title": "GSM-Symbolic: Understanding the limitations of mathematical reasoning in large language models",
+      "authors": [
+        "Mirzadeh, Iman",
+        "Alizadeh, Keivan",
+        "Shahrokhi, Hooman",
+        "Tuzel, Oncel",
+        "Bengio, Samy",
+        "Farajtabar, Mehrdad"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2410.05229",
+      "metadata_url": "https://arxiv.org/abs/2410.05229",
+      "metadata_sha256": "36c38851da6b9418590772ede85907bf0a0f54dd0435c1ac7530129f32d49f52",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "DROP": {
+      "apa": "Dua, D., Wang, Y., Dasigi, P., Stanovsky, G., Singh, S., & Gardner, M. (2019). DROP: A reading comprehension benchmark requiring discrete reasoning over paragraphs. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 2368–2378). https://doi.org/10.18653/v1/N19-1246",
+      "title": "DROP: A reading comprehension benchmark requiring discrete reasoning over paragraphs",
+      "authors": [
+        "Dheeru Dua",
+        "Yizhong Wang",
+        "Pradeep Dasigi",
+        "Gabriel Stanovsky",
+        "Sameer Singh",
+        "Matt Gardner"
+      ],
+      "year": "2019",
+      "url": "https://doi.org/10.18653/v1/N19-1246",
+      "metadata_url": "https://aclanthology.org/N19-1246/",
+      "metadata_sha256": "5b290da3498896968ccbb7644f8de9906afdfebd81648d19649c99f5fa09bf9a",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "FRAMES": {
+      "apa": "Krishna, S., Krishna, K., Mohananey, A., Schwarcz, S., Stambler, A., Upadhyay, S., & Faruqui, M. (2024). Fact, fetch, and reason: A unified evaluation of retrieval-augmented generation. arXiv. https://arxiv.org/abs/2409.12941",
+      "title": "Fact, fetch, and reason: A unified evaluation of retrieval-augmented generation",
+      "authors": [
+        "Krishna, Satyapriya",
+        "Krishna, Kalpesh",
+        "Mohananey, Anhad",
+        "Schwarcz, Steven",
+        "Stambler, Adam",
+        "Upadhyay, Shyam",
+        "Faruqui, Manaal"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2409.12941",
+      "metadata_url": "https://arxiv.org/abs/2409.12941",
+      "metadata_sha256": "13092a181f099804b3ddef885afe2a98ec46105ff1c482ea6709725e7b5d782f",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "HOTPOT": {
+      "apa": "Yang, Z., Qi, P., Zhang, S., Bengio, Y., Cohen, W. W., Salakhutdinov, R., & Manning, C. D. (2018). HotpotQA: A dataset for diverse, explainable Multi-hop question answering. arXiv. https://arxiv.org/abs/1809.09600",
+      "title": "HotpotQA: A dataset for diverse, explainable Multi-hop question answering",
+      "authors": [
+        "Yang, Zhilin",
+        "Qi, Peng",
+        "Zhang, Saizheng",
+        "Bengio, Yoshua",
+        "Cohen, William W.",
+        "Salakhutdinov, Ruslan",
+        "Manning, Christopher D."
+      ],
+      "year": "2018",
+      "url": "https://arxiv.org/abs/1809.09600",
+      "metadata_url": "https://arxiv.org/abs/1809.09600",
+      "metadata_sha256": "1d2aba7b7aa74242566af15165d3861311bc478db918ebf7a28ebc94d8b20ffd",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "MUSIQUE": {
+      "apa": "Trivedi, H., Balasubramanian, N., Khot, T., & Sabharwal, A. (2021). MuSiQue: Multihop questions via Single-hop question composition. arXiv. https://arxiv.org/abs/2108.00573",
+      "title": "MuSiQue: Multihop questions via Single-hop question composition",
+      "authors": [
+        "Trivedi, Harsh",
+        "Balasubramanian, Niranjan",
+        "Khot, Tushar",
+        "Sabharwal, Ashish"
+      ],
+      "year": "2021",
+      "url": "https://arxiv.org/abs/2108.00573",
+      "metadata_url": "https://arxiv.org/abs/2108.00573",
+      "metadata_sha256": "d8ca40a3303d9287245cad135d31a338a646f67e97764dd3ce4c59c321a578c7",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "QASPER": {
+      "apa": "Dasigi, P., Lo, K., Beltagy, I., Cohan, A., Smith, N. A., & Gardner, M. (2021). A dataset of information-seeking questions and answers anchored in research papers. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 4599–4610). https://doi.org/10.18653/v1/2021.naacl-main.365",
+      "title": "A dataset of information-seeking questions and answers anchored in research papers",
+      "authors": [
+        "Pradeep Dasigi",
+        "Kyle Lo",
+        "Iz Beltagy",
+        "Arman Cohan",
+        "Noah A. Smith",
+        "Matt Gardner"
+      ],
+      "year": "2021",
+      "url": "https://doi.org/10.18653/v1/2021.naacl-main.365",
+      "metadata_url": "https://aclanthology.org/2021.naacl-main.365/",
+      "metadata_sha256": "6165efff7a291fb18e97d04a6e54ee17f28ef8911071a616df2198d7d84f80af",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "SCIASS": {
+      "apa": "Cai, H., Cai, X., Chang, J., Li, S., Yao, L., Wang, C., Gao, Z., Wang, H., Li, Y., Lin, M., Yang, S., Wang, J., Xu, M., Huang, J., Fang, X., Zhuang, J., Yin, Y., Li, Y., Chen, C., … Ke, G. (2024). SciAssess: Benchmarking LLM proficiency in scientific literature analysis. arXiv. https://arxiv.org/abs/2403.01976",
+      "title": "SciAssess: Benchmarking LLM proficiency in scientific literature analysis",
+      "authors": [
+        "Cai, Hengxing",
+        "Cai, Xiaochen",
+        "Chang, Junhan",
+        "Li, Sihang",
+        "Yao, Lin",
+        "Wang, Changxin",
+        "Gao, Zhifeng",
+        "Wang, Hongshuai",
+        "Li, Yongge",
+        "Lin, Mujie",
+        "Yang, Shuwen",
+        "Wang, Jiankun",
+        "Xu, Mingjun",
+        "Huang, Jin",
+        "Fang, Xi",
+        "Zhuang, Jiaxi",
+        "Yin, Yuqi",
+        "Li, Yaqi",
+        "Chen, Changhong",
+        "Cheng, Zheng",
+        "Zhao, Zifeng",
+        "Zhang, Linfeng",
+        "Ke, Guolin"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2403.01976",
+      "metadata_url": "https://arxiv.org/abs/2403.01976",
+      "metadata_sha256": "e5df6dd4df5c2c4d1d513ad1db3d7d3628140dc58b4d32ec99ba486dcb2e43dd",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "LAB": {
+      "apa": "Laurent, J. M., Janizek, J. D., Ruzo, M., Hinks, M. M., Hammerling, M. J., Narayanan, S., Ponnapati, M., White, A. D., & Rodriques, S. G. (2024). LAB-Bench: Measuring capabilities of language models for biology research. arXiv. https://arxiv.org/abs/2407.10362",
+      "title": "LAB-Bench: Measuring capabilities of language models for biology research",
+      "authors": [
+        "Laurent, Jon M.",
+        "Janizek, Joseph D.",
+        "Ruzo, Michael",
+        "Hinks, Michaela M.",
+        "Hammerling, Michael J.",
+        "Narayanan, Siddharth",
+        "Ponnapati, Manvitha",
+        "White, Andrew D.",
+        "Rodriques, Samuel G."
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.10362",
+      "metadata_url": "https://arxiv.org/abs/2407.10362",
+      "metadata_sha256": "38a6591fc213ac99764b41a0308b37db80ae62fd61092381e30b42e704089edf",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "CORE": {
+      "apa": "Siegel, Z. S., Kapoor, S., Nadgir, N., Stroebl, B., & Narayanan, A. (2024). CORE-Bench: Fostering the credibility of published research through a computational reproducibility agent benchmark. arXiv. https://arxiv.org/abs/2409.11363",
+      "title": "CORE-Bench: Fostering the credibility of published research through a computational reproducibility agent benchmark",
+      "authors": [
+        "Siegel, Zachary S.",
+        "Kapoor, Sayash",
+        "Nadgir, Nitya",
+        "Stroebl, Benedikt",
+        "Narayanan, Arvind"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2409.11363",
+      "metadata_url": "https://arxiv.org/abs/2409.11363",
+      "metadata_sha256": "7db0975b258ffed49f0e43abecafe12d184672165f984a81e6c1deea74877600",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "GAIA": {
+      "apa": "Mialon, G., Fourrier, C., Swift, C., Wolf, T., LeCun, Y., & Scialom, T. (2023). GAIA: a benchmark for general AI assistants. arXiv. https://arxiv.org/abs/2311.12983",
+      "title": "GAIA: a benchmark for general AI assistants",
+      "authors": [
+        "Mialon, GrÃ©goire",
+        "Fourrier, ClÃ©mentine",
+        "Swift, Craig",
+        "Wolf, Thomas",
+        "LeCun, Yann",
+        "Scialom, Thomas"
+      ],
+      "year": "2023",
+      "url": "https://arxiv.org/abs/2311.12983",
+      "metadata_url": "https://arxiv.org/abs/2311.12983",
+      "metadata_sha256": "fcebc315ea72ccad1c615e354c5218f6d34ef6ad1d5bfa0fafc15b04fa435e9e",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "COMPLEX": {
+      "apa": "Wen, B., Ke, P., Gu, X., Wu, L., Huang, H., Zhou, J., Li, W., Hu, B., Gao, W., Xu, J., Liu, Y., Tang, J., Wang, H., & Huang, M. (2024). Benchmarking complex instruction-following with multiple constraints composition. arXiv. https://arxiv.org/abs/2407.03978",
+      "title": "Benchmarking complex instruction-following with multiple constraints composition",
+      "authors": [
+        "Wen, Bosi",
+        "Ke, Pei",
+        "Gu, Xiaotao",
+        "Wu, Lindong",
+        "Huang, Hao",
+        "Zhou, Jinfeng",
+        "Li, Wenchuang",
+        "Hu, Binxin",
+        "Gao, Wendy",
+        "Xu, Jiaxin",
+        "Liu, Yiming",
+        "Tang, Jie",
+        "Wang, Hongning",
+        "Huang, Minlie"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.03978",
+      "metadata_url": "https://arxiv.org/abs/2407.03978",
+      "metadata_sha256": "01f297da5508895f6dbaceea3bf5610e69a9ebdbb2137d4e793006d778d22591",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "ALCE": {
+      "apa": "Gao, T., Yen, H., Yu, J., & Chen, D. (2023). Enabling large language models to generate text with citations. Empirical Methods in Natural Language Processing (EMNLP). https://arxiv.org/abs/2305.14627",
+      "title": "Enabling large language models to generate text with citations",
+      "authors": [
+        "Gao, Tianyu",
+        "Yen, Howard",
+        "Yu, Jiatong",
+        "Chen, Danqi"
+      ],
+      "year": "2023",
+      "url": "https://arxiv.org/abs/2305.14627",
+      "metadata_url": "https://arxiv.org/abs/2305.14627",
+      "metadata_sha256": "06ce495cf7b9817887a44db85a8ed5d254ed47ea556a60b668fee5c8c09fa72e",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+    },
+    "TRIAL": {
+      "apa": "Wang, Z., Cao, L., Danek, B., Jin, Q., Lu, Z., & Sun, J. (2024). Accelerating clinical evidence synthesis with large language models. arXiv. https://arxiv.org/abs/2406.17755",
+      "title": "Accelerating clinical evidence synthesis with large language models",
+      "authors": [
+        "Wang, Zifeng",
+        "Cao, Lang",
+        "Danek, Benjamin",
+        "Jin, Qiao",
+        "Lu, Zhiyong",
+        "Sun, Jimeng"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2406.17755",
+      "metadata_url": "https://arxiv.org/abs/2406.17755",
+      "metadata_sha256": "2578815766da3eb5f809362a778ec611e800cfa559feaaf1ac07f20a042b40be",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "MANALYZER": {
+      "apa": "Xu, W., Zhang, W., Ling, F., Fei, B., Hu, Y., Ma, R., Zhang, B., Ren, F., Lin, J., Ouyang, W., & Bai, L. (2025). Manalyzer: End-to-end automated Meta-analysis with Multi-agent system. arXiv. https://arxiv.org/abs/2505.20310",
+      "title": "Manalyzer: End-to-end automated Meta-analysis with Multi-agent system",
+      "authors": [
+        "Xu, Wanghan",
+        "Zhang, Wenlong",
+        "Ling, Fenghua",
+        "Fei, Ben",
+        "Hu, Yusong",
+        "Ma, Runmin",
+        "Zhang, Bo",
+        "Ren, Fangxuan",
+        "Lin, Jintai",
+        "Ouyang, Wanli",
+        "Bai, Lei"
+      ],
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2505.20310",
+      "metadata_url": "https://arxiv.org/abs/2505.20310",
+      "metadata_sha256": "72ce1702e26681d56431e38cbf797bd6efdd26d12d9e74696a811f39b235ef75",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "DTBENCH": {
+      "apa": "Guo, Y., Du, Z., Tang, N., Tang, K., Ge, C., & Gao, Y. (2026). DTBench: A synthetic benchmark for Document-to-Table extraction. arXiv. https://arxiv.org/abs/2602.13812",
+      "title": "DTBench: A synthetic benchmark for Document-to-Table extraction",
+      "authors": [
+        "Guo, Yuxiang",
+        "Du, Zhuoran",
+        "Tang, Nan",
+        "Tang, Kezheng",
+        "Ge, Congcong",
+        "Gao, Yunjun"
+      ],
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2602.13812",
+      "metadata_url": "https://arxiv.org/abs/2602.13812",
+      "metadata_sha256": "7382fe3ff6ce4a8309cdae1398f929e2ee8729b4501963310657e46099b53f41",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "UNIKIE": {
+      "apa": "Ji, Y., Xu, Z., Liu, Z., Chen, Z., Zhang, Q., Yang, Z., Lin, J., Gu, Y., Yu, G., & Sun, M. (2026). UNIKIE-BENCH: Benchmarking large multimodal models for key information extraction in visual documents. arXiv. https://arxiv.org/abs/2602.07038",
+      "title": "UNIKIE-BENCH: Benchmarking large multimodal models for key information extraction in visual documents",
+      "authors": [
+        "Ji, Yifan",
+        "Xu, Zhipeng",
+        "Liu, Zhenghao",
+        "Chen, Zulong",
+        "Zhang, Qian",
+        "Yang, Zhibo",
+        "Lin, Junyang",
+        "Gu, Yu",
+        "Yu, Ge",
+        "Sun, Maosong"
+      ],
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2602.07038",
+      "metadata_url": "https://arxiv.org/abs/2602.07038",
+      "metadata_sha256": "af6666596b7df926a381fea7b571dcc309f301a5269ce79ca907734213d24305",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "SUC": {
+      "apa": "Sui, Y., Zhou, M., Zhou, M., Han, S., & Zhang, D. (2023). Table meets LLM: Can large language models understand structured table data? A benchmark and empirical study. arXiv. https://arxiv.org/abs/2305.13062",
+      "title": "Table meets LLM: Can large language models understand structured table data? A benchmark and empirical study",
+      "authors": [
+        "Sui, Yuan",
+        "Zhou, Mengyu",
+        "Zhou, Mingjie",
+        "Han, Shi",
+        "Zhang, Dongmei"
+      ],
+      "year": "2023",
+      "url": "https://arxiv.org/abs/2305.13062",
+      "metadata_url": "https://arxiv.org/abs/2305.13062",
+      "metadata_sha256": "04a85a93e9de51b73d5a9d82cd6572c14028984e251276afba06a825ab4f3c06",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "NUPA": {
+      "apa": "Yang, H., Hu, Y., Kang, S., Lin, Z., & Zhang, M. (2024). Number cookbook: Number understanding of language models and how to improve it. arXiv. https://arxiv.org/abs/2411.03766",
+      "title": "Number cookbook: Number understanding of language models and how to improve it",
+      "authors": [
+        "Yang, Haotong",
+        "Hu, Yi",
+        "Kang, Shijia",
+        "Lin, Zhouchen",
+        "Zhang, Muhan"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2411.03766",
+      "metadata_url": "https://arxiv.org/abs/2411.03766",
+      "metadata_sha256": "97b0444f60cd9c683c96f3bee3389afb2fe3ad63229872d9757c06ff0c592d3a",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "SYMBOL": {
+      "apa": "Qian, J., Wang, H., Li, Z., Li, S., & Yan, X. (2023). Limitations of language models in arithmetic and symbolic induction. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 9285–9298). https://doi.org/10.18653/v1/2023.acl-long.516",
+      "title": "Limitations of language models in arithmetic and symbolic induction",
+      "authors": [
+        "Jing Qian",
+        "Hong Wang",
+        "Zekun Li",
+        "Shiyang Li",
+        "Xifeng Yan"
+      ],
+      "year": "2023",
+      "url": "https://doi.org/10.18653/v1/2023.acl-long.516",
+      "metadata_url": "https://aclanthology.org/2023.acl-long.516/",
+      "metadata_sha256": "804723e9c092bf92ffce5f496c399a354c51c5f0a0d075bd952d0c9e97daef70",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "PROCESS": {
+      "apa": "Zheng, C., Zhang, Z., Zhang, B., Lin, R., Lu, K., Yu, B., Liu, D., Zhou, J., & Lin, J. (2025). ProcessBench: Identifying process errors in mathematical reasoning. The 63rd Annual Meeting of the Association for Computational Linguistics. https://arxiv.org/abs/2412.06559",
+      "title": "ProcessBench: Identifying process errors in mathematical reasoning",
+      "authors": [
+        "Zheng, Chujie",
+        "Zhang, Zhenru",
+        "Zhang, Beichen",
+        "Lin, Runji",
+        "Lu, Keming",
+        "Yu, Bowen",
+        "Liu, Dayiheng",
+        "Zhou, Jingren",
+        "Lin, Junyang"
+      ],
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2412.06559",
+      "metadata_url": "https://arxiv.org/abs/2412.06559",
+      "metadata_sha256": "0c91e28b435c317b16743f961d3d011270421df92743c37923fbade5d2133c4e",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+    },
+    "LOOGLE": {
+      "apa": "Li, J., Wang, M., Zheng, Z., & Zhang, M. (2023). LooGLE: Can long-context language models understand long contexts?. arXiv. https://arxiv.org/abs/2311.04939",
+      "title": "LooGLE: Can long-context language models understand long contexts?",
+      "authors": [
+        "Li, Jiaqi",
+        "Wang, Mengmeng",
+        "Zheng, Zilong",
+        "Zhang, Muhan"
+      ],
+      "year": "2023",
+      "url": "https://arxiv.org/abs/2311.04939",
+      "metadata_url": "https://arxiv.org/abs/2311.04939",
+      "metadata_sha256": "f173e6f6a300a357e79e25aea67af84a5bd679122f5f43c08534274d673b9f82",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "LOOGLE2": {
+      "apa": "He, Z., Wang, Y., Li, J., Liang, K., & Zhang, M. (2025). LooGLE v2: Are LLMs ready for real world long dependency challenges?. arXiv. https://arxiv.org/abs/2510.22548",
+      "title": "LooGLE v2: Are LLMs ready for real world long dependency challenges?",
+      "authors": [
+        "He, Ziyuan",
+        "Wang, Yuxuan",
+        "Li, Jiaqi",
+        "Liang, Kexin",
+        "Zhang, Muhan"
+      ],
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2510.22548",
+      "metadata_url": "https://arxiv.org/abs/2510.22548",
+      "metadata_sha256": "a536597f6abe404bd60e03611fc2a4b2f09374023e8437df1046adf8abda8dc6",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "MMNIAH": {
+      "apa": "Wang, W., Zhang, S., Ren, Y., Duan, Y., Li, T., Liu, S., Hu, M., Chen, Z., Zhang, K., Lu, L., Zhu, X., Luo, P., Qiao, Y., Dai, J., Shao, W., & Wang, W. (2024). Needle in a multimodal haystack. arXiv. https://arxiv.org/abs/2406.07230",
+      "title": "Needle in a multimodal haystack",
+      "authors": [
+        "Wang, Weiyun",
+        "Zhang, Shuibo",
+        "Ren, Yiming",
+        "Duan, Yuchen",
+        "Li, Tiantong",
+        "Liu, Shuo",
+        "Hu, Mengkang",
+        "Chen, Zhe",
+        "Zhang, Kaipeng",
+        "Lu, Lewei",
+        "Zhu, Xizhou",
+        "Luo, Ping",
+        "Qiao, Yu",
+        "Dai, Jifeng",
+        "Shao, Wenqi",
+        "Wang, Wenhai"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2406.07230",
+      "metadata_url": "https://arxiv.org/abs/2406.07230",
+      "metadata_sha256": "bfa0d4a70615fa2edaa5c7a9c46ecfb6590be7ca13f807e2a1bae20de1214a9f",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "VAX": {
+      "apa": "İlgen, B., Awotoro, E., & Hattab, G. (2026). VaxScope: Document-level structured evidence extraction from immunization systematic reviews. In BioNLP 2026 (pp. 853–863). https://doi.org/10.18653/v1/2026.bionlp-1.69",
+      "title": "VaxScope: Document-level structured evidence extraction from immunization systematic reviews",
+      "authors": [
+        "Bahar İlgen",
+        "Ebenezer Awotoro",
+        "Georges Hattab"
+      ],
+      "year": "2026",
+      "url": "https://doi.org/10.18653/v1/2026.bionlp-1.69",
+      "metadata_url": "https://aclanthology.org/2026.bionlp-1.69/",
+      "metadata_sha256": "c0f7fb43a0f01bf6b2b8cc90ec8209f84afb320d02ca3616075859ca905bbd30",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "CONSORT": {
+      "apa": "Stachura, D., Przechera, B., Opałek, M., Sadowska, E., Borowiack, E., & Nowak, A. (2026). Expert-guided schema-based structured extraction from CONSORT diagrams using vision-language models. In BioNLP 2026 (pp. 955–969). https://doi.org/10.18653/v1/2026.bionlp-1.77",
+      "title": "Expert-guided schema-based structured extraction from CONSORT diagrams using vision-language models",
+      "authors": [
+        "Damian Stachura",
+        "Bartosz Przechera",
+        "Monika Opałek",
+        "Ewelina Sadowska",
+        "Ewa Borowiack",
+        "Artur Nowak"
+      ],
+      "year": "2026",
+      "url": "https://doi.org/10.18653/v1/2026.bionlp-1.77",
+      "metadata_url": "https://aclanthology.org/2026.bionlp-1.77/",
+      "metadata_sha256": "36231f188bde9f6483d25179581147bf27012e657fca052309e95c45d575c828",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "RULER": {
+      "apa": "Hsieh, C.-P., Sun, S., Kriman, S., Acharya, S., Rekesh, D., Jia, F., Zhang, Y., & Ginsburg, B. (2024). RULER: What's the real context size of your long-context language models?. arXiv. https://arxiv.org/abs/2404.06654",
+      "title": "RULER: What's the real context size of your long-context language models?",
+      "authors": [
+        "Hsieh, Cheng-Ping",
+        "Sun, Simeng",
+        "Kriman, Samuel",
+        "Acharya, Shantanu",
+        "Rekesh, Dima",
+        "Jia, Fei",
+        "Zhang, Yang",
+        "Ginsburg, Boris"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2404.06654",
+      "metadata_url": "https://arxiv.org/abs/2404.06654",
+      "metadata_sha256": "3027b9b0d761d691c818be84fecfe91b439c096fc3ca76bb7d621e15db024c83",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "TABLEBENCH": {
+      "apa": "Wu, X., Yang, J., Chai, L., Zhang, G., Liu, J., Du, X., Liang, D., Shu, D., Cheng, X., Sun, T., Niu, G., Li, T., & Li, Z. (2025). TableBench: A comprehensive and complex benchmark for table question answering. Proceedings of the AAAI Conference on Artificial Intelligence. https://arxiv.org/abs/2408.09174",
+      "title": "TableBench: A comprehensive and complex benchmark for table question answering",
+      "authors": [
+        "Wu, Xianjie",
+        "Yang, Jian",
+        "Chai, Linzheng",
+        "Zhang, Ge",
+        "Liu, Jiaheng",
+        "Du, Xinrun",
+        "Liang, Di",
+        "Shu, Daixin",
+        "Cheng, Xianfu",
+        "Sun, Tianzhen",
+        "Niu, Guanglin",
+        "Li, Tongliang",
+        "Li, Zhoujun"
+      ],
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2408.09174",
+      "metadata_url": "https://arxiv.org/abs/2408.09174",
+      "metadata_sha256": "00e8918c1bba0929c8453ee2dd14b02c7d3afcd30739058a230d40ec7ceaa2b2",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+    },
+    "BFCL": {
+      "apa": "Patil, S. G., Mao, H., Yan, F., Ji, C. C.-J., Suresh, V., Stoica, I., & Gonzalez, J. E. (2025). The Berkeley function calling leaderboard (BFCL): From tool use to agentic evaluation of large language models. In Proceedings of the 42nd International Conference on Machine Learning (Vol. 267) (pp. 48371–48392). https://proceedings.mlr.press/v267/patil25a.html",
+      "title": "The Berkeley function calling leaderboard (BFCL): From tool use to agentic evaluation of large language models",
+      "authors": [
+        "Shishir G Patil",
+        "Huanzhi Mao",
+        "Fanjia Yan",
+        "Charlie Cheng-Jie Ji",
+        "Vishnu Suresh",
+        "Ion Stoica",
+        "Joseph E. Gonzalez"
+      ],
+      "year": "2025",
+      "url": "https://proceedings.mlr.press/v267/patil25a.html",
+      "metadata_url": "https://proceedings.mlr.press/v267/patil25a.html",
+      "metadata_sha256": "9fd266880a8368c677b42ea887d82820440b8f053c5c5a7ca134be531dfc7458",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "ROBBR": {
+      "apa": "Wang, J., Cao, W., Bao, L., Zheng, Y., Pasternak, G., Wang, K., Wang, X., Paturi, R., & Bergen, L. (2024). Measuring risk of bias in biomedical reports: The RoBBR benchmark. arXiv. https://arxiv.org/abs/2411.18831",
+      "title": "Measuring risk of bias in biomedical reports: The RoBBR benchmark",
+      "authors": [
+        "Wang, Jianyou",
+        "Cao, Weili",
+        "Bao, Longtian",
+        "Zheng, Youze",
+        "Pasternak, Gil",
+        "Wang, Kaicheng",
+        "Wang, Xiaoyue",
+        "Paturi, Ramamohan",
+        "Bergen, Leon"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2411.18831",
+      "metadata_url": "https://arxiv.org/abs/2411.18831",
+      "metadata_sha256": "d1f3aa2f418a25547f8b79e0b2d918cdd3f9f4812c95bdf81291fa8695f7c452",
+      "kind": "Paper",
+      "verified_basis": "Primary bibliographic metadata"
+    },
+    "MRCR": {
+      "apa": "OpenAI. (n.d.). MRCR: Multi-round coreference resolution [Data set]. Hugging Face. Retrieved October 30, 2026, from https://huggingface.co/datasets/openai/mrcr",
+      "title": "MRCR: Multi-round coreference resolution",
+      "authors": [
+        "OpenAI"
+      ],
+      "year": "n.d.",
+      "url": "https://huggingface.co/datasets/openai/mrcr",
+      "metadata_url": "https://huggingface.co/datasets/openai/mrcr",
+      "metadata_sha256": "",
+      "kind": "Data set",
+      "verified_basis": "Author/account and title from frozen official repository or data card; no publication date inferred"
+    },
+    "NIAH": {
+      "apa": "gkamradt. (n.d.). LLMTest_NeedleInAHaystack [Source code]. GitHub. Retrieved October 30, 2026, from https://github.com/gkamradt/LLMTest_NeedleInAHaystack",
+      "title": "LLMTest_NeedleInAHaystack",
+      "authors": [
+        "gkamradt"
+      ],
+      "year": "n.d.",
+      "url": "https://github.com/gkamradt/LLMTest_NeedleInAHaystack",
+      "metadata_url": "https://github.com/gkamradt/LLMTest_NeedleInAHaystack",
+      "metadata_sha256": "",
+      "kind": "Source code",
+      "verified_basis": "Author/account and title from frozen official repository or data card; no publication date inferred"
+    },
+    "LONGBCHAT": {
+      "apa": "Qwen Team. (2024). Qwen2.5 technical report. arXiv. https://arxiv.org/abs/2412.15115",
+      "title": "Qwen2.5 technical report",
+      "authors": [
+        "Qwen Team"
+      ],
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2412.15115",
+      "kind": "Report",
+      "verified_basis": "LongBench-Chat evaluation table in the official report; dataset/scoring-range ambiguity is explicitly retained"
+    }
+  },
+  "result_sources": {
+    "S001": {
+      "source_ref": "S001",
+      "source_id": "LongBench2_site",
+      "url": "https://longbench2.github.io/",
+      "sha256": "b16f4683a0970694a1aa4fc74155bc61024fa57f98f257b90cc67d54d48d2d35",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_dates/DATE_D001.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "THUDM. (n.d.). LongBench v2 leaderboard. LongBench v2. Retrieved October 30, 2026, from https://longbench2.github.io/",
+        "title": "LongBench v2 leaderboard",
+        "authors": [
+          "THUDM"
+        ],
+        "year": "n.d.",
+        "url": "https://longbench2.github.io/",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S002": {
+      "source_ref": "S002",
+      "source_id": "legacy_figure",
+      "url": "https://www.idp-leaderboard.org/benchmarks/omnidocbench/",
+      "sha256": "b528d6d1b3c9c88aa3653bec4f4a6391dfbf110b5f3711deb227145a35624c3e",
+      "accessed": "2026-10-23",
+      "local_capture": "reproducibility/inputs/legacy_figure1_audited_source_data.csv",
+      "hash_target": "Local audited Figure 1 input CSV, not the remote page",
+      "citation": {
+        "apa": "OmniDocBench leaderboard. (n.d.). www.idp-leaderboard.org. Retrieved October 23, 2026, from https://www.idp-leaderboard.org/benchmarks/omnidocbench/",
+        "title": "OmniDocBench leaderboard",
+        "authors": [],
+        "year": "n.d.",
+        "url": "https://www.idp-leaderboard.org/benchmarks/omnidocbench/",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S003": {
+      "source_ref": "S003",
+      "source_id": "legacy_figure",
+      "url": "https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf",
+      "sha256": "b528d6d1b3c9c88aa3653bec4f4a6391dfbf110b5f3711deb227145a35624c3e",
+      "accessed": "2026-10-23",
+      "local_capture": "reproducibility/inputs/legacy_figure1_audited_source_data.csv",
+      "hash_target": "Local audited Figure 1 input CSV, not the remote page",
+      "citation": {
+        "apa": "Gemini Team. (2024). Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context [Technical report / model card]. https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf",
+        "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+        "authors": [
+          "Gemini Team"
+        ],
+        "year": "2024",
+        "url": "https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf",
+        "kind": "Report",
+        "verified_basis": "Corporate report/model-card source in the audited Figure 1 register"
+      }
+    },
+    "S004": {
+      "source_ref": "S004",
+      "source_id": "legacy_figure",
+      "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf",
+      "sha256": "b528d6d1b3c9c88aa3653bec4f4a6391dfbf110b5f3711deb227145a35624c3e",
+      "accessed": "2026-10-23",
+      "local_capture": "reproducibility/inputs/legacy_figure1_audited_source_data.csv",
+      "hash_target": "Local audited Figure 1 input CSV, not the remote page",
+      "citation": {
+        "apa": "Google DeepMind. (n.d.). Gemini 2 5 Pro Model Card [Technical report / model card]. https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf",
+        "title": "Gemini 2 5 Pro Model Card",
+        "authors": [
+          "Google DeepMind"
+        ],
+        "year": "n.d.",
+        "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf",
+        "kind": "Report",
+        "verified_basis": "Corporate report/model-card source in the audited Figure 1 register"
+      }
+    },
+    "S005": {
+      "source_ref": "S005",
+      "source_id": "legacy_figure",
+      "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Flash-Model-Card.pdf",
+      "sha256": "b528d6d1b3c9c88aa3653bec4f4a6391dfbf110b5f3711deb227145a35624c3e",
+      "accessed": "2026-10-23",
+      "local_capture": "reproducibility/inputs/legacy_figure1_audited_source_data.csv",
+      "hash_target": "Local audited Figure 1 input CSV, not the remote page",
+      "citation": {
+        "apa": "Google DeepMind. (n.d.). Gemini 3 Flash Model Card [Technical report / model card]. https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Flash-Model-Card.pdf",
+        "title": "Gemini 3 Flash Model Card",
+        "authors": [
+          "Google DeepMind"
+        ],
+        "year": "n.d.",
+        "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Flash-Model-Card.pdf",
+        "kind": "Report",
+        "verified_basis": "Corporate report/model-card source in the audited Figure 1 register"
+      }
+    },
+    "S006": {
+      "source_ref": "S006",
+      "source_id": "legacy_figure",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "sha256": "b528d6d1b3c9c88aa3653bec4f4a6391dfbf110b5f3711deb227145a35624c3e",
+      "accessed": "2026-10-23",
+      "local_capture": "reproducibility/inputs/legacy_figure1_audited_source_data.csv",
+      "hash_target": "Local audited Figure 1 input CSV, not the remote page",
+      "citation": {
+        "apa": "OpenAI. (n.d.). Gpt 5 6. OpenAI. Retrieved October 23, 2026, from https://openai.com/index/gpt-5-6/",
+        "title": "Gpt 5 6",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": "n.d.",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S009": {
+      "source_ref": "S009",
+      "source_id": "RULER",
+      "url": "https://raw.githubusercontent.com/NVIDIA/RULER/main/README.md",
+      "sha256": "f3aae5bbd58fcd7de32aab099c455dd2bbc1da23a2efee9db3071eb9fbf894a3",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/RULER.md",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "NVIDIA. (n.d.). RULER. GitHub. Retrieved October 30, 2026, from https://raw.githubusercontent.com/NVIDIA/RULER/main/README.md",
+        "title": "RULER",
+        "authors": [
+          "NVIDIA"
+        ],
+        "year": "n.d.",
+        "url": "https://raw.githubusercontent.com/NVIDIA/RULER/main/README.md",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S010": {
+      "source_ref": "S010",
+      "source_id": "NoLiMa",
+      "url": "https://raw.githubusercontent.com/adobe-research/NoLiMa/main/README.md",
+      "sha256": "d64d2af4cbba0cb0e2faa46e33a83fcba82221e99a7f5c12bfda04be2c7d81f1",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/NoLiMa.md",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "adobe-research. (n.d.). NoLiMa. GitHub. Retrieved October 30, 2026, from https://raw.githubusercontent.com/adobe-research/NoLiMa/main/README.md",
+        "title": "NoLiMa",
+        "authors": [
+          "adobe-research"
+        ],
+        "year": "n.d.",
+        "url": "https://raw.githubusercontent.com/adobe-research/NoLiMa/main/README.md",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S011": {
+      "source_ref": "S011",
+      "source_id": "DocMath_scores",
+      "url": "https://docmath-eval.github.io/static/js/model_scores_testmini.js",
+      "sha256": "9f4d9d1aa919f4d93ab5b06285dfe59225326c02a09e3c2d4b999d49da46eec1",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/DocMath_scores.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "DocMath-Eval. (n.d.). DocMath-Eval testmini model scores [Data table]. DocMath-Eval. Retrieved October 30, 2026, from https://docmath-eval.github.io/static/js/model_scores_testmini.js",
+        "title": "DocMath-Eval testmini model scores [Data table]",
+        "authors": [
+          "DocMath-Eval"
+        ],
+        "year": "n.d.",
+        "url": "https://docmath-eval.github.io/static/js/model_scores_testmini.js",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S012": {
+      "source_ref": "S012",
+      "source_id": "Qwen25VL_card",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct/raw/main/README.md",
+      "sha256": "f5e8c36e69c39b0afe7545a8fe21d262826cc63ed7bbbfa0fd6ce12983edadcd",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/Qwen25VL_card.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Qwen. (n.d.). Qwen2.5-VL-72B-Instruct [Model card]. Hugging Face. Retrieved October 30, 2026, from https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct/raw/main/README.md",
+        "title": "Qwen2.5-VL-72B-Instruct [Model card]",
+        "authors": [
+          "Qwen"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct/raw/main/README.md",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S013": {
+      "source_ref": "S013",
+      "source_id": "MATH500",
+      "url": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-R1/main/README.md",
+      "sha256": "4ed979e497121ae4dd9f1573da1668219f43be55d62cc0bf2be5429211a67486",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/MATH500.md",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "deepseek-ai. (n.d.). MATH500. GitHub. Retrieved October 30, 2026, from https://raw.githubusercontent.com/deepseek-ai/DeepSeek-R1/main/README.md",
+        "title": "MATH500",
+        "authors": [
+          "deepseek-ai"
+        ],
+        "year": "n.d.",
+        "url": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-R1/main/README.md",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S014": {
+      "source_ref": "S014",
+      "source_id": "LabBench_paper",
+      "url": "https://arxiv.org/html/2407.10362v3",
+      "sha256": "48089c2e9fedf8b20000ab9a5b7d69f19d642913205ee9059cb04ab09679de2d",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/LabBench_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Laurent, J. M., Janizek, J. D., Ruzo, M., Hinks, M. M., Hammerling, M. J., Narayanan, S., Ponnapati, M., White, A. D., & Rodriques, S. G. (2024). LAB-Bench: Measuring capabilities of language models for biology research. arXiv. https://arxiv.org/abs/2407.10362",
+        "title": "LAB-Bench: Measuring capabilities of language models for biology research",
+        "authors": [
+          "Laurent, Jon M.",
+          "Janizek, Joseph D.",
+          "Ruzo, Michael",
+          "Hinks, Michaela M.",
+          "Hammerling, Michael J.",
+          "Narayanan, Siddharth",
+          "Ponnapati, Manvitha",
+          "White, Andrew D.",
+          "Rodriques, Samuel G."
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2407.10362",
+        "metadata_url": "https://arxiv.org/abs/2407.10362",
+        "metadata_sha256": "38a6591fc213ac99764b41a0308b37db80ae62fd61092381e30b42e704089edf",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S015": {
+      "source_ref": "S015",
+      "source_id": "RoBBR_paper",
+      "url": "https://arxiv.org/html/2411.18831v2",
+      "sha256": "b71654eb58514ff7366dd9e1c557f08bf0fb9dd9030078717f801d3e74db9d28",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/RoBBR_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Wang, J., Cao, W., Bao, L., Zheng, Y., Pasternak, G., Wang, K., Wang, X., Paturi, R., & Bergen, L. (2024). Measuring risk of bias in biomedical reports: The RoBBR benchmark. arXiv. https://arxiv.org/abs/2411.18831",
+        "title": "Measuring risk of bias in biomedical reports: The RoBBR benchmark",
+        "authors": [
+          "Wang, Jianyou",
+          "Cao, Weili",
+          "Bao, Longtian",
+          "Zheng, Youze",
+          "Pasternak, Gil",
+          "Wang, Kaicheng",
+          "Wang, Xiaoyue",
+          "Paturi, Ramamohan",
+          "Bergen, Leon"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2411.18831",
+        "metadata_url": "https://arxiv.org/abs/2411.18831",
+        "metadata_sha256": "d1f3aa2f418a25547f8b79e0b2d918cdd3f9f4812c95bdf81291fa8695f7c452",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S017": {
+      "source_ref": "S017",
+      "source_id": "TableBench_site",
+      "url": "https://tablebench.github.io/",
+      "sha256": "96629dee410726f8a9fe7484206ae214e38e269dd1bf2acda615447d0198d99b",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/TableBench_site.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "TableBench. (n.d.). TableBench leaderboard: Corrected/refined evaluation. TableBench. Retrieved October 30, 2026, from https://tablebench.github.io/",
+        "title": "TableBench leaderboard: Corrected/refined evaluation",
+        "authors": [
+          "TableBench"
+        ],
+        "year": "n.d.",
+        "url": "https://tablebench.github.io/",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S018": {
+      "source_ref": "S018",
+      "source_id": "BFCL_scores",
+      "url": "https://gorilla.cs.berkeley.edu/data_overall.csv",
+      "sha256": "ede5081a24bc5ac7f9b3b09a52af6bcfcd35aa0f1709239fed979db77a8159a6",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/BFCL_scores.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Berkeley Function Calling Leaderboard. (n.d.). BFCL v4 overall results [CSV data table]. UC Berkeley. Retrieved October 30, 2026, from https://gorilla.cs.berkeley.edu/data_overall.csv",
+        "title": "BFCL v4 overall results [CSV data table]",
+        "authors": [
+          "Berkeley Function Calling Leaderboard"
+        ],
+        "year": "n.d.",
+        "url": "https://gorilla.cs.berkeley.edu/data_overall.csv",
+        "kind": "Data / repository / web source",
+        "verified_basis": "Frozen source URL; organizational/account author or authorless title; no web publication date inferred"
+      }
+    },
+    "S019": {
+      "source_ref": "S019",
+      "source_id": "Manalyzer_paper",
+      "url": "https://arxiv.org/html/2505.20310v1",
+      "sha256": "f3711c565e1128e247abb11d1ceac427a90701c0aee499e6713ab84237217328",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/Manalyzer_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Xu, W., Zhang, W., Ling, F., Fei, B., Hu, Y., Ma, R., Zhang, B., Ren, F., Lin, J., Ouyang, W., & Bai, L. (2025). Manalyzer: End-to-end automated Meta-analysis with Multi-agent system. arXiv. https://arxiv.org/abs/2505.20310",
+        "title": "Manalyzer: End-to-end automated Meta-analysis with Multi-agent system",
+        "authors": [
+          "Xu, Wanghan",
+          "Zhang, Wenlong",
+          "Ling, Fenghua",
+          "Fei, Ben",
+          "Hu, Yusong",
+          "Ma, Runmin",
+          "Zhang, Bo",
+          "Ren, Fangxuan",
+          "Lin, Jintai",
+          "Ouyang, Wanli",
+          "Bai, Lei"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2505.20310",
+        "metadata_url": "https://arxiv.org/abs/2505.20310",
+        "metadata_sha256": "72ce1702e26681d56431e38cbf797bd6efdd26d12d9e74696a811f39b235ef75",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S020": {
+      "source_ref": "S020",
+      "source_id": "CONSORT_pdf",
+      "url": "https://aclanthology.org/2026.bionlp-1.77.pdf",
+      "sha256": "843440eba1b7e0b467c22bf99274cba063d3ae9ac7c4a63e52237698d291497e",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/CONSORT_pdf.pdf",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Stachura, D., Przechera, B., Opałek, M., Sadowska, E., Borowiack, E., & Nowak, A. (2026). Expert-guided schema-based structured extraction from CONSORT diagrams using vision-language models. In BioNLP 2026 (pp. 955–969). https://doi.org/10.18653/v1/2026.bionlp-1.77",
+        "title": "Expert-guided schema-based structured extraction from CONSORT diagrams using vision-language models",
+        "authors": [
+          "Damian Stachura",
+          "Bartosz Przechera",
+          "Monika Opałek",
+          "Ewelina Sadowska",
+          "Ewa Borowiack",
+          "Artur Nowak"
+        ],
+        "year": "2026",
+        "url": "https://doi.org/10.18653/v1/2026.bionlp-1.77",
+        "metadata_url": "https://aclanthology.org/2026.bionlp-1.77/",
+        "metadata_sha256": "36231f188bde9f6483d25179581147bf27012e657fca052309e95c45d575c828",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S021": {
+      "source_ref": "S021",
+      "source_id": "VaxScope_pdf",
+      "url": "https://aclanthology.org/2026.bionlp-1.69.pdf",
+      "sha256": "fa56542eba4d24197a1ec99736fc81775e19cfce3be663bbeaff83db1719e613",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources_prior/VaxScope_pdf.pdf",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "İlgen, B., Awotoro, E., & Hattab, G. (2026). VaxScope: Document-level structured evidence extraction from immunization systematic reviews. In BioNLP 2026 (pp. 853–863). https://doi.org/10.18653/v1/2026.bionlp-1.69",
+        "title": "VaxScope: Document-level structured evidence extraction from immunization systematic reviews",
+        "authors": [
+          "Bahar İlgen",
+          "Ebenezer Awotoro",
+          "Georges Hattab"
+        ],
+        "year": "2026",
+        "url": "https://doi.org/10.18653/v1/2026.bionlp-1.69",
+        "metadata_url": "https://aclanthology.org/2026.bionlp-1.69/",
+        "metadata_sha256": "c0f7fb43a0f01bf6b2b8cc90ec8209f84afb320d02ca3616075859ca905bbd30",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S022": {
+      "source_ref": "S022",
+      "source_id": "READOC_paper",
+      "url": "https://arxiv.org/html/2409.05137",
+      "sha256": "b367e75c9e29ebd651ad94802ed4f15731f4a3da2fb8341791f0499dc79edf3e",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/READOC_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Li, Z., Abulaiti, A., Lu, Y., Chen, X., Zheng, J., Lin, H., Han, X., & Sun, L. (2024). READoc: A unified benchmark for realistic document structured extraction. arXiv. https://arxiv.org/abs/2409.05137",
+        "title": "READoc: A unified benchmark for realistic document structured extraction",
+        "authors": [
+          "Li, Zichao",
+          "Abulaiti, Aizier",
+          "Lu, Yaojie",
+          "Chen, Xuanang",
+          "Zheng, Jia",
+          "Lin, Hongyu",
+          "Han, Xianpei",
+          "Sun, Le"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2409.05137",
+        "metadata_url": "https://arxiv.org/abs/2409.05137",
+        "metadata_sha256": "98af976b732d7626f384563cf35ee2694bb0fa33c36530ac0c217a561bd2f3f8",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S023": {
+      "source_ref": "S023",
+      "source_id": "OLMOCR_paper",
+      "url": "https://arxiv.org/html/2502.18443",
+      "sha256": "006c540613a718c17eb1a758de30f0b245e953f2584f67347f590d93ecf136d2",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/OLMOCR_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Poznanski, J., Rangapur, A., Borchardt, J., Dunkelberger, J., Huff, R., Lin, D., Rangapur, A., Wilhelm, C., Lo, K., & Soldaini, L. (2025). olmOCR: Unlocking trillions of tokens in PDFs with vision language models. arXiv. https://arxiv.org/abs/2502.18443",
+        "title": "olmOCR: Unlocking trillions of tokens in PDFs with vision language models",
+        "authors": [
+          "Poznanski, Jake",
+          "Rangapur, Aman",
+          "Borchardt, Jon",
+          "Dunkelberger, Jason",
+          "Huff, Regan",
+          "Lin, Daniel",
+          "Rangapur, Aman",
+          "Wilhelm, Christopher",
+          "Lo, Kyle",
+          "Soldaini, Luca"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2502.18443",
+        "metadata_url": "https://arxiv.org/abs/2502.18443",
+        "metadata_sha256": "1ddbbcc6468560c88c2e2510e33e914eaf880f928331d3897a74ef47e6b523da",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S024": {
+      "source_ref": "S024",
+      "source_id": "OLMOCR2_paper",
+      "url": "https://arxiv.org/html/2510.19817",
+      "sha256": "6e3e3ef0414b75f0e58e65303817ed56e0bad585bb9dc52d374178577de0040f",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/OLMOCR2_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Poznanski, J., Soldaini, L., & Lo, K. (2025). olmOCR 2: Unit test rewards for document OCR. arXiv. https://arxiv.org/abs/2510.19817",
+        "title": "olmOCR 2: Unit test rewards for document OCR",
+        "authors": [
+          "Poznanski, Jake",
+          "Soldaini, Luca",
+          "Lo, Kyle"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2510.19817",
+        "metadata_url": "https://arxiv.org/abs/2510.19817",
+        "metadata_sha256": "6d4b14306dadf44db87bf5a6c2c77542f75c841bc3a72f76d8ce1f81de47a8e3",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S025": {
+      "source_ref": "S025",
+      "source_id": "MDP_paper",
+      "url": "https://arxiv.org/html/2603.28130",
+      "sha256": "2751d4abdef34f183c27553ac3c8853f0e8eb966002b648527b3f1f4b996d35f",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/MDP_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Li, Z., Lin, Z., Liu, Q., Zhang, Z., Zhang, S., Guo, Z., Song, J., Zhang, J., Bai, X., & Liu, Y. (2026). MDPBench: A benchmark for multilingual document parsing in real-world scenarios. arXiv. https://arxiv.org/abs/2603.28130",
+        "title": "MDPBench: A benchmark for multilingual document parsing in real-world scenarios",
+        "authors": [
+          "Li, Zhang",
+          "Lin, Zhibo",
+          "Liu, Qiang",
+          "Zhang, Ziyang",
+          "Zhang, Shuo",
+          "Guo, Zidun",
+          "Song, Jiajun",
+          "Zhang, Jiarui",
+          "Bai, Xiang",
+          "Liu, Yuliang"
+        ],
+        "year": "2026",
+        "url": "https://arxiv.org/abs/2603.28130",
+        "metadata_url": "https://arxiv.org/abs/2603.28130",
+        "metadata_sha256": "8f11aa249313f61dadf2548342138f097bd39c037c799a37e9253aee95fc67ff",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S026": {
+      "source_ref": "S026",
+      "source_id": "PUREDOC_paper",
+      "url": "https://arxiv.org/html/2605.07492",
+      "sha256": "1ac419fb43427300d8bfcf571ee913080ed125bc7eaff61f52357aa3191a5fd5",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/PUREDOC_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Li, Z., Ma, Z., Chen, J., Zhang, J., Su, Z., Zhang, Y., Yu, Z., Liu, R., Lv, X., Li, B., Gao, J., Zhang, Z., Yuan, C., Li, B., & Hu, W. (2026). How far is document parsing from solved? PureDocBench: A source-traceable benchmark across clean, degraded, and real-world settings. arXiv. https://arxiv.org/abs/2605.07492",
+        "title": "How far is document parsing from solved? PureDocBench: A source-traceable benchmark across clean, degraded, and real-world settings",
+        "authors": [
+          "Li, Zhiheng",
+          "Ma, Zongyang",
+          "Chen, Jiaxian",
+          "Zhang, Jianing",
+          "Su, Zhaolong",
+          "Zhang, Yutong",
+          "Yu, Zhiyin",
+          "Liu, Ruiqi",
+          "Lv, Xiaolei",
+          "Li, Bo",
+          "Gao, Jun",
+          "Zhang, Ziqi",
+          "Yuan, Chunfeng",
+          "Li, Bing",
+          "Hu, Weiming"
+        ],
+        "year": "2026",
+        "url": "https://arxiv.org/abs/2605.07492",
+        "metadata_url": "https://arxiv.org/abs/2605.07492",
+        "metadata_sha256": "0d75f5c60a3290f3f82c309e3a59e5c873636ed133f60cfa56b0f5e1ebf37845",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S027": {
+      "source_ref": "S027",
+      "source_id": "DRDOC_paper",
+      "url": "https://arxiv.org/html/2606.01393",
+      "sha256": "3ebee0d5b3669b014785bcd1542fcbd674e1ba1975118b6693cd29d96cd6a6cb",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/DRDOC_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Yang, M., Yu, X. V., Li, P., Guo, X., Qi, Z., Kim, K., Ye, L., Luo, X., Bi, J., Zhang, H., Riaz, H., Zhang, X., Xiao, Y., Liu, B., Tang, T., Zhao, Y., Lin, Q., Wang, Z., Liu, M., … He, Z. (2026). Dr. DocBench: A comprehensive benchmark for expert-level and difficult document parsing. arXiv. https://arxiv.org/abs/2606.01393",
+        "title": "Dr. DocBench: A comprehensive benchmark for expert-level and difficult document parsing",
+        "authors": [
+          "Yang, Minglai",
+          "Yu, Xinyan Velocity",
+          "Li, Pengyuan",
+          "Guo, Xinyu",
+          "Qi, Zhenting",
+          "Kim, Konwoo",
+          "Ye, Longtian",
+          "Luo, Xiaolong",
+          "Bi, Jinhe",
+          "Zhang, Henry",
+          "Riaz, Haris",
+          "Zhang, Xuan",
+          "Xiao, Yunze",
+          "Liu, Bangya",
+          "Tang, Tom",
+          "Zhao, Yunfei",
+          "Lin, Qunshu",
+          "Wang, Zihan",
+          "Liu, Minghao",
+          "Li, Michael Lingzhi",
+          "Du, Yilun",
+          "Thomason, Jesse",
+          "Feris, Rogerio",
+          "Pentland, Alex",
+          "He, Zexue"
+        ],
+        "year": "2026",
+        "url": "https://arxiv.org/abs/2606.01393",
+        "metadata_url": "https://arxiv.org/abs/2606.01393",
+        "metadata_sha256": "730764a09550912885cfde6367f61b82d9ff4e881c37ec5488ed33757746d593",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S029": {
+      "source_ref": "S029",
+      "source_id": "CHARTPRO_paper",
+      "url": "https://arxiv.org/html/2504.05506v2",
+      "sha256": "5f4c3e8d29c98b114089839f236c03ea813ea3b87cf93d16b9823805f52e3210",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/CHARTPRO_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Masry, A., Islam, M. S., Ahmed, M., Bajaj, A., Kabir, F., Kartha, A., Laskar, M. T. R., Rahman, M., Rahman, S., Shahmohammadi, M., Thakkar, M., Parvez, M. R., Hoque, E., & Joty, S. (2025). ChartQAPro: A more diverse and challenging benchmark for chart question answering. Findings of the Association for Computational Linguistics: ACL 2025. https://arxiv.org/abs/2504.05506v2",
+        "title": "ChartQAPro: A more diverse and challenging benchmark for chart question answering",
+        "authors": [
+          "Masry, Ahmed",
+          "Islam, Mohammed Saidul",
+          "Ahmed, Mahir",
+          "Bajaj, Aayush",
+          "Kabir, Firoz",
+          "Kartha, Aaryaman",
+          "Laskar, Md Tahmid Rahman",
+          "Rahman, Mizanur",
+          "Rahman, Shadikur",
+          "Shahmohammadi, Mehrad",
+          "Thakkar, Megh",
+          "Parvez, Md Rizwan",
+          "Hoque, Enamul",
+          "Joty, Shafiq"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2504.05506v2",
+        "metadata_url": "https://arxiv.org/abs/2504.05506v2",
+        "metadata_sha256": "4119fb324a4d210300608e9ccef8fb8f05a3b0ede116a4b4aee5a1348603f23f",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+      }
+    },
+    "S030": {
+      "source_ref": "S030",
+      "source_id": "HITAB_paper",
+      "url": "https://arxiv.org/html/2108.06712",
+      "sha256": "ffd1a1caa8d8ab1ea54d2d68f1d204041c2627c0e5b203176c42f399f5c6d7e8",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/HITAB_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Cheng, Z., Dong, H., Wang, Z., Jia, R., Guo, J., Gao, Y., Han, S., Lou, J.-G., & Zhang, D. (2021). HiTab: A hierarchical table dataset for question answering and natural language generation. arXiv. https://arxiv.org/abs/2108.06712",
+        "title": "HiTab: A hierarchical table dataset for question answering and natural language generation",
+        "authors": [
+          "Cheng, Zhoujun",
+          "Dong, Haoyu",
+          "Wang, Zhiruo",
+          "Jia, Ran",
+          "Guo, Jiaqi",
+          "Gao, Yan",
+          "Han, Shi",
+          "Lou, Jian-Guang",
+          "Zhang, Dongmei"
+        ],
+        "year": "2021",
+        "url": "https://arxiv.org/abs/2108.06712",
+        "metadata_url": "https://arxiv.org/abs/2108.06712",
+        "metadata_sha256": "d8ec4de238c9b814ca9b9ea2cdfc9a19c8b583c5bfd546ecece3bfb2793a4039",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S031": {
+      "source_ref": "S031",
+      "source_id": "FINQA_paper",
+      "url": "https://arxiv.org/html/2109.00122",
+      "sha256": "6274a5171d5ce64306c8125fb22524a924c76cc606e5fd3631571a1699d8cead",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/FINQA_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Chen, Z., Chen, W., Smiley, C., Shah, S., Borova, I., Langdon, D., Moussa, R., Beane, M., Huang, T.-H., Routledge, B., & Wang, W. Y. (2021). FinQA: A dataset of numerical reasoning over financial data. arXiv. https://arxiv.org/abs/2109.00122",
+        "title": "FinQA: A dataset of numerical reasoning over financial data",
+        "authors": [
+          "Chen, Zhiyu",
+          "Chen, Wenhu",
+          "Smiley, Charese",
+          "Shah, Sameena",
+          "Borova, Iana",
+          "Langdon, Dylan",
+          "Moussa, Reema",
+          "Beane, Matt",
+          "Huang, Ting-Hao",
+          "Routledge, Bryan",
+          "Wang, William Yang"
+        ],
+        "year": "2021",
+        "url": "https://arxiv.org/abs/2109.00122",
+        "metadata_url": "https://arxiv.org/abs/2109.00122",
+        "metadata_sha256": "5a7f338514146b4f603b66b88a5a98e4d54932398059f6f04511c819410c998b",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S033": {
+      "source_ref": "S033",
+      "source_id": "MMLONGDOC_paper",
+      "url": "https://arxiv.org/html/2407.01523",
+      "sha256": "ac306e817b3e1a6c4144ec09140115b859974e7cd0669341e156b68185489c76",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/MMLONGDOC_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Ma, Y., Zang, Y., Chen, L., Chen, M., Jiao, Y., Li, X., Lu, X., Liu, Z., Ma, Y., Dong, X., Zhang, P., Pan, L., Jiang, Y.-G., Wang, J., Cao, Y., & Sun, A. (2024). MMLongBench-Doc: Benchmarking Long-context document understanding with visualizations. arXiv. https://arxiv.org/abs/2407.01523",
+        "title": "MMLongBench-Doc: Benchmarking Long-context document understanding with visualizations",
+        "authors": [
+          "Ma, Yubo",
+          "Zang, Yuhang",
+          "Chen, Liangyu",
+          "Chen, Meiqi",
+          "Jiao, Yizhu",
+          "Li, Xinze",
+          "Lu, Xinyuan",
+          "Liu, Ziyu",
+          "Ma, Yan",
+          "Dong, Xiaoyi",
+          "Zhang, Pan",
+          "Pan, Liangming",
+          "Jiang, Yu-Gang",
+          "Wang, Jiaqi",
+          "Cao, Yixin",
+          "Sun, Aixin"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2407.01523",
+        "metadata_url": "https://arxiv.org/abs/2407.01523",
+        "metadata_sha256": "92582b6f8152f30b12f15a6bee11a08cc955e7ca36de54d38a266f894c8dbd39",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S034": {
+      "source_ref": "S034",
+      "source_id": "LONGB1_paper",
+      "url": "https://arxiv.org/html/2308.14508",
+      "sha256": "5ebe967c8819cea9d2e10b56a7e6b4b11a449257fa32e9e7443ad1bb2c00cf39",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/LONGB1_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Bai, Y., Lv, X., Zhang, J., Lyu, H., Tang, J., Huang, Z., Du, Z., Liu, X., Zeng, A., Hou, L., Dong, Y., Tang, J., & Li, J. (2023). LongBench: A bilingual, multitask benchmark for long context understanding. arXiv. https://arxiv.org/abs/2308.14508",
+        "title": "LongBench: A bilingual, multitask benchmark for long context understanding",
+        "authors": [
+          "Bai, Yushi",
+          "Lv, Xin",
+          "Zhang, Jiajie",
+          "Lyu, Hongchang",
+          "Tang, Jiankai",
+          "Huang, Zhidian",
+          "Du, Zhengxiao",
+          "Liu, Xiao",
+          "Zeng, Aohan",
+          "Hou, Lei",
+          "Dong, Yuxiao",
+          "Tang, Jie",
+          "Li, Juanzi"
+        ],
+        "year": "2023",
+        "url": "https://arxiv.org/abs/2308.14508",
+        "metadata_url": "https://arxiv.org/abs/2308.14508",
+        "metadata_sha256": "5a3f3d9c0d9faec0d71fe849d0e481574a356f70b23cafdf6317225a96613767",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S035": {
+      "source_ref": "S035",
+      "source_id": "HELMET_paper",
+      "url": "https://arxiv.org/html/2410.02694",
+      "sha256": "648c8946352505aa32fede41e2fa3b58a851917235f19d3792b67eb6528f9281",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/HELMET_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Yen, H., Gao, T., Hou, M., Ding, K., Fleischer, D., Izsak, P., Wasserblat, M., & Chen, D. (2025). HELMET: How to evaluate long-context language models effectively and thoroughly. International Conference on Learning Representations (ICLR). https://arxiv.org/abs/2410.02694",
+        "title": "HELMET: How to evaluate long-context language models effectively and thoroughly",
+        "authors": [
+          "Yen, Howard",
+          "Gao, Tianyu",
+          "Hou, Minmin",
+          "Ding, Ke",
+          "Fleischer, Daniel",
+          "Izsak, Peter",
+          "Wasserblat, Moshe",
+          "Chen, Danqi"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2410.02694",
+        "metadata_url": "https://arxiv.org/abs/2410.02694",
+        "metadata_sha256": "ec398a9bae6cfb022e6b34962d4be724ef1d37e6a55156eb94b790593987ded6",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+      }
+    },
+    "S036": {
+      "source_ref": "S036",
+      "source_id": "INFINITE_paper",
+      "url": "https://arxiv.org/html/2402.13718",
+      "sha256": "7419e3e156d2fc0b3397f78d8fc4c79be9c5cbba4508b0b4f4e190c06c118c29",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/INFINITE_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Zhang, X., Chen, Y., Hu, S., Xu, Z., Chen, J., Hao, M. K., Han, X., Thai, Z. L., Wang, S., Liu, Z., & Sun, M. (2024). ∞bench: Extending long context evaluation beyond 100k tokens. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). https://arxiv.org/abs/2402.13718",
+        "title": "∞bench: Extending long context evaluation beyond 100k tokens",
+        "authors": [
+          "Zhang, Xinrong",
+          "Chen, Yingfa",
+          "Hu, Shengding",
+          "Xu, Zihang",
+          "Chen, Junhao",
+          "Hao, Moo Khai",
+          "Han, Xu",
+          "Thai, Zhen Leng",
+          "Wang, Shuo",
+          "Liu, Zhiyuan",
+          "Sun, Maosong"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2402.13718",
+        "metadata_url": "https://arxiv.org/abs/2402.13718",
+        "metadata_sha256": "f8e4fb2ab9ad42d4135ad1ec6d6e54e84902a9028f4a0f4af4a7ce14a50e32eb",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+      }
+    },
+    "S039": {
+      "source_ref": "S039",
+      "source_id": "GSMSYM_paper",
+      "url": "https://arxiv.org/html/2410.05229",
+      "sha256": "5a541f253e46bd0ee486c4ac42978b048701e7ec3279d6c963ac808a956d0b14",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/GSMSYM_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Mirzadeh, I., Alizadeh, K., Shahrokhi, H., Tuzel, O., Bengio, S., & Farajtabar, M. (2024). GSM-Symbolic: Understanding the limitations of mathematical reasoning in large language models. arXiv. https://arxiv.org/abs/2410.05229",
+        "title": "GSM-Symbolic: Understanding the limitations of mathematical reasoning in large language models",
+        "authors": [
+          "Mirzadeh, Iman",
+          "Alizadeh, Keivan",
+          "Shahrokhi, Hooman",
+          "Tuzel, Oncel",
+          "Bengio, Samy",
+          "Farajtabar, Mehrdad"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2410.05229",
+        "metadata_url": "https://arxiv.org/abs/2410.05229",
+        "metadata_sha256": "36c38851da6b9418590772ede85907bf0a0f54dd0435c1ac7530129f32d49f52",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S043": {
+      "source_ref": "S043",
+      "source_id": "SCIASS_paper",
+      "url": "https://arxiv.org/html/2403.01976",
+      "sha256": "0bee10430ab273fefe39c5820de3ab5b0df78ef7f2fb63a7b67fb1e3c5226e7a",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/SCIASS_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Cai, H., Cai, X., Chang, J., Li, S., Yao, L., Wang, C., Gao, Z., Wang, H., Li, Y., Lin, M., Yang, S., Wang, J., Xu, M., Huang, J., Fang, X., Zhuang, J., Yin, Y., Li, Y., Chen, C., … Ke, G. (2024). SciAssess: Benchmarking LLM proficiency in scientific literature analysis. arXiv. https://arxiv.org/abs/2403.01976",
+        "title": "SciAssess: Benchmarking LLM proficiency in scientific literature analysis",
+        "authors": [
+          "Cai, Hengxing",
+          "Cai, Xiaochen",
+          "Chang, Junhan",
+          "Li, Sihang",
+          "Yao, Lin",
+          "Wang, Changxin",
+          "Gao, Zhifeng",
+          "Wang, Hongshuai",
+          "Li, Yongge",
+          "Lin, Mujie",
+          "Yang, Shuwen",
+          "Wang, Jiankun",
+          "Xu, Mingjun",
+          "Huang, Jin",
+          "Fang, Xi",
+          "Zhuang, Jiaxi",
+          "Yin, Yuqi",
+          "Li, Yaqi",
+          "Chen, Changhong",
+          "Cheng, Zheng",
+          "Zhao, Zifeng",
+          "Zhang, Linfeng",
+          "Ke, Guolin"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2403.01976",
+        "metadata_url": "https://arxiv.org/abs/2403.01976",
+        "metadata_sha256": "e5df6dd4df5c2c4d1d513ad1db3d7d3628140dc58b4d32ec99ba486dcb2e43dd",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S046": {
+      "source_ref": "S046",
+      "source_id": "CORE_paper",
+      "url": "https://arxiv.org/html/2409.11363",
+      "sha256": "bdc07c8c53b49056e38c8bd5ee07f00e03ed51111ceca5b0fdbf534829e4a6e3",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/CORE_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Siegel, Z. S., Kapoor, S., Nadgir, N., Stroebl, B., & Narayanan, A. (2024). CORE-Bench: Fostering the credibility of published research through a computational reproducibility agent benchmark. arXiv. https://arxiv.org/abs/2409.11363",
+        "title": "CORE-Bench: Fostering the credibility of published research through a computational reproducibility agent benchmark",
+        "authors": [
+          "Siegel, Zachary S.",
+          "Kapoor, Sayash",
+          "Nadgir, Nitya",
+          "Stroebl, Benedikt",
+          "Narayanan, Arvind"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2409.11363",
+        "metadata_url": "https://arxiv.org/abs/2409.11363",
+        "metadata_sha256": "7db0975b258ffed49f0e43abecafe12d184672165f984a81e6c1deea74877600",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S047": {
+      "source_ref": "S047",
+      "source_id": "GAIA_paper",
+      "url": "https://arxiv.org/html/2311.12983",
+      "sha256": "940c081ce62c68f9d5d4a5d6d1056677a08e9732887a3dbb5ea839131fab0717",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/GAIA_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Mialon, G., Fourrier, C., Swift, C., Wolf, T., LeCun, Y., & Scialom, T. (2023). GAIA: a benchmark for general AI assistants. arXiv. https://arxiv.org/abs/2311.12983",
+        "title": "GAIA: a benchmark for general AI assistants",
+        "authors": [
+          "Mialon, GrÃ©goire",
+          "Fourrier, ClÃ©mentine",
+          "Swift, Craig",
+          "Wolf, Thomas",
+          "LeCun, Yann",
+          "Scialom, Thomas"
+        ],
+        "year": "2023",
+        "url": "https://arxiv.org/abs/2311.12983",
+        "metadata_url": "https://arxiv.org/abs/2311.12983",
+        "metadata_sha256": "fcebc315ea72ccad1c615e354c5218f6d34ef6ad1d5bfa0fafc15b04fa435e9e",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S048": {
+      "source_ref": "S048",
+      "source_id": "MULTIHI_HTML_paper",
+      "url": "https://arxiv.org/html/2206.01347",
+      "sha256": "4e8cb7ab66e765b055875fdf10d253d3724d56749bfc996de60b1f697a3a365a",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/MULTIHI_HTML_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Zhao, Y., Li, Y., Li, C., & Zhang, R. (2022). MultiHiertt: Numerical reasoning over multi hierarchical tabular and textual data. arXiv. https://arxiv.org/abs/2206.01347",
+        "title": "MultiHiertt: Numerical reasoning over multi hierarchical tabular and textual data",
+        "authors": [
+          "Zhao, Yilun",
+          "Li, Yunxiang",
+          "Li, Chenying",
+          "Zhang, Rui"
+        ],
+        "year": "2022",
+        "url": "https://arxiv.org/abs/2206.01347",
+        "metadata_url": "https://arxiv.org/abs/2206.01347",
+        "metadata_sha256": "8e040b034a3163c228134a1311986ec70527f107bf71212fd23c83d6256a455f",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S051": {
+      "source_ref": "S051",
+      "source_id": "COMPLEX_paper",
+      "url": "https://arxiv.org/html/2407.03978",
+      "sha256": "f60fe3fcae503dedde8e87ba43884942a185a5e82ed3967c6dbcd970b9107b11",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/COMPLEX_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Wen, B., Ke, P., Gu, X., Wu, L., Huang, H., Zhou, J., Li, W., Hu, B., Gao, W., Xu, J., Liu, Y., Tang, J., Wang, H., & Huang, M. (2024). Benchmarking complex instruction-following with multiple constraints composition. arXiv. https://arxiv.org/abs/2407.03978",
+        "title": "Benchmarking complex instruction-following with multiple constraints composition",
+        "authors": [
+          "Wen, Bosi",
+          "Ke, Pei",
+          "Gu, Xiaotao",
+          "Wu, Lindong",
+          "Huang, Hao",
+          "Zhou, Jinfeng",
+          "Li, Wenchuang",
+          "Hu, Binxin",
+          "Gao, Wendy",
+          "Xu, Jiaxin",
+          "Liu, Yiming",
+          "Tang, Jie",
+          "Wang, Hongning",
+          "Huang, Minlie"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2407.03978",
+        "metadata_url": "https://arxiv.org/abs/2407.03978",
+        "metadata_sha256": "01f297da5508895f6dbaceea3bf5610e69a9ebdbb2137d4e793006d778d22591",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S054": {
+      "source_ref": "S054",
+      "source_id": "ALCE_paper",
+      "url": "https://arxiv.org/html/2305.14627",
+      "sha256": "a1856b81504f0c5878260da6794a347decb1ae7745dba031051772f73a0f7f06",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/ALCE_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Gao, T., Yen, H., Yu, J., & Chen, D. (2023). Enabling large language models to generate text with citations. Empirical Methods in Natural Language Processing (EMNLP). https://arxiv.org/abs/2305.14627",
+        "title": "Enabling large language models to generate text with citations",
+        "authors": [
+          "Gao, Tianyu",
+          "Yen, Howard",
+          "Yu, Jiatong",
+          "Chen, Danqi"
+        ],
+        "year": "2023",
+        "url": "https://arxiv.org/abs/2305.14627",
+        "metadata_url": "https://arxiv.org/abs/2305.14627",
+        "metadata_sha256": "06ce495cf7b9817887a44db85a8ed5d254ed47ea556a60b668fee5c8c09fa72e",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+      }
+    },
+    "S058": {
+      "source_ref": "S058",
+      "source_id": "DTBENCH_paper",
+      "url": "https://arxiv.org/html/2602.13812",
+      "sha256": "82308c7c996a250cb99bacd76dd814b038ec96cfd485f70515b38e90db14cc1d",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/DTBENCH_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Guo, Y., Du, Z., Tang, N., Tang, K., Ge, C., & Gao, Y. (2026). DTBench: A synthetic benchmark for Document-to-Table extraction. arXiv. https://arxiv.org/abs/2602.13812",
+        "title": "DTBench: A synthetic benchmark for Document-to-Table extraction",
+        "authors": [
+          "Guo, Yuxiang",
+          "Du, Zhuoran",
+          "Tang, Nan",
+          "Tang, Kezheng",
+          "Ge, Congcong",
+          "Gao, Yunjun"
+        ],
+        "year": "2026",
+        "url": "https://arxiv.org/abs/2602.13812",
+        "metadata_url": "https://arxiv.org/abs/2602.13812",
+        "metadata_sha256": "7382fe3ff6ce4a8309cdae1398f929e2ee8729b4501963310657e46099b53f41",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S059": {
+      "source_ref": "S059",
+      "source_id": "UNIKIE_paper",
+      "url": "https://arxiv.org/html/2602.07038",
+      "sha256": "adf4cd825a19910fdca97892056ca4583bb55d6d310b4ae8ed045081ccd26bfa",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/UNIKIE_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Ji, Y., Xu, Z., Liu, Z., Chen, Z., Zhang, Q., Yang, Z., Lin, J., Gu, Y., Yu, G., & Sun, M. (2026). UNIKIE-BENCH: Benchmarking large multimodal models for key information extraction in visual documents. arXiv. https://arxiv.org/abs/2602.07038",
+        "title": "UNIKIE-BENCH: Benchmarking large multimodal models for key information extraction in visual documents",
+        "authors": [
+          "Ji, Yifan",
+          "Xu, Zhipeng",
+          "Liu, Zhenghao",
+          "Chen, Zulong",
+          "Zhang, Qian",
+          "Yang, Zhibo",
+          "Lin, Junyang",
+          "Gu, Yu",
+          "Yu, Ge",
+          "Sun, Maosong"
+        ],
+        "year": "2026",
+        "url": "https://arxiv.org/abs/2602.07038",
+        "metadata_url": "https://arxiv.org/abs/2602.07038",
+        "metadata_sha256": "af6666596b7df926a381fea7b571dcc309f301a5269ce79ca907734213d24305",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S060": {
+      "source_ref": "S060",
+      "source_id": "PROCESS_paper",
+      "url": "https://arxiv.org/html/2412.06559",
+      "sha256": "80145cd73e629d74aac26d0a1a4ef19ede4b9a846b644aa55292ed62c683f8eb",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/PROCESS_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Zheng, C., Zhang, Z., Zhang, B., Lin, R., Lu, K., Yu, B., Liu, D., Zhou, J., & Lin, J. (2025). ProcessBench: Identifying process errors in mathematical reasoning. The 63rd Annual Meeting of the Association for Computational Linguistics. https://arxiv.org/abs/2412.06559",
+        "title": "ProcessBench: Identifying process errors in mathematical reasoning",
+        "authors": [
+          "Zheng, Chujie",
+          "Zhang, Zhenru",
+          "Zhang, Beichen",
+          "Lin, Runji",
+          "Lu, Keming",
+          "Yu, Bowen",
+          "Liu, Dayiheng",
+          "Zhou, Jingren",
+          "Lin, Junyang"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2412.06559",
+        "metadata_url": "https://arxiv.org/abs/2412.06559",
+        "metadata_sha256": "0c91e28b435c317b16743f961d3d011270421df92743c37923fbade5d2133c4e",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata; published venue from official repository citation"
+      }
+    },
+    "S061": {
+      "source_ref": "S061",
+      "source_id": "LOOGLE_paper",
+      "url": "https://arxiv.org/html/2311.04939",
+      "sha256": "e6e209e341837f4046341745081633b0502a8b2fe353edca654df1c01b0d46fe",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/LOOGLE_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Li, J., Wang, M., Zheng, Z., & Zhang, M. (2023). LooGLE: Can long-context language models understand long contexts?. arXiv. https://arxiv.org/abs/2311.04939",
+        "title": "LooGLE: Can long-context language models understand long contexts?",
+        "authors": [
+          "Li, Jiaqi",
+          "Wang, Mengmeng",
+          "Zheng, Zilong",
+          "Zhang, Muhan"
+        ],
+        "year": "2023",
+        "url": "https://arxiv.org/abs/2311.04939",
+        "metadata_url": "https://arxiv.org/abs/2311.04939",
+        "metadata_sha256": "f173e6f6a300a357e79e25aea67af84a5bd679122f5f43c08534274d673b9f82",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S062": {
+      "source_ref": "S062",
+      "source_id": "LOOGLE2_paper",
+      "url": "https://arxiv.org/html/2510.22548",
+      "sha256": "85eed4665554282ed9e9c60ae9932be594c4b2c2db7aa5e8ab30955f9adad967",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/LOOGLE2_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "He, Z., Wang, Y., Li, J., Liang, K., & Zhang, M. (2025). LooGLE v2: Are LLMs ready for real world long dependency challenges?. arXiv. https://arxiv.org/abs/2510.22548",
+        "title": "LooGLE v2: Are LLMs ready for real world long dependency challenges?",
+        "authors": [
+          "He, Ziyuan",
+          "Wang, Yuxuan",
+          "Li, Jiaqi",
+          "Liang, Kexin",
+          "Zhang, Muhan"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2510.22548",
+        "metadata_url": "https://arxiv.org/abs/2510.22548",
+        "metadata_sha256": "a536597f6abe404bd60e03611fc2a4b2f09374023e8437df1046adf8abda8dc6",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S063": {
+      "source_ref": "S063",
+      "source_id": "MMNIAH_paper",
+      "url": "https://arxiv.org/html/2406.07230",
+      "sha256": "bb699bfb1f4f87f10bcb102232e58ec03fdfcd6098eb86f4397c2802b3cdc1c8",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/MMNIAH_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Wang, W., Zhang, S., Ren, Y., Duan, Y., Li, T., Liu, S., Hu, M., Chen, Z., Zhang, K., Lu, L., Zhu, X., Luo, P., Qiao, Y., Dai, J., Shao, W., & Wang, W. (2024). Needle in a multimodal haystack. arXiv. https://arxiv.org/abs/2406.07230",
+        "title": "Needle in a multimodal haystack",
+        "authors": [
+          "Wang, Weiyun",
+          "Zhang, Shuibo",
+          "Ren, Yiming",
+          "Duan, Yuchen",
+          "Li, Tiantong",
+          "Liu, Shuo",
+          "Hu, Mengkang",
+          "Chen, Zhe",
+          "Zhang, Kaipeng",
+          "Lu, Lewei",
+          "Zhu, Xizhou",
+          "Luo, Ping",
+          "Qiao, Yu",
+          "Dai, Jifeng",
+          "Shao, Wenqi",
+          "Wang, Wenhai"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2406.07230",
+        "metadata_url": "https://arxiv.org/abs/2406.07230",
+        "metadata_sha256": "bfa0d4a70615fa2edaa5c7a9c46ecfb6590be7ca13f807e2a1bae20de1214a9f",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S064": {
+      "source_ref": "S064",
+      "source_id": "SUC_paper",
+      "url": "https://arxiv.org/html/2305.13062",
+      "sha256": "c60811283614af608685701d8205652c26d0a0d798aa3d2eed197c858f1653d1",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/SUC_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Sui, Y., Zhou, M., Zhou, M., Han, S., & Zhang, D. (2023). Table meets LLM: Can large language models understand structured table data? A benchmark and empirical study. arXiv. https://arxiv.org/abs/2305.13062",
+        "title": "Table meets LLM: Can large language models understand structured table data? A benchmark and empirical study",
+        "authors": [
+          "Sui, Yuan",
+          "Zhou, Mengyu",
+          "Zhou, Mingjie",
+          "Han, Shi",
+          "Zhang, Dongmei"
+        ],
+        "year": "2023",
+        "url": "https://arxiv.org/abs/2305.13062",
+        "metadata_url": "https://arxiv.org/abs/2305.13062",
+        "metadata_sha256": "04a85a93e9de51b73d5a9d82cd6572c14028984e251276afba06a825ab4f3c06",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S065": {
+      "source_ref": "S065",
+      "source_id": "HOTPOT_paper",
+      "url": "https://arxiv.org/html/1809.09600",
+      "sha256": "c1ce8d79d9088a992d0f7f21b1a65f606703d5e17ea0d0ff8405dfcd0207f5d8",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/HOTPOT_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Yang, Z., Qi, P., Zhang, S., Bengio, Y., Cohen, W. W., Salakhutdinov, R., & Manning, C. D. (2018). HotpotQA: A dataset for diverse, explainable Multi-hop question answering. arXiv. https://arxiv.org/abs/1809.09600",
+        "title": "HotpotQA: A dataset for diverse, explainable Multi-hop question answering",
+        "authors": [
+          "Yang, Zhilin",
+          "Qi, Peng",
+          "Zhang, Saizheng",
+          "Bengio, Yoshua",
+          "Cohen, William W.",
+          "Salakhutdinov, Ruslan",
+          "Manning, Christopher D."
+        ],
+        "year": "2018",
+        "url": "https://arxiv.org/abs/1809.09600",
+        "metadata_url": "https://arxiv.org/abs/1809.09600",
+        "metadata_sha256": "1d2aba7b7aa74242566af15165d3861311bc478db918ebf7a28ebc94d8b20ffd",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S066": {
+      "source_ref": "S066",
+      "source_id": "NUPA_paper",
+      "url": "https://arxiv.org/html/2411.03766",
+      "sha256": "02fff47593a26a13c4ce79a28329838f0e46028433029b0c60282b65793da27a",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/NUPA_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Yang, H., Hu, Y., Kang, S., Lin, Z., & Zhang, M. (2024). Number cookbook: Number understanding of language models and how to improve it. arXiv. https://arxiv.org/abs/2411.03766",
+        "title": "Number cookbook: Number understanding of language models and how to improve it",
+        "authors": [
+          "Yang, Haotong",
+          "Hu, Yi",
+          "Kang, Shijia",
+          "Lin, Zhouchen",
+          "Zhang, Muhan"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2411.03766",
+        "metadata_url": "https://arxiv.org/abs/2411.03766",
+        "metadata_sha256": "97b0444f60cd9c683c96f3bee3389afb2fe3ad63229872d9757c06ff0c592d3a",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S071": {
+      "source_ref": "S071",
+      "source_id": "TATQA_paper",
+      "url": "https://aclanthology.org/2021.acl-long.254.pdf",
+      "sha256": "173a6509a599c4e9b200acec9f4d970ef60049f9ed86a88ac17558d621ddf025",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/TATQA_paper.pdf",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Zhu, F., Lei, W., Huang, Y., Wang, C., Zhang, S., Lv, J., Feng, F., & Chua, T.-S. (2021). TAT-QA: A question answering benchmark on a hybrid of tabular and textual content in finance. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 3277–3287). https://doi.org/10.18653/v1/2021.acl-long.254",
+        "title": "TAT-QA: A question answering benchmark on a hybrid of tabular and textual content in finance",
+        "authors": [
+          "Fengbin Zhu",
+          "Wenqiang Lei",
+          "Youcheng Huang",
+          "Chao Wang",
+          "Shuo Zhang",
+          "Jiancheng Lv",
+          "Fuli Feng",
+          "Tat-Seng Chua"
+        ],
+        "year": "2021",
+        "url": "https://doi.org/10.18653/v1/2021.acl-long.254",
+        "metadata_url": "https://aclanthology.org/2021.acl-long.254/",
+        "metadata_sha256": "ef08842182c804e59fb641fa95ac7a92a933976e04e4d41533729794804f52e6",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S072": {
+      "source_ref": "S072",
+      "source_id": "QASPER_paper",
+      "url": "https://aclanthology.org/2021.naacl-main.365.pdf",
+      "sha256": "b15b4378988ed4e553dd312eaf334411abcf1fb28c53b846d360435eb55cd193",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/QASPER_paper.pdf",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Dasigi, P., Lo, K., Beltagy, I., Cohan, A., Smith, N. A., & Gardner, M. (2021). A dataset of information-seeking questions and answers anchored in research papers. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 4599–4610). https://doi.org/10.18653/v1/2021.naacl-main.365",
+        "title": "A dataset of information-seeking questions and answers anchored in research papers",
+        "authors": [
+          "Pradeep Dasigi",
+          "Kyle Lo",
+          "Iz Beltagy",
+          "Arman Cohan",
+          "Noah A. Smith",
+          "Matt Gardner"
+        ],
+        "year": "2021",
+        "url": "https://doi.org/10.18653/v1/2021.naacl-main.365",
+        "metadata_url": "https://aclanthology.org/2021.naacl-main.365/",
+        "metadata_sha256": "6165efff7a291fb18e97d04a6e54ee17f28ef8911071a616df2198d7d84f80af",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S074": {
+      "source_ref": "S074",
+      "source_id": "MUSIQUE_paper",
+      "url": "https://arxiv.org/html/2108.00573",
+      "sha256": "c0d82a1b27f7f90c8659258b8a786bd1f5e5b9589e0033c772e3ee21954f44cf",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/MUSIQUE_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Trivedi, H., Balasubramanian, N., Khot, T., & Sabharwal, A. (2021). MuSiQue: Multihop questions via Single-hop question composition. arXiv. https://arxiv.org/abs/2108.00573",
+        "title": "MuSiQue: Multihop questions via Single-hop question composition",
+        "authors": [
+          "Trivedi, Harsh",
+          "Balasubramanian, Niranjan",
+          "Khot, Tushar",
+          "Sabharwal, Ashish"
+        ],
+        "year": "2021",
+        "url": "https://arxiv.org/abs/2108.00573",
+        "metadata_url": "https://arxiv.org/abs/2108.00573",
+        "metadata_sha256": "d8ca40a3303d9287245cad135d31a338a646f67e97764dd3ce4c59c321a578c7",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S078": {
+      "source_ref": "S078",
+      "source_id": "SYMBOL_HTML_paper",
+      "url": "https://arxiv.org/html/2208.05051",
+      "sha256": "6111506b35564a4a2b482600cfdaa481b95c4066c1be8f616a7963f8cc3bfad6",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/SYMBOL_HTML_paper.source",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Qian, J., Wang, H., Li, Z., Li, S., & Yan, X. (2022). Limitations of language models in arithmetic and symbolic induction. arXiv. https://arxiv.org/abs/2208.05051",
+        "title": "Limitations of language models in arithmetic and symbolic induction",
+        "authors": [
+          "Qian, Jing",
+          "Wang, Hong",
+          "Li, Zekun",
+          "Li, Shiyang",
+          "Yan, Xifeng"
+        ],
+        "year": "2022",
+        "url": "https://arxiv.org/abs/2208.05051",
+        "metadata_url": "https://arxiv.org/abs/2208.05051",
+        "metadata_sha256": "ed8065782f3ff9ff852040ace6104bfc93f731ca793cae2df8fcdd46da06d5a6",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "S079": {
+      "source_ref": "S079",
+      "source_id": "TRIAL_extraction",
+      "url": "https://arxiv.org/html/2406.17755v2/extraction_results.png",
+      "sha256": "00f1c0e46cbb5422e1cf0bad1d5fbc90e76d607fbe530b4cd43a0ae498109565",
+      "accessed": "2026-10-30",
+      "local_capture": "reproducibility/sources/TRIAL_extraction.png",
+      "hash_target": "Frozen primary-source response body",
+      "citation": {
+        "apa": "Wang, Z., Cao, L., Danek, B., Jin, Q., Lu, Z., & Sun, J. (2024). Accelerating clinical evidence synthesis with large language models. arXiv. https://arxiv.org/abs/2406.17755",
+        "title": "Accelerating clinical evidence synthesis with large language models",
+        "authors": [
+          "Wang, Zifeng",
+          "Cao, Lang",
+          "Danek, Benjamin",
+          "Jin, Qiao",
+          "Lu, Zhiyong",
+          "Sun, Jimeng"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2406.17755",
+        "metadata_url": "https://arxiv.org/abs/2406.17755",
+        "metadata_sha256": "2578815766da3eb5f809362a778ec611e800cfa559feaaf1ac07f20a042b40be",
+        "kind": "Paper",
+        "verified_basis": "Primary bibliographic metadata"
+      }
+    },
+    "MC007": {
+      "source_ref": "MC007",
+      "source_id": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+      "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+      "sha256": "af233f6e013228859d81a2088521781d4e6a06c5960ab3b7ceee6466f550b5f6",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen/Qwen3-235B-A22B-Instruct-2507 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+        "title": "Qwen/Qwen3-235B-A22B-Instruct-2507 [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC008": {
+      "source_ref": "MC008",
+      "source_id": "Qwen/Qwen3-235B-A22B-Thinking-2507",
+      "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+      "sha256": "9aa7860622381d0ca3ead2f16cc9ce52472b8effa3e9614ede6acdef008282d3",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen/Qwen3-235B-A22B-Thinking-2507 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "title": "Qwen/Qwen3-235B-A22B-Thinking-2507 [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC009": {
+      "source_ref": "MC009",
+      "source_id": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+      "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+      "sha256": "24d123759d1079f0132ba8fba1465eb8abe5883a0ca44ac70aaa58ddd8a52c84",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen/Qwen3-30B-A3B-Thinking-2507 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "title": "Qwen/Qwen3-30B-A3B-Thinking-2507 [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC010": {
+      "source_ref": "MC010",
+      "source_id": "Qwen/Qwen3-4B-Instruct-2507",
+      "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+      "sha256": "8e3dd0c3b5b11897cc71092ccfe517bb7a9783479baa3665aad73c8d1a2041cd",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen/Qwen3-4B-Instruct-2507 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+        "title": "Qwen/Qwen3-4B-Instruct-2507 [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC014": {
+      "source_ref": "MC014",
+      "source_id": "Qwen/Qwen3.5-9B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+      "sha256": "c5f5a8c2dddab69cfbf05279235aa5fddb137939a06539c4c7637aa900fef6d0",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen/Qwen3.5-9B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.5-9B",
+        "title": "Qwen/Qwen3.5-9B [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC015": {
+      "source_ref": "MC015",
+      "source_id": "deepseek-ai/DeepSeek-R1-0528",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+      "sha256": "d5de0a81ec6fba4ccc3e16f8f971f7a1b4ba4081e5b7159be8ef262593e4a82a",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "DeepSeek-AI. (n.d.). deepseek-ai/DeepSeek-R1-0528 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+        "title": "deepseek-ai/DeepSeek-R1-0528 [Model card / technical evaluation]",
+        "authors": [
+          "DeepSeek-AI"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC016": {
+      "source_ref": "MC016",
+      "source_id": "deepseek-ai/DeepSeek-V3",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
+      "sha256": "3739763a851074c810f1565f9823956f3a095231f8c591dd3c254581bdd3cf08",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "DeepSeek-AI. (n.d.). deepseek-ai/DeepSeek-V3 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/deepseek-ai/DeepSeek-V3",
+        "title": "deepseek-ai/DeepSeek-V3 [Model card / technical evaluation]",
+        "authors": [
+          "DeepSeek-AI"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC023": {
+      "source_ref": "MC023",
+      "source_id": "microsoft/phi-4",
+      "url": "https://huggingface.co/microsoft/phi-4",
+      "sha256": "4cc56faa6a5bcbde6227789b2ef9aedfde481ca660c8a4b686703aae19b00011",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Microsoft. (n.d.). microsoft/phi-4 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/microsoft/phi-4",
+        "title": "microsoft/phi-4 [Model card / technical evaluation]",
+        "authors": [
+          "Microsoft"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/microsoft/phi-4",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC029": {
+      "source_ref": "MC029",
+      "source_id": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+      "url": "https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+      "sha256": "48d492d5ded3dfb80ab53033391c7ada71f42037e442758d9eb29fdb08929edb",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Mistral AI. (n.d.). mistralai/Mistral-Small-3.2-24B-Instruct-2506 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "title": "mistralai/Mistral-Small-3.2-24B-Instruct-2506 [Model card / technical evaluation]",
+        "authors": [
+          "Mistral AI"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC031": {
+      "source_ref": "MC031",
+      "source_id": "MiniMaxAI/MiniMax-Text-01",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
+      "sha256": "8124401a79c4bd54ddaf0fe12ab3bbc05838f645f86d3eccca38a2602c7307e1",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "MiniMax. (n.d.). MiniMaxAI/MiniMax-Text-01 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
+        "title": "MiniMaxAI/MiniMax-Text-01 [Model card / technical evaluation]",
+        "authors": [
+          "MiniMax"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC033": {
+      "source_ref": "MC033",
+      "source_id": "moonshotai/Kimi-K2.5",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+      "sha256": "1b04bed9c6c25894171c0ab5e0b4c4d57667698a654dbfd5a6c1649b922810a5",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Moonshot AI. (n.d.). moonshotai/Kimi-K2.5 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/moonshotai/Kimi-K2.5",
+        "title": "moonshotai/Kimi-K2.5 [Model card / technical evaluation]",
+        "authors": [
+          "Moonshot AI"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC041": {
+      "source_ref": "MC041",
+      "source_id": "nanonets/Nanonets-OCR2-3B",
+      "url": "https://huggingface.co/nanonets/Nanonets-OCR2-3B",
+      "sha256": "b014575f22c2509b8ca793a12124d747f32d4199d95a3044acb37ea91e9dafe1",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Nanonets. (n.d.). nanonets/Nanonets-OCR2-3B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/nanonets/Nanonets-OCR2-3B",
+        "title": "nanonets/Nanonets-OCR2-3B [Model card / technical evaluation]",
+        "authors": [
+          "Nanonets"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/nanonets/Nanonets-OCR2-3B",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC045": {
+      "source_ref": "MC045",
+      "source_id": "tablegpt/TableGPT2-7B",
+      "url": "https://huggingface.co/tablegpt/TableGPT2-7B",
+      "sha256": "c87a6b462a81a1afb704b1a55c2c047333ab5e96a06561c8b5f8f6df983db710",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "TableGPT Team. (n.d.). tablegpt/TableGPT2-7B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/tablegpt/TableGPT2-7B",
+        "title": "tablegpt/TableGPT2-7B [Model card / technical evaluation]",
+        "authors": [
+          "TableGPT Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/tablegpt/TableGPT2-7B",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC042": {
+      "source_ref": "MC042",
+      "source_id": "rednote-hilab/dots.ocr",
+      "url": "https://huggingface.co/rednote-hilab/dots.ocr",
+      "sha256": "e59f00e56945936a65c74cf53333a9051715ba45e91da0b7d86cd05f5964c2eb",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "rednote-hilab. (n.d.). rednote-hilab/dots.ocr [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/rednote-hilab/dots.ocr",
+        "title": "rednote-hilab/dots.ocr [Model card / technical evaluation]",
+        "authors": [
+          "rednote-hilab"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/rednote-hilab/dots.ocr",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC047": {
+      "source_ref": "MC047",
+      "source_id": "ibm-granite/granite-3.2-8b-instruct",
+      "url": "https://huggingface.co/ibm-granite/granite-3.2-8b-instruct",
+      "sha256": "09c8cb37a86a7754d1522e55284f865bc6a04b8512e48996229453af4b6bb02f",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "IBM Granite Team. (n.d.). ibm-granite/granite-3.2-8b-instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/ibm-granite/granite-3.2-8b-instruct",
+        "title": "ibm-granite/granite-3.2-8b-instruct [Model card / technical evaluation]",
+        "authors": [
+          "IBM Granite Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/ibm-granite/granite-3.2-8b-instruct",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC048": {
+      "source_ref": "MC048",
+      "source_id": "tiiuae/Falcon3-10B-Instruct",
+      "url": "https://huggingface.co/tiiuae/Falcon3-10B-Instruct",
+      "sha256": "7caa770e6eed30c8775f50e6559674b12d11d39e71e3a209e96cab7e9e0a34ba",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Technology Innovation Institute. (n.d.). tiiuae/Falcon3-10B-Instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/tiiuae/Falcon3-10B-Instruct",
+        "title": "tiiuae/Falcon3-10B-Instruct [Model card / technical evaluation]",
+        "authors": [
+          "Technology Innovation Institute"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/tiiuae/Falcon3-10B-Instruct",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC049": {
+      "source_ref": "MC049",
+      "source_id": "LGAI-EXAONE/EXAONE-4.0-32B",
+      "url": "https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B",
+      "sha256": "9b2857f73767096422f2ed6e52699c996089bf308ceff98b93c0b3e0484ed074",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "LG AI Research. (n.d.). LGAI-EXAONE/EXAONE-4.0-32B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B",
+        "title": "LGAI-EXAONE/EXAONE-4.0-32B [Model card / technical evaluation]",
+        "authors": [
+          "LG AI Research"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC050": {
+      "source_ref": "MC050",
+      "source_id": "nvidia/Llama-3_1-Nemotron-Ultra-253B-v1",
+      "url": "https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1",
+      "sha256": "1c2352cbec47b1d162b83ebc3932e3d65f8b98047102583339ae0957f9ab4641",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "NVIDIA. (n.d.). nvidia/Llama-3_1-Nemotron-Ultra-253B-v1 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1",
+        "title": "nvidia/Llama-3_1-Nemotron-Ultra-253B-v1 [Model card / technical evaluation]",
+        "authors": [
+          "NVIDIA"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC051": {
+      "source_ref": "MC051",
+      "source_id": "Meta Llama 3.3 official model card",
+      "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_3/MODEL_CARD.md",
+      "sha256": "1bad06e0e2feadf6a195fcce4d6a2f7bca48f05b7a25a71f18c2baa88d292adf",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Meta. (n.d.). Meta Llama 3.3 official model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_3/MODEL_CARD.md",
+        "title": "Meta Llama 3.3 official model card [Model card / technical evaluation]",
+        "authors": [
+          "Meta"
+        ],
+        "year": "n.d.",
+        "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_3/MODEL_CARD.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC052": {
+      "source_ref": "MC052",
+      "source_id": "Meta Llama 3.1 official model card",
+      "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_1/MODEL_CARD.md",
+      "sha256": "a37da4be5eb00d97ee0017cadf54c55e8aca84c715fa7d0981d3f2bc13b763ef",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Meta. (n.d.). Meta Llama 3.1 official model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_1/MODEL_CARD.md",
+        "title": "Meta Llama 3.1 official model card [Model card / technical evaluation]",
+        "authors": [
+          "Meta"
+        ],
+        "year": "n.d.",
+        "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_1/MODEL_CARD.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC054": {
+      "source_ref": "MC054",
+      "source_id": "Meta Llama 4 official model card",
+      "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama4/MODEL_CARD.md",
+      "sha256": "a1739083c8a496ca0c121d90b98659a6aa7e36fcc0092581db35ef99736d104f",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Meta. (n.d.). Meta Llama 4 official model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama4/MODEL_CARD.md",
+        "title": "Meta Llama 4 official model card [Model card / technical evaluation]",
+        "authors": [
+          "Meta"
+        ],
+        "year": "n.d.",
+        "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama4/MODEL_CARD.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC055": {
+      "source_ref": "MC055",
+      "source_id": "Google Gemma 3 official documentation source",
+      "url": "https://raw.githubusercontent.com/google-gemma/docs/main/docs/models/gemma-3/index.md",
+      "sha256": "a4f17008f258bcd06b0be0f0ab1a2778543ae276539013f3168bda2aa7bdf702",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Google. (n.d.). Google Gemma 3 official documentation source [Model card / technical evaluation]. Retrieved October 31, 2026, from https://raw.githubusercontent.com/google-gemma/docs/main/docs/models/gemma-3/index.md",
+        "title": "Google Gemma 3 official documentation source [Model card / technical evaluation]",
+        "authors": [
+          "Google"
+        ],
+        "year": "n.d.",
+        "url": "https://raw.githubusercontent.com/google-gemma/docs/main/docs/models/gemma-3/index.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC057": {
+      "source_ref": "MC057",
+      "source_id": "Qwen3 technical report",
+      "url": "https://arxiv.org/html/2505.09388",
+      "sha256": "cf5c79d6f4795f74228ebbc7c8be8872bf1fdb03c5a7c856a89cde915691f0d7",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (2025). Qwen3 technical report. arXiv. https://arxiv.org/abs/2505.09388",
+        "title": "Qwen3 technical report",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2505.09388",
+        "kind": "Report",
+        "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R008"
+      }
+    },
+    "MC058": {
+      "source_ref": "MC058",
+      "source_id": "Qwen2.5 technical report",
+      "url": "https://arxiv.org/html/2412.15115",
+      "sha256": "4151dd29775953b1b46c51c4ccc64406cf8c09b17cf6f55f7c17acaced0827ec",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (2024). Qwen2.5 technical report. arXiv. https://arxiv.org/abs/2412.15115",
+        "title": "Qwen2.5 technical report",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "2024",
+        "url": "https://arxiv.org/abs/2412.15115",
+        "kind": "Report",
+        "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R009"
+      }
+    },
+    "MC069": {
+      "source_ref": "MC069",
+      "source_id": "GPT-5.6 release and system-card links",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "sha256": "55ab364299a78106f8a71ec4f850adb0d6f567f0729e09deb57f7a6a05536825",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "OpenAI. (n.d.). GPT-5.6 release and system-card links [Model card / technical evaluation]. Retrieved October 31, 2026, from https://openai.com/index/gpt-5-6/",
+        "title": "GPT-5.6 release and system-card links [Model card / technical evaluation]",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": "n.d.",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC073": {
+      "source_ref": "MC073",
+      "source_id": "GLM 4.5 technical report",
+      "url": "https://arxiv.org/html/2508.06471",
+      "sha256": "cb29cb60a3bfa675231501d6ae6148de4860a217ef9685b8f3164e0ff50796d2",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "GLM-4.5 Team. (2025). GLM-4.5: Agentic, reasoning, and coding (ARC) foundation models. arXiv. https://arxiv.org/abs/2508.06471",
+        "title": "GLM-4.5: Agentic, reasoning, and coding (ARC) foundation models",
+        "authors": [
+          "GLM-4.5 Team"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2508.06471",
+        "kind": "Report",
+        "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R010"
+      }
+    },
+    "MC075": {
+      "source_ref": "MC075",
+      "source_id": "Qwen3-VL technical report",
+      "url": "https://arxiv.org/html/2511.21631",
+      "sha256": "a22c5f2d9070182dd6758369f423feb6953dbe1855baf391ae88ff3a909cff48",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (2025). Qwen3-VL technical report. arXiv. https://arxiv.org/abs/2511.21631",
+        "title": "Qwen3-VL technical report",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2511.21631",
+        "kind": "Report",
+        "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R011"
+      }
+    },
+    "MC079": {
+      "source_ref": "MC079",
+      "source_id": "Jamba 1.5 Large public model-card page",
+      "url": "https://huggingface.co/ai21labs/AI21-Jamba-1.5-Large",
+      "sha256": "b080392cd353ace53c9a30b4d39d36aa2e79711be2f34bcb0d458c6c33fa0564",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "AI21 Labs. (n.d.). Jamba 1.5 Large public model-card page [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/ai21labs/AI21-Jamba-1.5-Large",
+        "title": "Jamba 1.5 Large public model-card page [Model card / technical evaluation]",
+        "authors": [
+          "AI21 Labs"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/ai21labs/AI21-Jamba-1.5-Large",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC083": {
+      "source_ref": "MC083",
+      "source_id": "Qwen3.5 27B model card",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-27B/raw/main/README.md",
+      "sha256": "8c6303cd5e89dc378d11fb4b70a0ff9c3cccb55a031133c69d9cbde9481f1a8c",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen3.5 27B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.5-27B/raw/main/README.md",
+        "title": "Qwen3.5 27B model card [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-27B/raw/main/README.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC084": {
+      "source_ref": "MC084",
+      "source_id": "Qwen3.5 397B model card",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B/raw/main/README.md",
+      "sha256": "bda4b24e975f65ac677985306ddbad33362e65064637660654c8bb7dea7edf50",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen3.5 397B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.5-397B-A17B/raw/main/README.md",
+        "title": "Qwen3.5 397B model card [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B/raw/main/README.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC091": {
+      "source_ref": "MC091",
+      "source_id": "Qwen3.8 27B model card",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B/raw/main/README.md",
+      "sha256": "57e4bdb258ee1a7d2635c5174ebd4e56abe392505cdb5f8bbb356b0dc4293641",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen3.8 27B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.8-27B/raw/main/README.md",
+        "title": "Qwen3.8 27B model card [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B/raw/main/README.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC095": {
+      "source_ref": "MC095",
+      "source_id": "Kimi K3 model card",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3/raw/main/README.md",
+      "sha256": "57de265b5842dfa465c6e73b368b0e15a89b8793b5450528dad577da202cc6fe",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Moonshot AI. (n.d.). Kimi K3 model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/moonshotai/Kimi-K3/raw/main/README.md",
+        "title": "Kimi K3 model card [Model card / technical evaluation]",
+        "authors": [
+          "Moonshot AI"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3/raw/main/README.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC096": {
+      "source_ref": "MC096",
+      "source_id": "GPT6 Astra official release evaluations",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "sha256": "15950783700aa378655a09852f1d08f5a7e74d638453d470d97c593d17637e57",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "OpenAI. (n.d.). GPT6 Astra official release evaluations [Model card / technical evaluation]. Retrieved October 31, 2026, from https://openai.com/index/gpt-6-astra/",
+        "title": "GPT6 Astra official release evaluations [Model card / technical evaluation]",
+        "authors": [
+          "OpenAI"
+        ],
+        "year": "n.d.",
+        "url": "https://openai.com/index/gpt-6-astra/",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC098": {
+      "source_ref": "MC098",
+      "source_id": "Qwen3.6 27B model card",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-27B/raw/main/README.md",
+      "sha256": "bb936d6da51014f1edc9aa4cf9abf28d98695b7616ad56adfeeebfa752051d3d",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen3.6 27B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.6-27B/raw/main/README.md",
+        "title": "Qwen3.6 27B model card [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-27B/raw/main/README.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC099": {
+      "source_ref": "MC099",
+      "source_id": "Qwen3.6 35B model card",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B/raw/main/README.md",
+      "sha256": "c4ddaa065649ff6352648f64747a16eda31726f3e34add94ce04abb461c77b75",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen3.6 35B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.6-35B-A3B/raw/main/README.md",
+        "title": "Qwen3.6 35B model card [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B/raw/main/README.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC081": {
+      "source_ref": "MC081",
+      "source_id": "Qwen3 technical report PDF",
+      "url": "https://arxiv.org/pdf/2505.09388",
+      "sha256": "84a5e2b1fa04bb774bf12ae606d1e6d9dd2147ed2ebe78a4cfeb91ba380ffdd5",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (2025). Qwen3 technical report. arXiv. https://arxiv.org/abs/2505.09388",
+        "title": "Qwen3 technical report",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "2025",
+        "url": "https://arxiv.org/abs/2505.09388",
+        "kind": "Report",
+        "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R008"
+      }
+    },
+    "MC061": {
+      "source_ref": "MC061",
+      "source_id": "Claude Sonnet 4.6 system card",
+      "url": "https://anthropic.com/claude-sonnet-4-6-system-card",
+      "sha256": "672339ab327e8798578b3559e8489561db5ad25e81b427de4e306393108e90b6",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Anthropic. (n.d.). Claude Sonnet 4.6 system card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://anthropic.com/claude-sonnet-4-6-system-card",
+        "title": "Claude Sonnet 4.6 system card [Model card / technical evaluation]",
+        "authors": [
+          "Anthropic"
+        ],
+        "year": "n.d.",
+        "url": "https://anthropic.com/claude-sonnet-4-6-system-card",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC062": {
+      "source_ref": "MC062",
+      "source_id": "Claude Opus 4.6 system card",
+      "url": "https://anthropic.com/claude-opus-4-6-system-card",
+      "sha256": "4db67c6b6aea0a87e7f8a784b83fc05a0f1a61a3e87615fe7956e3486b951b3c",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Anthropic. (n.d.). Claude Opus 4.6 system card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://anthropic.com/claude-opus-4-6-system-card",
+        "title": "Claude Opus 4.6 system card [Model card / technical evaluation]",
+        "authors": [
+          "Anthropic"
+        ],
+        "year": "n.d.",
+        "url": "https://anthropic.com/claude-opus-4-6-system-card",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC044": {
+      "source_ref": "MC044",
+      "source_id": "zai-org/GLM-OCR",
+      "url": "https://huggingface.co/zai-org/GLM-OCR",
+      "sha256": "172334449c3df98650bc9a42781c254c64c9d466b440e2ca8ce31f99829212b2",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Z.ai. (n.d.). zai-org/GLM-OCR [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/zai-org/GLM-OCR",
+        "title": "zai-org/GLM-OCR [Model card / technical evaluation]",
+        "authors": [
+          "Z.ai"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/zai-org/GLM-OCR",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC076": {
+      "source_ref": "MC076",
+      "source_id": "Command A technical report",
+      "url": "https://cohere.com/research/papers/command-a-technical-report.pdf",
+      "sha256": "c8baaa671c8263d7480d11879ea62cba9dc3c1125bc72303866c95a34331602f",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Cohere. (n.d.). Command A technical report [Model card / technical evaluation]. Retrieved October 31, 2026, from https://cohere.com/research/papers/command-a-technical-report.pdf",
+        "title": "Command A technical report [Model card / technical evaluation]",
+        "authors": [
+          "Cohere"
+        ],
+        "year": "n.d.",
+        "url": "https://cohere.com/research/papers/command-a-technical-report.pdf",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC013": {
+      "source_ref": "MC013",
+      "source_id": "Qwen/Qwen3-VL-8B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
+      "sha256": "6d5d06e0c3f069097002445d30dce9ee107db3afaf15563f09e6df49b8dcb4d7",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "Qwen Team. (n.d.). Qwen/Qwen3-VL-8B-Instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
+        "title": "Qwen/Qwen3-VL-8B-Instruct [Model card / technical evaluation]",
+        "authors": [
+          "Qwen Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC037": {
+      "source_ref": "MC037",
+      "source_id": "OpenGVLab/InternVL3_5-8B",
+      "url": "https://huggingface.co/OpenGVLab/InternVL3_5-8B",
+      "sha256": "47383e9746907dbfabfcad9c786aab81e43586b5e4b0bb07ad893d8b58f3b1e9",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "OpenGVLab. (n.d.). OpenGVLab/InternVL3_5-8B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/OpenGVLab/InternVL3_5-8B",
+        "title": "OpenGVLab/InternVL3_5-8B [Model card / technical evaluation]",
+        "authors": [
+          "OpenGVLab"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/OpenGVLab/InternVL3_5-8B",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC038": {
+      "source_ref": "MC038",
+      "source_id": "PaddlePaddle/PaddleOCR-VL",
+      "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
+      "sha256": "9b8ffe23416747af051eb8ea3003d6a2b3e4855d405359fe35eb8aae2de4bd08",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "PaddleOCR Team. (n.d.). PaddlePaddle/PaddleOCR-VL [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
+        "title": "PaddlePaddle/PaddleOCR-VL [Model card / technical evaluation]",
+        "authors": [
+          "PaddleOCR Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    },
+    "MC100": {
+      "source_ref": "MC100",
+      "source_id": "PaddleOCR VL1.6 model card",
+      "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6/raw/main/README.md",
+      "sha256": "d6c5b77a660577f6e18021defccd835bdc93a8c6538f5a479d597f3e94288abf",
+      "accessed": "2026-10-31",
+      "local_capture": "",
+      "hash_target": "Frozen official model card/report; source SHA256 retained; exact image hash retained separately where used",
+      "citation": {
+        "apa": "PaddleOCR Team. (n.d.). PaddleOCR VL1.6 model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6/raw/main/README.md",
+        "title": "PaddleOCR VL1.6 model card [Model card / technical evaluation]",
+        "authors": [
+          "PaddleOCR Team"
+        ],
+        "year": "n.d.",
+        "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6/raw/main/README.md",
+        "kind": "Model card / evaluation",
+        "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+      }
+    }
+  }
+}

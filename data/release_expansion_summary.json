@@ -1,0 +1,14 @@
+{
+  "reviewed_on": "2026-10-31",
+  "previous_dated_observations": 801,
+  "current_dated_observations": 1512,
+  "newly_dated_observations": 711,
+  "previous_families_with_dates": 44,
+  "current_families_with_dates": 64,
+  "reviewed_release_identity_records": 77,
+  "primary_release_source_urls": 54,
+  "original_source_values_sha256": "61f867295e0f5fb94334ae9626caf2ab0c83cdb92e9b4b55e4a11c0df8e320f6",
+  "previous_archive_sha256": "cab5fcd3636397d489f459b249e46f93a054efc1371d7b4b7fd87a8ce2ff9a03",
+  "score_values_changed": false,
+  "new_model_evaluations": false
+}

@@ -1,0 +1,1343 @@
+[
+  {
+    "release_id": "RD001",
+    "release_date": "2024-07-18",
+    "patterns": [
+      "(?:openai)?gpt4omini(?:20240718)?"
+    ],
+    "author": "OpenAI",
+    "title": "GPT-4o mini: Advancing cost-efficient intelligence",
+    "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+    "locator": "Date heading and Availability and pricing",
+    "evidence": "The July 18 announcement states that GPT-4o mini is available in the API that day.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_01.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2024, July 18). GPT-4o mini: Advancing cost-efficient intelligence. https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/"
+  },
+  {
+    "release_id": "RD002",
+    "release_date": "2024-09-12",
+    "patterns": [
+      "(?:openai)?o1preview(?:20240912)?"
+    ],
+    "author": "OpenAI",
+    "title": "Introducing OpenAI o1-preview",
+    "url": "https://openai.com/index/introducing-openai-o1-preview/",
+    "locator": "September 12 heading; launch and API access",
+    "evidence": "The launch announcement makes o1-preview and o1-mini available on September 12.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_01.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2024, September 12). Introducing OpenAI o1-preview. https://openai.com/index/introducing-openai-o1-preview/"
+  },
+  {
+    "release_id": "RD003",
+    "release_date": "2024-03-04",
+    "patterns": [
+      "claude3(?:opus|sonnet)(?:20240229)?"
+    ],
+    "author": "Anthropic",
+    "title": "Introducing the next generation of Claude",
+    "url": "https://www.anthropic.com/news/claude-3-family",
+    "locator": "March 4 heading and model availability",
+    "evidence": "Opus and Sonnet launch on March 4; the dated API identifiers are checkpoint names, not February releases.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_01.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (2024, March 4). Introducing the next generation of Claude. https://www.anthropic.com/news/claude-3-family"
+  },
+  {
+    "release_id": "RD004",
+    "release_date": "2024-03-13",
+    "patterns": [
+      "claude3haiku(?:20240307)?"
+    ],
+    "author": "Anthropic",
+    "title": "Claude 3 Haiku: Our fastest model yet",
+    "url": "https://www.anthropic.com/news/claude-3-haiku",
+    "locator": "March 13 heading; first announcement paragraph",
+    "evidence": "Haiku is released in the API on March 13; March 7 in its API name is not the public release.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_01.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (2024, March 13). Claude 3 Haiku: Our fastest model yet. https://www.anthropic.com/news/claude-3-haiku"
+  },
+  {
+    "release_id": "RD005",
+    "release_date": "2024-07-23",
+    "patterns": [
+      "(?:meta)?llama31(?:(?:8|70|405)b)?(?:instruct|inst|chat)?"
+    ],
+    "author": "Meta",
+    "title": "Introducing Llama 3.1: Our most capable models to date",
+    "url": "https://ai.meta.com/blog/meta-llama-3-1/",
+    "locator": "July 23 heading and public-release announcement",
+    "evidence": "The developer releases the Llama 3.1 family with the 8B, 70B and 405B models.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_02.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Meta. (2024, July 23). Introducing Llama 3.1: Our most capable models to date. https://ai.meta.com/blog/meta-llama-3-1/"
+  },
+  {
+    "release_id": "RD006",
+    "release_date": "2024-07-24",
+    "patterns": [
+      "mistrallarge(?:2|v2|2407)"
+    ],
+    "author": "Mistral AI",
+    "title": "Large enough",
+    "url": "https://mistral.ai/news/mistral-large-2407/",
+    "locator": "July 24 heading; Mistral Large 2 and version 24.07",
+    "evidence": "The release is explicitly available as mistral-large-2407, distinct from the later November update.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_02.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Mistral AI. (2024, July 24). Large enough. https://mistral.ai/news/mistral-large-2407/"
+  },
+  {
+    "release_id": "RD007",
+    "release_date": "2024-06-20",
+    "patterns": [
+      "claude35sonnet20240620"
+    ],
+    "author": "Anthropic",
+    "title": "Claude Platform release notes",
+    "url": "https://platform.claude.com/docs/en/release-notes/overview",
+    "locator": "June 20th, 2024 entry",
+    "evidence": "The dated API release notes establish June 20 availability. The current announcement page shows June 21, so the explicit release entry takes precedence.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_04.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (n.d.). Claude Platform release notes. Retrieved October 31, 2026, from https://platform.claude.com/docs/en/release-notes/overview"
+  },
+  {
+    "release_id": "RD008",
+    "release_date": "2024-06-20",
+    "patterns": [
+      "claude35sonnet"
+    ],
+    "author": "Anthropic",
+    "title": "Claude Platform release notes",
+    "url": "https://platform.claude.com/docs/en/release-notes/overview",
+    "locator": "June 20th, 2024 entry",
+    "evidence": "The benchmark row already identifies the June 20 cohort; the provider release notes independently corroborate it.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_04.json",
+    "date_basis": "Public model release documented by the developer",
+    "original_dates": [
+      "2024-06-20"
+    ],
+    "apa": "Anthropic. (n.d.). Claude Platform release notes. Retrieved October 31, 2026, from https://platform.claude.com/docs/en/release-notes/overview"
+  },
+  {
+    "release_id": "RD009",
+    "release_date": "2024-10-22",
+    "patterns": [
+      "claude35sonnet20241022"
+    ],
+    "author": "Anthropic",
+    "title": "Claude Platform release notes",
+    "url": "https://platform.claude.com/docs/en/release-notes/overview",
+    "locator": "October 22nd, 2024 entry",
+    "evidence": "The provider explicitly announces the upgraded Sonnet 3.5 API model on October 22.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_04.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (n.d.). Claude Platform release notes. Retrieved October 31, 2026, from https://platform.claude.com/docs/en/release-notes/overview"
+  },
+  {
+    "release_id": "RD010",
+    "release_date": "2024-10-22",
+    "patterns": [
+      "claude35sonnet"
+    ],
+    "author": "Anthropic",
+    "title": "Claude Platform release notes",
+    "url": "https://platform.claude.com/docs/en/release-notes/overview",
+    "locator": "October 22nd, 2024 entry",
+    "evidence": "The benchmark identifies the October 22 cohort and the provider independently confirms that release.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_04.json",
+    "date_basis": "Public model release documented by the developer",
+    "original_dates": [
+      "2024-10-22"
+    ],
+    "apa": "Anthropic. (n.d.). Claude Platform release notes. Retrieved October 31, 2026, from https://platform.claude.com/docs/en/release-notes/overview"
+  },
+  {
+    "release_id": "RD011",
+    "release_date": "2025-02-24",
+    "patterns": [
+      "claude37(?:sonnet)?(?:20250219)?"
+    ],
+    "author": "Anthropic",
+    "title": "Claude 3.7 Sonnet and Claude Code",
+    "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+    "locator": "February 24 heading and availability paragraph",
+    "evidence": "The named Sonnet 3.7 model launches on February 24.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_02.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (2025, February 24). Claude 3.7 Sonnet and Claude Code. https://www.anthropic.com/news/claude-3-7-sonnet"
+  },
+  {
+    "release_id": "RD012",
+    "release_date": "2024-12-06",
+    "patterns": [
+      "(?:meta)?llama3370b(?:instruct|inst)?"
+    ],
+    "author": "Meta",
+    "title": "Llama-3.3-70B-Instruct model card",
+    "url": "https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct",
+    "locator": "Model Release Date; 70B Instruct",
+    "evidence": "The model card explicitly gives December 6, 2024 as the static model release date.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_04.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Meta. (n.d.). Llama-3.3-70B-Instruct model card. Retrieved October 31, 2026, from https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct"
+  },
+  {
+    "release_id": "RD013",
+    "release_date": "2024-09-25",
+    "patterns": [
+      "(?:meta)?llama32(?:11|90)b(?:v|vision)?(?:instruct|inst)?"
+    ],
+    "author": "Meta",
+    "title": "Llama-3.2-11B-Vision-Instruct model card",
+    "url": "https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct",
+    "locator": "Model Release Date and license version release date",
+    "evidence": "The model card identifies September 25, 2024 as the release of Llama 3.2 Vision.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_04.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Meta. (n.d.). Llama-3.2-11B-Vision-Instruct model card. Retrieved October 31, 2026, from https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct"
+  },
+  {
+    "release_id": "RD014",
+    "release_date": "2024-11-18",
+    "patterns": [
+      "mistrallarge(?:2411|24november|2411123b)"
+    ],
+    "author": "Mistral AI",
+    "title": "Pixtral Large",
+    "url": "https://mistral.ai/news/pixtral-large/",
+    "locator": "November 18 heading; One more thing",
+    "evidence": "The same release post explicitly introduces the text-only Mistral Large 24.11 update.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_03.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Mistral AI. (2024, November 18). Pixtral Large. https://mistral.ai/news/pixtral-large/"
+  },
+  {
+    "release_id": "RD015",
+    "release_date": "2024-09-19",
+    "patterns": [
+      "qwen25(?:05|15|3|7|14|32|72)b(?:instruct|inst|base)?|qwen2532"
+    ],
+    "author": "Qwen Team",
+    "title": "Qwen2.5: A party of foundation models!",
+    "url": "https://qwenlm.github.io/blog/qwen2.5/",
+    "locator": "September 19 heading and size list",
+    "evidence": "The release covers the named dense Qwen2.5 model sizes. VL, 1M, Coder and later versions do not inherit this rule.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_05.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Qwen Team. (2024, September 19). Qwen2.5: A party of foundation models!. https://qwenlm.github.io/blog/qwen2.5/"
+  },
+  {
+    "release_id": "RD016",
+    "release_date": "2025-04-29",
+    "patterns": [
+      "qwen3(?:06|17|4|8|14|32)b(?:base)?|qwen3(?:235ba22b|30ba3b)(?:base)?"
+    ],
+    "author": "Qwen Team",
+    "title": "Qwen3: Think deeper, act faster",
+    "url": "https://qwenlm.github.io/blog/qwen3/",
+    "locator": "April 29 heading; open-weight model list",
+    "evidence": "The first Qwen3 release includes six dense models and two MoE models; July updates are separate.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_05.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Qwen Team. (2025, April 29). Qwen3: Think deeper, act faster. https://qwenlm.github.io/blog/qwen3/"
+  },
+  {
+    "release_id": "RD017",
+    "release_date": "2025-07-21",
+    "patterns": [
+      "qwen3235ba22binstruct2507"
+    ],
+    "author": "Qwen Team",
+    "title": "Qwen3 repository: News",
+    "url": "https://github.com/QwenLM/Qwen3",
+    "locator": "News entry 2025.07.21",
+    "evidence": "The developer lists July 21 for the 235B Instruct update, correcting the July 22 date in the benchmark register.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_19.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Qwen Team. (n.d.). Qwen3 repository: News. Retrieved October 31, 2026, from https://github.com/QwenLM/Qwen3"
+  },
+  {
+    "release_id": "RD018",
+    "release_date": "2025-07-25",
+    "patterns": [
+      "qwen3235ba22bthinking2507"
+    ],
+    "author": "Qwen Team",
+    "title": "Qwen3 repository: News",
+    "url": "https://github.com/QwenLM/Qwen3",
+    "locator": "News entry 2025.07.25",
+    "evidence": "The developer lists July 25 for the 235B Thinking update.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_19.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Qwen Team. (n.d.). Qwen3 repository: News. Retrieved October 31, 2026, from https://github.com/QwenLM/Qwen3"
+  },
+  {
+    "release_id": "RD019",
+    "release_date": "2025-07-31",
+    "patterns": [
+      "qwen330ba3bthinking2507"
+    ],
+    "author": "Qwen Team",
+    "title": "Qwen3 repository: News",
+    "url": "https://github.com/QwenLM/Qwen3",
+    "locator": "News entry 2025.07.31",
+    "evidence": "The developer lists July 31 for the 30B Thinking update, distinct from the 235B release.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_19.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Qwen Team. (n.d.). Qwen3 repository: News. Retrieved October 31, 2026, from https://github.com/QwenLM/Qwen3"
+  },
+  {
+    "release_id": "RD020",
+    "release_date": "2025-07-30",
+    "patterns": [
+      "qwen330ba3binstruct2507"
+    ],
+    "author": "Qwen Team",
+    "title": "Qwen3 repository: News",
+    "url": "https://github.com/QwenLM/Qwen3",
+    "locator": "News entry 2025.07.30",
+    "evidence": "The developer lists July 30 for the 30B Instruct update.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_19.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Qwen Team. (n.d.). Qwen3 repository: News. Retrieved October 31, 2026, from https://github.com/QwenLM/Qwen3"
+  },
+  {
+    "release_id": "RD021",
+    "release_date": "2025-03-06",
+    "patterns": [
+      "qwq32b"
+    ],
+    "author": "Qwen Team",
+    "title": "QwQ-32B: Embracing the power of reinforcement learning",
+    "url": "https://qwenlm.github.io/blog/qwq-32b/",
+    "locator": "March 6 heading and release announcement",
+    "evidence": "The developer introduces the released QwQ-32B model on March 6.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_10.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Qwen Team. (2025, March 6). QwQ-32B: Embracing the power of reinforcement learning. https://qwenlm.github.io/blog/qwq-32b/"
+  },
+  {
+    "release_id": "RD022",
+    "release_date": "2025-01-27",
+    "patterns": [
+      "qwen25(?:7|14)binstruct1m(?:[0-9]+b)?"
+    ],
+    "author": "Qwen Team",
+    "title": "Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens",
+    "url": "https://qwenlm.github.io/blog/qwen2.5-1m/",
+    "locator": "January 27 heading and open-source models paragraph",
+    "evidence": "The 7B and 14B 1M-context checkpoints are explicitly released together on January 27.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_18.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Qwen Team. (2025, January 27). Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens. https://qwenlm.github.io/blog/qwen2.5-1m/"
+  },
+  {
+    "release_id": "RD023",
+    "release_date": "2024-07-18",
+    "patterns": [
+      "mistralnemo(?:12b)?(?:instruct|ins)?(?:2407)?"
+    ],
+    "author": "Mistral AI",
+    "title": "Mistral NeMo",
+    "url": "https://mistral.ai/news/mistral-nemo/",
+    "locator": "July 18 heading and weights availability",
+    "evidence": "The base and instruction-tuned NeMo weights are released together.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_06.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Mistral AI. (2024, July 18). Mistral NeMo. https://mistral.ai/news/mistral-nemo/"
+  },
+  {
+    "release_id": "RD024",
+    "release_date": "2023-09-27",
+    "patterns": [
+      "mistral7b(?:instruct)?v01"
+    ],
+    "author": "Mistral AI",
+    "title": "Mistral 7B",
+    "url": "https://mistral.ai/news/announcing-mistral-7b/",
+    "locator": "September 27 heading; download and chat-tuned model",
+    "evidence": "The original 7B and chat-tuned 7B models are available on the release date; later v0.2/v0.3 are excluded.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_06.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Mistral AI. (2023, September 27). Mistral 7B. https://mistral.ai/news/announcing-mistral-7b/"
+  },
+  {
+    "release_id": "RD025",
+    "release_date": "2023-12-11",
+    "patterns": [
+      "mixtral8x7b(?:v01)?(?:instruct)?(?:129b467b)?"
+    ],
+    "author": "Mistral AI",
+    "title": "Mixtral of experts",
+    "url": "https://mistral.ai/news/mixtral-of-experts/",
+    "locator": "December 11 announcement; Instructed models",
+    "evidence": "The release announcement makes both base and instruction-tuned weights available. This is documented announcement availability, not a reconstructed torrent timestamp.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_06.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Mistral AI. (2023, December 11). Mixtral of experts. https://mistral.ai/news/mixtral-of-experts/"
+  },
+  {
+    "release_id": "RD026",
+    "release_date": "2024-04-17",
+    "patterns": [
+      "mixtral8x22b(?:instruct)?(?:v01)?(?:39b141b)?"
+    ],
+    "author": "Mistral AI",
+    "title": "Cheaper, better, faster, stronger",
+    "url": "https://mistral.ai/news/mixtral-8x22b/",
+    "locator": "April 17 announcement; instructed version released today",
+    "evidence": "The post explicitly dates the instruction-tuned release; it also documents public base-model availability by this announcement.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_06.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Mistral AI. (2024, April 17). Cheaper, better, faster, stronger. https://mistral.ai/news/mixtral-8x22b/"
+  },
+  {
+    "release_id": "RD027",
+    "release_date": "2024-05-21",
+    "patterns": [
+      "phi3medium(?:128k)?(?:instruct)?(?:14b)?"
+    ],
+    "author": "Microsoft",
+    "title": "Phi-3-medium-128k-instruct model card",
+    "url": "https://huggingface.co/microsoft/Phi-3-medium-128k-instruct",
+    "locator": "Technical Specifications; Release dates",
+    "evidence": "The developer explicitly states that the model weights were released on May 21, 2024.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_07.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Microsoft. (n.d.). Phi-3-medium-128k-instruct model card. Retrieved October 31, 2026, from https://huggingface.co/microsoft/Phi-3-medium-128k-instruct"
+  },
+  {
+    "release_id": "RD028",
+    "release_date": "2024-08",
+    "patterns": [
+      "phi35mini(?:instruct)?(?:4b)?"
+    ],
+    "author": "Microsoft",
+    "title": "Phi-3.5-mini-instruct model card",
+    "url": "https://huggingface.co/microsoft/Phi-3.5-mini-instruct",
+    "locator": "Technical Specifications; Release date",
+    "evidence": "The model card gives August 2024, without a day; the plot preserves month precision.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_12.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Microsoft. (n.d.). Phi-3.5-mini-instruct model card. Retrieved October 31, 2026, from https://huggingface.co/microsoft/Phi-3.5-mini-instruct"
+  },
+  {
+    "release_id": "RD029",
+    "release_date": "2024-04-04",
+    "patterns": [
+      "(?:c4ai)?commandrplus(?:104b)?(?:042024)?"
+    ],
+    "author": "Cohere",
+    "title": "Introducing Command R+: A scalable LLM built for business",
+    "url": "https://cohere.com/blog/command-r-plus-microsoft-azure",
+    "locator": "April 4 heading and release paragraph",
+    "evidence": "The original Command R+ is released on April 4. Later 0824 versions are separate.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_11.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Cohere. (2024, April 4). Introducing Command R+: A scalable LLM built for business. https://cohere.com/blog/command-r-plus-microsoft-azure"
+  },
+  {
+    "release_id": "RD030",
+    "release_date": "2024-03-11",
+    "patterns": [
+      "(?:c4ai)?commandr(?:v01|35b)?"
+    ],
+    "author": "Cohere",
+    "title": "Command R: RAG at production scale",
+    "url": "https://cohere.com/blog/command-r",
+    "locator": "March 11 heading and availability",
+    "evidence": "The original Command R model is released on March 11; 0824 versions are excluded.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_11.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Cohere. (2024, March 11). Command R: RAG at production scale. https://cohere.com/blog/command-r"
+  },
+  {
+    "release_id": "RD031",
+    "release_date": "2024-05-06",
+    "patterns": [
+      "deepseekv2(?:236b)?(?:chat|instruct)?"
+    ],
+    "author": "DeepSeek-AI",
+    "title": "DeepSeek-V2 repository",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V2",
+    "locator": "News entry 2024.05.06",
+    "evidence": "The developer explicitly records release of the full DeepSeek-V2 model on May 6.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_08.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "DeepSeek-AI. (n.d.). DeepSeek-V2 repository. Retrieved October 31, 2026, from https://github.com/deepseek-ai/DeepSeek-V2"
+  },
+  {
+    "release_id": "RD032",
+    "release_date": "2024-05-16",
+    "patterns": [
+      "deepseekv2lite(?:16b)?(?:chat|instruct)?"
+    ],
+    "author": "DeepSeek-AI",
+    "title": "DeepSeek-V2 repository",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V2",
+    "locator": "News entry 2024.05.16",
+    "evidence": "The smaller Lite variant is released ten days after the full model.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_08.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "DeepSeek-AI. (n.d.). DeepSeek-V2 repository. Retrieved October 31, 2026, from https://github.com/deepseek-ai/DeepSeek-V2"
+  },
+  {
+    "release_id": "RD033",
+    "release_date": "2025-01-20",
+    "patterns": [
+      "deepseekr1(?:0120)?"
+    ],
+    "author": "DeepSeek-AI",
+    "title": "DeepSeek-R1 release",
+    "url": "https://api-docs.deepseek.com/news/news250120/",
+    "locator": "Release history navigation: DeepSeek-R1 Release 2025/01/20",
+    "evidence": "The official release-history entry dates the original R1 separately from R1-0528.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_10.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "DeepSeek-AI. (n.d.). DeepSeek-R1 release. Retrieved October 31, 2026, from https://api-docs.deepseek.com/news/news250120/"
+  },
+  {
+    "release_id": "RD034",
+    "release_date": "2025-05-28",
+    "patterns": [
+      "deepseekr10528"
+    ],
+    "author": "DeepSeek-AI",
+    "title": "DeepSeek-R1-0528 release",
+    "url": "https://api-docs.deepseek.com/news/news250528/",
+    "locator": "Release history entry and release title",
+    "evidence": "The provider records the May 28 release of the named 0528 update.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_10.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "DeepSeek-AI. (n.d.). DeepSeek-R1-0528 release. Retrieved October 31, 2026, from https://api-docs.deepseek.com/news/news250528/"
+  },
+  {
+    "release_id": "RD035",
+    "release_date": "2025-08-07",
+    "patterns": [
+      "(?:openai)?gpt5(?:20250807)?"
+    ],
+    "author": "OpenAI",
+    "title": "Introducing GPT-5",
+    "url": "https://openai.com/index/introducing-gpt-5/",
+    "locator": "August 7 heading and model availability",
+    "evidence": "The original GPT-5 release is dated August 7. Reasoning effort is a configuration, not a later model release.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_16.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2025, August 7). Introducing GPT-5. https://openai.com/index/introducing-gpt-5/"
+  },
+  {
+    "release_id": "RD036",
+    "release_date": "2024-05-13",
+    "patterns": [
+      "(?:openai)?gpt4o20240513"
+    ],
+    "author": "OpenAI",
+    "title": "Hello GPT-4o",
+    "url": "https://openai.com/index/hello-gpt-4o/",
+    "locator": "May 13 heading and API availability",
+    "evidence": "The explicitly identified original GPT-4o snapshot is matched to the launch announcement; generic GPT-4o aliases are excluded.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_13.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2024, May 13). Hello GPT-4o. https://openai.com/index/hello-gpt-4o/"
+  },
+  {
+    "release_id": "RD037",
+    "release_date": "2024-08-06",
+    "patterns": [
+      "(?:openai)?gpt4o20240806|gpt4o08"
+    ],
+    "author": "OpenAI",
+    "title": "Introducing Structured Outputs in the API",
+    "url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+    "locator": "August 6 heading; gpt-4o-2024-08-06 released today",
+    "evidence": "The announcement explicitly identifies the API snapshot and its release date.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_13.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2024, August 6). Introducing Structured Outputs in the API. https://openai.com/index/introducing-structured-outputs-in-the-api/"
+  },
+  {
+    "release_id": "RD038",
+    "release_date": "2024-08-06",
+    "patterns": [
+      "gpt4o"
+    ],
+    "author": "OpenAI",
+    "title": "Introducing Structured Outputs in the API",
+    "url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+    "locator": "August 6 heading and exact snapshot",
+    "evidence": "The benchmark date independently identifies the same snapshot; the provider corroborates it.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_13.json",
+    "date_basis": "Public model release documented by the developer",
+    "original_dates": [
+      "2024-08-06"
+    ],
+    "apa": "OpenAI. (2024, August 6). Introducing Structured Outputs in the API. https://openai.com/index/introducing-structured-outputs-in-the-api/"
+  },
+  {
+    "release_id": "RD039",
+    "release_date": "2023-11-06",
+    "patterns": [
+      "gpt41106preview"
+    ],
+    "author": "OpenAI",
+    "title": "New models and developer products announced at DevDay",
+    "url": "https://openai.com/index/new-models-and-developer-products-announced-at-devday/",
+    "locator": "November 6 heading; GPT-4 Turbo preview API identifier",
+    "evidence": "The post explicitly releases gpt-4-1106-preview; unspecified Turbo aliases do not inherit this date.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_14.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2023, November 6). New models and developer products announced at DevDay. https://openai.com/index/new-models-and-developer-products-announced-at-devday/"
+  },
+  {
+    "release_id": "RD040",
+    "release_date": "2023-07-11",
+    "patterns": [
+      "claude2(?:0)?"
+    ],
+    "author": "Anthropic",
+    "title": "Claude 2",
+    "url": "https://www.anthropic.com/news/claude-2",
+    "locator": "July 11 heading and availability",
+    "evidence": "The named Claude 2 model is made publicly available at launch.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_14.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (2023, July 11). Claude 2. https://www.anthropic.com/news/claude-2"
+  },
+  {
+    "release_id": "RD041",
+    "release_date": "2023-11-21",
+    "patterns": [
+      "claude21"
+    ],
+    "author": "Anthropic",
+    "title": "Introducing Claude 2.1",
+    "url": "https://www.anthropic.com/news/claude-2-1",
+    "locator": "November 21 heading and API availability",
+    "evidence": "The named 2.1 update is available in the API on November 21.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_14.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (2023, November 21). Introducing Claude 2.1. https://www.anthropic.com/news/claude-2-1"
+  },
+  {
+    "release_id": "RD042",
+    "release_date": "2026-09-22",
+    "patterns": [
+      "(?:claude)?opus55"
+    ],
+    "author": "Anthropic",
+    "title": "Introducing Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "locator": "September 22 heading and Availability",
+    "evidence": "The named Opus 5.5 model is released on September 22.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_17.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (2026, September 22). Introducing Claude Opus 5.5. https://www.anthropic.com/claude-opus-5-5"
+  },
+  {
+    "release_id": "RD043",
+    "release_date": "2024-05-29",
+    "patterns": [
+      "codestral(?:22b)?(?:v01)?"
+    ],
+    "author": "Mistral AI",
+    "title": "Codestral",
+    "url": "https://mistral.ai/news/codestral/",
+    "locator": "May 29 heading and API/self-deployment availability",
+    "evidence": "The original Codestral model is available at launch; later dated Codestral releases are separate.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_20.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Mistral AI. (2024, May 29). Codestral. https://mistral.ai/news/codestral/"
+  },
+  {
+    "release_id": "RD044",
+    "release_date": "2024-07-16",
+    "patterns": [
+      "mathstral(?:7b)?(?:v01)?"
+    ],
+    "author": "Mistral AI",
+    "title": "Mathstral",
+    "url": "https://mistral.ai/news/mathstral/",
+    "locator": "July 16 heading and model release",
+    "evidence": "The named 7B mathematical model is released on July 16.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_20.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Mistral AI. (2024, July 16). Mathstral. https://mistral.ai/news/mathstral/"
+  },
+  {
+    "release_id": "RD045",
+    "release_date": "2024-03-27",
+    "patterns": [
+      "dbrx(?:132b)?(?:base|instruct)?"
+    ],
+    "author": "Databricks AI Research Team",
+    "title": "Introducing DBRX: A new state-of-the-art open LLM",
+    "url": "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm",
+    "locator": "March 27 heading; weights availability",
+    "evidence": "Both base and instruction-tuned DBRX weights are explicitly available at launch.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_20.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Databricks AI Research Team. (2024, March 27). Introducing DBRX: A new state-of-the-art open LLM. https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm"
+  },
+  {
+    "release_id": "RD046",
+    "release_date": "2022-03-15",
+    "patterns": [
+      "textdavinci002|code(?:x)?davinci002"
+    ],
+    "author": "OpenAI",
+    "title": "Introducing Insert and Edits Capabilities",
+    "url": "https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+    "locator": "Developer announcement by Adam-OpenAI; March 15, 2022",
+    "evidence": "An OpenAI employee explicitly announces API availability for text-davinci-002 and code-davinci-002.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_24.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (n.d.). Introducing Insert and Edits Capabilities. Retrieved October 31, 2026, from https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993"
+  },
+  {
+    "release_id": "RD047",
+    "release_date": "2024-04-18",
+    "patterns": [
+      "internvl(?:chat)?v?15"
+    ],
+    "author": "OpenGVLab",
+    "title": "InternVL repository: News and model zoo",
+    "url": "https://github.com/OpenGVLab/InternVL",
+    "locator": "News 2024/04/18; InternVL-Chat-V1-5 model-zoo row",
+    "evidence": "The developer explicitly dates the release of InternVL-Chat-V1-5.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_22.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenGVLab. (n.d.). InternVL repository: News and model zoo. Retrieved October 31, 2026, from https://github.com/OpenGVLab/InternVL"
+  },
+  {
+    "release_id": "RD048",
+    "release_date": "2024-04-15",
+    "patterns": [
+      "idefics2(?:8b)?"
+    ],
+    "author": "Hugging Face",
+    "title": "Introducing Idefics2: A powerful 8B vision-language model for the community",
+    "url": "https://huggingface.co/blog/idefics2",
+    "locator": "April 15 heading and release paragraph",
+    "evidence": "The developer announces the public Idefics2 model release on April 15.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_26.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Hugging Face. (2024, April 15). Introducing Idefics2: A powerful 8B vision-language model for the community. https://huggingface.co/blog/idefics2"
+  },
+  {
+    "release_id": "RD049",
+    "release_date": "2023-12",
+    "patterns": [
+      "emu2chat"
+    ],
+    "author": "BAAI",
+    "title": "Emu series repository",
+    "url": "https://github.com/baaivision/Emu",
+    "locator": "News 2023.12; model, code and demo availability",
+    "evidence": "The developer records the month when the Emu2 model became available; no day is inferred.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_22.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "BAAI. (n.d.). Emu series repository. Retrieved October 31, 2026, from https://github.com/baaivision/Emu"
+  },
+  {
+    "release_id": "RD050",
+    "release_date": "2024-08-05",
+    "patterns": [
+      "hhem21(?:open)?(?:mendelevitchetal2024|baoetal2024)?"
+    ],
+    "author": "Vectara",
+    "title": "HHEM 2.1",
+    "url": "https://www.vectara.com/blog/hhem-2-1-a-better-hallucination-detection-model",
+    "locator": "August 5 heading and HHEM-2.1-Open availability",
+    "evidence": "The developer introduces HHEM-2.1 and releases the open variant in the same announcement.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_27.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Vectara. (2024, August 5). HHEM 2.1. https://www.vectara.com/blog/hhem-2-1-a-better-hallucination-detection-model"
+  },
+  {
+    "release_id": "RD051",
+    "release_date": "2019-11-05",
+    "patterns": [
+      "gpt215b"
+    ],
+    "author": "OpenAI",
+    "title": "GPT-2: 1.5B release",
+    "url": "https://openai.com/index/gpt-2-1-5b-release/",
+    "locator": "November 5 heading and model weights announcement",
+    "evidence": "The 1.5B GPT-2 weights are released on November 5, not the earlier small-model launch.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_30.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2019, November 5). GPT-2: 1.5B release. https://openai.com/index/gpt-2-1-5b-release/"
+  },
+  {
+    "release_id": "RD052",
+    "release_date": "2025-11-13",
+    "patterns": [
+      "(?:openai)?gpt51(?:20251113)?"
+    ],
+    "author": "OpenAI",
+    "title": "OpenAI API changelog",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "locator": "November 2025; November 13; gpt-5.1 release",
+    "evidence": "The API changelog dates the named GPT-5.1 API release to November 13.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_23.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (n.d.). OpenAI API changelog. Retrieved October 31, 2026, from https://developers.openai.com/api/docs/changelog"
+  },
+  {
+    "release_id": "RD053",
+    "release_date": "2026-09-03",
+    "patterns": [
+      "(?:openai)?gpt6astra"
+    ],
+    "author": "OpenAI",
+    "title": "OpenAI API changelog",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "locator": "September 2026; September 3; gpt-6-astra release",
+    "evidence": "The explicit release-history entry dates Astra to September 3.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_23.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (n.d.). OpenAI API changelog. Retrieved October 31, 2026, from https://developers.openai.com/api/docs/changelog"
+  },
+  {
+    "release_id": "RD054",
+    "release_date": "2026-07-09",
+    "patterns": [
+      "(?:openai)?gpt56(?:sol|terra|luna)"
+    ],
+    "author": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "locator": "July 9 heading; general availability",
+    "evidence": "Sol, Terra and Luna reach general availability on July 9. This is not the earlier limited-preview date.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_26.json",
+    "date_basis": "Developer-documented general availability; earlier limited preview not used",
+    "apa": "OpenAI. (2026, July 9). GPT-5.6: Frontier intelligence that scales with your ambition. https://openai.com/index/gpt-5-6/"
+  },
+  {
+    "release_id": "RD055",
+    "release_date": "2024-11-20",
+    "patterns": [
+      "(?:openai)?gpt4o20241120"
+    ],
+    "author": "OpenAI",
+    "title": "OpenAI API changelog",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "locator": "November 2024; November 20",
+    "evidence": "The provider explicitly dates the gpt-4o-2024-11-20 release.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_23.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (n.d.). OpenAI API changelog. Retrieved October 31, 2026, from https://developers.openai.com/api/docs/changelog"
+  },
+  {
+    "release_id": "RD056",
+    "release_date": "2024-11-20",
+    "patterns": [
+      "gpt4o"
+    ],
+    "author": "OpenAI",
+    "title": "OpenAI API changelog",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "locator": "November 2024; November 20",
+    "evidence": "The benchmark row identifies the November cohort and the provider corroborates the release.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_23.json",
+    "date_basis": "Public model release documented by the developer",
+    "original_dates": [
+      "2024-11-20"
+    ],
+    "apa": "OpenAI. (n.d.). OpenAI API changelog. Retrieved October 31, 2026, from https://developers.openai.com/api/docs/changelog"
+  },
+  {
+    "release_id": "RD057",
+    "release_date": "2023-06-13",
+    "patterns": [
+      "gpt4(?:32k)?0613|gpt35turbo(?:16k)?0613"
+    ],
+    "author": "OpenAI",
+    "title": "Function calling and other API updates",
+    "url": "https://openai.com/index/function-calling-and-other-api-updates/",
+    "locator": "June 13 heading; new API model versions",
+    "evidence": "The provider announces the named 0613 model updates on June 13.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_26.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2023, June 13). Function calling and other API updates. https://openai.com/index/function-calling-and-other-api-updates/"
+  },
+  {
+    "release_id": "RD058",
+    "release_date": "2024-01-25",
+    "patterns": [
+      "gpt40125preview|gpt35turbo0125"
+    ],
+    "author": "OpenAI",
+    "title": "New embedding models and API updates",
+    "url": "https://openai.com/index/new-embedding-models-and-api-updates/",
+    "locator": "January 25 heading; GPT-3.5 Turbo and GPT-4 Turbo updates",
+    "evidence": "The provider explicitly releases the 0125 snapshots on January 25.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_33.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2024, January 25). New embedding models and API updates. https://openai.com/index/new-embedding-models-and-api-updates/"
+  },
+  {
+    "release_id": "RD059",
+    "release_date": "2024-05-23",
+    "patterns": [
+      "gemini15(?:pro|flash)001"
+    ],
+    "author": "Google",
+    "title": "Gemini API release notes",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "locator": "May 23, 2024; named 001 checkpoints",
+    "evidence": "The API release history identifies general availability of the exact 001 model identifiers on May 23.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_28.json",
+    "date_basis": "Developer-documented GA date of exact 001 checkpoint; preview-family launch not substituted",
+    "apa": "Google. (n.d.). Gemini API release notes. Retrieved October 31, 2026, from https://ai.google.dev/gemini-api/docs/changelog"
+  },
+  {
+    "release_id": "RD060",
+    "release_date": "2024-09-24",
+    "patterns": [
+      "gemini15(?:pro|flash)002"
+    ],
+    "author": "Google",
+    "title": "Gemini API release notes",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "locator": "September 24, 2024",
+    "evidence": "The API release history explicitly introduces the two stable 002 checkpoints.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_33.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Google. (n.d.). Gemini API release notes. Retrieved October 31, 2026, from https://ai.google.dev/gemini-api/docs/changelog"
+  },
+  {
+    "release_id": "RD061",
+    "release_date": "2024-12-11",
+    "patterns": [
+      "gemini20flashexp(?:1211)?"
+    ],
+    "author": "Google",
+    "title": "Gemini API release notes",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "locator": "December 11, 2024",
+    "evidence": "The API history dates the Flash Experimental preview separately from the later stable model.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_28.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Google. (n.d.). Gemini API release notes. Retrieved October 31, 2026, from https://ai.google.dev/gemini-api/docs/changelog"
+  },
+  {
+    "release_id": "RD062",
+    "release_date": "2024-12-11",
+    "patterns": [
+      "gemini20flash"
+    ],
+    "author": "Google",
+    "title": "Gemini API release notes",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "locator": "December 11, 2024",
+    "evidence": "The benchmark explicitly identifies the December preview cohort; a stable February release is not substituted.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_28.json",
+    "date_basis": "Public model release documented by the developer",
+    "original_dates": [
+      "2024-12-11"
+    ],
+    "apa": "Google. (n.d.). Gemini API release notes. Retrieved October 31, 2026, from https://ai.google.dev/gemini-api/docs/changelog"
+  },
+  {
+    "release_id": "RD063",
+    "release_date": "2025-02-05",
+    "patterns": [
+      "gemini20flash001"
+    ],
+    "author": "Google",
+    "title": "Gemini 2.0: Flash, Flash-Lite and Pro",
+    "url": "https://developers.googleblog.com/en/gemini-2-family-expands/",
+    "locator": "February 5 heading; Flash generally available",
+    "evidence": "The stable 001 release is dated February 5 and kept separate from December experimental results.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_28.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Google. (n.d.). Gemini 2.0: Flash, Flash-Lite and Pro. Retrieved October 31, 2026, from https://developers.googleblog.com/en/gemini-2-family-expands/"
+  },
+  {
+    "release_id": "RD064",
+    "release_date": "2025-01-21",
+    "patterns": [
+      "gemini20flashthinking(?:exp0121)?"
+    ],
+    "author": "Google",
+    "title": "Gemini API release notes",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "locator": "January 21, 2025",
+    "evidence": "The exact 01-21 thinking-preview update is released on January 21.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_28.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Google. (n.d.). Gemini API release notes. Retrieved October 31, 2026, from https://ai.google.dev/gemini-api/docs/changelog"
+  },
+  {
+    "release_id": "RD065",
+    "release_date": "2023-06-13",
+    "patterns": [
+      ".*"
+    ],
+    "author": "OpenAI",
+    "title": "Function calling and other API updates",
+    "url": "https://openai.com/index/function-calling-and-other-api-updates/",
+    "locator": "June 13 heading; new API model versions",
+    "evidence": "The provider announces the named 0613 model updates on June 13.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_26.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2023, June 13). Function calling and other API updates. https://openai.com/index/function-calling-and-other-api-updates/",
+    "families": [
+      "ALCE"
+    ],
+    "observation_ids": [
+      "V03475",
+      "V03476",
+      "V03488",
+      "V03489"
+    ],
+    "identity_source": "https://arxiv.org/html/2305.14627",
+    "identity_locator": "Models; named gpt-4-0613",
+    "identity_evidence": "The benchmark explicitly identifies the GPT-4 baseline checkpoint as gpt-4-0613.",
+    "identity_source_sha256": "655487cd7b46ac2a12dca9a117597720d8c3138c59dc4babdc05177fe8bad167",
+    "identity_hash_target": "Previously frozen primary-source text capture: ALCE_paper.txt"
+  },
+  {
+    "release_id": "RD066",
+    "release_date": "2024-05-13",
+    "patterns": [
+      ".*"
+    ],
+    "author": "OpenAI",
+    "title": "Hello GPT-4o",
+    "url": "https://openai.com/index/hello-gpt-4o/",
+    "locator": "May 13 heading and API availability",
+    "evidence": "The explicitly identified original GPT-4o snapshot is matched to the launch announcement; generic GPT-4o aliases are excluded.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_13.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2024, May 13). Hello GPT-4o. https://openai.com/index/hello-gpt-4o/",
+    "families": [
+      "SycEval"
+    ],
+    "observation_ids": [
+      "V03434",
+      "V03435",
+      "V03440",
+      "V03441"
+    ],
+    "identity_source": "https://arxiv.org/html/2502.08177",
+    "identity_locator": "Step 1: Evaluating Model Responses",
+    "identity_evidence": "The tested ChatGPT actor is the May 13 snapshot. The separate August 6 evaluator is not used as its release identity.",
+    "identity_source_sha256": "e84397accd740df076c23ddfc3eb85437acff362b2bc44cfd4747d4279b39622",
+    "identity_hash_target": "Previously frozen primary-source text capture: SYCEVAL_paper.txt"
+  },
+  {
+    "release_id": "RD067",
+    "release_date": "2024-03-04",
+    "patterns": [
+      ".*"
+    ],
+    "author": "Anthropic",
+    "title": "Introducing the next generation of Claude",
+    "url": "https://www.anthropic.com/news/claude-3-family",
+    "locator": "March 4 heading and model availability",
+    "evidence": "Opus and Sonnet launch on March 4; the dated API identifiers are checkpoint names, not February releases.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_01.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Anthropic. (2024, March 4). Introducing the next generation of Claude. https://www.anthropic.com/news/claude-3-family",
+    "families": [
+      "TrialReviewBench"
+    ],
+    "observation_ids": [
+      "V03819",
+      "V03822",
+      "V03825",
+      "V03828"
+    ],
+    "identity_source": "https://arxiv.org/html/2406.17755v2",
+    "identity_locator": "Methods; Large language models",
+    "identity_evidence": "The Methods identify the Sonnet baseline as claude-3-sonnet-20240229. A GPT-4/GPT-4o naming inconsistency is not resolved by this binding.",
+    "identity_source_sha256": "b926358ad928078b47ef89e13fa9e8e2674edac44a32d7492d18615581df3371",
+    "identity_hash_target": "Previously frozen primary-source text capture: TRIAL_paper.txt"
+  },
+  {
+    "release_id": "RD068",
+    "release_date": "2024-05-23",
+    "patterns": [
+      ".*"
+    ],
+    "author": "Google",
+    "title": "Gemini API release notes",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "locator": "May 23, 2024; named 001 checkpoints",
+    "evidence": "The API release history identifies general availability of the exact 001 model identifiers on May 23.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_28.json",
+    "date_basis": "Developer-documented GA date of exact 001 checkpoint; preview-family launch not substituted",
+    "apa": "Google. (n.d.). Gemini API release notes. Retrieved October 31, 2026, from https://ai.google.dev/gemini-api/docs/changelog",
+    "families": [
+      "HELMET"
+    ],
+    "observation_ids": [
+      "V03122",
+      "V03123"
+    ],
+    "identity_source": "https://arxiv.org/html/2410.02694",
+    "identity_locator": "Appendix model table; exact Gemini API names",
+    "identity_evidence": "The model table identifies the Flash and Pro models as the 001 checkpoints.",
+    "identity_source_sha256": "915fae105e8c122b522500e8b9240f39b30cf824a4b745acb3095941557def2c",
+    "identity_hash_target": "Previously frozen primary-source text capture: HELMET_paper.txt"
+  },
+  {
+    "release_id": "RD069",
+    "release_date": "2024-05-23",
+    "patterns": [
+      ".*"
+    ],
+    "author": "Google",
+    "title": "Gemini API release notes",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog",
+    "locator": "May 23, 2024; named 001 checkpoints",
+    "evidence": "The API release history identifies general availability of the exact 001 model identifiers on May 23.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_28.json",
+    "date_basis": "Developer-documented GA date of exact 001 checkpoint; preview-family launch not substituted",
+    "apa": "Google. (n.d.). Gemini API release notes. Retrieved October 31, 2026, from https://ai.google.dev/gemini-api/docs/changelog",
+    "families": [
+      "NIAH"
+    ],
+    "observation_ids": [
+      "V03128",
+      "V03129"
+    ],
+    "identity_source": "https://arxiv.org/html/2410.02694",
+    "identity_locator": "Appendix model table; exact Gemini API names",
+    "identity_evidence": "The model table identifies the Flash and Pro models as the 001 checkpoints.",
+    "identity_source_sha256": "915fae105e8c122b522500e8b9240f39b30cf824a4b745acb3095941557def2c",
+    "identity_hash_target": "Previously frozen primary-source text capture: HELMET_paper.txt"
+  },
+  {
+    "release_id": "RD070",
+    "release_date": "2023-12-12",
+    "patterns": [
+      "phi2"
+    ],
+    "author": "Javaheripi, M., & Bubeck, S.",
+    "title": "Phi-2: The surprising power of small language models",
+    "url": "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/",
+    "locator": "December 12 heading; model availability",
+    "evidence": "The developer announces Phi-2 release and model availability in Azure AI Studio.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_36.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Javaheripi, M., & Bubeck, S. (2023, December 12). Phi-2: The surprising power of small language models. Microsoft Research. https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/"
+  },
+  {
+    "release_id": "RD071",
+    "release_date": "2024-02-21",
+    "patterns": [
+      "gemma(?:1)?(?:2|7)b(?:it)?"
+    ],
+    "author": "Google",
+    "title": "Gemma: Introducing new state-of-the-art open models",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-open-models/",
+    "locator": "February 21 heading; weights release list",
+    "evidence": "The 2B and 7B base and instruction-tuned original Gemma models are released together.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_36.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Google. (2024, February 21). Gemma: Introducing new state-of-the-art open models. https://blog.google/innovation-and-ai/technology/developers-tools/gemma-open-models/"
+  },
+  {
+    "release_id": "RD072",
+    "release_date": "2026-04-23",
+    "patterns": [
+      "(?:openai)?gpt55(?:pro)?"
+    ],
+    "author": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "locator": "April 23 heading; April 24 API update",
+    "evidence": "The general model release is April 23; the separately reported API availability is April 24.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_34.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (2026, April 23). Introducing GPT-5.5. https://openai.com/index/introducing-gpt-5-5/"
+  },
+  {
+    "release_id": "RD073",
+    "release_date": "2023-07-18",
+    "patterns": [
+      "(?:meta)?llama2(?:7|13|70)b(?:chat|hf)?"
+    ],
+    "author": "Meta",
+    "title": "Meta and Microsoft introduce the next generation of Llama",
+    "url": "https://ai.meta.com/blog/llama-2/",
+    "locator": "July 18 heading; pretrained and conversational weights",
+    "evidence": "The weights of the original pretrained and conversational Llama 2 models are publicly available at launch.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_34.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "Meta. (2023, July 18). Meta and Microsoft introduce the next generation of Llama. https://ai.meta.com/blog/llama-2/"
+  },
+  {
+    "release_id": "RD074",
+    "release_date": "2022-03-15",
+    "patterns": [
+      ".*"
+    ],
+    "author": "OpenAI",
+    "title": "Introducing Insert and Edits Capabilities",
+    "url": "https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+    "locator": "Developer announcement by Adam-OpenAI; March 15, 2022",
+    "evidence": "An OpenAI employee explicitly announces API availability for text-davinci-002 and code-davinci-002.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_24.json",
+    "date_basis": "Public model release documented by the developer",
+    "apa": "OpenAI. (n.d.). Introducing Insert and Edits Capabilities. Retrieved October 31, 2026, from https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+    "families": [
+      "Symbolic manipulation"
+    ],
+    "observation_ids": [
+      "V03813"
+    ],
+    "identity_source": "https://arxiv.org/html/2208.05051",
+    "identity_locator": "Experiments; named text-davinci-002",
+    "identity_evidence": "The experiments explicitly identify GPT3 as text-davinci-002. Task-trained T5 and DeBERTa models are not assigned their backbone release dates.",
+    "identity_source_sha256": "f827e66b52b9802f4056d1f891edac96a32ff4695f16f9ea5746ef03f15444ff",
+    "identity_hash_target": "Previously frozen primary-source text capture: SYMBOL_HTML_paper.txt"
+  },
+  {
+    "release_id": "RD075",
+    "release_date": "2022-03-15",
+    "patterns": [
+      ".*"
+    ],
+    "author": "OpenAI",
+    "title": "Introducing Insert and Edits Capabilities",
+    "url": "https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+    "locator": "Developer announcement by Adam-OpenAI; March 15, 2022",
+    "evidence": "An OpenAI employee explicitly announces API availability for text-davinci-002 and code-davinci-002.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_24.json",
+    "date_basis": "Public launch of the explicitly named API model line; later deployment changes are not dated",
+    "apa": "OpenAI. (n.d.). Introducing Insert and Edits Capabilities. Retrieved October 31, 2026, from https://community.openai.com/t/introducing-insert-and-edits-capabilities/15993",
+    "families": [
+      "Bamboogle"
+    ],
+    "observation_ids": [
+      "V03274",
+      "V03275",
+      "V03277",
+      "V03278"
+    ],
+    "identity_source": "https://arxiv.org/html/2210.03350",
+    "identity_locator": "Methods and Table 1; InstructGPT Davinci-002",
+    "identity_evidence": "The named API model line is InstructGPT Davinci-002. The authors report deployment updates; all these points share the named model-line launch date and do not establish a release trajectory.",
+    "identity_source_sha256": "3ab6edec5cb32b8918f6523d6194bf10039a3711860fe8d04f446821b6619133",
+    "identity_hash_target": "Previously frozen primary-source text capture: BAMBOO_paper.txt"
+  },
+  {
+    "release_id": "RD076",
+    "release_date": "2024-08-30",
+    "patterns": [
+      "(?:c4ai)?commandr(?:plus)?(?:0824|082024)(?:104b|32b)?"
+    ],
+    "author": "Gomez, A.",
+    "title": "Updates to the Command R series",
+    "url": "https://cohere.com/blog/command-series-0824",
+    "locator": "August 30 heading; Command R and R+ 08-2024 release",
+    "evidence": "The developer introduces the August 2024 Command R and R+ update. A benchmark row explicitly dated August 30 is not reassigned to the April launch.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_39.json",
+    "date_basis": "Developer-documented release of the August 2024 update",
+    "apa": "Gomez, A. (2024, August 30). Updates to the Command R series. Cohere. https://cohere.com/blog/command-series-0824"
+  },
+  {
+    "release_id": "RD077",
+    "release_date": "2024-08-30",
+    "patterns": [
+      "(?:c4ai)?commandrplus(?:104b)?"
+    ],
+    "author": "Gomez, A.",
+    "title": "Updates to the Command R series",
+    "url": "https://cohere.com/blog/command-series-0824",
+    "locator": "August 30 heading; Command R and R+ 08-2024 release",
+    "evidence": "The developer introduces the August 2024 Command R and R+ update. A benchmark row explicitly dated August 30 is not reassigned to the April launch.",
+    "accessed": "2026-10-31",
+    "snapshot_file": "data/release_source_snapshots/release_web_39.json",
+    "date_basis": "Developer-documented release of the August 2024 update",
+    "apa": "Gomez, A. (2024, August 30). Updates to the Command R series. Cohere. https://cohere.com/blog/command-series-0824",
+    "original_dates": [
+      "2024-08-30"
+    ]
+  }
+]

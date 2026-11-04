@@ -1,0 +1,128 @@
+[
+  {
+    "family": "VaxScope",
+    "observations": 24,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "InfographicVQA",
+    "observations": 18,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "HiTab",
+    "observations": 9,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "FinQA",
+    "observations": 25,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "TabMWP",
+    "observations": 17,
+    "review_outcome": "The retained score source does not establish the evaluated API snapshot or dated release of the reported model/method. A generic family launch date was not substituted.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "SciFact",
+    "observations": 12,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "GAIA",
+    "observations": 18,
+    "review_outcome": "The retained score source does not establish the evaluated API snapshot or dated release of the reported model/method. A generic family launch date was not substituted.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "MultiHiertt",
+    "observations": 11,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "TRUE",
+    "observations": 9,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "SUC",
+    "observations": 10,
+    "review_outcome": "The retained score source does not establish the evaluated API snapshot or dated release of the reported model/method. A generic family launch date was not substituted.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "HotpotQA",
+    "observations": 8,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "RAGTruth",
+    "observations": 8,
+    "review_outcome": "The retained score source does not establish the evaluated API snapshot or dated release of the reported model/method. A generic family launch date was not substituted.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "RAGBench",
+    "observations": 8,
+    "review_outcome": "The retained score source does not establish the evaluated API snapshot or dated release of the reported model/method. A generic family launch date was not substituted.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "TAT-QA",
+    "observations": 11,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "QASPER",
+    "observations": 12,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "MuSiQue",
+    "observations": 14,
+    "review_outcome": "Evaluated task-specific research models, configurations or component methods lack an established public release date in the retained evidence; a backbone date would date a different model.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "SycophancyEval",
+    "observations": 4,
+    "review_outcome": "The retained score source does not establish the evaluated API snapshot or dated release of the reported model/method. A generic family launch date was not substituted.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  },
+  {
+    "family": "Common-ground puzzle",
+    "observations": 8,
+    "review_outcome": "Human-AI performance is reported across within-session trials, not across released model versions. It does not provide a model-release trajectory.",
+    "status": "Unresolved for model-release plotting",
+    "scope": "Bounded review of registered models and their primary score/model specifications; not proof that no release information exists elsewhere"
+  }
+]

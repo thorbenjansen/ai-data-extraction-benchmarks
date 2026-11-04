@@ -1,0 +1,36 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "c0a03ca0198cc14394caec612f206500e1135a1e53882e242701efa1b1140932",
+  "primary_sources": [
+    "https://mistral.ai/news/codestral/",
+    "https://mistral.ai/news/mathstral/",
+    "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm",
+    "https://cohere.com/blog/aya-23"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD043",
+      "release_date": "2024-05-29",
+      "url": "https://mistral.ai/news/codestral/",
+      "locator": "May 29 heading and API/self-deployment availability",
+      "evidence": "The original Codestral model is available at launch; later dated Codestral releases are separate."
+    },
+    {
+      "release_id": "RD044",
+      "release_date": "2024-07-16",
+      "url": "https://mistral.ai/news/mathstral/",
+      "locator": "July 16 heading and model release",
+      "evidence": "The named 7B mathematical model is released on July 16."
+    },
+    {
+      "release_id": "RD045",
+      "release_date": "2024-03-27",
+      "url": "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm",
+      "locator": "March 27 heading; weights availability",
+      "evidence": "Both base and instruction-tuned DBRX weights are explicitly available at launch."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

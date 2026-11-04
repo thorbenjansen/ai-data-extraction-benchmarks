@@ -1,0 +1,663 @@
+[
+  {
+    "workbook_row": 2,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Automated extraction should move from one-shot generation toward context engineering, including retrieval, dynamic context assembly, tools, interaction, and memory.",
+    "source_page": "Ms. p. 5-6 (PDF p. 12-13)",
+    "steps": [
+      "retrieve",
+      "coordinate",
+      "collaborate"
+    ],
+    "benchmark_families": [
+      "MultiHiertt",
+      "FinQA",
+      "DocMath-Eval",
+      "MMLongBench-Doc",
+      "LongBench",
+      "RULER",
+      "HELMET",
+      "NoLiMa",
+      "InfiniteBench",
+      "MRCR",
+      "DROP",
+      "FRAMES",
+      "MuSiQue",
+      "HotpotQA",
+      "QASPER",
+      "SciAssess",
+      "LAB-Bench",
+      "CORE-Bench",
+      "GAIA",
+      "BFCL",
+      "ComplexBench",
+      "ALCE",
+      "RoBBR",
+      "TrialReviewBench",
+      "Manalyzer",
+      "TableBench",
+      "ProcessBench",
+      "NIAH",
+      "LooGLE",
+      "MM-NIAH",
+      "VaxScope"
+    ],
+    "limitation": "Component evidence; integrated context-engineering workflow remains unvalidated."
+  },
+  {
+    "workbook_row": 3,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Accurate full-text retrieval and document conversion are foundational because digits, tables, and layout errors can distort downstream extraction.",
+    "source_page": "Ms. p. 6 (PDF p. 13)",
+    "steps": [
+      "documents"
+    ],
+    "benchmark_families": [
+      "OmniDocBench",
+      "READoc",
+      "olmOCR-bench",
+      "OCRBench",
+      "MDPBench",
+      "PureDocBench",
+      "Dr. DocBench",
+      "DocVQA",
+      "MMLongBench-Doc",
+      "UNIKIE-BENCH",
+      "CONSORT diagrams"
+    ],
+    "limitation": "Component evidence for preservation of source information."
+  },
+  {
+    "workbook_row": 4,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Directly processing long PDFs without retrieval or dynamic assembly may bury rare relevant evidence in large amounts of irrelevant text.",
+    "source_page": "Ms. p. 6 (PDF p. 13)",
+    "steps": [
+      "retrieve"
+    ],
+    "benchmark_families": [
+      "MultiHiertt",
+      "DocMath-Eval",
+      "MMLongBench-Doc",
+      "LongBench",
+      "RULER",
+      "HELMET",
+      "NoLiMa",
+      "InfiniteBench",
+      "MRCR",
+      "DROP",
+      "FRAMES",
+      "MuSiQue",
+      "HotpotQA",
+      "QASPER",
+      "SciAssess",
+      "LAB-Bench",
+      "GAIA",
+      "ALCE",
+      "RoBBR",
+      "TrialReviewBench",
+      "Manalyzer",
+      "NIAH",
+      "LooGLE",
+      "MM-NIAH",
+      "VaxScope"
+    ],
+    "limitation": "Component evidence; not proof that retrieval improves every extraction workflow."
+  },
+  {
+    "workbook_row": 5,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Some apparent LLM extraction errors may originate in opaque PDF parsing; small table or number parsing errors can cascade into major downstream errors.",
+    "source_page": "Ms. p. 9 (PDF p. 16)",
+    "steps": [
+      "documents",
+      "product"
+    ],
+    "benchmark_families": [
+      "OmniDocBench",
+      "READoc",
+      "olmOCR-bench",
+      "OCRBench",
+      "MDPBench",
+      "PureDocBench",
+      "Dr. DocBench",
+      "DocVQA",
+      "MMLongBench-Doc",
+      "TrialReviewBench",
+      "Manalyzer",
+      "DTBench",
+      "UNIKIE-BENCH",
+      "VaxScope",
+      "CONSORT diagrams"
+    ],
+    "limitation": "Parsing and extraction are measurable separately; their causal error propagation requires a linked study."
+  },
+  {
+    "workbook_row": 6,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Tool calling or program-aided reasoning should let LLMs identify inputs while deterministic functions perform formal calculations.",
+    "source_page": "Ms. p. 16 (PDF p. 23)",
+    "steps": [
+      "derive",
+      "coordinate"
+    ],
+    "benchmark_families": [
+      "ChartQA",
+      "ChartQAPro",
+      "HiTab",
+      "MultiHiertt",
+      "TAT-QA",
+      "FinQA",
+      "DocMath-Eval",
+      "LongBench",
+      "RULER",
+      "HELMET",
+      "NoLiMa",
+      "InfiniteBench",
+      "GSM-Symbolic",
+      "DROP",
+      "FRAMES",
+      "MuSiQue",
+      "HotpotQA",
+      "SciAssess",
+      "LAB-Bench",
+      "CORE-Bench",
+      "GAIA",
+      "BFCL",
+      "ComplexBench",
+      "TrialReviewBench",
+      "Manalyzer",
+      "DTBench",
+      "TableBench",
+      "NUPA",
+      "Symbolic manipulation",
+      "ProcessBench",
+      "LooGLE"
+    ],
+    "limitation": "Component evidence for numerical programs and tool calls; effect-size rule selection remains task-specific."
+  },
+  {
+    "workbook_row": 7,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Complex extraction requires intermediate steps, repeated retrieval, and regulated reasoning processes; chain-of-thought alone is not enough.",
+    "source_page": "Ms. p. 17-18 (PDF p. 24-25)",
+    "steps": [
+      "coordinate",
+      "retrieve"
+    ],
+    "benchmark_families": [
+      "MultiHiertt",
+      "FinQA",
+      "DocMath-Eval",
+      "MMLongBench-Doc",
+      "LongBench",
+      "RULER",
+      "HELMET",
+      "NoLiMa",
+      "InfiniteBench",
+      "MRCR",
+      "DROP",
+      "FRAMES",
+      "MuSiQue",
+      "HotpotQA",
+      "QASPER",
+      "SciAssess",
+      "LAB-Bench",
+      "CORE-Bench",
+      "GAIA",
+      "BFCL",
+      "ComplexBench",
+      "ALCE",
+      "RoBBR",
+      "TrialReviewBench",
+      "Manalyzer",
+      "TableBench",
+      "ProcessBench",
+      "NIAH",
+      "LooGLE",
+      "MM-NIAH",
+      "VaxScope"
+    ],
+    "limitation": "Component and indirect agent evidence; no claim that chain-of-thought alone solves extraction."
+  },
+  {
+    "workbook_row": 8,
+    "source": "Commentary 2: Macnamara",
+    "claim": "The research agenda should explicitly address AI-induced bias, complacency, illusion of exploratory breadth, study quality, and AI methodology.",
+    "source_page": "Ms. p. 5 (PDF p. 25)",
+    "steps": [
+      "collaborate",
+      "code",
+      "adjudicate"
+    ],
+    "benchmark_families": [
+      "GSM-Symbolic",
+      "BFCL",
+      "ComplexBench",
+      "RoBBR",
+      "DTBench",
+      "UNIKIE-BENCH",
+      "SUC",
+      "Symbolic manipulation",
+      "VaxScope",
+      "CONSORT diagrams"
+    ],
+    "limitation": "Several requirements, with substantial gaps for human attention, complacency and methodology."
+  },
+  {
+    "workbook_row": 9,
+    "source": "Commentary 2: Macnamara",
+    "claim": "AI-induced bias may affect attention, search behavior, cross-checking, and decisions, even when AI only locates evidence.",
+    "source_page": "Ms. p. 6 (PDF p. 26)",
+    "steps": [
+      "collaborate"
+    ],
+    "benchmark_families": [],
+    "limitation": "Human interaction is only indirectly covered; source-based extraction reliance needs a direct experiment."
+  },
+  {
+    "workbook_row": 10,
+    "source": "Commentary 2: Macnamara",
+    "claim": "AI can create an illusion of exploratory breadth when users believe the entire study knowledge set has been considered, although only AI-accessible material was processed.",
+    "source_page": "Ms. p. 10 (PDF p. 30)",
+    "steps": [
+      "retrieve",
+      "collaborate"
+    ],
+    "benchmark_families": [
+      "MultiHiertt",
+      "DocMath-Eval",
+      "MMLongBench-Doc",
+      "LongBench",
+      "RULER",
+      "HELMET",
+      "NoLiMa",
+      "InfiniteBench",
+      "MRCR",
+      "DROP",
+      "FRAMES",
+      "MuSiQue",
+      "HotpotQA",
+      "QASPER",
+      "SciAssess",
+      "LAB-Bench",
+      "GAIA",
+      "ALCE",
+      "RoBBR",
+      "TrialReviewBench",
+      "Manalyzer",
+      "NIAH",
+      "LooGLE",
+      "MM-NIAH",
+      "VaxScope"
+    ],
+    "limitation": "Retrieval tests and interaction tests do not measure the proposed illusion of exhaustive coverage."
+  },
+  {
+    "workbook_row": 11,
+    "source": "Commentary 2: Macnamara",
+    "claim": "Iterative prompt optimization will likely improve accuracy but may bias AI outputs toward the user's expectations.",
+    "source_page": "Ms. p. 13 (PDF p. 33)",
+    "steps": [
+      "adjudicate"
+    ],
+    "benchmark_families": [],
+    "limitation": "Sycophancy tests are relevant to model response changes; iterative prompt-optimization bias in extraction is not directly tested."
+  },
+  {
+    "workbook_row": 12,
+    "source": "Commentary 2: Macnamara",
+    "claim": "Iterative shaping may undermine the independence of an AI judge or AI second coder, especially under disagreement.",
+    "source_page": "Ms. p. 14 (PDF p. 34)",
+    "steps": [
+      "adjudicate"
+    ],
+    "benchmark_families": [],
+    "limitation": "Valid-versus-invalid criticism is tested in component tasks; AI-judge independence under extraction disagreement remains open."
+  },
+  {
+    "workbook_row": 13,
+    "source": "Commentary 2: Macnamara",
+    "claim": "Because meta-analyses influence theory, research, and policy, rigor must take priority over efficiency under speed-accuracy tradeoffs.",
+    "source_page": "Ms. p. 16 (PDF p. 36)",
+    "steps": [],
+    "benchmark_families": [],
+    "limitation": "Normative priority; benchmark scores cannot establish the appropriate ethical balance between rigor and efficiency."
+  },
+  {
+    "workbook_row": 14,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Long-context capacity does not solve extraction automatically because LLMs may use information unevenly across the input.",
+    "source_page": "Ms. p. 12 (PDF p. 19)",
+    "steps": [
+      "retrieve"
+    ],
+    "benchmark_families": [
+      "MultiHiertt",
+      "DocMath-Eval",
+      "MMLongBench-Doc",
+      "LongBench",
+      "RULER",
+      "HELMET",
+      "NoLiMa",
+      "InfiniteBench",
+      "MRCR",
+      "DROP",
+      "FRAMES",
+      "MuSiQue",
+      "HotpotQA",
+      "QASPER",
+      "SciAssess",
+      "LAB-Bench",
+      "GAIA",
+      "ALCE",
+      "RoBBR",
+      "TrialReviewBench",
+      "Manalyzer",
+      "NIAH",
+      "LooGLE",
+      "MM-NIAH",
+      "VaxScope"
+    ],
+    "limitation": "Long-context component tasks directly operationalize uneven retrieval/retention, with task-specific conditions."
+  },
+  {
+    "workbook_row": 15,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "The context-engineering examples are illustrative possibilities, not empirically validated performance evidence.",
+    "source_page": "Ms. p. 22 (PDF p. 29)",
+    "steps": [],
+    "benchmark_families": [],
+    "limitation": "Status of the commentary examples; later component benchmarks do not retroactively validate those examples."
+  },
+  {
+    "workbook_row": 16,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "LLM-based extraction raises legal and ethical issues around PDF parsing, RAG, derivative works, paywalled material, and commercial providers.",
+    "source_page": "Ms. p. 29-30 (PDF p. 36-37)",
+    "steps": [],
+    "benchmark_families": [],
+    "limitation": "Legal and ethical requirements; no empirical capability benchmark can establish permission or compliance."
+  },
+  {
+    "workbook_row": 17,
+    "source": "Commentary 2: Macnamara",
+    "claim": "LLM risk-of-bias accuracy varies strongly across domains and criteria; errors may come from wrong judgment or failed evidence location.",
+    "source_page": "Ms. p. 11 (PDF p. 31)",
+    "steps": [
+      "code",
+      "retrieve",
+      "verify"
+    ],
+    "benchmark_families": [
+      "MultiHiertt",
+      "DocMath-Eval",
+      "MMLongBench-Doc",
+      "LongBench",
+      "RULER",
+      "HELMET",
+      "NoLiMa",
+      "InfiniteBench",
+      "MRCR",
+      "GSM-Symbolic",
+      "DROP",
+      "FRAMES",
+      "MuSiQue",
+      "HotpotQA",
+      "QASPER",
+      "SciAssess",
+      "LAB-Bench",
+      "CORE-Bench",
+      "GAIA",
+      "BFCL",
+      "ComplexBench",
+      "ALCE",
+      "RoBBR",
+      "TrialReviewBench",
+      "Manalyzer",
+      "DTBench",
+      "UNIKIE-BENCH",
+      "SUC",
+      "Symbolic manipulation",
+      "ProcessBench",
+      "NIAH",
+      "LooGLE",
+      "MM-NIAH",
+      "VaxScope",
+      "CONSORT diagrams"
+    ],
+    "limitation": "RoBBR separates methodological evidence and judgments in biomedical reports; transfer to other domains is limited."
+  },
+  {
+    "workbook_row": 18,
+    "source": "Commentary 2: Macnamara",
+    "claim": "An occasional second coder will have less experience with the literature and may miss quirks, inconsistencies, and follow-up implications.",
+    "source_page": "Ms. p. 15 (PDF p. 35)",
+    "steps": [
+      "collaborate"
+    ],
+    "benchmark_families": [],
+    "limitation": "No benchmark here isolates occasional-coder experience or accumulated review-specific expertise."
+  },
+  {
+    "workbook_row": 19,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "The original article is valuable because it establishes a psychology-specific benchmark across Psychological Bulletin reviews, variable types, and LLMs.",
+    "source_page": "Ms. p. 4-5 (PDF p. 11-12)",
+    "steps": [],
+    "benchmark_families": [],
+    "limitation": "Historical characterization of the original study; it must be checked against that study, not a new general-purpose benchmark."
+  },
+  {
+    "workbook_row": 20,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Low accuracy for effect-size and numerical variables indicates that simple one-shot instruction-following is insufficient for complex psychology extraction.",
+    "source_page": "Ms. p. 5 (PDF p. 12)",
+    "steps": [
+      "derive",
+      "product"
+    ],
+    "benchmark_families": [
+      "ChartQA",
+      "ChartQAPro",
+      "HiTab",
+      "MultiHiertt",
+      "TAT-QA",
+      "FinQA",
+      "DocMath-Eval",
+      "InfiniteBench",
+      "GSM-Symbolic",
+      "DROP",
+      "TrialReviewBench",
+      "Manalyzer",
+      "DTBench",
+      "UNIKIE-BENCH",
+      "TableBench",
+      "NUPA",
+      "Symbolic manipulation",
+      "ProcessBench",
+      "LooGLE",
+      "VaxScope",
+      "CONSORT diagrams"
+    ],
+    "limitation": "Related numerical tasks motivate tests; the original agreement design cannot identify whether a human or LLM was wrong."
+  },
+  {
+    "workbook_row": 21,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "TOPICS+M variables are easier than effect-size variables because effect-size extraction often requires symbolic induction, numerical derivation, and multiple source cues.",
+    "source_page": "Ms. p. 14 (PDF p. 21)",
+    "steps": [
+      "bind",
+      "derive"
+    ],
+    "benchmark_families": [
+      "OmniDocBench",
+      "READoc",
+      "olmOCR-bench",
+      "OCRBench",
+      "MDPBench",
+      "PureDocBench",
+      "Dr. DocBench",
+      "DocVQA",
+      "ChartQA",
+      "ChartQAPro",
+      "HiTab",
+      "MultiHiertt",
+      "TAT-QA",
+      "FinQA",
+      "DocMath-Eval",
+      "MMLongBench-Doc",
+      "LongBench",
+      "InfiniteBench",
+      "GSM-Symbolic",
+      "DROP",
+      "QASPER",
+      "SciAssess",
+      "LAB-Bench",
+      "TrialReviewBench",
+      "Manalyzer",
+      "DTBench",
+      "UNIKIE-BENCH",
+      "TableBench",
+      "SUC",
+      "NUPA",
+      "Symbolic manipulation",
+      "ProcessBench",
+      "LooGLE",
+      "MM-NIAH",
+      "VaxScope",
+      "CONSORT diagrams"
+    ],
+    "limitation": "Component tasks distinguish numerical reasoning and binding, but do not independently explain the original variable-level discrepancies."
+  },
+  {
+    "workbook_row": 22,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "Coding-protocol reproducibility is itself a source of error; missing codebooks and inferred variable meanings reduce accuracy.",
+    "source_page": "Ms. p. 19-20 (PDF p. 26-27)",
+    "steps": [
+      "protocol",
+      "code"
+    ],
+    "benchmark_families": [
+      "GSM-Symbolic",
+      "BFCL",
+      "ComplexBench",
+      "RoBBR",
+      "DTBench",
+      "UNIKIE-BENCH",
+      "SUC",
+      "Symbolic manipulation",
+      "VaxScope",
+      "CONSORT diagrams"
+    ],
+    "limitation": "Instruction/schema tasks assess explicit constraints; reconstruction of missing codebooks and construct validity remain unresolved."
+  },
+  {
+    "workbook_row": 23,
+    "source": "Commentary 2: Macnamara",
+    "claim": "The original article shows impressive efficiency but inconsistent accuracy, creating a speed-accuracy tradeoff.",
+    "source_page": "Ms. p. 2 and 4 (PDF p. 22, 24)",
+    "steps": [],
+    "benchmark_families": [],
+    "limitation": "The original study measured agreement, not independently established human/model accuracy or a manipulated speed–accuracy trade-off."
+  },
+  {
+    "workbook_row": 24,
+    "source": "Commentary 2: Macnamara",
+    "claim": "The AI role (assistant, independent second coder, judge) may affect deference and errors differently, especially when the role implies authority.",
+    "source_page": "Ms. p. 6-7 (PDF p. 26-27)",
+    "steps": [
+      "collaborate"
+    ],
+    "benchmark_families": [],
+    "limitation": "Existing interaction tasks are indirect for assistant/second-coder/judge roles in evidence extraction."
+  },
+  {
+    "workbook_row": 25,
+    "source": "Commentary 2: Macnamara",
+    "claim": "Meta-analyst responsibility alone does not prevent algorithmic reliance; meaningful human control requires methods for detecting errors and omissions.",
+    "source_page": "Ms. p. 9 (PDF p. 29)",
+    "steps": [
+      "verify",
+      "collaborate",
+      "audit"
+    ],
+    "benchmark_families": [
+      "HELMET",
+      "FRAMES",
+      "HotpotQA",
+      "QASPER",
+      "LAB-Bench",
+      "CORE-Bench",
+      "ALCE",
+      "RoBBR",
+      "DTBench",
+      "ProcessBench",
+      "LooGLE"
+    ],
+    "limitation": "Error-detection tasks cover components; meaningful human control over the target workflow is not established."
+  },
+  {
+    "workbook_row": 26,
+    "source": "Commentary 2: Macnamara",
+    "claim": "The original article found higher accuracy for LLM ensembles than single models, but this should be replicated across model sets.",
+    "source_page": "Ms. p. 13 (PDF p. 33)",
+    "steps": [],
+    "benchmark_families": [],
+    "limitation": "A historical ensemble finding needs replication under a matched reference and model-set design; this register does not supply it."
+  },
+  {
+    "workbook_row": 27,
+    "source": "Commentary 2: Macnamara",
+    "claim": "Several recommendations from the original article have not yet been empirically tested and should be evaluated before broad adoption.",
+    "source_page": "Ms. p. 13 (PDF p. 33)",
+    "steps": [],
+    "benchmark_families": [],
+    "limitation": "Component evidence does not validate the original workflow recommendations as an integrated intervention."
+  },
+  {
+    "workbook_row": 28,
+    "source": "Commentary 2: Macnamara",
+    "claim": "Bringing in a second human only for human-AI disagreements is efficient, but remains untested and depends on AI role and interaction design.",
+    "source_page": "Ms. p. 14 (PDF p. 34)",
+    "steps": [
+      "adjudicate",
+      "collaborate"
+    ],
+    "benchmark_families": [],
+    "limitation": "Disagreement-only human review has not been validated by these component tasks; shared errors also require auditing."
+  },
+  {
+    "workbook_row": 29,
+    "source": "Commentary 1: Lu & Wang",
+    "claim": "A second human coder can serve as a noise ceiling for interpreting LLM performance under human error and protocol ambiguity.",
+    "source_page": "Ms. p. 21 (PDF p. 28)",
+    "steps": [],
+    "benchmark_families": [],
+    "limitation": "A second human provides another judgment, not an infallible ceiling. No general human–LLM ranking follows from agreement."
+  },
+  {
+    "workbook_row": 30,
+    "source": "Commentary 2: Macnamara",
+    "claim": "Risk-of-bias and study-quality assessment were outside the original article's target variables, but could become part of an expanded AI research agenda.",
+    "source_page": "Ms. p. 10-11 (PDF p. 30-31)",
+    "steps": [
+      "code"
+    ],
+    "benchmark_families": [
+      "GSM-Symbolic",
+      "BFCL",
+      "ComplexBench",
+      "RoBBR",
+      "DTBench",
+      "UNIKIE-BENCH",
+      "SUC",
+      "Symbolic manipulation",
+      "VaxScope",
+      "CONSORT diagrams"
+    ],
+    "limitation": "RoBBR is a directly relevant study-quality task, distinct from the variables in the original agreement study."
+  }
+]

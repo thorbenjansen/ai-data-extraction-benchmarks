@@ -1,0 +1,22 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "f06fc3b416d90b73293a8fa272698d9c155c931ce9de795014655e1d479235a4",
+  "primary_sources": [
+    "https://openai.com/index/introducing-gpt-5/",
+    "https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT",
+    "https://huggingface.co/allenai/led-base-16384",
+    "https://huggingface.co/google/tapas-base-finetuned-wtq"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD035",
+      "release_date": "2025-08-07",
+      "url": "https://openai.com/index/introducing-gpt-5/",
+      "locator": "August 7 heading and model availability",
+      "evidence": "The original GPT-5 release is dated August 7. Reasoning effort is a configuration, not a later model release."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

@@ -1,0 +1,36 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "693acaeb984b33da6ee8b38ade984711c7b967a387a6b2c6a3970b47fd1099c0",
+  "primary_sources": [
+    "https://openai.com/index/new-models-and-developer-products-announced-at-devday/",
+    "https://www.anthropic.com/news/claude-2",
+    "https://www.anthropic.com/news/claude-2-1",
+    "https://www.anthropic.com/news/introducing-claude"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD039",
+      "release_date": "2023-11-06",
+      "url": "https://openai.com/index/new-models-and-developer-products-announced-at-devday/",
+      "locator": "November 6 heading; GPT-4 Turbo preview API identifier",
+      "evidence": "The post explicitly releases gpt-4-1106-preview; unspecified Turbo aliases do not inherit this date."
+    },
+    {
+      "release_id": "RD040",
+      "release_date": "2023-07-11",
+      "url": "https://www.anthropic.com/news/claude-2",
+      "locator": "July 11 heading and availability",
+      "evidence": "The named Claude 2 model is made publicly available at launch."
+    },
+    {
+      "release_id": "RD041",
+      "release_date": "2023-11-21",
+      "url": "https://www.anthropic.com/news/claude-2-1",
+      "locator": "November 21 heading and API availability",
+      "evidence": "The named 2.1 update is available in the API on November 21."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

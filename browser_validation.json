@@ -1,0 +1,11 @@
+{
+  "challenge_overview_inspected": true,
+  "workflow_overview_inspected": true,
+  "workflow_A_filter_families": 24,
+  "atlas_C_filter_families": 17,
+  "atlas_D_filter_families": 20,
+  "combined_B_and_derive_families": 6,
+  "figure_click_opens_raw_data": true,
+  "source_values_absent_from_overview": true,
+  "notes": "Checked in the in-app browser on localhost. Current saved validation also checks every local source link and all retained figure hashes."
+}

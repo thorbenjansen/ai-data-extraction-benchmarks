@@ -1,0 +1,64 @@
+{
+  "MATH_REPORTED": {
+    "apa": "Hendrycks, D., Burns, C., Kadavath, S., Arora, A., Basart, S., Tang, E., Song, D., & Steinhardt, J. (2021). Measuring mathematical problem solving with the MATH dataset. arXiv. https://arxiv.org/abs/2103.03874",
+    "title": "Measuring mathematical problem solving with the MATH dataset",
+    "authors": [
+      "Hendrycks, Dan",
+      "Burns, Collin",
+      "Kadavath, Saurav",
+      "Arora, Akul",
+      "Basart, Steven",
+      "Tang, Eric",
+      "Song, Dawn",
+      "Steinhardt, Jacob"
+    ],
+    "year": "2021",
+    "url": "https://arxiv.org/abs/2103.03874",
+    "metadata_url": "https://arxiv.org/abs/2103.03874",
+    "metadata_sha256": "b84bb6703b798c02389e7cb9f23f2e10bca4ecdfc431e7e15b69179cd152c864",
+    "kind": "Paper",
+    "verified_basis": "Primary bibliographic metadata"
+  },
+  "MATH_L5": {
+    "apa": "Hendrycks, D., Burns, C., Kadavath, S., Arora, A., Basart, S., Tang, E., Song, D., & Steinhardt, J. (2021). Measuring mathematical problem solving with the MATH dataset. arXiv. https://arxiv.org/abs/2103.03874",
+    "title": "Measuring mathematical problem solving with the MATH dataset",
+    "authors": [
+      "Hendrycks, Dan",
+      "Burns, Collin",
+      "Kadavath, Saurav",
+      "Arora, Akul",
+      "Basart, Steven",
+      "Tang, Eric",
+      "Song, Dawn",
+      "Steinhardt, Jacob"
+    ],
+    "year": "2021",
+    "url": "https://arxiv.org/abs/2103.03874",
+    "metadata_url": "https://arxiv.org/abs/2103.03874",
+    "metadata_sha256": "b84bb6703b798c02389e7cb9f23f2e10bca4ecdfc431e7e15b69179cd152c864",
+    "kind": "Paper",
+    "verified_basis": "Primary bibliographic metadata"
+  },
+  "MATH500_ES": {
+    "apa": "bezir. (n.d.). MATH-500-multilingual (Spanish subset) [Data set]. Hugging Face. Retrieved October 31, 2026, from https://huggingface.co/datasets/bezir/MATH-500-multilingual",
+    "title": "MATH-500-multilingual (Spanish subset)",
+    "authors": [
+      "bezir"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/datasets/bezir/MATH-500-multilingual",
+    "kind": "Data set",
+    "verified_basis": "Dataset explicitly linked as Spanish MATH500 by EXAONE 4.0 report §3.2; R001"
+  },
+  "LONGBCHAT": {
+    "apa": "Qwen Team. (2024). Qwen2.5 technical report. arXiv. https://arxiv.org/abs/2412.15115",
+    "title": "Qwen2.5 technical report",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "2024",
+    "url": "https://arxiv.org/abs/2412.15115",
+    "kind": "Report",
+    "verified_basis": "LongBench-Chat evaluation table in the official report; dataset/scoring-range ambiguity is explicitly retained"
+  }
+}

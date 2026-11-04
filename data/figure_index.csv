@@ -1,0 +1,51 @@
+﻿figure_id,family,filename,benchmark_ids,conditions,observations,dated_observations,conditions_with_multiple_dated_cohorts,approximate_observations,source_refs,vector_pdf,source_values_csv,steps,visible_observations,commentary_challenges
+F001,OmniDocBench,F001_OmniDocBench,OMNI,46,250,116,26,0,S002,figures/F001_OmniDocBench.pdf,data/F001_OmniDocBench_values.csv,documents;bind,114,A
+F002,READoc,F002_READoc,READOC,3,34,5,2,0,S022,figures/F002_READoc.pdf,data/F002_READoc_values.csv,documents;bind,5,A
+F003,olmOCR-bench,F003_olmOCR_bench,OLMOCR,11,120,36,9,0,S023;S024,figures/F003_olmOCR_bench.pdf,data/F003_olmOCR_bench_values.csv,documents;bind,36,A
+F004,OCRBench,F004_OCRBench,OCR1;OCR2,14,39,20,5,0,S012,figures/F004_OCRBench.pdf,data/F004_OCRBench_values.csv,documents;bind,20,A
+F005,MDPBench,F005_MDPBench,MDP,2,46,16,2,0,S025,figures/F005_MDPBench.pdf,data/F005_MDPBench_values.csv,documents;bind,16,A
+F006,PureDocBench,F006_PureDocBench,PUREDOC,3,174,174,3,0,S026,figures/F006_PureDocBench.pdf,data/F006_PureDocBench_values.csv,documents;bind,174,A
+F007,Dr. DocBench,F007_Dr_DocBench,DRDOC,2,24,6,2,0,S027,figures/F007_Dr_DocBench.pdf,data/F007_Dr_DocBench_values.csv,documents;bind,6,A
+F008,DocVQA,F008_DocVQA,DOCVQA,7,17,5,2,0,S012,figures/F008_DocVQA.pdf,data/F008_DocVQA_values.csv,documents;bind,3,A
+F010,ChartQA,F010_ChartQA,CHARTQA,6,16,5,2,0,S012,figures/F010_ChartQA.pdf,data/F010_ChartQA_values.csv,bind;derive,3,A; C
+F011,ChartQAPro,F011_ChartQAPro,CHARTPRO,3,64,3,0,0,S029,figures/F011_ChartQAPro.pdf,data/F011_ChartQAPro_values.csv,bind;derive,3,A; C
+F012,HiTab,F012_HiTab,HITAB,1,9,0,0,0,S030,figures/F012_HiTab.pdf,data/F012_HiTab_values.csv,bind;derive,0,A; C
+F013,MultiHiertt,F013_MultiHiertt,MULTIHI,1,11,0,0,0,S048,figures/F013_MultiHiertt.pdf,data/F013_MultiHiertt_values.csv,retrieve;bind;derive,0,A; B; C
+F014,TAT-QA,F014_TAT_QA,TATQA,3,11,0,0,0,S071,figures/F014_TAT_QA.pdf,data/F014_TAT_QA_values.csv,bind;derive,0,A; C
+F015,FinQA,F015_FinQA,FINQA,2,25,0,0,0,S031,figures/F015_FinQA.pdf,data/F015_FinQA_values.csv,bind;coordinate;derive,0,A; C; D
+F018,DocMath-Eval,F018_DocMath_Eval,DOCMATH,8,384,176,8,0,S011,figures/F018_DocMath_Eval.pdf,data/F018_DocMath_Eval_values.csv,retrieve;bind;derive,176,A; B; C
+F019,MMLongBench-Doc,F019_MMLongBench_Doc,MMLONGDOC,6,38,13,4,0,S033,figures/F019_MMLongBench_Doc.pdf,data/F019_MMLongBench_Doc_values.csv,documents;retrieve;bind,13,A; B
+F020,LongBench,F020_LongBench,LONGB2;LONGB1,30,440,284,16,0,S001;S034,figures/F020_LongBench.pdf,data/F020_LongBench_values.csv,retrieve;bind;coordinate,278,B; D
+F021,RULER,F021_RULER,RULER,30,373,218,20,0,S009,figures/F021_RULER.pdf,data/F021_RULER_values.csv,retrieve;coordinate,218,B; D
+F022,HELMET,F022_HELMET,HELMET,1,6,6,1,0,S035,figures/F022_HELMET.pdf,data/F022_HELMET_values.csv,retrieve;coordinate;verify,6,B; D
+F023,NoLiMa,F023_NoLiMa,NOLIMA,8,138,50,6,0,S010,figures/F023_NoLiMa.pdf,data/F023_NoLiMa_values.csv,retrieve;coordinate,50,B; D
+F024,InfiniteBench,F024_InfiniteBench,INFINITE,3,12,3,0,0,S036,figures/F024_InfiniteBench.pdf,data/F024_InfiniteBench_values.csv,retrieve;coordinate;derive,3,B; C; D
+F026,MRCR,F026_MRCR,MRCR,17,28,28,4,4,S003;S004;S005;S006,figures/F026_MRCR.pdf,data/F026_MRCR_values.csv,retrieve,28,B
+F031,GSM-Symbolic,F031_GSM_Symbolic,GSMSYM,2,50,36,2,0,S039,figures/F031_GSM_Symbolic.pdf,data/F031_GSM_Symbolic_values.csv,protocol;code;derive,36,C
+F033,DROP,F033_DROP,DROP,6,24,17,5,0,S013,figures/F033_DROP.pdf,data/F033_DROP_values.csv,retrieve;bind;derive,17,B; C
+F034,FRAMES,F034_FRAMES,FRAMES,3,8,8,2,0,S013,figures/F034_FRAMES.pdf,data/F034_FRAMES_values.csv,retrieve;coordinate;verify,8,B; D
+F035,MuSiQue,F035_MuSiQue,MUSIQUE,2,14,0,0,0,S074,figures/F035_MuSiQue.pdf,data/F035_MuSiQue_values.csv,retrieve;coordinate,0,B; D
+F036,HotpotQA,F036_HotpotQA,HOTPOT,3,9,0,0,0,S065,figures/F036_HotpotQA.pdf,data/F036_HotpotQA_values.csv,retrieve;coordinate;verify,0,B; D
+F038,QASPER,F038_QASPER,QASPER,2,12,0,0,0,S072,figures/F038_QASPER.pdf,data/F038_QASPER_values.csv,retrieve;bind;verify,0,B
+F040,SciAssess,F040_SciAssess,SCIASS,2,22,2,0,0,S043,figures/F040_SciAssess.pdf,data/F040_SciAssess_values.csv,retrieve;bind;coordinate,2,A; B; D
+F041,LAB-Bench,F041_LAB_Bench,LAB,16,104,64,12,0,S014,figures/F041_LAB_Bench.pdf,data/F041_LAB_Bench_values.csv,retrieve;bind;coordinate;verify,64,A; B; D
+F044,CORE-Bench,F044_CORE_Bench,CORE,6,12,12,6,0,S046,figures/F044_CORE_Bench.pdf,data/F044_CORE_Bench_values.csv,coordinate;verify,12,D
+F046,GAIA,F046_GAIA,GAIA,3,18,0,0,0,S047,figures/F046_GAIA.pdf,data/F046_GAIA_values.csv,retrieve;coordinate,0,B; D
+F047,BFCL,F047_BFCL,BFCL,65,752,201,20,0,S018,figures/F047_BFCL.pdf,data/F047_BFCL_values.csv,protocol;code;coordinate,196,D
+F051,ComplexBench,F051_ComplexBench,COMPLEX,1,15,3,1,0,S051,figures/F051_ComplexBench.pdf,data/F051_ComplexBench_values.csv,protocol;code;coordinate,3,D
+F059,ALCE,F059_ALCE,ALCE,2,26,4,0,0,S054,figures/F059_ALCE.pdf,data/F059_ALCE_values.csv,retrieve;verify,4,B
+F065,RoBBR,F065_RoBBR,ROBBR,3,17,6,3,0,S015,figures/F065_RoBBR.pdf,data/F065_RoBBR_values.csv,retrieve;code;verify,6,B
+F066,TrialReviewBench,F066_TrialReviewBench,TRIAL,4,12,4,0,0,S079,figures/F066_TrialReviewBench.pdf,data/F066_TrialReviewBench_values.csv,retrieve;bind;coordinate;product,4,B; D
+F067,Manalyzer,F067_Manalyzer,MANALYZER,13,152,56,13,0,S019,figures/F067_Manalyzer.pdf,data/F067_Manalyzer_values.csv,retrieve;bind;coordinate;derive;product,56,A; B; C; D
+F068,DTBench,F068_DTBench,DTBENCH,3,24,21,3,0,S058,figures/F068_DTBench.pdf,data/F068_DTBench_values.csv,protocol;bind;code;derive;verify;product,21,C
+F069,UNIKIE-BENCH,F069_UNIKIE_BENCH,UNIKIE,2,30,4,2,0,S059,figures/F069_UNIKIE_BENCH.pdf,data/F069_UNIKIE_BENCH_values.csv,protocol;documents;bind;code;product,4,A
+F073,TableBench,F073_TableBench,TABLEBENCH,13,336,40,4,0,S017,figures/F073_TableBench.pdf,data/F073_TableBench_values.csv,bind;coordinate;derive,40,A; C; D
+F074,SUC,F074_SUC,SUC,2,10,0,0,0,S064,figures/F074_SUC.pdf,data/F074_SUC_values.csv,protocol;bind;code,0,A
+F075,NUPA,F075_NUPA,NUPA,4,12,12,4,0,S066,figures/F075_NUPA.pdf,data/F075_NUPA_values.csv,derive,12,C
+F076,Symbolic manipulation,F076_Symbolic_manipulation,SYMBOL,1,5,1,0,0,S078,figures/F076_Symbolic_manipulation.pdf,data/F076_Symbolic_manipulation_values.csv,protocol;code;derive,1,C
+F077,ProcessBench,F077_ProcessBench,PROCESS,1,25,13,1,0,S060,figures/F077_ProcessBench.pdf,data/F077_ProcessBench_values.csv,coordinate;derive;verify,13,C; D
+F078,NIAH,F078_NIAH,NIAH,1,6,6,1,0,S035,figures/F078_NIAH.pdf,data/F078_NIAH_values.csv,retrieve,6,B
+F079,LooGLE,F079_LooGLE,LOOGLE;LOOGLE2,2,26,5,1,0,S061;S062,figures/F079_LooGLE.pdf,data/F079_LooGLE_values.csv,retrieve;coordinate;derive;verify,5,B; C; D
+F080,MM-NIAH,F080_MM_NIAH,MMNIAH,2,18,6,2,0,S063,figures/F080_MM_NIAH.pdf,data/F080_MM_NIAH_values.csv,retrieve;bind,6,A; B
+F081,VaxScope,F081_VaxScope,VAX,8,24,0,0,0,S021,figures/F081_VaxScope.pdf,data/F081_VaxScope_values.csv,protocol;retrieve;bind;code;product,0,B
+F082,CONSORT diagrams,F082_CONSORT_diagrams,CONSORT,12,72,48,12,0,S020,figures/F082_CONSORT_diagrams.pdf,data/F082_CONSORT_diagrams_values.csv,protocol;documents;bind;code;product,48,A

@@ -1,0 +1,50 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "31e700119f71d96fe627bb920fa6f1b239c5faeb387df7f47e9bfa8d20071ae2",
+  "primary_sources": [
+    "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+    "https://openai.com/index/introducing-openai-o1-preview/",
+    "https://www.anthropic.com/news/claude-3-family",
+    "https://www.anthropic.com/news/claude-3-haiku"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD001",
+      "release_date": "2024-07-18",
+      "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/",
+      "locator": "Date heading and Availability and pricing",
+      "evidence": "The July 18 announcement states that GPT-4o mini is available in the API that day."
+    },
+    {
+      "release_id": "RD002",
+      "release_date": "2024-09-12",
+      "url": "https://openai.com/index/introducing-openai-o1-preview/",
+      "locator": "September 12 heading; launch and API access",
+      "evidence": "The launch announcement makes o1-preview and o1-mini available on September 12."
+    },
+    {
+      "release_id": "RD003",
+      "release_date": "2024-03-04",
+      "url": "https://www.anthropic.com/news/claude-3-family",
+      "locator": "March 4 heading and model availability",
+      "evidence": "Opus and Sonnet launch on March 4; the dated API identifiers are checkpoint names, not February releases."
+    },
+    {
+      "release_id": "RD004",
+      "release_date": "2024-03-13",
+      "url": "https://www.anthropic.com/news/claude-3-haiku",
+      "locator": "March 13 heading; first announcement paragraph",
+      "evidence": "Haiku is released in the API on March 13; March 7 in its API name is not the public release."
+    },
+    {
+      "release_id": "RD067",
+      "release_date": "2024-03-04",
+      "url": "https://www.anthropic.com/news/claude-3-family",
+      "locator": "March 4 heading and model availability",
+      "evidence": "Opus and Sonnet launch on March 4; the dated API identifiers are checkpoint names, not February releases."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

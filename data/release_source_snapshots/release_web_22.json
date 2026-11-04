@@ -1,0 +1,29 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "4c8d24fa4e565be704e91336e6d433c2447ffc03cee2e4e672669396465610d0",
+  "primary_sources": [
+    "https://github.com/OpenGVLab/InternVL",
+    "https://huggingface.co/HuggingFaceM4/idefics2-8b",
+    "https://github.com/baaivision/Emu",
+    "https://github.com/NVlabs/VILA"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD047",
+      "release_date": "2024-04-18",
+      "url": "https://github.com/OpenGVLab/InternVL",
+      "locator": "News 2024/04/18; InternVL-Chat-V1-5 model-zoo row",
+      "evidence": "The developer explicitly dates the release of InternVL-Chat-V1-5."
+    },
+    {
+      "release_id": "RD049",
+      "release_date": "2023-12",
+      "url": "https://github.com/baaivision/Emu",
+      "locator": "News 2023.12; model, code and demo availability",
+      "evidence": "The developer records the month when the Emu2 model became available; no day is inferred."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

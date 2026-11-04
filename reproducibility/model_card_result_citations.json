@@ -1,0 +1,574 @@
+{
+  "MC007": {
+    "apa": "Qwen Team. (n.d.). Qwen/Qwen3-235B-A22B-Instruct-2507 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+    "title": "Qwen/Qwen3-235B-A22B-Instruct-2507 [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC008": {
+    "apa": "Qwen Team. (n.d.). Qwen/Qwen3-235B-A22B-Thinking-2507 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "title": "Qwen/Qwen3-235B-A22B-Thinking-2507 [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC009": {
+    "apa": "Qwen Team. (n.d.). Qwen/Qwen3-30B-A3B-Thinking-2507 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+    "title": "Qwen/Qwen3-30B-A3B-Thinking-2507 [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC010": {
+    "apa": "Qwen Team. (n.d.). Qwen/Qwen3-4B-Instruct-2507 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+    "title": "Qwen/Qwen3-4B-Instruct-2507 [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC013": {
+    "apa": "Qwen Team. (n.d.). Qwen/Qwen3-VL-8B-Instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
+    "title": "Qwen/Qwen3-VL-8B-Instruct [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC014": {
+    "apa": "Qwen Team. (n.d.). Qwen/Qwen3.5-9B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.5-9B",
+    "title": "Qwen/Qwen3.5-9B [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC015": {
+    "apa": "DeepSeek-AI. (n.d.). deepseek-ai/DeepSeek-R1-0528 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+    "title": "deepseek-ai/DeepSeek-R1-0528 [Model card / technical evaluation]",
+    "authors": [
+      "DeepSeek-AI"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC016": {
+    "apa": "DeepSeek-AI. (n.d.). deepseek-ai/DeepSeek-V3 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/deepseek-ai/DeepSeek-V3",
+    "title": "deepseek-ai/DeepSeek-V3 [Model card / technical evaluation]",
+    "authors": [
+      "DeepSeek-AI"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC017": {
+    "apa": "DeepSeek-AI. (n.d.). deepseek-ai/DeepSeek-V3.2-Exp [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp",
+    "title": "deepseek-ai/DeepSeek-V3.2-Exp [Model card / technical evaluation]",
+    "authors": [
+      "DeepSeek-AI"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC023": {
+    "apa": "Microsoft. (n.d.). microsoft/phi-4 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/microsoft/phi-4",
+    "title": "microsoft/phi-4 [Model card / technical evaluation]",
+    "authors": [
+      "Microsoft"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/microsoft/phi-4",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC024": {
+    "apa": "Microsoft. (n.d.). microsoft/Phi-3.5-mini-instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/microsoft/Phi-3.5-mini-instruct",
+    "title": "microsoft/Phi-3.5-mini-instruct [Model card / technical evaluation]",
+    "authors": [
+      "Microsoft"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/microsoft/Phi-3.5-mini-instruct",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC025": {
+    "apa": "Microsoft. (n.d.). microsoft/Phi-3-medium-128k-instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/microsoft/Phi-3-medium-128k-instruct",
+    "title": "microsoft/Phi-3-medium-128k-instruct [Model card / technical evaluation]",
+    "authors": [
+      "Microsoft"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/microsoft/Phi-3-medium-128k-instruct",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC029": {
+    "apa": "Mistral AI. (n.d.). mistralai/Mistral-Small-3.2-24B-Instruct-2506 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+    "title": "mistralai/Mistral-Small-3.2-24B-Instruct-2506 [Model card / technical evaluation]",
+    "authors": [
+      "Mistral AI"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC031": {
+    "apa": "MiniMax. (n.d.). MiniMaxAI/MiniMax-Text-01 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
+    "title": "MiniMaxAI/MiniMax-Text-01 [Model card / technical evaluation]",
+    "authors": [
+      "MiniMax"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/MiniMaxAI/MiniMax-Text-01",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC032": {
+    "apa": "Moonshot AI. (n.d.). moonshotai/Kimi-K2-Instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+    "title": "moonshotai/Kimi-K2-Instruct [Model card / technical evaluation]",
+    "authors": [
+      "Moonshot AI"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC033": {
+    "apa": "Moonshot AI. (n.d.). moonshotai/Kimi-K2.5 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/moonshotai/Kimi-K2.5",
+    "title": "moonshotai/Kimi-K2.5 [Model card / technical evaluation]",
+    "authors": [
+      "Moonshot AI"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC037": {
+    "apa": "OpenGVLab. (n.d.). OpenGVLab/InternVL3_5-8B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/OpenGVLab/InternVL3_5-8B",
+    "title": "OpenGVLab/InternVL3_5-8B [Model card / technical evaluation]",
+    "authors": [
+      "OpenGVLab"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/OpenGVLab/InternVL3_5-8B",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC038": {
+    "apa": "PaddleOCR Team. (n.d.). PaddlePaddle/PaddleOCR-VL [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
+    "title": "PaddlePaddle/PaddleOCR-VL [Model card / technical evaluation]",
+    "authors": [
+      "PaddleOCR Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC041": {
+    "apa": "Nanonets. (n.d.). nanonets/Nanonets-OCR2-3B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/nanonets/Nanonets-OCR2-3B",
+    "title": "nanonets/Nanonets-OCR2-3B [Model card / technical evaluation]",
+    "authors": [
+      "Nanonets"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/nanonets/Nanonets-OCR2-3B",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC042": {
+    "apa": "rednote-hilab. (n.d.). rednote-hilab/dots.ocr [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/rednote-hilab/dots.ocr",
+    "title": "rednote-hilab/dots.ocr [Model card / technical evaluation]",
+    "authors": [
+      "rednote-hilab"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/rednote-hilab/dots.ocr",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC044": {
+    "apa": "Z.ai. (n.d.). zai-org/GLM-OCR [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/zai-org/GLM-OCR",
+    "title": "zai-org/GLM-OCR [Model card / technical evaluation]",
+    "authors": [
+      "Z.ai"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/zai-org/GLM-OCR",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC045": {
+    "apa": "TableGPT Team. (n.d.). tablegpt/TableGPT2-7B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/tablegpt/TableGPT2-7B",
+    "title": "tablegpt/TableGPT2-7B [Model card / technical evaluation]",
+    "authors": [
+      "TableGPT Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/tablegpt/TableGPT2-7B",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC047": {
+    "apa": "IBM Granite Team. (n.d.). ibm-granite/granite-3.2-8b-instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/ibm-granite/granite-3.2-8b-instruct",
+    "title": "ibm-granite/granite-3.2-8b-instruct [Model card / technical evaluation]",
+    "authors": [
+      "IBM Granite Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/ibm-granite/granite-3.2-8b-instruct",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC048": {
+    "apa": "Technology Innovation Institute. (n.d.). tiiuae/Falcon3-10B-Instruct [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/tiiuae/Falcon3-10B-Instruct",
+    "title": "tiiuae/Falcon3-10B-Instruct [Model card / technical evaluation]",
+    "authors": [
+      "Technology Innovation Institute"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/tiiuae/Falcon3-10B-Instruct",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC049": {
+    "apa": "LG AI Research. (n.d.). LGAI-EXAONE/EXAONE-4.0-32B [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B",
+    "title": "LGAI-EXAONE/EXAONE-4.0-32B [Model card / technical evaluation]",
+    "authors": [
+      "LG AI Research"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC050": {
+    "apa": "NVIDIA. (n.d.). nvidia/Llama-3_1-Nemotron-Ultra-253B-v1 [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1",
+    "title": "nvidia/Llama-3_1-Nemotron-Ultra-253B-v1 [Model card / technical evaluation]",
+    "authors": [
+      "NVIDIA"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/nvidia/Llama-3_1-Nemotron-Ultra-253B-v1",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC051": {
+    "apa": "Meta. (n.d.). Meta Llama 3.3 official model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_3/MODEL_CARD.md",
+    "title": "Meta Llama 3.3 official model card [Model card / technical evaluation]",
+    "authors": [
+      "Meta"
+    ],
+    "year": "n.d.",
+    "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_3/MODEL_CARD.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC052": {
+    "apa": "Meta. (n.d.). Meta Llama 3.1 official model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_1/MODEL_CARD.md",
+    "title": "Meta Llama 3.1 official model card [Model card / technical evaluation]",
+    "authors": [
+      "Meta"
+    ],
+    "year": "n.d.",
+    "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama3_1/MODEL_CARD.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC054": {
+    "apa": "Meta. (n.d.). Meta Llama 4 official model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama4/MODEL_CARD.md",
+    "title": "Meta Llama 4 official model card [Model card / technical evaluation]",
+    "authors": [
+      "Meta"
+    ],
+    "year": "n.d.",
+    "url": "https://raw.githubusercontent.com/meta-llama/llama-models/main/models/llama4/MODEL_CARD.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC055": {
+    "apa": "Google. (n.d.). Google Gemma 3 official documentation source [Model card / technical evaluation]. Retrieved October 31, 2026, from https://raw.githubusercontent.com/google-gemma/docs/main/docs/models/gemma-3/index.md",
+    "title": "Google Gemma 3 official documentation source [Model card / technical evaluation]",
+    "authors": [
+      "Google"
+    ],
+    "year": "n.d.",
+    "url": "https://raw.githubusercontent.com/google-gemma/docs/main/docs/models/gemma-3/index.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC056": {
+    "apa": "Google. (n.d.). Google Gemma 2 official model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://ai.google.dev/gemma/docs/core/model_card_2",
+    "title": "Google Gemma 2 official model card [Model card / technical evaluation]",
+    "authors": [
+      "Google"
+    ],
+    "year": "n.d.",
+    "url": "https://ai.google.dev/gemma/docs/core/model_card_2",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC057": {
+    "apa": "Qwen Team. (2025). Qwen3 technical report. arXiv. https://arxiv.org/abs/2505.09388",
+    "title": "Qwen3 technical report",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "2025",
+    "url": "https://arxiv.org/abs/2505.09388",
+    "kind": "Report",
+    "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R008"
+  },
+  "MC058": {
+    "apa": "Qwen Team. (2024). Qwen2.5 technical report. arXiv. https://arxiv.org/abs/2412.15115",
+    "title": "Qwen2.5 technical report",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "2024",
+    "url": "https://arxiv.org/abs/2412.15115",
+    "kind": "Report",
+    "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R009"
+  },
+  "MC061": {
+    "apa": "Anthropic. (n.d.). Claude Sonnet 4.6 system card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://anthropic.com/claude-sonnet-4-6-system-card",
+    "title": "Claude Sonnet 4.6 system card [Model card / technical evaluation]",
+    "authors": [
+      "Anthropic"
+    ],
+    "year": "n.d.",
+    "url": "https://anthropic.com/claude-sonnet-4-6-system-card",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC062": {
+    "apa": "Anthropic. (n.d.). Claude Opus 4.6 system card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://anthropic.com/claude-opus-4-6-system-card",
+    "title": "Claude Opus 4.6 system card [Model card / technical evaluation]",
+    "authors": [
+      "Anthropic"
+    ],
+    "year": "n.d.",
+    "url": "https://anthropic.com/claude-opus-4-6-system-card",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC069": {
+    "apa": "OpenAI. (n.d.). GPT-5.6 release and system-card links [Model card / technical evaluation]. Retrieved October 31, 2026, from https://openai.com/index/gpt-5-6/",
+    "title": "GPT-5.6 release and system-card links [Model card / technical evaluation]",
+    "authors": [
+      "OpenAI"
+    ],
+    "year": "n.d.",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC071": {
+    "apa": "Google DeepMind. (n.d.). Gemini 2.5 Pro model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf",
+    "title": "Gemini 2.5 Pro model card [Model card / technical evaluation]",
+    "authors": [
+      "Google DeepMind"
+    ],
+    "year": "n.d.",
+    "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Pro-Model-Card.pdf",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC073": {
+    "apa": "GLM-4.5 Team. (2025). GLM-4.5: Agentic, reasoning, and coding (ARC) foundation models. arXiv. https://arxiv.org/abs/2508.06471",
+    "title": "GLM-4.5: Agentic, reasoning, and coding (ARC) foundation models",
+    "authors": [
+      "GLM-4.5 Team"
+    ],
+    "year": "2025",
+    "url": "https://arxiv.org/abs/2508.06471",
+    "kind": "Report",
+    "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R010"
+  },
+  "MC075": {
+    "apa": "Qwen Team. (2025). Qwen3-VL technical report. arXiv. https://arxiv.org/abs/2511.21631",
+    "title": "Qwen3-VL technical report",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "2025",
+    "url": "https://arxiv.org/abs/2511.21631",
+    "kind": "Report",
+    "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R011"
+  },
+  "MC076": {
+    "apa": "Cohere. (n.d.). Command A technical report [Model card / technical evaluation]. Retrieved October 31, 2026, from https://cohere.com/research/papers/command-a-technical-report.pdf",
+    "title": "Command A technical report [Model card / technical evaluation]",
+    "authors": [
+      "Cohere"
+    ],
+    "year": "n.d.",
+    "url": "https://cohere.com/research/papers/command-a-technical-report.pdf",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC079": {
+    "apa": "AI21 Labs. (n.d.). Jamba 1.5 Large public model-card page [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/ai21labs/AI21-Jamba-1.5-Large",
+    "title": "Jamba 1.5 Large public model-card page [Model card / technical evaluation]",
+    "authors": [
+      "AI21 Labs"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/ai21labs/AI21-Jamba-1.5-Large",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC081": {
+    "apa": "Qwen Team. (2025). Qwen3 technical report. arXiv. https://arxiv.org/abs/2505.09388",
+    "title": "Qwen3 technical report",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "2025",
+    "url": "https://arxiv.org/abs/2505.09388",
+    "kind": "Report",
+    "verified_basis": "Author/team and title on the official report; publication year and landing-page metadata audited in R008"
+  },
+  "MC083": {
+    "apa": "Qwen Team. (n.d.). Qwen3.5 27B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.5-27B/raw/main/README.md",
+    "title": "Qwen3.5 27B model card [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-27B/raw/main/README.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC084": {
+    "apa": "Qwen Team. (n.d.). Qwen3.5 397B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.5-397B-A17B/raw/main/README.md",
+    "title": "Qwen3.5 397B model card [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B/raw/main/README.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC088": {
+    "apa": "Mistral AI. (n.d.). Mistral NeMo model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407/raw/main/README.md",
+    "title": "Mistral NeMo model card [Model card / technical evaluation]",
+    "authors": [
+      "Mistral AI"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407/raw/main/README.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC089": {
+    "apa": "Cohere. (n.d.). Command R+ public model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/CohereForAI/c4ai-command-r-plus",
+    "title": "Command R+ public model card [Model card / technical evaluation]",
+    "authors": [
+      "Cohere"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/CohereForAI/c4ai-command-r-plus",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC091": {
+    "apa": "Qwen Team. (n.d.). Qwen3.8 27B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.8-27B/raw/main/README.md",
+    "title": "Qwen3.8 27B model card [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B/raw/main/README.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC095": {
+    "apa": "Moonshot AI. (n.d.). Kimi K3 model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/moonshotai/Kimi-K3/raw/main/README.md",
+    "title": "Kimi K3 model card [Model card / technical evaluation]",
+    "authors": [
+      "Moonshot AI"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3/raw/main/README.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC096": {
+    "apa": "OpenAI. (n.d.). GPT6 Astra official release evaluations [Model card / technical evaluation]. Retrieved October 31, 2026, from https://openai.com/index/gpt-6-astra/",
+    "title": "GPT6 Astra official release evaluations [Model card / technical evaluation]",
+    "authors": [
+      "OpenAI"
+    ],
+    "year": "n.d.",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC098": {
+    "apa": "Qwen Team. (n.d.). Qwen3.6 27B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.6-27B/raw/main/README.md",
+    "title": "Qwen3.6 27B model card [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3.6-27B/raw/main/README.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC099": {
+    "apa": "Qwen Team. (n.d.). Qwen3.6 35B model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/Qwen/Qwen3.6-35B-A3B/raw/main/README.md",
+    "title": "Qwen3.6 35B model card [Model card / technical evaluation]",
+    "authors": [
+      "Qwen Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B/raw/main/README.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  },
+  "MC100": {
+    "apa": "PaddleOCR Team. (n.d.). PaddleOCR VL1.6 model card [Model card / technical evaluation]. Retrieved October 31, 2026, from https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6/raw/main/README.md",
+    "title": "PaddleOCR VL1.6 model card [Model card / technical evaluation]",
+    "authors": [
+      "PaddleOCR Team"
+    ],
+    "year": "n.d.",
+    "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6/raw/main/README.md",
+    "kind": "Model card / evaluation",
+    "verified_basis": "Official provider/account and frozen model-card/report URL; publication date not inferred"
+  }
+}

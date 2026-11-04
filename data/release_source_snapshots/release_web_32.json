@@ -1,0 +1,9 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "16ec7624db2ae01bffc621a7f02bf7da483925d597e602db957bc70f171833f1",
+  "primary_sources": [],
+  "reviewed_release_facts": [],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

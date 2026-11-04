@@ -1,0 +1,36 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "169b8bc0c94267dc20d86ea4815f25d8772430096120f05166d5753a7194a4cf",
+  "primary_sources": [
+    "https://api-docs.deepseek.com/news/news250120",
+    "https://api-docs.deepseek.com/news/news250528",
+    "https://www.minimax.io/news/minimax-01-series-1",
+    "https://qwenlm.github.io/blog/qwq-32b/"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD021",
+      "release_date": "2025-03-06",
+      "url": "https://qwenlm.github.io/blog/qwq-32b/",
+      "locator": "March 6 heading and release announcement",
+      "evidence": "The developer introduces the released QwQ-32B model on March 6."
+    },
+    {
+      "release_id": "RD033",
+      "release_date": "2025-01-20",
+      "url": "https://api-docs.deepseek.com/news/news250120/",
+      "locator": "Release history navigation: DeepSeek-R1 Release 2025/01/20",
+      "evidence": "The official release-history entry dates the original R1 separately from R1-0528."
+    },
+    {
+      "release_id": "RD034",
+      "release_date": "2025-05-28",
+      "url": "https://api-docs.deepseek.com/news/news250528/",
+      "locator": "Release history entry and release title",
+      "evidence": "The provider records the May 28 release of the named 0528 update."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

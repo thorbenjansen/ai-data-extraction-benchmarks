@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "reviewed": "2026-10-31",
+  "scope": "Data-adaptive article overview; representative condition selection plus automated reconciliation of all 82 families, 581 conditions and 4940 records",
+  "details": "browser_check.json",
+  "article_pdf_pages": 534,
+  "article_vector_panels": 409
+}

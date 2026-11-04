@@ -1,0 +1,29 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "a1a564aa7f93f9fb74e34691ea74e210b5857c1d99621121c39f6df47a1c3b81",
+  "primary_sources": [
+    "https://blog.google/technology/developers/gemma-open-models/",
+    "https://arxiv.org/html/2208.05051",
+    "https://openai.com/index/better-language-models/",
+    "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD070",
+      "release_date": "2023-12-12",
+      "url": "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/",
+      "locator": "December 12 heading; model availability",
+      "evidence": "The developer announces Phi-2 release and model availability in Azure AI Studio."
+    },
+    {
+      "release_id": "RD071",
+      "release_date": "2024-02-21",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-open-models/",
+      "locator": "February 21 heading; weights release list",
+      "evidence": "The 2B and 7B base and instruction-tuned original Gemma models are released together."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

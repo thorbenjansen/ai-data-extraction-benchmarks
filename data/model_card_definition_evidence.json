@@ -1,0 +1,81 @@
+{
+  "pdf_definition_locators": [
+    {
+      "source_id": "R001",
+      "page": 8,
+      "locator": "MATH500 [35]"
+    },
+    {
+      "source_id": "R001",
+      "page": 9,
+      "locator": "n = 4"
+    },
+    {
+      "source_id": "R007",
+      "page": 12,
+      "locator": "1,402"
+    },
+    {
+      "source_id": "R013",
+      "page": 5,
+      "locator": "Automatic Evaluation Metrics"
+    }
+  ],
+  "omnidoc_v1_0_crosscheck": {
+    "source": "R007",
+    "table": "Table 3",
+    "method": "dots.ocr",
+    "columns": [
+      "Overall Edit EN",
+      "Overall Edit ZH",
+      "Text Edit EN",
+      "Text Edit ZH",
+      "Formula Edit EN",
+      "Formula Edit ZH",
+      "Table TEDS EN",
+      "Table TEDS ZH",
+      "Table Edit EN",
+      "Table Edit ZH",
+      "Reading Order Edit EN",
+      "Reading Order Edit ZH"
+    ],
+    "printed_values": [
+      0.125,
+      0.16,
+      0.032,
+      0.066,
+      0.329,
+      0.416,
+      88.6,
+      89.0,
+      0.099,
+      0.092,
+      0.04,
+      0.067
+    ],
+    "checked_observation_ids": [
+      "V04170",
+      "V04171",
+      "V04172",
+      "V04173",
+      "V04174",
+      "V04175",
+      "V04176",
+      "V04177",
+      "V04178",
+      "V04179",
+      "V04180",
+      "V04181"
+    ],
+    "exact_native_value_match": true,
+    "pdf_page": 12
+  },
+  "other_definitions": {
+    "R006": "Open LLM Leaderboard v2 uses strict instruction- and prompt-level IFEval and separate normalized task measures.",
+    "R014": "Archived Open LLM Leaderboard v1 specifies TruthfulQA MC2.",
+    "MC058": "Qwen2.5 footnote 2 identifies strict-prompt evaluation.",
+    "MC076": "Command A Table 3/Appendix B.7 define the mean of strict prompt and instruction accuracies. Table 5 takes the maximum of FC and prompted where both exist; the actual BFCL major version is not pinned.",
+    "MC050": "Each evaluation table explicitly separates Reasoning Off and Reasoning On.",
+    "MC071": "The GA label conflicts with the explicit preview-06-05 model ID, so no release date is assigned."
+  }
+}

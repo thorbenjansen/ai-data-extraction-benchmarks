@@ -1,0 +1,33 @@
+{
+  "commentary": "Lu, J., & Wang, X. T. Tackling challenges in large language model-based data extraction: A commentary on Jansen et al. (2025). Supplied manuscript BUL-2025-2112R3.",
+  "source_file": "Commentary.pdf",
+  "source_sha256": "4f59cf13d7e3327c59e99f899c88157d3cac4ed262a9e3c9686cd9d13e74fdf0",
+  "pagination": "One-based physical PDF pages in the supplied review file; section headings disambiguate the duplicated manuscript copy.",
+  "challenges": {
+    "A": {
+      "name": "Parsing and understanding semi-structured data",
+      "pages": "15–17",
+      "definition": "Preserve and interpret document layouts, reading order, text, digits, formulas, tables and figures."
+    },
+    "B": {
+      "name": "Understanding long contexts",
+      "pages": "18–21",
+      "definition": "Locate and combine relevant evidence across long or dispersed contexts, including distractors and non-literal retrieval."
+    },
+    "C": {
+      "name": "Arithmetic and symbolic induction",
+      "pages": "21–23",
+      "definition": "Process numbers and symbols, apply numerical operations and derive requested values from reported inputs."
+    },
+    "D": {
+      "name": "Complex reasoning",
+      "pages": "23–25",
+      "definition": "Coordinate multiple intermediate steps, including retrieval, tool use, planning, computation and checking."
+    }
+  },
+  "mapping_status": "Authored task/construct interpretation, not empirical evidence of transfer or task success.",
+  "A2_rule": "Tables and figures (legacy A2) are part of Challenge A, not an additional commentary challenge.",
+  "additional_mapping_evidence": {
+    "Manalyzer_C": "https://arxiv.org/html/2505.20310v2#S5.T4; Table 4, Level 3 requires calculation."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "389dbdfc4e98c7b99b0538872e426efc43e1ebfc3d635ffeb5621a4b5f51cac1",
+  "primary_sources": [
+    "https://cohere.com/blog/command-r-plus-microsoft-azure",
+    "https://cohere.com/blog/command-r",
+    "https://cohere.com/blog/command-r-plus",
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/phi-3-5-small-language-models-with-big-potential/4226856"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD029",
+      "release_date": "2024-04-04",
+      "url": "https://cohere.com/blog/command-r-plus-microsoft-azure",
+      "locator": "April 4 heading and release paragraph",
+      "evidence": "The original Command R+ is released on April 4. Later 0824 versions are separate."
+    },
+    {
+      "release_id": "RD030",
+      "release_date": "2024-03-11",
+      "url": "https://cohere.com/blog/command-r",
+      "locator": "March 11 heading and availability",
+      "evidence": "The original Command R model is released on March 11; 0824 versions are excluded."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

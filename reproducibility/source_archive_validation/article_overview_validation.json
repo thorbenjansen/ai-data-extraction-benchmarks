@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "article_families": 82,
+  "article_conditions": 581,
+  "article_observations": 4940,
+  "article_pdf_pages": 534,
+  "article_vector_panels": 409,
+  "article_visible_curves": 94,
+  "unchanged_source_values_sha256": "08f20401425f54009dbb2f461f6d2e2fc5b1ce482fcc925d92d2846b1a5c3b81",
+  "checks": [
+    "All 4940 article observation rows match the frozen raw fields without expansion or loss",
+    "Each observation has the correct benchmark APA, result APA and reviewed release evidence",
+    "Family and condition registers reconcile source, added, visible and definition-held counts",
+    "All 82 families occur exactly once in the overview; all 581 condition choices have the matching benchmark APA",
+    "All current vector panels retain their source text, axes and native values and have the correct benchmark-version APA",
+    "All 82 family chapters have verified PDF locations and bookmarks; raw values remain in linked source tables"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "original_values": 3855,
+  "added_source_values": 1085,
+  "total_values": 4940,
+  "families_with_additions": 25,
+  "matched_model_labels": 144,
+  "new_plot_eligible_definitions": 960,
+  "new_raw_only_definitions": 125,
+  "new_values_with_inherited_release": 596,
+  "resolution_status_counts": {
+    "Resolved within a separate reported source condition": 606,
+    "Unresolved definition; raw data only": 125,
+    "Qualified source-specific condition": 354
+  },
+  "all_original_values_preserved": true
+}

@@ -1,0 +1,14 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "eb477d15ee826a60ca63a5ce3804e91d9ce2a0a6ecaaaf8a05add787ccaa63df",
+  "primary_sources": [
+    "https://arxiv.org/html/2305.13062v3",
+    "https://arxiv.org/html/2311.12983v3",
+    "https://arxiv.org/html/2310.13548v2",
+    "https://arxiv.org/html/2210.03350v2"
+  ],
+  "reviewed_release_facts": [],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

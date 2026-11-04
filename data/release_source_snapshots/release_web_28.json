@@ -1,0 +1,63 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "9522c95596fa276b31911ce5c9a4e2d4f5e8dac1b69f813296db02c87b1b27ca",
+  "primary_sources": [
+    "https://developers.googleblog.com/en/gemini-2-family-expands/",
+    "https://developers.googleblog.com/en/new-gemini-model-updates-09-24/",
+    "https://ai.google.dev/gemini-api/docs/changelog"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD059",
+      "release_date": "2024-05-23",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "locator": "May 23, 2024; named 001 checkpoints",
+      "evidence": "The API release history identifies general availability of the exact 001 model identifiers on May 23."
+    },
+    {
+      "release_id": "RD061",
+      "release_date": "2024-12-11",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "locator": "December 11, 2024",
+      "evidence": "The API history dates the Flash Experimental preview separately from the later stable model."
+    },
+    {
+      "release_id": "RD062",
+      "release_date": "2024-12-11",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "locator": "December 11, 2024",
+      "evidence": "The benchmark explicitly identifies the December preview cohort; a stable February release is not substituted."
+    },
+    {
+      "release_id": "RD063",
+      "release_date": "2025-02-05",
+      "url": "https://developers.googleblog.com/en/gemini-2-family-expands/",
+      "locator": "February 5 heading; Flash generally available",
+      "evidence": "The stable 001 release is dated February 5 and kept separate from December experimental results."
+    },
+    {
+      "release_id": "RD064",
+      "release_date": "2025-01-21",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "locator": "January 21, 2025",
+      "evidence": "The exact 01-21 thinking-preview update is released on January 21."
+    },
+    {
+      "release_id": "RD068",
+      "release_date": "2024-05-23",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "locator": "May 23, 2024; named 001 checkpoints",
+      "evidence": "The API release history identifies general availability of the exact 001 model identifiers on May 23."
+    },
+    {
+      "release_id": "RD069",
+      "release_date": "2024-05-23",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "locator": "May 23, 2024; named 001 checkpoints",
+      "evidence": "The API release history identifies general availability of the exact 001 model identifiers on May 23."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

@@ -1,0 +1,22 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "c0a35d9e80773d991c4eedc86e7f4e526358f86491aeb51298947f8130796a00",
+  "primary_sources": [
+    "https://openai.com/index/gpt-2-1-5b-release/",
+    "https://openai.com/index/gpt-2-6-month-follow-up/",
+    "https://z.ai/blog/glm-4.5",
+    "https://www.minimax.io/news/minimax-01-series"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD051",
+      "release_date": "2019-11-05",
+      "url": "https://openai.com/index/gpt-2-1-5b-release/",
+      "locator": "November 5 heading and model weights announcement",
+      "evidence": "The 1.5B GPT-2 weights are released on November 5, not the earlier small-model launch."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

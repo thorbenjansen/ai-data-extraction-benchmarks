@@ -1,0 +1,148 @@
+[
+  {
+    "bid": "REF_S024",
+    "url": "https://arxiv.org/abs/2510.19817",
+    "bib": {},
+    "metadata": {
+      "citation_title": [
+        "olmOCR 2: Unit Test Rewards for Document OCR"
+      ],
+      "citation_author": [
+        "Poznanski, Jake",
+        "Soldaini, Luca",
+        "Lo, Kyle"
+      ],
+      "citation_date": [
+        "2025/10/22"
+      ],
+      "citation_online_date": [
+        "2025/10/22"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2510.19817"
+      ],
+      "citation_arxiv_id": [
+        "2510.19817"
+      ],
+      "citation_abstract": [
+        "We present olmOCR 2, the latest in our family of powerful OCR systems for converting digitized print documents, like PDFs, into clean, naturally ordered plain text. olmOCR 2 is powered by olmOCR-2-7B-1025, a specialized, 7B vision language model (VLM) trained using reinforcement learning with verifiable rewards (RLVR), where our rewards are a diverse set of binary unit tests. To scale unit test creation, we develop a pipeline for generating synthetic documents with diverse and challenging layouts, known ground-truth HTML source code, and extracted test cases. We show that RL training on these test cases results in state-of-the-art performance on olmOCR-Bench, our English-language OCR benchmark, with the largest improvements in math formula conversion, table parsing, and multi-column layouts compared to previous versions. We release our model, data and code under permissive open licenses."
+      ]
+    },
+    "metadata_url": "https://arxiv.org/abs/2510.19817",
+    "metadata_sha256": "6d4b14306dadf44db87bf5a6c2c77542f75c841bc3a72f76d8ce1f81de47a8e3",
+    "accessed": "2026-10-30",
+    "status": "Metadata captured"
+  },
+  {
+    "bid": "REF_S048",
+    "url": "https://arxiv.org/abs/2206.01347",
+    "bib": {},
+    "metadata": {
+      "citation_title": [
+        "MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data"
+      ],
+      "citation_author": [
+        "Zhao, Yilun",
+        "Li, Yunxiang",
+        "Li, Chenying",
+        "Zhang, Rui"
+      ],
+      "citation_date": [
+        "2022/06/03"
+      ],
+      "citation_online_date": [
+        "2022/06/03"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2206.01347"
+      ],
+      "citation_arxiv_id": [
+        "2206.01347"
+      ],
+      "citation_abstract": [
+        "Numerical reasoning over hybrid data containing both textual and tabular content (e.g., financial reports) has recently attracted much attention in the NLP community. However, existing question answering (QA) benchmarks over hybrid data only include a single flat table in each document and thus lack examples of multi-step numerical reasoning across multiple hierarchical tables. To facilitate data analytical progress, we construct a new large-scale benchmark, MultiHiertt, with QA pairs over Multi Hierarchical Tabular and Textual data. MultiHiertt is built from a wealth of financial reports and has the following unique characteristics: 1) each document contain multiple tables and longer unstructured texts; 2) most of tables contained are hierarchical; 3) the reasoning process required for each question is more complex and challenging than existing benchmarks; and 4) fine-grained annotations of reasoning processes and supporting facts are provided to reveal complex numerical reasoning. We further introduce a novel QA model termed MT2Net, which first applies facts retrieving to extract relevant supporting facts from both tables and text and then uses a reasoning module to perform symbolic reasoning over retrieved facts. We conduct comprehensive experiments on various baselines. The experimental results show that MultiHiertt presents a strong challenge for existing baselines whose results lag far behind the performance of human experts. The dataset and code are publicly available at https://github.com/psunlpgroup/MultiHiertt."
+      ]
+    },
+    "metadata_url": "https://arxiv.org/abs/2206.01347",
+    "metadata_sha256": "8e040b034a3163c228134a1311986ec70527f107bf71212fd23c83d6256a455f",
+    "accessed": "2026-10-30",
+    "status": "Metadata captured"
+  },
+  {
+    "bid": "REF_S078",
+    "url": "https://arxiv.org/abs/2208.05051",
+    "bib": {},
+    "metadata": {
+      "citation_title": [
+        "Limitations of Language Models in Arithmetic and Symbolic Induction"
+      ],
+      "citation_author": [
+        "Qian, Jing",
+        "Wang, Hong",
+        "Li, Zekun",
+        "Li, Shiyang",
+        "Yan, Xifeng"
+      ],
+      "citation_date": [
+        "2022/08/09"
+      ],
+      "citation_online_date": [
+        "2022/08/09"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2208.05051"
+      ],
+      "citation_arxiv_id": [
+        "2208.05051"
+      ],
+      "citation_abstract": [
+        "Recent work has shown that large pretrained Language Models (LMs) can not only perform remarkably well on a range of Natural Language Processing (NLP) tasks but also start improving on reasoning tasks such as arithmetic induction, symbolic manipulation, and commonsense reasoning with increasing size of models. However, it is still unclear what the underlying capabilities of these LMs are. Surprisingly, we find that these models have limitations on certain basic symbolic manipulation tasks such as copy, reverse, and addition. When the total number of symbols or repeating symbols increases, the model performance drops quickly. We investigate the potential causes behind this phenomenon and examine a set of possible methods, including explicit positional markers, fine-grained computation steps, and LMs with callable programs. Experimental results show that none of these techniques can solve the simplest addition induction problem completely. In the end, we introduce LMs with tutor, which demonstrates every single step of teaching. LMs with tutor is able to deliver 100% accuracy in situations of OOD and repeating symbols, shedding new insights on the boundary of large LMs in induction."
+      ]
+    },
+    "metadata_url": "https://arxiv.org/abs/2208.05051",
+    "metadata_sha256": "ed8065782f3ff9ff852040ace6104bfc93f731ca793cae2df8fcdd46da06d5a6",
+    "accessed": "2026-10-30",
+    "status": "Metadata captured"
+  },
+  {
+    "bid": "MATH500_SUBSET",
+    "url": "https://arxiv.org/abs/2305.20050",
+    "bib": {},
+    "metadata": {
+      "citation_title": [
+        "Let's Verify Step by Step"
+      ],
+      "citation_author": [
+        "Lightman, Hunter",
+        "Kosaraju, Vineet",
+        "Burda, Yura",
+        "Edwards, Harri",
+        "Baker, Bowen",
+        "Lee, Teddy",
+        "Leike, Jan",
+        "Schulman, John",
+        "Sutskever, Ilya",
+        "Cobbe, Karl"
+      ],
+      "citation_date": [
+        "2023/05/31"
+      ],
+      "citation_online_date": [
+        "2023/05/31"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2305.20050"
+      ],
+      "citation_arxiv_id": [
+        "2305.20050"
+      ],
+      "citation_abstract": [
+        "In recent years, large language models have greatly improved in their ability to perform complex multi-step reasoning. However, even state-of-the-art models still regularly produce logical mistakes. To train more reliable models, we can turn either to outcome supervision, which provides feedback for a final result, or process supervision, which provides feedback for each intermediate reasoning step. Given the importance of training reliable models, and given the high cost of human feedback, it is important to carefully compare the both methods. Recent work has already begun this comparison, but many questions still remain. We conduct our own investigation, finding that process supervision significantly outperforms outcome supervision for training models to solve problems from the challenging MATH dataset. Our process-supervised model solves 78% of problems from a representative subset of the MATH test set. Additionally, we show that active learning significantly improves the efficacy of process supervision. To support related research, we also release PRM800K, the complete dataset of 800,000 step-level human feedback labels used to train our best reward model."
+      ]
+    },
+    "metadata_url": "https://arxiv.org/abs/2305.20050",
+    "metadata_sha256": "dee70292e47278abd391da8a92a36f9a08cdff3b57b8c79aed9c06e26df99ea5",
+    "accessed": "2026-10-30",
+    "status": "Metadata captured"
+  }
+]

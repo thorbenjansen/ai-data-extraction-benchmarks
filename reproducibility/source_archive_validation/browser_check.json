@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "reviewed": "2026-10-31",
+  "surface": "Desktop in-app browser; local HTTP preview of the installed supplement",
+  "axis_policy": "Full eligible release history per source/test condition with explicit chart-specific calendar labels",
+  "checks": [
+    "Installed ProcessBench SVG shows 13 time points and its 2024-04-04 to 2024-12-20 calendar, replacing two visible points under the former fixed window",
+    "Overview condition selection switches OmniDocBench to the MC014 H2 figure and reports 2 shown, 2 undated and zero definition-held values",
+    "All 2036 eligible observations are included; 94 supported source-condition curves are visible",
+    "All 6543 calendar tick labels checked for clipping and overlap",
+    "No unsupported glyphs remain in plot labels; original model strings retained in tooltips and raw tables",
+    "Own temporary preview tab closed and local preview server stopped"
+  ],
+  "pdf_review": {
+    "pages_rendered_and_reviewed_in_contact_sheets": 534,
+    "representative_final_detail_page": 501,
+    "result": "Chart-specific calendar, marks, mean curve and APA caption are readable; final ProcessBench detail inspected after unsupported label markers were removed"
+  },
+  "screenshot": "/Users/admin/Desktop/Own Thoughts LLM Wiki/Sub_Branch_AI Data Extraction/output/intermediate/adaptive_benchmark_axes_2026-10-31/preview_adaptive_ProcessBench.png",
+  "limitations": [
+    "No mobile viewport test",
+    "No new benchmark evaluations or release-date research; values and numerical mean fits unchanged"
+  ]
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "protocol",
+    "name": "Define variables and coding rules",
+    "codes": [
+      "E"
+    ],
+    "question": "Can the system apply an explicit extraction schema and its constraints?",
+    "task": "Specify variables, eligible evidence, missing-value rules and decision criteria before extraction.",
+    "gap": "Formal instruction compliance does not validate the construct meaning of a codebook, pilot adequacy or preregistration.",
+    "anchor": "Preparation and reporting, manuscript paragraph 33"
+  },
+  {
+    "id": "documents",
+    "name": "Prepare and read source documents",
+    "codes": [
+      "A"
+    ],
+    "question": "Are text, digits, formulae, tables and reading order preserved?",
+    "task": "Read the available article, tables, figures and supplements without losing source information.",
+    "gap": "Parsing a page is not a demonstration that an entire article and all supplements were acquired or processed correctly.",
+    "anchor": "Lu and Wang, Challenges A–B; manuscript paragraphs 15–18"
+  },
+  {
+    "id": "retrieve",
+    "name": "Locate relevant evidence",
+    "codes": [
+      "B"
+    ],
+    "question": "Can the relevant information be found in long or dispersed source material?",
+    "task": "Retrieve candidate passages and retain information needed for a specific extraction question.",
+    "gap": "A retrieval score does not establish that all eligible evidence was inspected or that omissions were eliminated.",
+    "anchor": "Source-based step comparisons, manuscript paragraph 31"
+  },
+  {
+    "id": "bind",
+    "name": "Bind values to the correct unit",
+    "codes": [
+      "R",
+      "A2"
+    ],
+    "question": "Does a value refer to the intended study, sample, group, outcome and time point?",
+    "task": "Select the correct row, header, group, sample and analytical unit rather than matching an isolated number.",
+    "gap": "Table/diagram binding transfers only partly to heterogeneous psychological studies with overlapping samples and outcomes.",
+    "anchor": "Wrong-subgroup example, manuscript paragraph 29"
+  },
+  {
+    "id": "code",
+    "name": "Interpret evidence and apply coding rules",
+    "codes": [
+      "E",
+      "Q"
+    ],
+    "question": "Can source evidence be translated into the category required by the codebook?",
+    "task": "Apply semantic coding and methodological criteria, distinguishing ambiguous and unsupported interpretations.",
+    "gap": "Generic instruction following and biomedical risk-of-bias coding do not establish validity for a psychological review codebook.",
+    "anchor": "Lu and Wang, Challenge E; manuscript paragraphs 20 and 31"
+  },
+  {
+    "id": "derive",
+    "name": "Transform and calculate values",
+    "codes": [
+      "C"
+    ],
+    "question": "Are numerical inputs, units and deterministic transformations correct?",
+    "task": "Derive a requested value from reported inputs, preserving the calculation and its inputs.",
+    "gap": "Arithmetic and program execution are not direct validation of effect-size formula selection or study-specific eligibility rules.",
+    "anchor": "Lu and Wang, Challenge C; manuscript paragraphs 15, 17–18 and 33"
+  },
+  {
+    "id": "coordinate",
+    "name": "Coordinate retrieval, tools and intermediate steps",
+    "codes": [
+      "D"
+    ],
+    "question": "Can a system select tools and carry a task through several dependent operations?",
+    "task": "Combine evidence, choose executable operations and check intermediate outputs.",
+    "gap": "Research-agent and machine-learning tasks are particularly indirect proxies for data extraction; tools and budgets can differ.",
+    "anchor": "Lu and Wang, Challenge D; manuscript paragraphs 9, 15–18 and 31"
+  },
+  {
+    "id": "verify",
+    "name": "Verify source support and detect errors",
+    "codes": [
+      "F"
+    ],
+    "question": "Is the accepted value or statement supported by the specified source?",
+    "task": "Check support, contradictions, missing evidence and intermediate errors against source material.",
+    "gap": "Detection and citation metrics differ from generation accuracy and do not independently validate the benchmark reference labels.",
+    "anchor": "Product accuracy and auditability, manuscript paragraphs 28–29"
+  },
+  {
+    "id": "adjudicate",
+    "name": "Resolve disagreements without yielding to pressure",
+    "codes": [
+      "S"
+    ],
+    "question": "Does a system accept valid corrections while resisting unsupported pressure?",
+    "task": "Reconsider competing values using the source and coding rule, retaining the reason for the final decision.",
+    "gap": "Sycophancy tasks test model responses. They do not validate source-based adjudication of human–LLM extraction disagreements.",
+    "anchor": "Discrepancies and adjudication records, manuscript paragraphs 29, 31 and 33"
+  },
+  {
+    "id": "collaborate",
+    "name": "Combine human and LLM contributions",
+    "codes": [
+      "H"
+    ],
+    "question": "How do human, model and joint performance change with the interaction?",
+    "task": "Record initial judgments, timing of AI exposure, corrections, introduced errors, time and coder expertise.",
+    "gap": "The two interaction benchmarks concern coding or puzzles. No matched comparison of psychological extraction by experts, research assistants and LLMs is established by this register.",
+    "anchor": "Human–AI comparisons, manuscript paragraphs 23 and 31–33"
+  },
+  {
+    "id": "audit",
+    "name": "Retain an auditable extraction record",
+    "codes": [],
+    "question": "Can an independent reader reconstruct evidence, decisions and transformations?",
+    "task": "Preserve source locators, rejected alternatives, transformations, exposure timing, adjudication and uncertainty records.",
+    "gap": "No benchmark in this collection validates complete process auditability for the proposed extraction workflow. Citation and structured-output tests assess only components.",
+    "anchor": "Auditability definition and reporting, manuscript paragraphs 11, 28–29 and 33"
+  },
+  {
+    "id": "product",
+    "name": "Assess the complete extraction product",
+    "codes": [],
+    "question": "Are fields and their relationships correct, and is the entire record complete?",
+    "task": "Evaluate field, tuple and whole-record correctness, omissions and unsupported additions alongside time.",
+    "gap": "Direct extraction tasks cover particular documents or domains; none establishes a universal human–AI workflow for psychological evidence synthesis.",
+    "anchor": "Comparative evaluation agenda, manuscript paragraph 31"
+  }
+]

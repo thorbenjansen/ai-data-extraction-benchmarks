@@ -1,0 +1,83 @@
+﻿figure_id,family,decision,rationale,commentary_challenges,source_observations
+F001,OmniDocBench,included,"Broad full-page parsing with task-specific layout, text, table and formula annotations.",A,250
+F002,READoc,included,Whole-document PDF-to-structure extraction complements component OCR scores.,A,34
+F003,olmOCR-bench,included,Explicit unit tests localize document-parsing failures.,A,120
+F004,OCRBench,included,Visual text recognition/localization provides a distinct OCR diagnostic; versions remain separate.,A,39
+F005,MDPBench,included,Language and photographed-document variation tests robustness of source preparation.,A,46
+F006,PureDocBench,included,Clean/degraded matched documents isolate parsing robustness.,A,174
+F007,Dr. DocBench,included,Difficult long expert documents complement average-case parsing tests; failure-based sampling remains explicit.,A,24
+F008,DocVQA,included,"A clear document-grounded QA baseline, with its page-level scope retained.",A,17
+F009,InfographicVQA,excluded,Infographic question answering is less closely matched to scientific reports than the retained document/table tasks.,,26
+F010,ChartQA,included,Chart lookup and numerical reasoning test visual evidence use.,A; C,16
+F011,ChartQAPro,included,Harder chart reasoning complements ChartQA; the scores are not merged.,A; C,64
+F012,HiTab,included,Hierarchical headers and quantity/entity alignment closely match table interpretation needs.,A; C,9
+F013,MultiHiertt,included,"Combines hierarchical tables, text and multi-step numerical evidence.",A; B; C,11
+F014,TAT-QA,included,Hybrid table/text arithmetic provides interpretable document-grounded numerical tasks.,A; C,11
+F015,FinQA,included,Executable numerical programs separate reasoning operations from final answers.,A; C; D,25
+F016,TabMWP,excluded,School mathematics over tables is a more distant numerical proxy than retained scientific and financial document tasks.,,17
+F017,MathVista,excluded,"Mixed visual mathematics is less specific to extraction than the retained chart, table and numerical-processing tasks.",,32
+F018,DocMath-Eval,included,"Short/long numerical document tasks bridge retrieval, tables and derivation.",A; B; C,384
+F019,MMLongBench-Doc,included,Long multimodal documents add cross-page and unanswerable-evidence cases.,A; B,38
+F020,LongBench,included,Realistic long-context task diversity; benchmark versions and inherited subtasks stay distinct.,B; D,440
+F021,RULER,included,Controlled synthetic retrieval/tracking complements natural-document tests.,B; D,373
+F022,HELMET,included,Diverse long-context tasks and citation evaluation; component overlap is disclosed.,B; D,6
+F023,NoLiMa,included,Non-literal retrieval tests semantic evidence location beyond lexical matching.,B; D,138
+F024,InfiniteBench,included,Very-long-context tasks provide a distinct length diagnostic.,B; C; D,12
+F025,BABILong,excluded,Synthetic bAbI facts in distractor contexts add less distinct coverage than the retained retrieval and compositional QA tasks.,,18
+F026,MRCR,included,Repeated similar requests test long-context disambiguation.,B,28
+F027,LongMemEval,excluded,Conversational/agent memory is less closely matched to evidence extraction from research reports.,,34
+F028,LoCoMo,excluded,Conversational memory and temporal QA are outside the selected research-document emphasis.,,11
+F029,MATH,excluded,"Competition mathematics is a distant proxy; retain numerical processing, table reasoning and extraction-specific calculations instead.",,98
+F030,GSM8K,excluded,Grade-school mathematics is a distant proxy; retain numerical processing and robustness diagnostics instead.,,78
+F031,GSM-Symbolic,included,Matched symbolic/numerical perturbations diagnose arithmetic robustness.,C,50
+F032,BIG-Bench Hard,excluded,The composite reasoning suite has lower task specificity and overlaps narrower retained diagnostics.,,33
+F033,DROP,included,Discrete operations on textual evidence link retrieval to arithmetic.,B; C,24
+F034,FRAMES,included,Retrieval plus multi-hop factual reasoning tests dependent evidence use.,B; D,8
+F035,MuSiQue,included,Connected multi-hop evidence tests compositional reasoning.,B; D,14
+F036,HotpotQA,included,Supporting-sentence annotations make multi-hop evidence retrieval inspectable.,B; D,9
+F037,Bamboogle,excluded,Small open-domain compositional QA set; retain broader or better-targeted multi-hop and scientific QA tasks.,,6
+F038,QASPER,included,Questions and supporting evidence are anchored in complete scientific papers.,B,12
+F039,SciFact,excluded,"Scientific claim verification is relevant to verification/auditability, but the existing construct map does not link it directly to A-D.",,12
+F040,SciAssess,included,Scientific literature comprehension/extraction provides closer domain fit than generic reasoning.,A; B; D,22
+F041,LAB-Bench,included,"Literature, supplements, tables and figures are evaluated in scientific research tasks.",A; B; D,104
+F042,ScienceAgentBench,excluded,Scientific coding and execution are less closely matched to extraction than retained scientific document and coordination tasks.,,34
+F043,PaperBench,excluded,Reproducing machine-learning papers is a distant proxy for the requested extraction challenges.,,13
+F044,CORE-Bench,included,Scientific code/data reproduction provides a labelled adjacent task for multi-step execution.,D,12
+F045,MLE-bench,excluded,Kaggle machine-learning engineering is a particularly distant proxy for data extraction.,,11
+F046,GAIA,included,Multi-step tool-assisted tasks complement isolated tool-call syntax.,B; D,18
+F047,BFCL,included,Explicit tool/argument and multi-turn scoring supplies a focused coordination diagnostic.,D,752
+F048,ToolBench,excluded,"API-centric tool use adds less distinct coverage than retained BFCL, GAIA and scientific coordination tasks; API drift complicates comparisons.",,7
+F049,IFEval,excluded,Formal instruction compliance primarily addresses coding-protocol concerns outside A-D; it is not relabelled as complex reasoning.,,145
+F050,FollowBench,excluded,Instruction compliance primarily addresses coding-protocol concerns outside A-D.,,26
+F051,ComplexBench,included,Dependencies between constraints test composition beyond isolated instruction compliance.,D,15
+F052,SycophancyEval,excluded,"Model sycophancy concerns response independence, outside the selected A-D scope.",,4
+F053,SycEval,excluded,Sycophancy under rebuttal is the primary construct; mathematical content alone is insufficient to prioritize this as a numerical benchmark.,,12
+F054,Big-Big-SycoBench,excluded,Response to valid/invalid criticism primarily concerns independence and adjudication outside A-D.,,20
+F055,SycophancyBench,excluded,User-pushback and subjective response changes are outside A-D and have limited reference validity.,,2
+F056,TruthfulQA,excluded,Closed-book misconception avoidance is distant from document-grounded extraction and has no direct A-D mapping.,,44
+F057,HaluEval,excluded,Hallucination detection primarily concerns source faithfulness rather than A-D.,,22
+F058,SimpleQA,excluded,Short factual recall is distant from document-grounded extraction and has no direct A-D mapping.,,40
+F059,ALCE,included,Citation-supported answers link retrieval to inspectable evidence support.,B,26
+F060,RAGTruth,excluded,Unsupported-claim detection primarily addresses source faithfulness rather than A-D.,,8
+F061,RAGBench,excluded,Primarily evaluates RAG evaluation systems and overlaps other QA data; retained ALCE and scientific QA provide more distinct task coverage.,,8
+F062,LLM-AggreFact,excluded,Factual-consistency meta-benchmark primarily concerns verification outside A-D and overlaps other datasets.,,18
+F063,TRUE,excluded,Factual-consistency meta-benchmark primarily concerns verification outside A-D and overlaps other datasets.,,9
+F064,FaithBench,excluded,Summary hallucination detection primarily concerns verification outside A-D.,,12
+F065,RoBBR,included,Biomedical risk-of-bias evidence retrieval is a concrete synthesis task; domain transfer remains limited.,B,17
+F066,TrialReviewBench,included,"Clinical search, screening and result extraction provide a direct evidence-synthesis task.",B; D,12
+F067,Manalyzer,included,"Scientific numerical extraction spans text, tables/images and calculation-dependent values.",A; B; C; D,152
+F068,DTBench,included,Schema-based document-to-table extraction tests structured outputs and numerical relationships.,C,24
+F069,UNIKIE-BENCH,included,Schema-constrained key information extraction tests document-to-field assignment.,A,30
+F070,MetaBench,excluded,PICOS title/abstract screening is upstream of full-text extraction; corpus/release limitations reduce its priority here.,,28
+F071,HAI-Eval,excluded,Collaborative software tasks have a different population and task from data extraction; avoid forcing a D mapping.,,10
+F072,Common-ground puzzle,excluded,Human collaboration on visual puzzles is outside A-D and remote from scientific extraction.,,8
+F073,TableBench,included,"Table-based fact checking, numerical reasoning and analysis distinguish operations over tabular evidence.",A; C; D,336
+F074,SUC,included,Basic table lookup/manipulation directly targets a table-understanding concern in the commentary.,A,10
+F075,NUPA,included,Elementary numerical understanding/processing is closer to extraction operations than competition mathematics.,C,12
+F076,Symbolic manipulation,included,Controlled copying and symbolic transformations isolate elementary numerical/symbolic failures.,C,5
+F077,ProcessBench,included,Localizing the first incorrect reasoning step provides an interpretable intermediate-step diagnostic.,C; D,25
+F078,NIAH,included,"Literal retrieval is retained as a baseline explicitly discussed in the commentary, not as sufficient evidence of comprehension.",B,6
+F079,LooGLE,included,Long-dependency comprehension complements literal retrieval and short-context tasks.,B; C; D,26
+F080,MM-NIAH,included,Long multimodal retrieval/counting combines document modalities with dispersed evidence.,A; B,18
+F081,VaxScope,included,Normalized document-level evidence extraction in systematic reviews provides a close task analogue.,B,24
+F082,CONSORT diagrams,included,Participant-count and group-flow extraction targets structural binding in scientific diagrams.,A,72

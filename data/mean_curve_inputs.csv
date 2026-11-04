@@ -1,0 +1,1707 @@
+﻿series_id,family,model,release_date,date_position,score_native,input_count,observation_ids
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Qwen3-235B-A22B-Thinking-2507,2025-07-25,2025-07-25,60.6,1,V00013
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,DeepSeek-R1,2025-01-20,2025-01-20,58.3,1,V00019
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,58.3,1,V00026
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,o1-preview,2024-09-12,2024-09-12,57.7,1,V00037
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,DeepSeek-R1-0528,2025-05-28,2025-05-28,56.7,1,V00043
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Gemini-2.0-Flash-Thinking,2025-01-21,2025-01-21,56.0,1,V00061
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,51.4,1,V00092
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,51.2,1,V00104
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,51.1,1,V00116
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,50.1,1,V00133
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,50.1,1,V00140
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,49.2,1,V00152
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,QwQ-32B,2025-03-06,2025-03-06,48.9,1,V00163
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,46.7,1,V00176
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,43.5,1,V00212
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,42.5,1,V00224
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,39.6,1,V00236
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,o1-mini,2024-09-12,2024-09-12,38.9,1,V00248
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,36.2,1,V00260
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,36.2,1,V00272
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,35.6,1,V00284
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,33.6,1,V00308
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,32.4,1,V00320
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Command R+,2024-08-30,2024-08-30,31.6,1,V00344
+LONGB2|LongBench2_site|LongBench-v2|overall|CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,30.4,1,V00368
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Qwen3-235B-A22B-Thinking-2507,2025-07-25,2025-07-25,70.5,1,V00014
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,DeepSeek-R1,2025-01-20,2025-01-20,66.1,1,V00020
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,66.7,1,V00028
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,o1-preview,2024-09-12,2024-09-12,66.8,1,V00038
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,DeepSeek-R1-0528,2025-05-28,2025-05-28,59.4,1,V00044
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Gemini-2.0-Flash-Thinking,2025-01-21,2025-01-21,62.8,1,V00062
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,54.2,1,V00094
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,57.9,1,V00106
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,58.3,1,V00118
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,58.9,1,V00134
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,56.4,1,V00142
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,53.1,1,V00154
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,QwQ-32B,2025-03-06,2025-03-06,58.9,1,V00164
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,55.2,1,V00178
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,47.9,1,V00214
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,47.8,1,V00226
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,43.8,1,V00238
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,o1-mini,2024-09-12,2024-09-12,42.6,1,V00250
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,35.9,1,V00262
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,38.0,1,V00274
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,38.0,1,V00286
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,34.4,1,V00310
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,32.6,1,V00322
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Command R+,2024-08-30,2024-08-30,34.4,1,V00346
+LONGB2|LongBench2_site|LongBench-v2|easy|CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,36.5,1,V00370
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Qwen3-235B-A22B-Thinking-2507,2025-07-25,2025-07-25,54.4,1,V00015
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,DeepSeek-R1,2025-01-20,2025-01-20,53.4,1,V00021
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,53.1,1,V00030
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,o1-preview,2024-09-12,2024-09-12,52.1,1,V00039
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,DeepSeek-R1-0528,2025-05-28,2025-05-28,55.0,1,V00045
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Gemini-2.0-Flash-Thinking,2025-01-21,2025-01-21,51.9,1,V00063
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,49.7,1,V00096
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,47.1,1,V00108
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,46.6,1,V00120
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,44.7,1,V00135
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,46.2,1,V00144
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,46.8,1,V00156
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,QwQ-32B,2025-03-06,2025-03-06,42.8,1,V00165
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,41.5,1,V00180
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,40.8,1,V00216
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,39.3,1,V00228
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,37.0,1,V00240
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,o1-mini,2024-09-12,2024-09-12,36.6,1,V00252
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,36.3,1,V00264
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,35.0,1,V00276
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,34.1,1,V00288
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,33.1,1,V00312
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,32.2,1,V00324
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Command R+,2024-08-30,2024-08-30,29.9,1,V00348
+LONGB2|LongBench2_site|LongBench-v2|hard|CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,26.7,1,V00372
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Qwen3-235B-A22B-Thinking-2507,2025-07-25,2025-07-25,62.8,1,V00016
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,DeepSeek-R1,2025-01-20,2025-01-20,62.2,1,V00022
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,63.3,1,V00032
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,o1-preview,2024-09-12,2024-09-12,62.6,1,V00040
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,DeepSeek-R1-0528,2025-05-28,2025-05-28,66.7,1,V00046
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Gemini-2.0-Flash-Thinking,2025-01-21,2025-01-21,61.1,1,V00064
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,59.6,1,V00098
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,53.9,1,V00110
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,57.2,1,V00122
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,56.7,1,V00136
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,58.3,1,V00146
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,60.0,1,V00158
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,QwQ-32B,2025-03-06,2025-03-06,54.4,1,V00166
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,53.9,1,V00182
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,48.9,1,V00218
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,52.0,1,V00230
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,46.1,1,V00242
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,o1-mini,2024-09-12,2024-09-12,48.9,1,V00254
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,45.0,1,V00266
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,45.0,1,V00278
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,43.9,1,V00290
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,41.1,1,V00314
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,34.8,1,V00326
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Command R+,2024-08-30,2024-08-30,39.4,1,V00350
+LONGB2|LongBench2_site|LongBench-v2|short|CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,34.4,1,V00374
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Qwen3-235B-A22B-Thinking-2507,2025-07-25,2025-07-25,59.9,1,V00017
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,DeepSeek-R1,2025-01-20,2025-01-20,54.4,1,V00023
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,55.3,1,V00034
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,o1-preview,2024-09-12,2024-09-12,53.5,1,V00041
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,DeepSeek-R1-0528,2025-05-28,2025-05-28,50.9,1,V00047
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Gemini-2.0-Flash-Thinking,2025-01-21,2025-01-21,55.2,1,V00065
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,48.6,1,V00100
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,50.7,1,V00112
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,45.3,1,V00124
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,46.0,1,V00137
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,44.1,1,V00148
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,41.1,1,V00160
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,QwQ-32B,2025-03-06,2025-03-06,44.7,1,V00167
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,41.9,1,V00184
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,40.9,1,V00220
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,36.0,1,V00232
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,34.9,1,V00244
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,o1-mini,2024-09-12,2024-09-12,32.9,1,V00256
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,34.0,1,V00268
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,33.0,1,V00280
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,32.6,1,V00292
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,31.2,1,V00316
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,31.6,1,V00328
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Command R+,2024-08-30,2024-08-30,24.2,1,V00352
+LONGB2|LongBench2_site|LongBench-v2|medium|CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,31.6,1,V00376
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Qwen3-235B-A22B-Thinking-2507,2025-07-25,2025-07-25,58.1,1,V00018
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,DeepSeek-R1,2025-01-20,2025-01-20,59.3,1,V00024
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,55.6,1,V00036
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,o1-preview,2024-09-12,2024-09-12,58.1,1,V00042
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,DeepSeek-R1-0528,2025-05-28,2025-05-28,51.4,1,V00048
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Gemini-2.0-Flash-Thinking,2025-01-21,2025-01-21,49.1,1,V00066
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,43.5,1,V00102
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,47.7,1,V00114
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,52.3,1,V00126
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,47.2,1,V00138
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,48.6,1,V00150
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,47.2,1,V00162
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,QwQ-32B,2025-03-06,2025-03-06,48.1,1,V00168
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,44.4,1,V00186
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,39.8,1,V00222
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,39.8,1,V00234
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,38.0,1,V00246
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,o1-mini,2024-09-12,2024-09-12,34.3,1,V00258
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,25.9,1,V00270
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,27.8,1,V00282
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,27.8,1,V00294
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,25.9,1,V00318
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,29.9,1,V00330
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Command R+,2024-08-30,2024-08-30,33.3,1,V00354
+LONGB2|LongBench2_site|LongBench-v2|long|CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,21.3,1,V00378
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,46.7,1,V00025
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,46.0,1,V00091
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,50.1,1,V00103
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,47.4,1,V00115
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,40.4,1,V00139
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,38.8,1,V00151
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,41.0,1,V00175
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,42.1,1,V00211
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,32.6,1,V00223
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,34.4,1,V00235
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,o1-mini,2024-09-12,2024-09-12,37.8,1,V00247
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,31.6,1,V00259
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,29.8,1,V00271
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,30.0,1,V00283
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,26.6,1,V00307
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,29.3,1,V00319
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Command R+,2024-08-30,2024-08-30,27.8,1,V00343
+LONGB2|LongBench2_site|LongBench-v2|overall|no-CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,30.0,1,V00367
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,51.6,1,V00027
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,50.8,1,V00093
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,57.4,1,V00105
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,51.0,1,V00117
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,47.4,1,V00141
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,42.2,1,V00153
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,46.9,1,V00177
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,42.7,1,V00213
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,34.4,1,V00225
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,38.0,1,V00237
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,o1-mini,2024-09-12,2024-09-12,38.9,1,V00249
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,32.3,1,V00261
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,34.4,1,V00273
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,30.7,1,V00285
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,29.7,1,V00309
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,31.1,1,V00321
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Command R+,2024-08-30,2024-08-30,30.2,1,V00345
+LONGB2|LongBench2_site|LongBench-v2|easy|no-CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,30.7,1,V00369
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,43.7,1,V00029
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,43.0,1,V00095
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,45.6,1,V00107
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,45.2,1,V00119
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,36.0,1,V00143
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,36.7,1,V00155
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,37.3,1,V00179
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,41.8,1,V00215
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,31.5,1,V00227
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,32.2,1,V00239
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,o1-mini,2024-09-12,2024-09-12,37.1,1,V00251
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,31.2,1,V00263
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,27.0,1,V00275
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,29.6,1,V00287
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,24.8,1,V00311
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,28.2,1,V00323
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Command R+,2024-08-30,2024-08-30,26.4,1,V00347
+LONGB2|LongBench2_site|LongBench-v2|hard|no-CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,29.6,1,V00371
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,52.2,1,V00031
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,47.5,1,V00097
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,53.3,1,V00109
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,48.9,1,V00121
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,45.6,1,V00145
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,40.6,1,V00157
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,46.1,1,V00181
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,45.6,1,V00217
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,35.0,1,V00229
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,41.7,1,V00241
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,o1-mini,2024-09-12,2024-09-12,48.6,1,V00253
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,41.1,1,V00265
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,36.7,1,V00277
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,40.6,1,V00289
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,37.8,1,V00313
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,31.8,1,V00325
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Command R+,2024-08-30,2024-08-30,36.7,1,V00349
+LONGB2|LongBench2_site|LongBench-v2|short|no-CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,35.0,1,V00373
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,44.2,1,V00033
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,47.9,1,V00099
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,52.4,1,V00111
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,47.7,1,V00123
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,36.7,1,V00147
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,38.1,1,V00159
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,38.6,1,V00183
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,38.1,1,V00219
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,32.1,1,V00231
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,30.7,1,V00243
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,o1-mini,2024-09-12,2024-09-12,33.3,1,V00255
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,27.4,1,V00267
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,27.0,1,V00279
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,24.2,1,V00291
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,19.5,1,V00315
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,28.6,1,V00327
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Command R+,2024-08-30,2024-08-30,23.7,1,V00351
+LONGB2|LongBench2_site|LongBench-v2|medium|no-CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,27.9,1,V00375
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,42.6,1,V00035
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,GPT-4o,2024-11-20,2024-11-20,39.8,1,V00101
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,GPT-4o,2024-08-06,2024-08-06,40.2,1,V00113
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Gemini-2.0-Flash,2024-12-11,2024-12-11,44.4,1,V00125
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,38.9,1,V00149
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Qwen3-32B,2025-04-29,2025-04-29,37.0,1,V00161
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Claude 3.5 Sonnet,2024-10-22,2024-10-22,37.0,1,V00185
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Qwen2.5-72B,2024-09-19,2024-09-19,44.4,1,V00221
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Qwen3-30B-A3B,2025-04-29,2025-04-29,29.6,1,V00233
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Mistral Large 24.11,2024-11-18,2024-11-18,29.6,1,V00245
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,o1-mini,2024-09-12,2024-09-12,28.6,1,V00257
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Llama 3.1 70B,2024-07-23,2024-07-23,24.1,1,V00269
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Llama 3.3 70B,2024-12-06,2024-12-06,24.1,1,V00281
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Qwen2.5-7B,2024-09-19,2024-09-19,24.1,1,V00293
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Mistral Large 2,2024-07-24,2024-07-24,22.2,1,V00317
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,GPT-4o mini,2024-07-18,2024-07-18,26.2,1,V00329
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Command R+,2024-08-30,2024-08-30,21.3,1,V00353
+LONGB2|LongBench2_site|LongBench-v2|long|no-CoT,LongBench,Llama 3.1 8B,2024-07-23,2024-07-23,25.9,1,V00377
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,Pixtral-12B,2024-09-17,2024-09-17,42.3,1,V00391
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,Llama 3.2 Vision 11B,2024-09-25,2024-09-25,44.6,1,V00392
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,GPT-4.1,2025-04-14,2025-04-14,79.9,1,V00393
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,GPT-5 Mini,2025-08-07,2025-08-07,82.5,1,V00394
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,Claude Haiku 4.5,2025-10-15,2025-10-15,79.6,1,V00395
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,Gemini 3 Pro,2025-11-18,2025-11-18,88.8,1,V00396
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,GPT-5.2,2025-12-11,2025-12-11,88.0,1,V00397
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,Gemini 3 Flash,2025-12-17,2025-12-17,90.1,1,V00398
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,Claude Opus 4.6,2026-02-05,2026-02-05,85.9,1,V00399
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,Claude Sonnet 4.6,2026-02-17,2026-02-17,86.9,1,V00400
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,Gemini 3.1 Pro,2026-02-19,2026-02-19,85.3,1,V00401
+OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5,OmniDocBench,GPT-5.4,2026-03-05,2026-03-05,85.3,1,V00402
+"MRCR|legacy_figure|MRCR v2 (8 needles, 128K)|MRCR v2 (8 needles, 128K)",MRCR,Grok 3 Beta,2025-02-17,2025-02-17,34.0,1,V00407
+"MRCR|legacy_figure|MRCR v2 (8 needles, 128K)|MRCR v2 (8 needles, 128K)",MRCR,OpenAI o3 High,2025-04-16,2025-04-16,57.1,1,V00408
+"MRCR|legacy_figure|MRCR v2 (8 needles, 128K)|MRCR v2 (8 needles, 128K)",MRCR,Gemini 2.5 Pro GA,2025-06-17,2025-06-17,58.0,1,V00409
+"MRCR|legacy_figure|MRCR v2 (8 needles, 128K)|MRCR v2 (8 needles, 128K)",MRCR,Gemini 3 Flash (thinking),2025-12-17,2025-12-17,67.2,1,V00410
+"MRCR|legacy_figure|MRCR v2 (8 needles, 256K-512K)|MRCR v2 (8 needles, 256K-512K)",MRCR,GPT-5.5,2026-04-23,2026-04-23,81.5,1,V00411
+"MRCR|legacy_figure|MRCR v2 (8 needles, 256K-512K)|MRCR v2 (8 needles, 256K-512K)",MRCR,GPT-5.6 Sol,2026-07-09,2026-07-09,91.5,1,V00412
+"MRCR|legacy_figure|MRCR v2 (8 needles, 256K-512K)|MRCR v2 (8 needles, 256K-512K)",MRCR,GPT-5.6 Terra,2026-07-09,2026-07-09,89.6,1,V00413
+RULER|RULER|RULER|4K,RULER,Llama2 (7B),2023-07-18,2023-07-18,85.6,1,V00435
+RULER|RULER|RULER|4K,RULER,Qwen2.5-14B-Instruct-1M (14B),2025-01-27,2025-01-27,97.5,1,V00448
+RULER|RULER|RULER|4K,RULER,Qwen3-235B-A22B (235B),2025-04-29,2025-04-29,97.7,1,V00454
+RULER|RULER|RULER|4K,RULER,Qwen3-14B (14B),2025-04-29,2025-04-29,98.0,1,V00460
+RULER|RULER|RULER|4K,RULER,Qwen3-32B (32B),2025-04-29,2025-04-29,98.4,1,V00472
+RULER|RULER|RULER|4K,RULER,Qwen2.5-7B-Instruct-1M (7B),2025-01-27,2025-01-27,96.8,1,V00484
+RULER|RULER|RULER|4K,RULER,Qwen3-30B-A3B (30B),2025-04-29,2025-04-29,96.5,1,V00490
+RULER|RULER|RULER|4K,RULER,GPT-4-1106-preview,2023-11-06,2023-11-06,96.6,1,V00496
+RULER|RULER|RULER|4K,RULER,Llama3.1 (70B),2024-07-23,2024-07-23,96.5,1,V00502
+RULER|RULER|RULER|4K,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,96.3,1,V00508
+RULER|RULER|RULER|4K,RULER,Mistral-Large-2411 (123B),2024-11-18,2024-11-18,96.4,1,V00514
+RULER|RULER|RULER|4K,RULER,Command-R-plus-0824 (104B),2024-08-30,2024-08-30,96.0,1,V00520
+RULER|RULER|RULER|4K,RULER,Qwen2 (72B),2024-06-07,2024-06-07,96.9,1,V00526
+RULER|RULER|RULER|4K,RULER,Command-R-plus (104B),2024-04-04,2024-04-04,95.6,1,V00532
+RULER|RULER|RULER|4K,RULER,Command-R-0824 (32B),2024-08-30,2024-08-30,94.7,1,V00538
+RULER|RULER|RULER|4K,RULER,Llama3.1 (8B),2024-07-23,2024-07-23,95.5,1,V00550
+RULER|RULER|RULER|4K,RULER,Command-R (35B),2024-03-11,2024-03-11,93.8,1,V00562
+RULER|RULER|RULER|4K,RULER,Mixtral-8x22B (39B/141B),2024-04-17,2024-04-17,95.6,1,V00586
+RULER|RULER|RULER|4K,RULER,Qwen3-4B (4B),2025-04-29,2025-04-29,95.1,1,V00598
+RULER|RULER|RULER|4K,RULER,Phi3-medium (14B),2024-05-21,2024-05-21,93.3,1,V00615
+RULER|RULER|RULER|4K,RULER,Mixtral-8x7B (12.9B/46.7B),2023-12-11,2023-12-11,94.9,1,V00621
+RULER|RULER|RULER|4K,RULER,Mistral-Nemo,2024-07-18,2024-07-18,87.8,1,V00651
+RULER|RULER|RULER|8K,RULER,Qwen2.5-14B-Instruct-1M (14B),2025-01-27,2025-01-27,97.1,1,V00449
+RULER|RULER|RULER|8K,RULER,Qwen3-235B-A22B (235B),2025-04-29,2025-04-29,97.2,1,V00455
+RULER|RULER|RULER|8K,RULER,Qwen3-14B (14B),2025-04-29,2025-04-29,97.8,1,V00461
+RULER|RULER|RULER|8K,RULER,Qwen3-32B (32B),2025-04-29,2025-04-29,96.0,1,V00473
+RULER|RULER|RULER|8K,RULER,Qwen2.5-7B-Instruct-1M (7B),2025-01-27,2025-01-27,95.3,1,V00485
+RULER|RULER|RULER|8K,RULER,Qwen3-30B-A3B (30B),2025-04-29,2025-04-29,97.0,1,V00491
+RULER|RULER|RULER|8K,RULER,GPT-4-1106-preview,2023-11-06,2023-11-06,96.3,1,V00497
+RULER|RULER|RULER|8K,RULER,Llama3.1 (70B),2024-07-23,2024-07-23,95.8,1,V00503
+RULER|RULER|RULER|8K,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,96.0,1,V00509
+RULER|RULER|RULER|8K,RULER,Mistral-Large-2411 (123B),2024-11-18,2024-11-18,96.3,1,V00515
+RULER|RULER|RULER|8K,RULER,Command-R-plus-0824 (104B),2024-08-30,2024-08-30,95.1,1,V00521
+RULER|RULER|RULER|8K,RULER,Qwen2 (72B),2024-06-07,2024-06-07,96.1,1,V00527
+RULER|RULER|RULER|8K,RULER,Command-R-plus (104B),2024-04-04,2024-04-04,95.2,1,V00533
+RULER|RULER|RULER|8K,RULER,Command-R-0824 (32B),2024-08-30,2024-08-30,93.7,1,V00539
+RULER|RULER|RULER|8K,RULER,Llama3.1 (8B),2024-07-23,2024-07-23,93.8,1,V00551
+RULER|RULER|RULER|8K,RULER,Command-R (35B),2024-03-11,2024-03-11,93.3,1,V00563
+RULER|RULER|RULER|8K,RULER,Mixtral-8x22B (39B/141B),2024-04-17,2024-04-17,94.9,1,V00587
+RULER|RULER|RULER|8K,RULER,Qwen3-4B (4B),2025-04-29,2025-04-29,93.6,1,V00599
+RULER|RULER|RULER|8K,RULER,Phi3-medium (14B),2024-05-21,2024-05-21,93.2,1,V00616
+RULER|RULER|RULER|8K,RULER,Mixtral-8x7B (12.9B/46.7B),2023-12-11,2023-12-11,92.1,1,V00622
+RULER|RULER|RULER|8K,RULER,Mistral-Nemo,2024-07-18,2024-07-18,87.2,1,V00652
+RULER|RULER|RULER|16K,RULER,Qwen2.5-14B-Instruct-1M (14B),2025-01-27,2025-01-27,94.6,1,V00450
+RULER|RULER|RULER|16K,RULER,Qwen3-235B-A22B (235B),2025-04-29,2025-04-29,96.4,1,V00456
+RULER|RULER|RULER|16K,RULER,Qwen3-14B (14B),2025-04-29,2025-04-29,96.4,1,V00462
+RULER|RULER|RULER|16K,RULER,Qwen3-32B (32B),2025-04-29,2025-04-29,96.2,1,V00474
+RULER|RULER|RULER|16K,RULER,Qwen2.5-7B-Instruct-1M (7B),2025-01-27,2025-01-27,93.0,1,V00486
+RULER|RULER|RULER|16K,RULER,Qwen3-30B-A3B (30B),2025-04-29,2025-04-29,95.3,1,V00492
+RULER|RULER|RULER|16K,RULER,GPT-4-1106-preview,2023-11-06,2023-11-06,95.2,1,V00498
+RULER|RULER|RULER|16K,RULER,Llama3.1 (70B),2024-07-23,2024-07-23,95.4,1,V00504
+RULER|RULER|RULER|16K,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,91.8,1,V00510
+RULER|RULER|RULER|16K,RULER,Mistral-Large-2411 (123B),2024-11-18,2024-11-18,95.3,1,V00516
+RULER|RULER|RULER|16K,RULER,Command-R-plus-0824 (104B),2024-08-30,2024-08-30,94.0,1,V00522
+RULER|RULER|RULER|16K,RULER,Qwen2 (72B),2024-06-07,2024-06-07,94.9,1,V00528
+RULER|RULER|RULER|16K,RULER,Command-R-plus (104B),2024-04-04,2024-04-04,94.2,1,V00534
+RULER|RULER|RULER|16K,RULER,Command-R-0824 (32B),2024-08-30,2024-08-30,93.1,1,V00540
+RULER|RULER|RULER|16K,RULER,Llama3.1 (8B),2024-07-23,2024-07-23,91.6,1,V00552
+RULER|RULER|RULER|16K,RULER,Command-R (35B),2024-03-11,2024-03-11,92.4,1,V00564
+RULER|RULER|RULER|16K,RULER,Mixtral-8x22B (39B/141B),2024-04-17,2024-04-17,93.4,1,V00588
+RULER|RULER|RULER|16K,RULER,Qwen3-4B (4B),2025-04-29,2025-04-29,91.0,1,V00600
+RULER|RULER|RULER|16K,RULER,Phi3-medium (14B),2024-05-21,2024-05-21,91.1,1,V00617
+RULER|RULER|RULER|16K,RULER,Mixtral-8x7B (12.9B/46.7B),2023-12-11,2023-12-11,92.5,1,V00623
+RULER|RULER|RULER|16K,RULER,Mistral-Nemo,2024-07-18,2024-07-18,87.7,1,V00653
+RULER|RULER|RULER|32K,RULER,Qwen2.5-14B-Instruct-1M (14B),2025-01-27,2025-01-27,94.9,1,V00451
+RULER|RULER|RULER|32K,RULER,Qwen3-235B-A22B (235B),2025-04-29,2025-04-29,95.1,1,V00457
+RULER|RULER|RULER|32K,RULER,Qwen3-14B (14B),2025-04-29,2025-04-29,96.1,1,V00463
+RULER|RULER|RULER|32K,RULER,Qwen3-32B (32B),2025-04-29,2025-04-29,94.4,1,V00475
+RULER|RULER|RULER|32K,RULER,Qwen2.5-7B-Instruct-1M (7B),2025-01-27,2025-01-27,91.1,1,V00487
+RULER|RULER|RULER|32K,RULER,Qwen3-30B-A3B (30B),2025-04-29,2025-04-29,92.4,1,V00493
+RULER|RULER|RULER|32K,RULER,GPT-4-1106-preview,2023-11-06,2023-11-06,93.2,1,V00499
+RULER|RULER|RULER|32K,RULER,Llama3.1 (70B),2024-07-23,2024-07-23,94.8,1,V00505
+RULER|RULER|RULER|32K,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,91.2,1,V00511
+RULER|RULER|RULER|32K,RULER,Mistral-Large-2411 (123B),2024-11-18,2024-11-18,94.0,1,V00517
+RULER|RULER|RULER|32K,RULER,Command-R-plus-0824 (104B),2024-08-30,2024-08-30,92.4,1,V00523
+RULER|RULER|RULER|32K,RULER,Qwen2 (72B),2024-06-07,2024-06-07,94.1,1,V00529
+RULER|RULER|RULER|32K,RULER,Command-R-plus (104B),2024-04-04,2024-04-04,92.0,1,V00535
+RULER|RULER|RULER|32K,RULER,Command-R-0824 (32B),2024-08-30,2024-08-30,90.8,1,V00541
+RULER|RULER|RULER|32K,RULER,Llama3.1 (8B),2024-07-23,2024-07-23,87.4,1,V00553
+RULER|RULER|RULER|32K,RULER,Command-R (35B),2024-03-11,2024-03-11,89.5,1,V00565
+RULER|RULER|RULER|32K,RULER,Mixtral-8x22B (39B/141B),2024-04-17,2024-04-17,90.9,1,V00589
+RULER|RULER|RULER|32K,RULER,Qwen3-4B (4B),2025-04-29,2025-04-29,87.8,1,V00601
+RULER|RULER|RULER|32K,RULER,Phi3-medium (14B),2024-05-21,2024-05-21,86.8,1,V00618
+RULER|RULER|RULER|32K,RULER,Mixtral-8x7B (12.9B/46.7B),2023-12-11,2023-12-11,85.9,1,V00624
+RULER|RULER|RULER|32K,RULER,Mistral-Nemo,2024-07-18,2024-07-18,69.0,1,V00654
+RULER|RULER|RULER|64K,RULER,Qwen2.5-14B-Instruct-1M (14B),2025-01-27,2025-01-27,94.9,1,V00452
+RULER|RULER|RULER|64K,RULER,Qwen3-235B-A22B (235B),2025-04-29,2025-04-29,93.3,1,V00458
+RULER|RULER|RULER|64K,RULER,Qwen3-14B (14B),2025-04-29,2025-04-29,94.0,1,V00464
+RULER|RULER|RULER|64K,RULER,Qwen3-32B (32B),2025-04-29,2025-04-29,91.8,1,V00476
+RULER|RULER|RULER|64K,RULER,Qwen2.5-7B-Instruct-1M (7B),2025-01-27,2025-01-27,90.4,1,V00488
+RULER|RULER|RULER|64K,RULER,Qwen3-30B-A3B (30B),2025-04-29,2025-04-29,89.1,1,V00494
+RULER|RULER|RULER|64K,RULER,GPT-4-1106-preview,2023-11-06,2023-11-06,87.0,1,V00500
+RULER|RULER|RULER|64K,RULER,Llama3.1 (70B),2024-07-23,2024-07-23,88.4,1,V00506
+RULER|RULER|RULER|64K,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,82.1,1,V00512
+RULER|RULER|RULER|64K,RULER,Mistral-Large-2411 (123B),2024-11-18,2024-11-18,85.9,1,V00518
+RULER|RULER|RULER|64K,RULER,Command-R-plus-0824 (104B),2024-08-30,2024-08-30,85.4,1,V00524
+RULER|RULER|RULER|64K,RULER,Qwen2 (72B),2024-06-07,2024-06-07,79.8,1,V00530
+RULER|RULER|RULER|64K,RULER,Command-R-plus (104B),2024-04-04,2024-04-04,84.3,1,V00536
+RULER|RULER|RULER|64K,RULER,Command-R-0824 (32B),2024-08-30,2024-08-30,86.6,1,V00542
+RULER|RULER|RULER|64K,RULER,Llama3.1 (8B),2024-07-23,2024-07-23,84.7,1,V00554
+RULER|RULER|RULER|64K,RULER,Command-R (35B),2024-03-11,2024-03-11,84.9,1,V00566
+RULER|RULER|RULER|64K,RULER,Mixtral-8x22B (39B/141B),2024-04-17,2024-04-17,84.7,1,V00590
+RULER|RULER|RULER|64K,RULER,Qwen3-4B (4B),2025-04-29,2025-04-29,77.8,1,V00602
+RULER|RULER|RULER|64K,RULER,Phi3-medium (14B),2024-05-21,2024-05-21,78.6,1,V00619
+RULER|RULER|RULER|64K,RULER,Mixtral-8x7B (12.9B/46.7B),2023-12-11,2023-12-11,72.4,1,V00625
+RULER|RULER|RULER|64K,RULER,Mistral-Nemo,2024-07-18,2024-07-18,46.8,1,V00655
+RULER|RULER|RULER|128K,RULER,Qwen2.5-14B-Instruct-1M (14B),2025-01-27,2025-01-27,92.2,1,V00453
+RULER|RULER|RULER|128K,RULER,Qwen3-235B-A22B (235B),2025-04-29,2025-04-29,90.6,1,V00459
+RULER|RULER|RULER|128K,RULER,Qwen3-14B (14B),2025-04-29,2025-04-29,85.1,1,V00465
+RULER|RULER|RULER|128K,RULER,Qwen3-32B (32B),2025-04-29,2025-04-29,85.6,1,V00477
+RULER|RULER|RULER|128K,RULER,Qwen2.5-7B-Instruct-1M (7B),2025-01-27,2025-01-27,84.4,1,V00489
+RULER|RULER|RULER|128K,RULER,Qwen3-30B-A3B (30B),2025-04-29,2025-04-29,79.2,1,V00495
+RULER|RULER|RULER|128K,RULER,GPT-4-1106-preview,2023-11-06,2023-11-06,81.2,1,V00501
+RULER|RULER|RULER|128K,RULER,Llama3.1 (70B),2024-07-23,2024-07-23,66.6,1,V00507
+RULER|RULER|RULER|128K,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,77.4,1,V00513
+RULER|RULER|RULER|128K,RULER,Mistral-Large-2411 (123B),2024-11-18,2024-11-18,48.1,1,V00519
+RULER|RULER|RULER|128K,RULER,Command-R-plus-0824 (104B),2024-08-30,2024-08-30,64.6,1,V00525
+RULER|RULER|RULER|128K,RULER,Qwen2 (72B),2024-06-07,2024-06-07,53.7,1,V00531
+RULER|RULER|RULER|128K,RULER,Command-R-plus (104B),2024-04-04,2024-04-04,63.1,1,V00537
+RULER|RULER|RULER|128K,RULER,Command-R-0824 (32B),2024-08-30,2024-08-30,74.7,1,V00543
+RULER|RULER|RULER|128K,RULER,Llama3.1 (8B),2024-07-23,2024-07-23,77.0,1,V00555
+RULER|RULER|RULER|128K,RULER,Command-R (35B),2024-03-11,2024-03-11,76.0,1,V00567
+RULER|RULER|RULER|128K,RULER,Mixtral-8x22B (39B/141B),2024-04-17,2024-04-17,31.7,1,V00591
+RULER|RULER|RULER|128K,RULER,Qwen3-4B (4B),2025-04-29,2025-04-29,66.0,1,V00603
+RULER|RULER|RULER|128K,RULER,Phi3-medium (14B),2024-05-21,2024-05-21,46.1,1,V00620
+RULER|RULER|RULER|128K,RULER,Mixtral-8x7B (12.9B/46.7B),2023-12-11,2023-12-11,44.5,1,V00626
+RULER|RULER|RULER|128K,RULER,Mistral-Nemo,2024-07-18,2024-07-18,19.0,1,V00656
+NOLIMA|NoLiMa|NoLiMa-original|1K,NoLiMa,GPT-4.1,2025-04-14,2025-04-14,95.6,1,V00699
+NOLIMA|NoLiMa|NoLiMa-original|1K,NoLiMa,Llama 3.3 70B,2024-12-06,2024-12-06,94.2,1,V00715
+NOLIMA|NoLiMa|NoLiMa-original|1K,NoLiMa,Llama 3.1 405B,2024-07-23,2024-07-23,89.0,1,V00721
+NOLIMA|NoLiMa|NoLiMa-original|1K,NoLiMa,Llama 3.1 70B,2024-07-23,2024-07-23,91.0,1,V00727
+NOLIMA|NoLiMa|NoLiMa-original|1K,NoLiMa,Command R+,2024-04-04,2024-04-04,77.0,1,V00745
+NOLIMA|NoLiMa|NoLiMa-original|1K,NoLiMa,Mistral Large 2,2024-07-24,2024-07-24,86.1,1,V00777
+NOLIMA|NoLiMa|NoLiMa-original|1K,NoLiMa,GPT-4o mini,2024-07-18,2024-07-18,67.7,1,V00801
+NOLIMA|NoLiMa|NoLiMa-original|1K,NoLiMa,Llama 3.1 8B,2024-07-23,2024-07-23,65.7,1,V00825
+NOLIMA|NoLiMa|NoLiMa-original|2K,NoLiMa,GPT-4.1,2025-04-14,2025-04-14,95.2,1,V00700
+NOLIMA|NoLiMa|NoLiMa-original|2K,NoLiMa,Llama 3.3 70B,2024-12-06,2024-12-06,87.4,1,V00716
+NOLIMA|NoLiMa|NoLiMa-original|2K,NoLiMa,Llama 3.1 405B,2024-07-23,2024-07-23,85.0,1,V00722
+NOLIMA|NoLiMa|NoLiMa-original|2K,NoLiMa,Llama 3.1 70B,2024-07-23,2024-07-23,81.8,1,V00728
+NOLIMA|NoLiMa|NoLiMa-original|2K,NoLiMa,Command R+,2024-04-04,2024-04-04,73.5,1,V00746
+NOLIMA|NoLiMa|NoLiMa-original|2K,NoLiMa,Mistral Large 2,2024-07-24,2024-07-24,85.5,1,V00778
+NOLIMA|NoLiMa|NoLiMa-original|2K,NoLiMa,GPT-4o mini,2024-07-18,2024-07-18,58.2,1,V00802
+NOLIMA|NoLiMa|NoLiMa-original|2K,NoLiMa,Llama 3.1 8B,2024-07-23,2024-07-23,54.4,1,V00826
+NOLIMA|NoLiMa|NoLiMa-original|4K,NoLiMa,GPT-4.1,2025-04-14,2025-04-14,91.7,1,V00701
+NOLIMA|NoLiMa|NoLiMa-original|4K,NoLiMa,Llama 3.3 70B,2024-12-06,2024-12-06,81.5,1,V00717
+NOLIMA|NoLiMa|NoLiMa-original|4K,NoLiMa,Llama 3.1 405B,2024-07-23,2024-07-23,74.5,1,V00723
+NOLIMA|NoLiMa|NoLiMa-original|4K,NoLiMa,Llama 3.1 70B,2024-07-23,2024-07-23,71.2,1,V00729
+NOLIMA|NoLiMa|NoLiMa-original|4K,NoLiMa,Command R+,2024-04-04,2024-04-04,66.3,1,V00747
+NOLIMA|NoLiMa|NoLiMa-original|4K,NoLiMa,Mistral Large 2,2024-07-24,2024-07-24,73.3,1,V00779
+NOLIMA|NoLiMa|NoLiMa-original|4K,NoLiMa,GPT-4o mini,2024-07-18,2024-07-18,44.1,1,V00803
+NOLIMA|NoLiMa|NoLiMa-original|4K,NoLiMa,Llama 3.1 8B,2024-07-23,2024-07-23,44.1,1,V00827
+NOLIMA|NoLiMa|NoLiMa-original|8K,NoLiMa,GPT-4.1,2025-04-14,2025-04-14,87.5,1,V00702
+NOLIMA|NoLiMa|NoLiMa-original|8K,NoLiMa,Llama 3.3 70B,2024-12-06,2024-12-06,72.1,1,V00718
+NOLIMA|NoLiMa|NoLiMa-original|8K,NoLiMa,Llama 3.1 405B,2024-07-23,2024-07-23,60.1,1,V00724
+NOLIMA|NoLiMa|NoLiMa-original|8K,NoLiMa,Llama 3.1 70B,2024-07-23,2024-07-23,62.7,1,V00730
+NOLIMA|NoLiMa|NoLiMa-original|8K,NoLiMa,Command R+,2024-04-04,2024-04-04,39.5,1,V00748
+NOLIMA|NoLiMa|NoLiMa-original|8K,NoLiMa,Mistral Large 2,2024-07-24,2024-07-24,51.5,1,V00780
+NOLIMA|NoLiMa|NoLiMa-original|8K,NoLiMa,GPT-4o mini,2024-07-18,2024-07-18,32.6,1,V00804
+NOLIMA|NoLiMa|NoLiMa-original|8K,NoLiMa,Llama 3.1 8B,2024-07-23,2024-07-23,31.9,1,V00828
+NOLIMA|NoLiMa|NoLiMa-original|16K,NoLiMa,GPT-4.1,2025-04-14,2025-04-14,84.9,1,V00703
+NOLIMA|NoLiMa|NoLiMa-original|16K,NoLiMa,Llama 3.3 70B,2024-12-06,2024-12-06,59.5,1,V00719
+NOLIMA|NoLiMa|NoLiMa-original|16K,NoLiMa,Llama 3.1 405B,2024-07-23,2024-07-23,48.4,1,V00725
+NOLIMA|NoLiMa|NoLiMa-original|16K,NoLiMa,Llama 3.1 70B,2024-07-23,2024-07-23,51.8,1,V00731
+NOLIMA|NoLiMa|NoLiMa-original|16K,NoLiMa,Command R+,2024-04-04,2024-04-04,21.3,1,V00749
+NOLIMA|NoLiMa|NoLiMa-original|16K,NoLiMa,Mistral Large 2,2024-07-24,2024-07-24,32.6,1,V00781
+NOLIMA|NoLiMa|NoLiMa-original|16K,NoLiMa,GPT-4o mini,2024-07-18,2024-07-18,20.6,1,V00805
+NOLIMA|NoLiMa|NoLiMa-original|16K,NoLiMa,Llama 3.1 8B,2024-07-23,2024-07-23,22.6,1,V00829
+NOLIMA|NoLiMa|NoLiMa-original|32K,NoLiMa,GPT-4.1,2025-04-14,2025-04-14,79.8,1,V00704
+NOLIMA|NoLiMa|NoLiMa-original|32K,NoLiMa,Llama 3.3 70B,2024-12-06,2024-12-06,42.7,1,V00720
+NOLIMA|NoLiMa|NoLiMa-original|32K,NoLiMa,Llama 3.1 405B,2024-07-23,2024-07-23,38.0,1,V00726
+NOLIMA|NoLiMa|NoLiMa-original|32K,NoLiMa,Llama 3.1 70B,2024-07-23,2024-07-23,43.2,1,V00732
+NOLIMA|NoLiMa|NoLiMa-original|32K,NoLiMa,Command R+,2024-04-04,2024-04-04,7.4,1,V00750
+NOLIMA|NoLiMa|NoLiMa-original|32K,NoLiMa,Mistral Large 2,2024-07-24,2024-07-24,18.7,1,V00782
+NOLIMA|NoLiMa|NoLiMa-original|32K,NoLiMa,GPT-4o mini,2024-07-18,2024-07-18,13.7,1,V00806
+NOLIMA|NoLiMa|NoLiMa-original|32K,NoLiMa,Llama 3.1 8B,2024-07-23,2024-07-23,14.2,1,V00830
+NOLIMA|NoLiMa|NoLiMa-original|64K,NoLiMa,GPT-4.1,2025-04-14,2025-04-14,69.7,1,V00705
+NOLIMA|NoLiMa|NoLiMa-original|128K,NoLiMa,GPT-4.1,2025-04-14,2025-04-14,64.7,1,V00706
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Claude-3-Opus,2024-03-04,2024-03-04,79.5,1,V00853
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,DeepSeek-V2 [236B],2024-05-06,2024-05-06,82.0,1,V00861
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Claude-3-Sonnet,2024-03-04,2024-03-04,80.0,1,V00885
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Llama-3.1 [70B],2024-07-23,2024-07-23,76.5,1,V00909
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Claude-3-Haiku,2024-03-13,2024-03-13,79.0,1,V00925
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Qwen2 [72B],2024-06-07,2024-06-07,74.0,1,V00933
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,GPT-4o-Mini,2024-07-18,2024-07-18,69.5,1,V00941
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Llama-3 [70B],2024-04-18,2024-04-18,73.5,1,V00949
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Mixtral-8x22B [141B],2024-04-17,2024-04-17,74.0,1,V00957
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Gemma-2 [9B],2024-06-27,2024-06-27,66.5,1,V00965
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,C4AI Command R+ [104B],2024-04-04,2024-04-04,65.5,1,V00989
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Mistral-Nemo [12B],2024-07-18,2024-07-18,59.5,1,V01013
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Llama-3.1 [8B],2024-07-23,2024-07-23,60.0,1,V01021
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,DBRX [132B],2024-03-27,2024-03-27,57.0,1,V01029
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Codestral [22B],2024-05-29,2024-05-29,51.5,1,V01045
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Llama-3 [8B],2024-04-18,2024-04-18,56.5,1,V01053
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Qwen2 [7B],2024-06-07,2024-06-07,56.0,1,V01061
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Mathstral [7B],2024-07-16,2024-07-16,55.0,1,V01069
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,DeepSeek-V2-Lite [16B],2024-05-16,2024-05-16,45.5,1,V01093
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Mixtral-8x7B-v0.1 [46B],2023-12-11,2023-12-11,39.0,1,V01101
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Llama-2 [70B],2023-07-18,2023-07-18,43.5,1,V01117
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|cot,DocMath-Eval,Llama-2 [7B],2023-07-18,2023-07-18,17.0,1,V01181
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Claude-3-Opus,2024-03-04,2024-03-04,80.5,1,V00854
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,DeepSeek-V2 [236B],2024-05-06,2024-05-06,87.0,1,V00862
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Claude-3-Sonnet,2024-03-04,2024-03-04,82.5,1,V00886
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Llama-3.1 [70B],2024-07-23,2024-07-23,74.5,1,V00910
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Claude-3-Haiku,2024-03-13,2024-03-13,74.5,1,V00926
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Qwen2 [72B],2024-06-07,2024-06-07,26.5,1,V00934
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,GPT-4o-Mini,2024-07-18,2024-07-18,88.5,1,V00942
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Llama-3 [70B],2024-04-18,2024-04-18,84.5,1,V00950
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Mixtral-8x22B [141B],2024-04-17,2024-04-17,30.0,1,V00958
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Gemma-2 [9B],2024-06-27,2024-06-27,79.0,1,V00966
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,C4AI Command R+ [104B],2024-04-04,2024-04-04,35.5,1,V00990
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Mistral-Nemo [12B],2024-07-18,2024-07-18,52.5,1,V01014
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Llama-3.1 [8B],2024-07-23,2024-07-23,62.0,1,V01022
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,DBRX [132B],2024-03-27,2024-03-27,41.0,1,V01030
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Codestral [22B],2024-05-29,2024-05-29,39.0,1,V01046
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Llama-3 [8B],2024-04-18,2024-04-18,49.5,1,V01054
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Qwen2 [7B],2024-06-07,2024-06-07,13.0,1,V01062
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Mathstral [7B],2024-07-16,2024-07-16,43.5,1,V01070
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,DeepSeek-V2-Lite [16B],2024-05-16,2024-05-16,7.0,1,V01094
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Mixtral-8x7B-v0.1 [46B],2023-12-11,2023-12-11,0.5,1,V01102
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Llama-2 [70B],2023-07-18,2023-07-18,32.5,1,V01118
+DOCMATH|DocMath_scores|DocMath-testmini|simpshort|pot,DocMath-Eval,Llama-2 [7B],2023-07-18,2023-07-18,4.0,1,V01182
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Claude-3-Opus,2024-03-04,2024-03-04,77.5,1,V00855
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,DeepSeek-V2 [236B],2024-05-06,2024-05-06,69.5,1,V00863
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Claude-3-Sonnet,2024-03-04,2024-03-04,73.0,1,V00887
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Llama-3.1 [70B],2024-07-23,2024-07-23,71.0,1,V00911
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Claude-3-Haiku,2024-03-13,2024-03-13,58.5,1,V00927
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Qwen2 [72B],2024-06-07,2024-06-07,72.5,1,V00935
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,GPT-4o-Mini,2024-07-18,2024-07-18,69.5,1,V00943
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Llama-3 [70B],2024-04-18,2024-04-18,63.5,1,V00951
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Mixtral-8x22B [141B],2024-04-17,2024-04-17,57.0,1,V00959
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Gemma-2 [9B],2024-06-27,2024-06-27,54.5,1,V00967
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,C4AI Command R+ [104B],2024-04-04,2024-04-04,51.0,1,V00991
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Mistral-Nemo [12B],2024-07-18,2024-07-18,44.0,1,V01015
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Llama-3.1 [8B],2024-07-23,2024-07-23,42.5,1,V01023
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,DBRX [132B],2024-03-27,2024-03-27,43.0,1,V01031
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Codestral [22B],2024-05-29,2024-05-29,41.5,1,V01047
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Llama-3 [8B],2024-04-18,2024-04-18,31.0,1,V01055
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Qwen2 [7B],2024-06-07,2024-06-07,33.0,1,V01063
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Mathstral [7B],2024-07-16,2024-07-16,35.0,1,V01071
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,DeepSeek-V2-Lite [16B],2024-05-16,2024-05-16,18.0,1,V01095
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Mixtral-8x7B-v0.1 [46B],2023-12-11,2023-12-11,17.0,1,V01103
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Llama-2 [70B],2023-07-18,2023-07-18,25.0,1,V01119
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|cot,DocMath-Eval,Llama-2 [7B],2023-07-18,2023-07-18,11.5,1,V01183
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Claude-3-Opus,2024-03-04,2024-03-04,73.5,1,V00856
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,DeepSeek-V2 [236B],2024-05-06,2024-05-06,75.5,1,V00864
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Claude-3-Sonnet,2024-03-04,2024-03-04,80.5,1,V00888
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Llama-3.1 [70B],2024-07-23,2024-07-23,68.0,1,V00912
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Claude-3-Haiku,2024-03-13,2024-03-13,71.5,1,V00928
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Qwen2 [72B],2024-06-07,2024-06-07,24.5,1,V00936
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,GPT-4o-Mini,2024-07-18,2024-07-18,77.0,1,V00944
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Llama-3 [70B],2024-04-18,2024-04-18,64.0,1,V00952
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Mixtral-8x22B [141B],2024-04-17,2024-04-17,21.5,1,V00960
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Gemma-2 [9B],2024-06-27,2024-06-27,65.0,1,V00968
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,C4AI Command R+ [104B],2024-04-04,2024-04-04,39.0,1,V00992
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Mistral-Nemo [12B],2024-07-18,2024-07-18,37.5,1,V01016
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Llama-3.1 [8B],2024-07-23,2024-07-23,44.0,1,V01024
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,DBRX [132B],2024-03-27,2024-03-27,29.5,1,V01032
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Codestral [22B],2024-05-29,2024-05-29,38.5,1,V01048
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Llama-3 [8B],2024-04-18,2024-04-18,21.5,1,V01056
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Qwen2 [7B],2024-06-07,2024-06-07,9.5,1,V01064
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Mathstral [7B],2024-07-16,2024-07-16,32.5,1,V01072
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,DeepSeek-V2-Lite [16B],2024-05-16,2024-05-16,3.5,1,V01096
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Mixtral-8x7B-v0.1 [46B],2023-12-11,2023-12-11,2.0,1,V01104
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Llama-2 [70B],2023-07-18,2023-07-18,16.5,1,V01120
+DOCMATH|DocMath_scores|DocMath-testmini|compshort|pot,DocMath-Eval,Llama-2 [7B],2023-07-18,2023-07-18,4.0,1,V01184
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Claude-3-Opus,2024-03-04,2024-03-04,61.0,1,V00857
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,DeepSeek-V2 [236B],2024-05-06,2024-05-06,56.0,1,V00865
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Claude-3-Sonnet,2024-03-04,2024-03-04,56.0,1,V00889
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Llama-3.1 [70B],2024-07-23,2024-07-23,50.0,1,V00913
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Claude-3-Haiku,2024-03-13,2024-03-13,50.0,1,V00929
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Qwen2 [72B],2024-06-07,2024-06-07,45.0,1,V00937
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,GPT-4o-Mini,2024-07-18,2024-07-18,56.0,1,V00945
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Llama-3 [70B],2024-04-18,2024-04-18,42.0,1,V00953
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Mixtral-8x22B [141B],2024-04-17,2024-04-17,47.0,1,V00961
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Gemma-2 [9B],2024-06-27,2024-06-27,39.0,1,V00969
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,C4AI Command R+ [104B],2024-04-04,2024-04-04,31.0,1,V00993
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Mistral-Nemo [12B],2024-07-18,2024-07-18,37.0,1,V01017
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Llama-3.1 [8B],2024-07-23,2024-07-23,33.0,1,V01025
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,DBRX [132B],2024-03-27,2024-03-27,30.0,1,V01033
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Codestral [22B],2024-05-29,2024-05-29,23.0,1,V01049
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Llama-3 [8B],2024-04-18,2024-04-18,29.0,1,V01057
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Qwen2 [7B],2024-06-07,2024-06-07,31.0,1,V01065
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Mathstral [7B],2024-07-16,2024-07-16,23.0,1,V01073
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,DeepSeek-V2-Lite [16B],2024-05-16,2024-05-16,17.0,1,V01097
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Mixtral-8x7B-v0.1 [46B],2023-12-11,2023-12-11,25.0,1,V01105
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Llama-2 [70B],2023-07-18,2023-07-18,8.0,1,V01121
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|cot,DocMath-Eval,Llama-2 [7B],2023-07-18,2023-07-18,2.0,1,V01185
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Claude-3-Opus,2024-03-04,2024-03-04,51.0,1,V00858
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,DeepSeek-V2 [236B],2024-05-06,2024-05-06,61.0,1,V00866
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Claude-3-Sonnet,2024-03-04,2024-03-04,55.0,1,V00890
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Llama-3.1 [70B],2024-07-23,2024-07-23,53.0,1,V00914
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Claude-3-Haiku,2024-03-13,2024-03-13,55.0,1,V00930
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Qwen2 [72B],2024-06-07,2024-06-07,8.0,1,V00938
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,GPT-4o-Mini,2024-07-18,2024-07-18,53.0,1,V00946
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Llama-3 [70B],2024-04-18,2024-04-18,52.0,1,V00954
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Mixtral-8x22B [141B],2024-04-17,2024-04-17,25.0,1,V00962
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Gemma-2 [9B],2024-06-27,2024-06-27,50.0,1,V00970
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,C4AI Command R+ [104B],2024-04-04,2024-04-04,19.0,1,V00994
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Mistral-Nemo [12B],2024-07-18,2024-07-18,28.0,1,V01018
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Llama-3.1 [8B],2024-07-23,2024-07-23,32.0,1,V01026
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,DBRX [132B],2024-03-27,2024-03-27,32.0,1,V01034
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Codestral [22B],2024-05-29,2024-05-29,18.0,1,V01050
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Llama-3 [8B],2024-04-18,2024-04-18,24.0,1,V01058
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Qwen2 [7B],2024-06-07,2024-06-07,4.0,1,V01066
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Mathstral [7B],2024-07-16,2024-07-16,10.0,1,V01074
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,DeepSeek-V2-Lite [16B],2024-05-16,2024-05-16,1.0,1,V01098
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Mixtral-8x7B-v0.1 [46B],2023-12-11,2023-12-11,0.0,1,V01106
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Llama-2 [70B],2023-07-18,2023-07-18,1.0,1,V01122
+DOCMATH|DocMath_scores|DocMath-testmini|simplong|pot,DocMath-Eval,Llama-2 [7B],2023-07-18,2023-07-18,0.0,1,V01186
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Claude-3-Opus,2024-03-04,2024-03-04,39.7,1,V00859
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,DeepSeek-V2 [236B],2024-05-06,2024-05-06,39.7,1,V00867
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Claude-3-Sonnet,2024-03-04,2024-03-04,35.3,1,V00891
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Llama-3.1 [70B],2024-07-23,2024-07-23,29.3,1,V00915
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Claude-3-Haiku,2024-03-13,2024-03-13,31.7,1,V00931
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Qwen2 [72B],2024-06-07,2024-06-07,27.0,1,V00939
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,GPT-4o-Mini,2024-07-18,2024-07-18,28.0,1,V00947
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Llama-3 [70B],2024-04-18,2024-04-18,28.3,1,V00955
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Mixtral-8x22B [141B],2024-04-17,2024-04-17,24.0,1,V00963
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Gemma-2 [9B],2024-06-27,2024-06-27,17.7,1,V00971
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,C4AI Command R+ [104B],2024-04-04,2024-04-04,18.3,1,V00995
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Mistral-Nemo [12B],2024-07-18,2024-07-18,16.7,1,V01019
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Llama-3.1 [8B],2024-07-23,2024-07-23,14.3,1,V01027
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,DBRX [132B],2024-03-27,2024-03-27,16.3,1,V01035
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Codestral [22B],2024-05-29,2024-05-29,13.0,1,V01051
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Llama-3 [8B],2024-04-18,2024-04-18,12.3,1,V01059
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Qwen2 [7B],2024-06-07,2024-06-07,10.0,1,V01067
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Mathstral [7B],2024-07-16,2024-07-16,11.7,1,V01075
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,DeepSeek-V2-Lite [16B],2024-05-16,2024-05-16,10.3,1,V01099
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Mixtral-8x7B-v0.1 [46B],2023-12-11,2023-12-11,12.7,1,V01107
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Llama-2 [70B],2023-07-18,2023-07-18,7.0,1,V01123
+DOCMATH|DocMath_scores|DocMath-testmini|complong|cot,DocMath-Eval,Llama-2 [7B],2023-07-18,2023-07-18,2.7,1,V01187
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Claude-3-Opus,2024-03-04,2024-03-04,42.0,1,V00860
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,DeepSeek-V2 [236B],2024-05-06,2024-05-06,43.0,1,V00868
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Claude-3-Sonnet,2024-03-04,2024-03-04,40.3,1,V00892
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Llama-3.1 [70B],2024-07-23,2024-07-23,34.7,1,V00916
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Claude-3-Haiku,2024-03-13,2024-03-13,36.7,1,V00932
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Qwen2 [72B],2024-06-07,2024-06-07,7.0,1,V00940
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,GPT-4o-Mini,2024-07-18,2024-07-18,38.7,1,V00948
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Llama-3 [70B],2024-04-18,2024-04-18,41.0,1,V00956
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Mixtral-8x22B [141B],2024-04-17,2024-04-17,14.7,1,V00964
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Gemma-2 [9B],2024-06-27,2024-06-27,24.3,1,V00972
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,C4AI Command R+ [104B],2024-04-04,2024-04-04,8.7,1,V00996
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Mistral-Nemo [12B],2024-07-18,2024-07-18,15.3,1,V01020
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Llama-3.1 [8B],2024-07-23,2024-07-23,19.0,1,V01028
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,DBRX [132B],2024-03-27,2024-03-27,12.0,1,V01036
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Codestral [22B],2024-05-29,2024-05-29,17.3,1,V01052
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Llama-3 [8B],2024-04-18,2024-04-18,10.0,1,V01060
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Qwen2 [7B],2024-06-07,2024-06-07,2.3,1,V01068
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Mathstral [7B],2024-07-16,2024-07-16,11.3,1,V01076
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,DeepSeek-V2-Lite [16B],2024-05-16,2024-05-16,1.0,1,V01100
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Mixtral-8x7B-v0.1 [46B],2023-12-11,2023-12-11,0.0,1,V01108
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Llama-2 [70B],2023-07-18,2023-07-18,2.0,1,V01124
+DOCMATH|DocMath_scores|DocMath-testmini|complong|pot,DocMath-Eval,Llama-2 [7B],2023-07-18,2023-07-18,1.3,1,V01188
+CHARTQA|Qwen25VL_card|ChartQA|test,ChartQA,InternVL2.5-78B,2024-12-05,2024-12-05,88.3,1,V01230
+CHARTQA|Qwen25VL_card|ChartQA|test,ChartQA,Qwen2-VL-72B,2024-08-29,2024-08-29,88.3,1,V01231
+CHARTQA|Qwen25VL_card|ChartQA|test,ChartQA,Qwen2.5-VL-72B,2025-01-26,2025-01-26,89.5,1,V01232
+DOCVQA|Qwen25VL_card|DocVQA|validation,DocVQA,InternVL2.5-78B,2024-12-05,2024-12-05,96.5,1,V01236
+DOCVQA|Qwen25VL_card|DocVQA|validation,DocVQA,Qwen2-VL-72B,2024-08-29,2024-08-29,96.1,1,V01237
+DOCVQA|Qwen25VL_card|DocVQA|validation,DocVQA,Qwen2.5-VL-72B,2025-01-26,2025-01-26,96.4,1,V01238
+OCR1|Qwen25VL_card|OCRBench-v1|1000-items,OCRBench,InternVL2.5-78B,2024-12-05,2024-12-05,854.0,1,V01241
+OCR1|Qwen25VL_card|OCRBench-v1|1000-items,OCRBench,Qwen2-VL-72B,2024-08-29,2024-08-29,877.0,1,V01242
+OCR1|Qwen25VL_card|OCRBench-v1|1000-items,OCRBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,885.0,1,V01243
+OCR2|Qwen25VL_card|OCRBench-v2|en,OCRBench,InternVL2.5-78B,2024-12-05,2024-12-05,45.0,1,V01250
+OCR2|Qwen25VL_card|OCRBench-v2|en,OCRBench,Qwen2-VL-72B,2024-08-29,2024-08-29,47.8,1,V01252
+OCR2|Qwen25VL_card|OCRBench-v2|en,OCRBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,61.5,1,V01254
+OCR2|Qwen25VL_card|OCRBench-v2|zh,OCRBench,InternVL2.5-78B,2024-12-05,2024-12-05,46.2,1,V01251
+OCR2|Qwen25VL_card|OCRBench-v2|zh,OCRBench,Qwen2-VL-72B,2024-08-29,2024-08-29,46.1,1,V01253
+OCR2|Qwen25VL_card|OCRBench-v2|zh,OCRBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,63.7,1,V01255
+DROP|MATH500|DROP|3shot-F1|R1-comparison,DROP,Claude 3.5 Sonnet-1022,2024-10-22,2024-10-22,88.3,1,V01256
+DROP|MATH500|DROP|3shot-F1|R1-comparison,DROP,GPT-4o-0513,2024-05-13,2024-05-13,83.7,1,V01257
+DROP|MATH500|DROP|3shot-F1|R1-comparison,DROP,DeepSeek V3,2024-12-26,2024-12-26,91.6,1,V01258
+DROP|MATH500|DROP|3shot-F1|R1-comparison,DROP,OpenAI o1-mini,2024-09-12,2024-09-12,83.9,1,V01259
+DROP|MATH500|DROP|3shot-F1|R1-comparison,DROP,OpenAI o1-1217,2024-12-17,2024-12-17,90.2,1,V01260
+DROP|MATH500|DROP|3shot-F1|R1-comparison,DROP,DeepSeek R1,2025-01-20,2025-01-20,92.2,1,V01261
+FRAMES|MATH500|FRAMES|R1-comparison,FRAMES,Claude 3.5 Sonnet-1022,2024-10-22,2024-10-22,72.5,1,V01273
+FRAMES|MATH500|FRAMES|R1-comparison,FRAMES,GPT-4o-0513,2024-05-13,2024-05-13,80.5,1,V01274
+FRAMES|MATH500|FRAMES|R1-comparison,FRAMES,DeepSeek V3,2024-12-26,2024-12-26,73.3,1,V01275
+FRAMES|MATH500|FRAMES|R1-comparison,FRAMES,OpenAI o1-mini,2024-09-12,2024-09-12,76.9,1,V01276
+FRAMES|MATH500|FRAMES|R1-comparison,FRAMES,DeepSeek R1,2025-01-20,2025-01-20,82.5,1,V01277
+LAB|LabBench_paper|LAB-Bench|LitQA2|Accuracy,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.06,1,V01279
+LAB|LabBench_paper|LAB-Bench|LitQA2|Accuracy,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.06,1,V01280
+LAB|LabBench_paper|LAB-Bench|LitQA2|Accuracy,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.1,1,V01281
+LAB|LabBench_paper|LAB-Bench|LitQA2|Accuracy,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.27,1,V01284
+LAB|LabBench_paper|LAB-Bench|LitQA2|Accuracy,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.35,1,V01285
+LAB|LabBench_paper|LAB-Bench|SuppQA|Accuracy,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.02,1,V01287
+LAB|LabBench_paper|LAB-Bench|SuppQA|Accuracy,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.02,1,V01288
+LAB|LabBench_paper|LAB-Bench|SuppQA|Accuracy,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.01,1,V01289
+LAB|LabBench_paper|LAB-Bench|SuppQA|Accuracy,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.18,1,V01292
+LAB|LabBench_paper|LAB-Bench|SuppQA|Accuracy,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.2,1,V01293
+LAB|LabBench_paper|LAB-Bench|FigQA|Accuracy,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.46,1,V01295
+LAB|LabBench_paper|LAB-Bench|FigQA|Accuracy,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.24,1,V01296
+LAB|LabBench_paper|LAB-Bench|FigQA|Accuracy,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.25,1,V01297
+LAB|LabBench_paper|LAB-Bench|FigQA|Accuracy,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.23,1,V01300
+LAB|LabBench_paper|LAB-Bench|FigQA|Accuracy,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.0,1,V01301
+LAB|LabBench_paper|LAB-Bench|TableQA|Accuracy,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.83,1,V01303
+LAB|LabBench_paper|LAB-Bench|TableQA|Accuracy,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.67,1,V01304
+LAB|LabBench_paper|LAB-Bench|TableQA|Accuracy,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.59,1,V01305
+LAB|LabBench_paper|LAB-Bench|TableQA|Accuracy,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.49,1,V01308
+LAB|LabBench_paper|LAB-Bench|TableQA|Accuracy,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.0,1,V01309
+LAB|LabBench_paper|LAB-Bench|LitQA2|Precision,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.47,1,V01311
+LAB|LabBench_paper|LAB-Bench|LitQA2|Precision,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.43,1,V01312
+LAB|LabBench_paper|LAB-Bench|LitQA2|Precision,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.44,1,V01313
+LAB|LabBench_paper|LAB-Bench|LitQA2|Precision,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.38,1,V01316
+LAB|LabBench_paper|LAB-Bench|LitQA2|Precision,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.38,1,V01317
+LAB|LabBench_paper|LAB-Bench|SuppQA|Precision,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.75,1,V01319
+LAB|LabBench_paper|LAB-Bench|SuppQA|Precision,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.59,1,V01320
+LAB|LabBench_paper|LAB-Bench|SuppQA|Precision,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.32,1,V01321
+LAB|LabBench_paper|LAB-Bench|SuppQA|Precision,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.35,1,V01324
+LAB|LabBench_paper|LAB-Bench|SuppQA|Precision,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.27,1,V01325
+LAB|LabBench_paper|LAB-Bench|FigQA|Precision,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.54,1,V01327
+LAB|LabBench_paper|LAB-Bench|FigQA|Precision,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.31,1,V01328
+LAB|LabBench_paper|LAB-Bench|FigQA|Precision,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.34,1,V01329
+LAB|LabBench_paper|LAB-Bench|FigQA|Precision,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.24,1,V01332
+LAB|LabBench_paper|LAB-Bench|FigQA|Precision,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.0,1,V01333
+LAB|LabBench_paper|LAB-Bench|TableQA|Precision,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.9,1,V01335
+LAB|LabBench_paper|LAB-Bench|TableQA|Precision,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.74,1,V01336
+LAB|LabBench_paper|LAB-Bench|TableQA|Precision,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.71,1,V01337
+LAB|LabBench_paper|LAB-Bench|TableQA|Precision,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.51,1,V01340
+LAB|LabBench_paper|LAB-Bench|TableQA|Precision,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.0,1,V01341
+LAB|LabBench_paper|LAB-Bench|LitQA2|Coverage,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.12,1,V01343
+LAB|LabBench_paper|LAB-Bench|LitQA2|Coverage,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.14,1,V01344
+LAB|LabBench_paper|LAB-Bench|LitQA2|Coverage,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.23,1,V01345
+LAB|LabBench_paper|LAB-Bench|LitQA2|Coverage,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.7,1,V01348
+LAB|LabBench_paper|LAB-Bench|LitQA2|Coverage,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.92,1,V01349
+LAB|LabBench_paper|LAB-Bench|SuppQA|Coverage,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.04,1,V01351
+LAB|LabBench_paper|LAB-Bench|SuppQA|Coverage,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.04,1,V01352
+LAB|LabBench_paper|LAB-Bench|SuppQA|Coverage,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.04,1,V01353
+LAB|LabBench_paper|LAB-Bench|SuppQA|Coverage,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.53,1,V01356
+LAB|LabBench_paper|LAB-Bench|SuppQA|Coverage,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.74,1,V01357
+LAB|LabBench_paper|LAB-Bench|FigQA|Coverage,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.85,1,V01359
+LAB|LabBench_paper|LAB-Bench|FigQA|Coverage,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.78,1,V01360
+LAB|LabBench_paper|LAB-Bench|FigQA|Coverage,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.73,1,V01361
+LAB|LabBench_paper|LAB-Bench|FigQA|Coverage,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.95,1,V01364
+LAB|LabBench_paper|LAB-Bench|FigQA|Coverage,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.0,1,V01365
+LAB|LabBench_paper|LAB-Bench|TableQA|Coverage,LAB-Bench,claude-3-5-sonnet-20240620,2024-06-20,2024-06-20,0.92,1,V01367
+LAB|LabBench_paper|LAB-Bench|TableQA|Coverage,LAB-Bench,claude-3-opus-20240229,2024-03-04,2024-03-04,0.9,1,V01368
+LAB|LabBench_paper|LAB-Bench|TableQA|Coverage,LAB-Bench,gemini-1.5-pro-001,2024-05-23,2024-05-23,0.83,1,V01369
+LAB|LabBench_paper|LAB-Bench|TableQA|Coverage,LAB-Bench,claude-3-haiku-20240307,2024-03-13,2024-03-13,0.96,1,V01372
+LAB|LabBench_paper|LAB-Bench|TableQA|Coverage,LAB-Bench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.0,1,V01373
+ROBBR|RoBBR_paper|RoBBR|Support sentence retrieval,RoBBR,Llama-3.1-70B,2024-07-23,2024-07-23,45.6,1,V01378
+ROBBR|RoBBR_paper|RoBBR|Support sentence retrieval,RoBBR,Llama-3-8B,2024-04-18,2024-04-18,22.7,1,V01379
+ROBBR|RoBBR_paper|RoBBR|Support judgment selection,RoBBR,Llama-3.1-70B,2024-07-23,2024-07-23,53.2,1,V01383
+ROBBR|RoBBR_paper|RoBBR|Support judgment selection,RoBBR,Llama-3-8B,2024-04-18,2024-04-18,26.5,1,V01384
+ROBBR|RoBBR_paper|RoBBR|Risk-of-bias determination,RoBBR,Llama-3.1-70B,2024-07-23,2024-07-23,38.8,1,V01388
+ROBBR|RoBBR_paper|RoBBR|Risk-of-bias determination,RoBBR,Llama-3-8B,2024-04-18,2024-04-18,30.1,1,V01389
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|agent|Overall,TableBench,Qwen3-32B,2025-04-29,2025-04-29,52.45,1,V01526
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|agent|Fact checking,TableBench,Qwen3-32B,2025-04-29,2025-04-29,83.33,1,V01522
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|agent|Numerical reasoning,TableBench,Qwen3-32B,2025-04-29,2025-04-29,72.54,1,V01523
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|agent|Data analysis,TableBench,Qwen3-32B,2025-04-29,2025-04-29,28.16,1,V01524
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|agent|Visualization,TableBench,Qwen3-32B,2025-04-29,2025-04-29,18.0,1,V01525
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,GPT-5,2025-08-07,2025-08-07,59.94,1,V01644
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Deepseek-R1 🤔,2025-01-20,2025-01-20,56.31,1,V01648
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Qwen3-32B,2025-04-29,2025-04-29,52.45,1,V01654
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,36.04,1,V01667
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,27.5,1,V01671
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,QWQ-32B 🤔,2025-03-06,2025-03-06,43.87,1,V01679
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,30.02,1,V01683
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Llama3-70B-Instruct,2024-04-18,2024-04-18,28.5,1,V01691
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Llama3-8B-Instruct,2024-04-18,2024-04-18,21.32,1,V01723
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,17.63,1,V01727
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP,TableBench,Llama3.1-8B-Instruct,2024-07-23,2024-07-23,15.42,1,V01735
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|TCoT,TableBench,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,48.87,1,V01668
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|TCoT,TableBench,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,48.79,1,V01672
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|TCoT,TableBench,QWQ-32B 🤔,2025-03-06,2025-03-06,43.48,1,V01680
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|TCoT,TableBench,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,41.05,1,V01684
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|TCoT,TableBench,Llama3-70B-Instruct,2024-04-18,2024-04-18,38.68,1,V01692
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|TCoT,TableBench,Llama3-8B-Instruct,2024-04-18,2024-04-18,19.9,1,V01724
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|TCoT,TableBench,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,22.14,1,V01728
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|TCoT,TableBench,Llama3.1-8B-Instruct,2024-07-23,2024-07-23,12.78,1,V01736
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|SCoT,TableBench,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,39.85,1,V01669
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|SCoT,TableBench,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,35.99,1,V01673
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|SCoT,TableBench,QWQ-32B 🤔,2025-03-06,2025-03-06,37.06,1,V01681
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|SCoT,TableBench,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,38.12,1,V01685
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|SCoT,TableBench,Llama3-70B-Instruct,2024-04-18,2024-04-18,31.12,1,V01693
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|SCoT,TableBench,Llama3-8B-Instruct,2024-04-18,2024-04-18,22.2,1,V01725
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|SCoT,TableBench,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,21.32,1,V01729
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|SCoT,TableBench,Llama3.1-8B-Instruct,2024-07-23,2024-07-23,13.53,1,V01737
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|PoT,TableBench,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,26.21,1,V01670
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|PoT,TableBench,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,42.4,1,V01674
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|PoT,TableBench,QWQ-32B 🤔,2025-03-06,2025-03-06,31.58,1,V01682
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|PoT,TableBench,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,30.1,1,V01686
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|PoT,TableBench,Llama3-70B-Instruct,2024-04-18,2024-04-18,34.77,1,V01694
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|PoT,TableBench,Llama3-8B-Instruct,2024-04-18,2024-04-18,14.51,1,V01726
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|PoT,TableBench,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,21.86,1,V01730
+TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|PoT,TableBench,Llama3.1-8B-Instruct,2024-07-23,2024-07-23,14.18,1,V01738
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,GPT-5.2-2025-12-11 (FC),2025-12-11,2025-12-11,55.87,1,V01833
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,55.46,1,V01839
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,GPT-4.1-2025-04-14 (FC),2025-04-14,2025-04-14,53.96,1,V01857
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,Qwen3-32B (FC),2025-04-29,2025-04-29,48.71,1,V01911
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,Qwen3-235B-A22B-Instruct-2507 (FC),2025-07-21,2025-07-21,47.99,1,V01923
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,Qwen3-8B (FC),2025-04-29,2025-04-29,42.57,1,V01971
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,Qwen3-30B-A3B-Instruct-2507 (FC),2025-07-30,2025-07-30,41.39,1,V01983
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,Qwen3-14B (FC),2025-04-29,2025-04-29,41.03,1,V01995
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,mistral-large-2411 (FC),2024-11-18,2024-11-18,38.37,1,V02013
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,Llama-3.3-70B-Instruct (FC),2024-12-06,2024-12-06,31.9,1,V02109
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,28.41,1,V02163
+BFCL|BFCL_scores|BFCL-v4|Overall|FC,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,23.93,1,V02289
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,GPT-5.2-2025-12-11 (FC),2025-12-11,2025-12-11,81.85,1,V01834
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,69.85,1,V01840
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,GPT-4.1-2025-04-14 (FC),2025-04-14,2025-04-14,82.79,1,V01858
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,Qwen3-32B (FC),2025-04-29,2025-04-29,88.77,1,V01912
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,Qwen3-235B-A22B-Instruct-2507 (FC),2025-07-21,2025-07-21,37.4,1,V01924
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,Qwen3-8B (FC),2025-04-29,2025-04-29,87.58,1,V01972
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,Qwen3-30B-A3B-Instruct-2507 (FC),2025-07-30,2025-07-30,85.77,1,V01984
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,Qwen3-14B (FC),2025-04-29,2025-04-29,84.94,1,V01996
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,mistral-large-2411 (FC),2024-11-18,2024-11-18,84.65,1,V02014
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,Llama-3.3-70B-Instruct (FC),2024-12-06,2024-12-06,88.02,1,V02110
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,82.92,1,V02164
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|FC,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,71.79,1,V02290
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,GPT-5.2-2025-12-11 (FC),2025-12-11,2025-12-11,70.39,1,V01835
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,58.62,1,V01841
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,GPT-4.1-2025-04-14 (FC),2025-04-14,2025-04-14,69.95,1,V01859
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,Qwen3-32B (FC),2025-04-29,2025-04-29,82.01,1,V01913
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,Qwen3-235B-A22B-Instruct-2507 (FC),2025-07-21,2025-07-21,68.91,1,V01925
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,Qwen3-8B (FC),2025-04-29,2025-04-29,80.53,1,V01973
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,Qwen3-30B-A3B-Instruct-2507 (FC),2025-07-30,2025-07-30,77.94,1,V01985
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,Qwen3-14B (FC),2025-04-29,2025-04-29,80.01,1,V01997
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,mistral-large-2411 (FC),2024-11-18,2024-11-18,81.87,1,V02015
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,Llama-3.3-70B-Instruct (FC),2024-12-06,2024-12-06,76.61,1,V02111
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,74.61,1,V02165
+BFCL|BFCL_scores|BFCL-v4|Live|FC,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,56.62,1,V02291
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,GPT-5.2-2025-12-11 (FC),2025-12-11,2025-12-11,28.12,1,V01836
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,27.5,1,V01842
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,GPT-4.1-2025-04-14 (FC),2025-04-14,2025-04-14,38.88,1,V01860
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,Qwen3-32B (FC),2025-04-29,2025-04-29,47.87,1,V01914
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,Qwen3-235B-A22B-Instruct-2507 (FC),2025-07-21,2025-07-21,45.38,1,V01926
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,Qwen3-8B (FC),2025-04-29,2025-04-29,41.75,1,V01974
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,Qwen3-30B-A3B-Instruct-2507 (FC),2025-07-30,2025-07-30,30.0,1,V01986
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,Qwen3-14B (FC),2025-04-29,2025-04-29,34.75,1,V01998
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,mistral-large-2411 (FC),2024-11-18,2024-11-18,14.12,1,V02016
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,Llama-3.3-70B-Instruct (FC),2024-12-06,2024-12-06,21.5,1,V02112
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,11.0,1,V02166
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|FC,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,3.62,1,V02292
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,GPT-5.2-2025-12-11 (FC),2025-12-11,2025-12-11,75.5,1,V01837
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,82.0,1,V01843
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,GPT-4.1-2025-04-14 (FC),2025-04-14,2025-04-14,68.0,1,V01861
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,Qwen3-32B (FC),2025-04-29,2025-04-29,21.5,1,V01915
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,Qwen3-235B-A22B-Instruct-2507 (FC),2025-07-21,2025-07-21,54.0,1,V01927
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,Qwen3-8B (FC),2025-04-29,2025-04-29,12.0,1,V01975
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,Qwen3-30B-A3B-Instruct-2507 (FC),2025-07-30,2025-07-30,22.5,1,V01987
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,Qwen3-14B (FC),2025-04-29,2025-04-29,10.0,1,V01999
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,mistral-large-2411 (FC),2024-11-18,2024-11-18,28.0,1,V02017
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,Llama-3.3-70B-Instruct (FC),2024-12-06,2024-12-06,10.0,1,V02113
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,2.5,1,V02167
+BFCL|BFCL_scores|BFCL-v4|Web search|FC,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,1.0,1,V02293
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,GPT-5.2-2025-12-11 (FC),2025-12-11,2025-12-11,45.81,1,V01838
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,44.3,1,V01844
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,GPT-4.1-2025-04-14 (FC),2025-04-14,2025-04-14,23.87,1,V01862
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,Qwen3-32B (FC),2025-04-29,2025-04-29,26.67,1,V01916
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,Qwen3-235B-A22B-Instruct-2507 (FC),2025-07-21,2025-07-21,23.87,1,V01928
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,Qwen3-8B (FC),2025-04-29,2025-04-29,14.62,1,V01976
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,Qwen3-30B-A3B-Instruct-2507 (FC),2025-07-30,2025-07-30,17.63,1,V01988
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,Qwen3-14B (FC),2025-04-29,2025-04-29,19.57,1,V02000
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,mistral-large-2411 (FC),2024-11-18,2024-11-18,24.95,1,V02018
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,Llama-3.3-70B-Instruct (FC),2024-12-06,2024-12-06,8.17,1,V02114
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,6.02,1,V02168
+BFCL|BFCL_scores|BFCL-v4|Memory|FC,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,8.6,1,V02294
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,Qwen3-235B-A22B-Instruct-2507 (Prompt),2025-07-21,2025-07-21,52.15,1,V01875
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,Qwen3-32B (Prompt),2025-04-29,2025-04-29,46.78,1,V01935
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,GPT-5.2-2025-12-11 (Prompt),2025-12-11,2025-12-11,45.27,1,V01965
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,Qwen3-8B (Prompt),2025-04-29,2025-04-29,40.43,1,V02001
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,GPT-4.1-2025-04-14 (Prompt),2025-04-14,2025-04-14,39.38,1,V02007
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,Qwen3-14B (Prompt),2025-04-29,2025-04-29,37.77,1,V02019
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,Qwen3-30B-A3B-Instruct-2507 (Prompt),2025-07-30,2025-07-30,36.7,1,V02055
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,mistral-large-2411 (Prompt),2024-11-18,2024-11-18,31.84,1,V02115
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,GPT-5-mini-2025-08-07 (Prompt),2025-08-07,2025-08-07,27.83,1,V02199
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,Llama-3.1-8B-Instruct (Prompt),2024-07-23,2024-07-23,25.83,1,V02247
+BFCL|BFCL_scores|BFCL-v4|Overall|Prompt,BFCL,Qwen3-0.6B (Prompt),2025-04-29,2025-04-29,22.38,1,V02301
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,Qwen3-235B-A22B-Instruct-2507 (Prompt),2025-07-21,2025-07-21,90.33,1,V01876
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,Qwen3-32B (Prompt),2025-04-29,2025-04-29,90.27,1,V01936
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,GPT-5.2-2025-12-11 (Prompt),2025-12-11,2025-12-11,78.29,1,V01966
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,Qwen3-8B (Prompt),2025-04-29,2025-04-29,88.56,1,V02002
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,GPT-4.1-2025-04-14 (Prompt),2025-04-14,2025-04-14,88.69,1,V02008
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,Qwen3-14B (Prompt),2025-04-29,2025-04-29,89.46,1,V02020
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,Qwen3-30B-A3B-Instruct-2507 (Prompt),2025-07-30,2025-07-30,88.92,1,V02056
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,mistral-large-2411 (Prompt),2024-11-18,2024-11-18,83.0,1,V02116
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,GPT-5-mini-2025-08-07 (Prompt),2025-08-07,2025-08-07,68.04,1,V02200
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,Llama-3.1-8B-Instruct (Prompt),2024-07-23,2024-07-23,84.0,1,V02248
+BFCL|BFCL_scores|BFCL-v4|Non-live AST|Prompt,BFCL,Qwen3-0.6B (Prompt),2025-04-29,2025-04-29,70.0,1,V02302
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,Qwen3-235B-A22B-Instruct-2507 (Prompt),2025-07-21,2025-07-21,78.68,1,V01877
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,Qwen3-32B (Prompt),2025-04-29,2025-04-29,82.01,1,V01937
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,GPT-5.2-2025-12-11 (Prompt),2025-12-11,2025-12-11,67.14,1,V01967
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,Qwen3-8B (Prompt),2025-04-29,2025-04-29,80.09,1,V02003
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,GPT-4.1-2025-04-14 (Prompt),2025-04-14,2025-04-14,78.9,1,V02009
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,Qwen3-14B (Prompt),2025-04-29,2025-04-29,79.35,1,V02021
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,Qwen3-30B-A3B-Instruct-2507 (Prompt),2025-07-30,2025-07-30,78.39,1,V02057
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,mistral-large-2411 (Prompt),2024-11-18,2024-11-18,68.1,1,V02117
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,GPT-5-mini-2025-08-07 (Prompt),2025-08-07,2025-08-07,62.55,1,V02201
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,Llama-3.1-8B-Instruct (Prompt),2024-07-23,2024-07-23,70.76,1,V02249
+BFCL|BFCL_scores|BFCL-v4|Live|Prompt,BFCL,Qwen3-0.6B (Prompt),2025-04-29,2025-04-29,49.37,1,V02303
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,Qwen3-235B-A22B-Instruct-2507 (Prompt),2025-07-21,2025-07-21,44.62,1,V01878
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,Qwen3-32B (Prompt),2025-04-29,2025-04-29,43.25,1,V01938
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,GPT-5.2-2025-12-11 (Prompt),2025-12-11,2025-12-11,43.75,1,V01968
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,Qwen3-8B (Prompt),2025-04-29,2025-04-29,33.38,1,V02004
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,GPT-4.1-2025-04-14 (Prompt),2025-04-14,2025-04-14,9.75,1,V02010
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,Qwen3-14B (Prompt),2025-04-29,2025-04-29,26.13,1,V02022
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,Qwen3-30B-A3B-Instruct-2507 (Prompt),2025-07-30,2025-07-30,23.5,1,V02058
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,mistral-large-2411 (Prompt),2024-11-18,2024-11-18,13.75,1,V02118
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,GPT-5-mini-2025-08-07 (Prompt),2025-08-07,2025-08-07,5.5,1,V02202
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,Llama-3.1-8B-Instruct (Prompt),2024-07-23,2024-07-23,11.12,1,V02250
+BFCL|BFCL_scores|BFCL-v4|Multi-turn|Prompt,BFCL,Qwen3-0.6B (Prompt),2025-04-29,2025-04-29,1.38,1,V02304
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,Qwen3-235B-A22B-Instruct-2507 (Prompt),2025-07-21,2025-07-21,50.5,1,V01879
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,Qwen3-32B (Prompt),2025-04-29,2025-04-29,26.0,1,V01939
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,GPT-5.2-2025-12-11 (Prompt),2025-12-11,2025-12-11,40.5,1,V01969
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,Qwen3-8B (Prompt),2025-04-29,2025-04-29,13.5,1,V02005
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,GPT-4.1-2025-04-14 (Prompt),2025-04-14,2025-04-14,35.0,1,V02011
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,Qwen3-14B (Prompt),2025-04-29,2025-04-29,10.5,1,V02023
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,Qwen3-30B-A3B-Instruct-2507 (Prompt),2025-07-30,2025-07-30,17.5,1,V02059
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,mistral-large-2411 (Prompt),2024-11-18,2024-11-18,20.0,1,V02119
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,GPT-5-mini-2025-08-07 (Prompt),2025-08-07,2025-08-07,8.5,1,V02203
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,Llama-3.1-8B-Instruct (Prompt),2024-07-23,2024-07-23,3.0,1,V02251
+BFCL|BFCL_scores|BFCL-v4|Web search|Prompt,BFCL,Qwen3-0.6B (Prompt),2025-04-29,2025-04-29,0.5,1,V02305
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,Qwen3-235B-A22B-Instruct-2507 (Prompt),2025-07-21,2025-07-21,19.35,1,V01880
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,Qwen3-32B (Prompt),2025-04-29,2025-04-29,15.7,1,V01940
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,GPT-5.2-2025-12-11 (Prompt),2025-12-11,2025-12-11,3.87,1,V01970
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,Qwen3-8B (Prompt),2025-04-29,2025-04-29,13.12,1,V02006
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,GPT-4.1-2025-04-14 (Prompt),2025-04-14,2025-04-14,21.51,1,V02012
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,Qwen3-14B (Prompt),2025-04-29,2025-04-29,11.18,1,V02024
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,Qwen3-30B-A3B-Instruct-2507 (Prompt),2025-07-30,2025-07-30,9.68,1,V02060
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,mistral-large-2411 (Prompt),2024-11-18,2024-11-18,23.66,1,V02120
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,GPT-5-mini-2025-08-07 (Prompt),2025-08-07,2025-08-07,29.25,1,V02204
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,Llama-3.1-8B-Instruct (Prompt),2024-07-23,2024-07-23,10.75,1,V02252
+BFCL|BFCL_scores|BFCL-v4|Memory|Prompt,BFCL,Qwen3-0.6B (Prompt),2025-04-29,2025-04-29,8.39,1,V02306
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-1,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,62.77,1,V02397
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-1,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,21.28,1,V02406
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-1,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,53.09,1,V02415
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-1,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,63.83,1,V02487
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-2,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,42.32,1,V02398
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-2,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,29.79,1,V02407
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-2,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,52.84,1,V02416
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-2,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,58.7,1,V02488
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-3,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,4.35,1,V02399
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-3,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,0.0,1,V02408
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-3,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,0.0,1,V02417
+MANALYZER|Manalyzer_paper|Manalyzer|Atmosphere|level-3,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,1.09,1,V02489
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-1,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,24.84,1,V02400
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-1,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,33.54,1,V02409
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-1,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,34.62,1,V02418
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-1,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,40.37,1,V02490
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-2,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,18.5,1,V02401
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-2,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,29.88,1,V02410
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-2,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,30.48,1,V02419
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-2,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,43.32,1,V02491
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-3,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,1.21,1,V02402
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-3,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,7.91,1,V02411
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-3,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,10.07,1,V02420
+MANALYZER|Manalyzer_paper|Manalyzer|Agriculture|level-3,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,18.31,1,V02492
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-1,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,36.51,1,V02403
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-1,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,46.03,1,V02412
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-1,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,55.56,1,V02421
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-1,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,53.97,1,V02493
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-2,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,42.63,1,V02404
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-2,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,46.01,1,V02413
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-2,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,59.13,1,V02422
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-2,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,41.27,1,V02494
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-3,Manalyzer,Llama-3.2-11B-V,2024-09-25,2024-09-25,0.19,1,V02405
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-3,Manalyzer,Qwen-2.5-32,2024-09-19,2024-09-19,2.27,1,V02414
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-3,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,3.26,1,V02423
+MANALYZER|Manalyzer_paper|Manalyzer|Environment|level-3,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,2.46,1,V02495
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Accuracy,Manalyzer,Llama-3-8B,2024-04-18,2024-04-18,43.4,1,V02505
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Accuracy,Manalyzer,Llama-3-70B,2024-04-18,2024-04-18,43.3,1,V02509
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Accuracy,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,47.4,1,V02513
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Accuracy,Manalyzer,DeepSeek-V3,2024-12-26,2024-12-26,39.0,1,V02517
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Accuracy,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,38.7,1,V02541
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Precision,Manalyzer,Llama-3-8B,2024-04-18,2024-04-18,41.7,1,V02506
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Precision,Manalyzer,Llama-3-70B,2024-04-18,2024-04-18,40.0,1,V02510
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Precision,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,47.5,1,V02514
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Precision,Manalyzer,DeepSeek-V3,2024-12-26,2024-12-26,38.3,1,V02518
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Precision,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,37.2,1,V02542
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Recall,Manalyzer,Llama-3-8B,2024-04-18,2024-04-18,100.0,1,V02507
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Recall,Manalyzer,Llama-3-70B,2024-04-18,2024-04-18,98.5,1,V02511
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Recall,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,100.0,1,V02515
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Recall,Manalyzer,DeepSeek-V3,2024-12-26,2024-12-26,100.0,1,V02519
+MANALYZER|Manalyzer_paper|Manalyzer|screening|Recall,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,98.4,1,V02543
+MANALYZER|Manalyzer_paper|Manalyzer|screening|F1,Manalyzer,Llama-3-8B,2024-04-18,2024-04-18,58.8,1,V02508
+MANALYZER|Manalyzer_paper|Manalyzer|screening|F1,Manalyzer,Llama-3-70B,2024-04-18,2024-04-18,56.9,1,V02512
+MANALYZER|Manalyzer_paper|Manalyzer|screening|F1,Manalyzer,Qwen-2.5-72B,2024-09-19,2024-09-19,64.3,1,V02516
+MANALYZER|Manalyzer_paper|Manalyzer|screening|F1,Manalyzer,DeepSeek-V3,2024-12-26,2024-12-26,55.4,1,V02520
+MANALYZER|Manalyzer_paper|Manalyzer|screening|F1,Manalyzer,Claude-3.7,2025-02-24,2025-02-24,54.0,1,V02544
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Group F1,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.903,1,V02549
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Group F1,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.905,1,V02561
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Group F1,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.874,1,V02573
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Group F1,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.85,1,V02585
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Leaf Micro F1,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.896,1,V02550
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Leaf Micro F1,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.896,1,V02562
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Leaf Micro F1,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.843,1,V02574
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Leaf Micro F1,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.812,1,V02586
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Exact Field Accuracy,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.822,1,V02551
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Exact Field Accuracy,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.817,1,V02563
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Exact Field Accuracy,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.743,1,V02575
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Exact Field Accuracy,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.675,1,V02587
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Whole-diagram Exact Match,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.21,1,V02552
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Whole-diagram Exact Match,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.21,1,V02564
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Whole-diagram Exact Match,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.05,1,V02576
+CONSORT|CONSORT_pdf|CONSORT-200|basic prompt|Whole-diagram Exact Match,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.055,1,V02588
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Group F1,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.976,1,V02553
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Group F1,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.964,1,V02565
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Group F1,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.872,1,V02577
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Group F1,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.868,1,V02589
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Leaf Micro F1,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.971,1,V02554
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Leaf Micro F1,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.957,1,V02566
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Leaf Micro F1,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.832,1,V02578
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Leaf Micro F1,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.824,1,V02590
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Exact Field Accuracy,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.944,1,V02555
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Exact Field Accuracy,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.926,1,V02567
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Exact Field Accuracy,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.732,1,V02579
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Exact Field Accuracy,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.718,1,V02591
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Whole-diagram Exact Match,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.705,1,V02556
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Whole-diagram Exact Match,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.625,1,V02568
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Whole-diagram Exact Match,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.065,1,V02580
+CONSORT|CONSORT_pdf|CONSORT-200|expert prompt|Whole-diagram Exact Match,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.065,1,V02592
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Group F1,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.903,1,V02557
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Group F1,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.907,1,V02569
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Group F1,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.819,1,V02581
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Group F1,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.82,1,V02593
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Leaf Micro F1,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.891,1,V02558
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Leaf Micro F1,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.895,1,V02570
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Leaf Micro F1,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.8,1,V02582
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Leaf Micro F1,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.789,1,V02594
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Exact Field Accuracy,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.809,1,V02559
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Exact Field Accuracy,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.818,1,V02571
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Exact Field Accuracy,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.654,1,V02583
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Exact Field Accuracy,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.636,1,V02595
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Whole-diagram Exact Match,CONSORT diagrams,Gemini 3 Pro,2025-11-18,2025-11-18,0.155,1,V02560
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Whole-diagram Exact Match,CONSORT diagrams,Gemini 3 Flash,2025-12-17,2025-12-17,0.165,1,V02572
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Whole-diagram Exact Match,CONSORT diagrams,GPT-5.1,2025-11-13,2025-11-13,0.0,1,V02584
+CONSORT|CONSORT_pdf|CONSORT-200|stepwise|Whole-diagram Exact Match,CONSORT diagrams,GPT-5 mini,2025-08-07,2025-08-07,0.0,1,V02596
+READOC|READOC_paper|Overall composite|READoc-arXiv; original paper Table 3,READoc,InternVL-Chat-V1.5,2024-04-18,2024-04-18,47.83,1,V02658
+READOC|READOC_paper|Overall composite|READoc-arXiv; original paper Table 3,READoc,GPT-4o-mini,2024-07-18,2024-07-18,57.98,1,V02659
+READOC|READOC_paper|Overall composite|READoc-GitHub; original paper Table 4,READoc,InternVL-Chat-V1.5,2024-04-18,2024-04-18,72.75,1,V02673
+READOC|READOC_paper|Overall composite|READoc-GitHub; original paper Table 4,READoc,GPT-4o-mini,2024-07-18,2024-07-18,79.5,1,V02674
+READOC|READOC_paper|Overall composite|READoc-Zenodo; original paper Table 5,READoc,GPT-4o-mini,2024-07-18,2024-07-18,55.56,1,V02678
+OLMOCR|OLMOCR_paper|Unit-test pass score|olmOCR-Bench; paper Table 4,olmOCR-bench,Mistral OCR API,2025-03,2025-03-16,72.0,1,V02682
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,OpenAI GPT-4o,2024-05,2024-05-16,68.9,1,V02691
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Qwen 2 VL 7B,2024-08,2024-08-16,31.5,1,V02692
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Gemini Flash 2,2024-12,2024-12-16,57.8,1,V02693
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,65.5,1,V02694
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Mistral OCR API,2025-03,2025-03-16,72.0,1,V02695
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,MinerU 1.3.10,2025-04,2025-04-15,61.5,1,V02696
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Nanonets OCR S,2025-06,2025-06-15,64.5,1,V02697
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,75.8,1,V02698
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Infinity-Parser 7B,2025-06,2025-06-15,79.1,1,V02699
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,dots.OCR,2025-07,2025-07-16,79.1,1,V02700
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Marker 1.10.1,2025-09,2025-09-15,76.1,1,V02701
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,MinerU 2.5.4,2025-09,2025-09-15,75.2,1,V02702
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,PaddleOCR-VL,2025-10,2025-10-16,80.0,1,V02703
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Nanonets OCR2 3B,2025-10,2025-10-16,69.5,1,V02704
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,DeepSeek-OCR,2025-10,2025-10-16,75.7,1,V02705
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Infinity-Parser 7B,2025-10,2025-10-16,82.5,1,V02706
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,Chandra OCR 0.1.0,2025-10,2025-10-16,83.1,1,V02707
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,olmOCR,2025-02,2025-02-14,68.2,1,V02708
+OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month,olmOCR-bench,olmOCR 2,2025-10,2025-10-16,82.4,1,V02709
+MDP|MDP_paper|Overall parsing score|Digital-born; original paper Table 2,MDPBench,Claude-Sonnet-4.6,2026-02-17,2026-02-17,85.0,1,V02713
+MDP|MDP_paper|Overall parsing score|Digital-born; original paper Table 2,MDPBench,dots.ocr,2025-07,2025-07-16,88.8,1,V02720
+MDP|MDP_paper|Overall parsing score|Digital-born; original paper Table 2,MDPBench,olmOCR2,2025-10,2025-10-16,79.9,1,V02721
+MDP|MDP_paper|Overall parsing score|Digital-born; original paper Table 2,MDPBench,PaddleOCR-VL,2025-10,2025-10-16,87.6,1,V02722
+MDP|MDP_paper|Overall parsing score|Digital-born; original paper Table 2,MDPBench,Nanonets-ocr2-3B,2025-10,2025-10-16,79.2,1,V02726
+MDP|MDP_paper|Overall parsing score|Digital-born; original paper Table 2,MDPBench,Nanonets-OCR-s,2025-06,2025-06-15,78.8,1,V02727
+MDP|MDP_paper|Overall parsing score|Digital-born; original paper Table 2,MDPBench,MonkeyOCR-pro-3B,2025-06,2025-06-15,68.0,1,V02728
+MDP|MDP_paper|Overall parsing score|Digital-born; original paper Table 2,MDPBench,DeepSeek-OCR,2025-10,2025-10-16,80.7,1,V02729
+MDP|MDP_paper|Overall parsing score|Photographed; original paper Table 2,MDPBench,Claude-Sonnet-4.6,2026-02-17,2026-02-17,69.3,1,V02736
+MDP|MDP_paper|Overall parsing score|Photographed; original paper Table 2,MDPBench,dots.ocr,2025-07,2025-07-16,72.3,1,V02743
+MDP|MDP_paper|Overall parsing score|Photographed; original paper Table 2,MDPBench,olmOCR2,2025-10,2025-10-16,67.2,1,V02744
+MDP|MDP_paper|Overall parsing score|Photographed; original paper Table 2,MDPBench,PaddleOCR-VL,2025-10,2025-10-16,63.6,1,V02745
+MDP|MDP_paper|Overall parsing score|Photographed; original paper Table 2,MDPBench,Nanonets-ocr2-3B,2025-10,2025-10-16,59.3,1,V02749
+MDP|MDP_paper|Overall parsing score|Photographed; original paper Table 2,MDPBench,Nanonets-OCR-s,2025-06,2025-06-15,58.7,1,V02750
+MDP|MDP_paper|Overall parsing score|Photographed; original paper Table 2,MDPBench,MonkeyOCR-pro-3B,2025-06,2025-06-15,47.0,1,V02751
+MDP|MDP_paper|Overall parsing score|Photographed; original paper Table 2,MDPBench,DeepSeek-OCR,2025-10,2025-10-16,42.2,1,V02752
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,64.46,1,V02756
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,YouTu-Parsing (2026-01),2026-01,2026-01-16,75.02,1,V02757
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,DotsMOCR (2026-03),2026-03,2026-03-16,76.27,1,V02758
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,GLM-OCR (2026-02),2026-02,2026-02-14,68.65,1,V02759
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,MinerU2.5-Pro (2026-04),2026-04,2026-04-15,75.87,1,V02760
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,MinerU2.5 (2025-09),2025-09,2025-09-15,74.9,1,V02761
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,MonkeyOCRv2-B-Parsing (2026-07),2026-07,2026-07-16,69.82,1,V02762
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,MonkeyOCR-pro-3B (2025-08),2025-08,2025-08-16,62.23,1,V02763
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,MonkeyOCR-pro-1.2B (2025-07),2025-07,2025-07-16,61.09,1,V02764
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,OpenDoc-0.1B (UniRec) (2025-12),2025-12,2025-12-16,60.28,1,V02765
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,OpenOCR (2024-11),2024-11,2024-11-15,32.7,1,V02766
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Dolphin-v2 (2025-12),2025-12,2025-12-16,65.9,1,V02767
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,TeleOCR (2026-08),2026-08,2026-08-16,87.16,1,V02768
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,OvisOCR2 (2026-07),2026-07,2026-07-16,81.53,1,V02769
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,ABot-OCR (2026-05),2026-05,2026-05-16,76.92,1,V02770
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qianfan-OCR (2026-03),2026-03,2026-03-16,57.22,1,V02771
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Unlimited-OCR (2026-06),2026-06,2026-06-15,72.05,1,V02772
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,WeVisDoc-4B (2026-09),2026-09,2026-09-15,79.59,1,V02773
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,WeVisDoc-2B (2026-09),2026-09,2026-09-15,79.08,1,V02774
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,HunyuanOCR-1.5 (2026-07),2026-07,2026-07-16,73.09,1,V02775
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,HunyuanOCR (2025-11),2025-11,2025-11-15,65.61,1,V02776
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,dots.ocr (2025-07),2025-07,2025-07-16,72.01,1,V02777
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,FireRed-OCR (2026-02),2026-02,2026-02-14,70.81,1,V02778
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,DeepSeek-OCR-2 (2026-01),2026-01,2026-01-16,55.53,1,V02779
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,DeepSeek-OCR (2025-10),2025-10,2025-10-16,53.5,1,V02780
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,olmOCR-2-7B (2025-10),2025-10,2025-10-16,69.36,1,V02781
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,olmOCR-7B (2025-08),2025-08,2025-08-16,62.56,1,V02782
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,OCRVerse (2026-01),2026-01,2026-01-16,73.18,1,V02783
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,FD-RL (2025-11),2025-11,2025-11-15,78.38,1,V02784
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Nanonets-OCR2 (2025-10),2025-10,2025-10-16,64.83,1,V02785
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,OCRFlux-3B (2025-06),2025-06,2025-06-15,47.14,1,V02786
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Logics-Parsing-v2 (2026-02),2026-02,2026-02-14,76.35,1,V02787
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.8-27B (2026-08),2026-08,2026-08-16,80.45,1,V02788
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.8-Flash-Next (2026-08),2026-08,2026-08-16,72.23,1,V02789
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.6-35B-A3B (2026-04),2026-04,2026-04-15,72.14,1,V02790
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.6-27B (2026-04),2026-04,2026-04-15,70.2,1,V02791
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.5-397B-A17B (2026-02),2026-02,2026-02-14,69.12,1,V02792
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.5-122B-A10B (2026-02),2026-02,2026-02-14,76.14,1,V02793
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.5-35B-A3B (2026-02),2026-02,2026-02-14,68.4,1,V02794
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.5-27B (2026-02),2026-02,2026-02-14,72.07,1,V02795
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.5-9B (2026-03),2026-03,2026-03-16,73.87,1,V02796
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.5-4B (2026-03),2026-03,2026-03-16,73.45,1,V02797
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.5-2B (2026-03),2026-03,2026-03-16,66.24,1,V02798
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3.5-0.8B (2026-03),2026-03,2026-03-16,60.77,1,V02799
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3-VL-8B (2025-10),2025-10,2025-10-16,72.44,1,V02800
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3-VL-4B (2025-10),2025-10,2025-10-16,72.04,1,V02801
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Qwen3-VL-2B (2025-10),2025-10,2025-10-16,66.37,1,V02802
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,DeepSeek-V4-Flash-Vision-Exp (2026-08),2026-08,2026-08-16,54.69,1,V02803
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,GLM-5.3-Flash (2026-08),2026-08,2026-08-16,83.04,1,V02804
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,MiniCPM-V-4.6 (2026-05),2026-05,2026-05-16,64.47,1,V02805
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,MiniCPM-V-4.5 (2025-08),2025-08,2025-08-16,51.81,1,V02806
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Gemini 3.6 Flash (2026-07),2026-07,2026-07-16,79.97,1,V02807
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Gemini-3.1-Pro (2026-02),2026-02,2026-02-14,70.04,1,V02808
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Claude Opus 5 (2026-07),2026-07,2026-07-16,82.99,1,V02809
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,GPT-5.6 Sol (2026-07),2026-07,2026-07-16,74.15,1,V02810
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,MiniMax-M3 (2026-06),2026-06,2026-06-15,55.78,1,V02811
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Kimi K2.6 (2026-04),2026-04,2026-04-15,72.32,1,V02812
+PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages,PureDocBench,Step3-VL (2026-01),2026-01,2026-01-16,53.65,1,V02813
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,59.29,1,V02814
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,YouTu-Parsing (2026-01),2026-01,2026-01-16,69.66,1,V02815
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,DotsMOCR (2026-03),2026-03,2026-03-16,73.16,1,V02816
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,GLM-OCR (2026-02),2026-02,2026-02-14,63.06,1,V02817
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,MinerU2.5-Pro (2026-04),2026-04,2026-04-15,71.77,1,V02818
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,MinerU2.5 (2025-09),2025-09,2025-09-15,68.92,1,V02819
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,MonkeyOCRv2-B-Parsing (2026-07),2026-07,2026-07-16,66.08,1,V02820
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,MonkeyOCR-pro-3B (2025-08),2025-08,2025-08-16,57.4,1,V02821
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,MonkeyOCR-pro-1.2B (2025-07),2025-07,2025-07-16,55.72,1,V02822
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,OpenDoc-0.1B (UniRec) (2025-12),2025-12,2025-12-16,52.46,1,V02823
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,OpenOCR (2024-11),2024-11,2024-11-15,30.03,1,V02824
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Dolphin-v2 (2025-12),2025-12,2025-12-16,60.24,1,V02825
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,TeleOCR (2026-08),2026-08,2026-08-16,79.4,1,V02826
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,OvisOCR2 (2026-07),2026-07,2026-07-16,77.29,1,V02827
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,ABot-OCR (2026-05),2026-05,2026-05-16,72.43,1,V02828
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qianfan-OCR (2026-03),2026-03,2026-03-16,50.85,1,V02829
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Unlimited-OCR (2026-06),2026-06,2026-06-15,65.3,1,V02830
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,WeVisDoc-4B (2026-09),2026-09,2026-09-15,77.99,1,V02831
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,WeVisDoc-2B (2026-09),2026-09,2026-09-15,76.33,1,V02832
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,HunyuanOCR-1.5 (2026-07),2026-07,2026-07-16,69.36,1,V02833
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,HunyuanOCR (2025-11),2025-11,2025-11-15,61.49,1,V02834
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,dots.ocr (2025-07),2025-07,2025-07-16,65.95,1,V02835
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,FireRed-OCR (2026-02),2026-02,2026-02-14,68.49,1,V02836
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,DeepSeek-OCR-2 (2026-01),2026-01,2026-01-16,49.41,1,V02837
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,DeepSeek-OCR (2025-10),2025-10,2025-10-16,46.95,1,V02838
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,olmOCR-2-7B (2025-10),2025-10,2025-10-16,65.87,1,V02839
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,olmOCR-7B (2025-08),2025-08,2025-08-16,57.84,1,V02840
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,OCRVerse (2026-01),2026-01,2026-01-16,71.36,1,V02841
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,FD-RL (2025-11),2025-11,2025-11-15,76.33,1,V02842
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Nanonets-OCR2 (2025-10),2025-10,2025-10-16,61.23,1,V02843
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,OCRFlux-3B (2025-06),2025-06,2025-06-15,41.82,1,V02844
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Logics-Parsing-v2 (2026-02),2026-02,2026-02-14,73.85,1,V02845
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.8-27B (2026-08),2026-08,2026-08-16,78.86,1,V02846
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.8-Flash-Next (2026-08),2026-08,2026-08-16,70.96,1,V02847
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.6-35B-A3B (2026-04),2026-04,2026-04-15,69.16,1,V02848
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.6-27B (2026-04),2026-04,2026-04-15,67.49,1,V02849
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.5-397B-A17B (2026-02),2026-02,2026-02-14,68.34,1,V02850
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.5-122B-A10B (2026-02),2026-02,2026-02-14,76.34,1,V02851
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.5-35B-A3B (2026-02),2026-02,2026-02-14,68.04,1,V02852
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.5-27B (2026-02),2026-02,2026-02-14,70.73,1,V02853
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.5-9B (2026-03),2026-03,2026-03-16,73.34,1,V02854
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.5-4B (2026-03),2026-03,2026-03-16,72.53,1,V02855
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.5-2B (2026-03),2026-03,2026-03-16,65.22,1,V02856
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3.5-0.8B (2026-03),2026-03,2026-03-16,59.28,1,V02857
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3-VL-8B (2025-10),2025-10,2025-10-16,72.03,1,V02858
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3-VL-4B (2025-10),2025-10,2025-10-16,70.84,1,V02859
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Qwen3-VL-2B (2025-10),2025-10,2025-10-16,65.81,1,V02860
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,DeepSeek-V4-Flash-Vision-Exp (2026-08),2026-08,2026-08-16,52.98,1,V02861
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,GLM-5.3-Flash (2026-08),2026-08,2026-08-16,81.03,1,V02862
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,MiniCPM-V-4.6 (2026-05),2026-05,2026-05-16,59.04,1,V02863
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,MiniCPM-V-4.5 (2025-08),2025-08,2025-08-16,49.38,1,V02864
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Gemini 3.6 Flash (2026-07),2026-07,2026-07-16,79.11,1,V02865
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Gemini-3.1-Pro (2026-02),2026-02,2026-02-14,69.28,1,V02866
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Claude Opus 5 (2026-07),2026-07,2026-07-16,72.94,1,V02867
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,GPT-5.6 Sol (2026-07),2026-07,2026-07-16,71.73,1,V02868
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,MiniMax-M3 (2026-06),2026-06,2026-06-15,53.85,1,V02869
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Kimi K2.6 (2026-04),2026-04,2026-04-15,69.95,1,V02870
+PUREDOC|PUREDOC_paper|Overall parsing score|Digital degradation; same 1475 source pages,PureDocBench,Step3-VL (2026-01),2026-01,2026-01-16,52.74,1,V02871
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,54.24,1,V02872
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,YouTu-Parsing (2026-01),2026-01,2026-01-16,60.29,1,V02873
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,DotsMOCR (2026-03),2026-03,2026-03-16,61.73,1,V02874
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,GLM-OCR (2026-02),2026-02,2026-02-14,58.31,1,V02875
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,MinerU2.5-Pro (2026-04),2026-04,2026-04-15,62.56,1,V02876
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,MinerU2.5 (2025-09),2025-09,2025-09-15,59.15,1,V02877
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,MonkeyOCRv2-B-Parsing (2026-07),2026-07,2026-07-16,58.83,1,V02878
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,MonkeyOCR-pro-3B (2025-08),2025-08,2025-08-16,46.49,1,V02879
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,MonkeyOCR-pro-1.2B (2025-07),2025-07,2025-07-16,43.82,1,V02880
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,OpenDoc-0.1B (UniRec) (2025-12),2025-12,2025-12-16,44.27,1,V02881
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,OpenOCR (2024-11),2024-11,2024-11-15,25.73,1,V02882
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Dolphin-v2 (2025-12),2025-12,2025-12-16,44.92,1,V02883
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,TeleOCR (2026-08),2026-08,2026-08-16,69.08,1,V02884
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,OvisOCR2 (2026-07),2026-07,2026-07-16,66.49,1,V02885
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,ABot-OCR (2026-05),2026-05,2026-05-16,61.77,1,V02886
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qianfan-OCR (2026-03),2026-03,2026-03-16,45.06,1,V02887
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Unlimited-OCR (2026-06),2026-06,2026-06-15,53.71,1,V02888
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,WeVisDoc-4B (2026-09),2026-09,2026-09-15,69.14,1,V02889
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,WeVisDoc-2B (2026-09),2026-09,2026-09-15,65.68,1,V02890
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,HunyuanOCR-1.5 (2026-07),2026-07,2026-07-16,60.28,1,V02891
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,HunyuanOCR (2025-11),2025-11,2025-11-15,54.58,1,V02892
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,dots.ocr (2025-07),2025-07,2025-07-16,55.68,1,V02893
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,FireRed-OCR (2026-02),2026-02,2026-02-14,57.42,1,V02894
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,DeepSeek-OCR-2 (2026-01),2026-01,2026-01-16,43.6,1,V02895
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,DeepSeek-OCR (2025-10),2025-10,2025-10-16,40.48,1,V02896
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,olmOCR-2-7B (2025-10),2025-10,2025-10-16,56.1,1,V02897
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,olmOCR-7B (2025-08),2025-08,2025-08-16,47.3,1,V02898
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,OCRVerse (2026-01),2026-01,2026-01-16,63.66,1,V02899
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,FD-RL (2025-11),2025-11,2025-11-15,67.04,1,V02900
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Nanonets-OCR2 (2025-10),2025-10,2025-10-16,49.03,1,V02901
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,OCRFlux-3B (2025-06),2025-06,2025-06-15,37.21,1,V02902
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Logics-Parsing-v2 (2026-02),2026-02,2026-02-14,67.64,1,V02903
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.8-27B (2026-08),2026-08,2026-08-16,73.59,1,V02904
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.8-Flash-Next (2026-08),2026-08,2026-08-16,62.42,1,V02905
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.6-35B-A3B (2026-04),2026-04,2026-04-15,60.12,1,V02906
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.6-27B (2026-04),2026-04,2026-04-15,59.18,1,V02907
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.5-397B-A17B (2026-02),2026-02,2026-02-14,62.7,1,V02908
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.5-122B-A10B (2026-02),2026-02,2026-02-14,69.85,1,V02909
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.5-35B-A3B (2026-02),2026-02,2026-02-14,60.59,1,V02910
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.5-27B (2026-02),2026-02,2026-02-14,65.92,1,V02911
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.5-9B (2026-03),2026-03,2026-03-16,65.45,1,V02912
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.5-4B (2026-03),2026-03,2026-03-16,63.47,1,V02913
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.5-2B (2026-03),2026-03,2026-03-16,55.92,1,V02914
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3.5-0.8B (2026-03),2026-03,2026-03-16,47.93,1,V02915
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3-VL-8B (2025-10),2025-10,2025-10-16,62.73,1,V02916
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3-VL-4B (2025-10),2025-10,2025-10-16,59.61,1,V02917
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Qwen3-VL-2B (2025-10),2025-10,2025-10-16,54.09,1,V02918
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,DeepSeek-V4-Flash-Vision-Exp (2026-08),2026-08,2026-08-16,42.68,1,V02919
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,GLM-5.3-Flash (2026-08),2026-08,2026-08-16,74.99,1,V02920
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,MiniCPM-V-4.6 (2026-05),2026-05,2026-05-16,48.01,1,V02921
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,MiniCPM-V-4.5 (2025-08),2025-08,2025-08-16,37.59,1,V02922
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Gemini 3.6 Flash (2026-07),2026-07,2026-07-16,75.73,1,V02923
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Gemini-3.1-Pro (2026-02),2026-02,2026-02-14,71.98,1,V02924
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Claude Opus 5 (2026-07),2026-07,2026-07-16,75.27,1,V02925
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,GPT-5.6 Sol (2026-07),2026-07,2026-07-16,61.59,1,V02926
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,MiniMax-M3 (2026-06),2026-06,2026-06-15,42.54,1,V02927
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Kimi K2.6 (2026-04),2026-04,2026-04-15,68.02,1,V02928
+PUREDOC|PUREDOC_paper|Overall parsing score|Real degradation; same 1475 source pages,PureDocBench,Step3-VL (2026-01),2026-01,2026-01-16,45.06,1,V02929
+DRDOC|DRDOC_paper|Overall parsing score|Original Table 1,Dr. DocBench,Claude Opus 4.6,2026-02-05,2026-02-05,60.19,1,V02937
+DRDOC|DRDOC_paper|Overall parsing score|Original Table 1,Dr. DocBench,Gemini 3.1 Pro,2026-02-19,2026-02-19,60.13,1,V02939
+DRDOC|DRDOC_paper|Overall parsing score|Original Table 1,Dr. DocBench,GPT-5.5,2026-04-23,2026-04-23,61.94,1,V02941
+DRDOC|DRDOC_paper|Text edit distance|Original Table 1,Dr. DocBench,Claude Opus 4.6,2026-02-05,2026-02-05,0.22,1,V02949
+DRDOC|DRDOC_paper|Text edit distance|Original Table 1,Dr. DocBench,Gemini 3.1 Pro,2026-02-19,2026-02-19,0.22,1,V02951
+DRDOC|DRDOC_paper|Text edit distance|Original Table 1,Dr. DocBench,GPT-5.5,2026-04-23,2026-04-23,0.19,1,V02953
+CHARTPRO|CHARTPRO_paper|Answer accuracy|Direct; corrected source paper Table 3,ChartQAPro,LLama 3.2-Vision-11B,2024-09-25,2024-09-25,11.09,1,V02990
+CHARTPRO|CHARTPRO_paper|Answer accuracy|CoT; corrected source paper Table 3,ChartQAPro,LLama 3.2-Vision-11B,2024-09-25,2024-09-25,25.43,1,V03011
+CHARTPRO|CHARTPRO_paper|Answer accuracy|PoT; corrected source paper Table 3,ChartQAPro,LLama 3.2-Vision-11B,2024-09-25,2024-09-25,22.95,1,V03032
+"MMLONGDOC|MMLONGDOC_paper|Generalized accuracy|Original Table 3; input route, size and window named; OCR+text input",MMLongBench-Doc,OCR+text / Proprietary Models / DeepSeek-V2 / - / 32k,2024-05-06,2024-05-06,24.9,1,V03092
+"MMLONGDOC|MMLONGDOC_paper|Generalized accuracy|Original Table 3; input route, size and window named; OCR+text input",MMLongBench-Doc,OCR+text / Proprietary Models / Claude-3 Opus / - / 32k,2024-03-04,2024-03-04,26.9,1,V03093
+"MMLONGDOC|MMLONGDOC_paper|Generalized accuracy|Original Table 3; input route, size and window named; Vision input",MMLongBench-Doc,"Vision input / Open-source, 7-14B Models / Idefics2 / 8B / 8k",2024-04-15,2024-04-15,7.0,1,V03098
+"MMLONGDOC|MMLONGDOC_paper|Generalized accuracy|Original Table 3; input route, size and window named; Vision input",MMLongBench-Doc,"Vision input / Open-source, >14B Models / InternVL-Chat-v1.5 / 26B / 4k",2024-04-18,2024-04-18,14.6,1,V03105
+"MMLONGDOC|MMLONGDOC_paper|Generalized accuracy|Original Table 3; input route, size and window named; Vision input",MMLongBench-Doc,"Vision input / Open-source, >14B Models / EMU2-Chat / 37B / 2k",2023-12,2023-12-16,8.3,1,V03106
+"MMLONGDOC|MMLONGDOC_paper|Generalized accuracy|Original Table 3; input route, size and window named; Vision input",MMLongBench-Doc,Vision input / Proprietary Models / Claude-3 Opus / - / 200k,2024-03-04,2024-03-04,17.4,1,V03107
+HELMET|HELMET_paper|HELMET aggregate score|128K input; original Table 5,HELMET,GPT-4o-mini,2024-07-18,2024-07-18,54.1,1,V03120
+HELMET|HELMET_paper|HELMET aggregate score|128K input; original Table 5,HELMET,GPT-4o-08,2024-08-06,2024-08-06,63.8,1,V03121
+HELMET|HELMET_paper|HELMET aggregate score|128K input; original Table 5,HELMET,Gemini-1.5-Flash,2024-05-23,2024-05-23,50.7,1,V03122
+HELMET|HELMET_paper|HELMET aggregate score|128K input; original Table 5,HELMET,Gemini-1.5-Pro,2024-05-23,2024-05-23,62.7,1,V03123
+HELMET|HELMET_paper|HELMET aggregate score|128K input; original Table 5,HELMET,Llama-3.1-8B-Inst,2024-07-23,2024-07-23,47.0,1,V03124
+HELMET|HELMET_paper|HELMET aggregate score|128K input; original Table 5,HELMET,Llama-3.1-70B-Inst,2024-07-23,2024-07-23,49.3,1,V03125
+NIAH|HELMET_paper|Retrieval accuracy|HELMET comparison; 128K literal NIAH,NIAH,GPT-4o-mini,2024-07-18,2024-07-18,100.0,1,V03126
+NIAH|HELMET_paper|Retrieval accuracy|HELMET comparison; 128K literal NIAH,NIAH,GPT-4o-08,2024-08-06,2024-08-06,100.0,1,V03127
+NIAH|HELMET_paper|Retrieval accuracy|HELMET comparison; 128K literal NIAH,NIAH,Gemini-1.5-Flash,2024-05-23,2024-05-23,100.0,1,V03128
+NIAH|HELMET_paper|Retrieval accuracy|HELMET comparison; 128K literal NIAH,NIAH,Gemini-1.5-Pro,2024-05-23,2024-05-23,45.3,1,V03129
+NIAH|HELMET_paper|Retrieval accuracy|HELMET comparison; 128K literal NIAH,NIAH,Llama-3.1-8B-Inst,2024-07-23,2024-07-23,100.0,1,V03130
+NIAH|HELMET_paper|Retrieval accuracy|HELMET comparison; 128K literal NIAH,NIAH,Llama-3.1-70B-Inst,2024-07-23,2024-07-23,100.0,1,V03131
+INFINITE|INFINITE_paper|Retrieval accuracy|Original InfiniteBench; Retrieve.PassKey,InfiniteBench,Claude 2,2023-07-11,2023-07-11,97.8,1,V03135
+INFINITE|INFINITE_paper|Answer F1|Original InfiniteBench; En.QA,InfiniteBench,Claude 2,2023-07-11,2023-07-11,11.97,1,V03139
+INFINITE|INFINITE_paper|Answer accuracy|Original InfiniteBench; Math.Find,InfiniteBench,Claude 2,2023-07-11,2023-07-11,32.29,1,V03143
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Gemma2b,2024-02-21,2024-02-21,8.2,1,V03203
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Gemma2b-it,2024-02-21,2024-02-21,8.2,1,V03204
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Gemma-7b,2024-02-21,2024-02-21,25.6,1,V03205
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Gemma-7b-it,2024-02-21,2024-02-21,25.6,1,V03206
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Gemma2-9b,2024-06-27,2024-06-27,79.1,1,V03209
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Gemma2-9b-it,2024-06-27,2024-06-27,79.1,1,V03210
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Gemma2-27b-it,2024-06-27,2024-06-27,88.3,1,V03211
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Phi-2,2023-12-12,2023-12-12,41.4,1,V03212
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Phi-3-medium-128k-instruct,2024-05-21,2024-05-21,82.5,1,V03215
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Phi-3.5-mini-instruct,2024-08,2024-08-16,82.1,1,V03216
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Mistral-7b-v0.1,2023-09-27,2023-09-27,41.1,1,V03217
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Mistral-7b-instruct-v0.1,2023-09-27,2023-09-27,30.5,1,V03218
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Mathstral-7b-v0.1,2024-07-16,2024-07-16,74.0,1,V03221
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Llama3-8b,2024-04-18,2024-04-18,74.6,1,V03222
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,Llama3-8b-instruct,2024-04-18,2024-04-18,74.6,1,V03223
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,GPT-4o-mini,2024-07-18,2024-07-18,91.7,1,V03224
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,o1-mini,2024-09-12,2024-09-12,94.5,1,V03226
+GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot,GSM-Symbolic,o1-preview,2024-09-12,2024-09-12,92.7,1,V03227
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Gemma2b,2024-02-21,2024-02-21,4.7,1,V03228
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Gemma2b-it,2024-02-21,2024-02-21,4.1,1,V03229
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Gemma-7b,2024-02-21,2024-02-21,8.7,1,V03230
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Gemma-7b-it,2024-02-21,2024-02-21,8.7,1,V03231
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Gemma2-9b,2024-06-27,2024-06-27,22.3,1,V03234
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Gemma2-9b-it,2024-06-27,2024-06-27,22.3,1,V03235
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Gemma2-27b-it,2024-06-27,2024-06-27,30.0,1,V03236
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Phi-2,2023-12-12,2023-12-12,11.2,1,V03237
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Phi-3-medium-128k-instruct,2024-05-21,2024-05-21,29.4,1,V03240
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Phi-3.5-mini-instruct,2024-08,2024-08-16,22.4,1,V03241
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Mistral-7b-v0.1,2023-09-27,2023-09-27,16.2,1,V03242
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Mistral-7b-instruct-v0.1,2023-09-27,2023-09-27,10.1,1,V03243
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Mathstral-7b-v0.1,2024-07-16,2024-07-16,20.4,1,V03246
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Llama3-8b,2024-04-18,2024-04-18,18.6,1,V03247
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,Llama3-8b-instruct,2024-04-18,2024-04-18,18.6,1,V03248
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,GPT-4o-mini,2024-07-18,2024-07-18,54.1,1,V03249
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,o1-mini,2024-09-12,2024-09-12,66.0,1,V03251
+GSMSYM|GSMSYM_paper|Answer accuracy|Symbolic-NoOp; 8-shot,GSM-Symbolic,o1-preview,2024-09-12,2024-09-12,77.4,1,V03252
+SCIASS|SCIASS_paper|Table extraction recall|SciAssess L2; source paper Table 3,SciAssess,Llama3.1,2024-07-23,2024-07-23,0.441,1,V03287
+SCIASS|SCIASS_paper|Multiple-choice accuracy|SciAssess L3; Analysis and Reasoning,SciAssess,Llama3.1,2024-07-23,2024-07-23,0.488,1,V03298
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Easy; CORE-Agent,CORE-Bench,CORE-Agent / GPT-4o-2024-05-13,2024-05-13,2024-05-13,60.0,1,V03345
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Easy; CORE-Agent,CORE-Bench,CORE-Agent / GPT-4o-mini-2024-07-18,2024-07-18,2024-07-18,44.44,1,V03346
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Easy; AutoGPT,CORE-Bench,AutoGPT / GPT-4o-2024-05-13,2024-05-13,2024-05-13,35.56,1,V03347
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Easy; AutoGPT,CORE-Bench,AutoGPT / GPT-4o-mini-2024-07-18,2024-07-18,2024-07-18,8.89,1,V03348
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Medium; CORE-Agent,CORE-Bench,CORE-Agent / GPT-4o-2024-05-13,2024-05-13,2024-05-13,57.78,1,V03349
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Medium; CORE-Agent,CORE-Bench,CORE-Agent / GPT-4o-mini-2024-07-18,2024-07-18,2024-07-18,32.59,1,V03350
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Medium; AutoGPT,CORE-Bench,AutoGPT / GPT-4o-2024-05-13,2024-05-13,2024-05-13,37.78,1,V03351
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Medium; AutoGPT,CORE-Bench,AutoGPT / GPT-4o-mini-2024-07-18,2024-07-18,2024-07-18,2.22,1,V03352
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Hard; CORE-Agent,CORE-Bench,CORE-Agent / GPT-4o-2024-05-13,2024-05-13,2024-05-13,21.48,1,V03353
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Hard; CORE-Agent,CORE-Bench,CORE-Agent / GPT-4o-mini-2024-07-18,2024-07-18,2024-07-18,16.3,1,V03354
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Hard; AutoGPT,CORE-Bench,AutoGPT / GPT-4o-2024-05-13,2024-05-13,2024-05-13,6.67,1,V03355
+CORE|CORE_paper|Task pass@1|Original 90-paper corpus; Hard; AutoGPT,CORE-Bench,AutoGPT / GPT-4o-mini-2024-07-18,2024-07-18,2024-07-18,2.22,1,V03356
+COMPLEX|COMPLEX_paper|DRFR score|All categories; original RAL evaluator,ComplexBench,Claude-3-Opus,2024-03-04,2024-03-04,0.788,1,V03420
+COMPLEX|COMPLEX_paper|DRFR score|All categories; original RAL evaluator,ComplexBench,Llama-3-70B-Instruct,2024-04-18,2024-04-18,0.757,1,V03425
+COMPLEX|COMPLEX_paper|DRFR score|All categories; original RAL evaluator,ComplexBench,Llama-3-8B-Instruct,2024-04-18,2024-04-18,0.638,1,V03429
+ALCE|ALCE_paper|Citation recall|ASQA; prompt and model family named,ALCE,GPT-4 ( Vanilla prompting) / GPT-4 (5-psg),2023-06-13,2023-06-13,68.5,1,V03475
+ALCE|ALCE_paper|Citation recall|ASQA; prompt and model family named,ALCE,GPT-4 ( Vanilla prompting) / GPT-4 (20-psg),2023-06-13,2023-06-13,73.0,1,V03476
+ALCE|ALCE_paper|Citation precision|ASQA; prompt and model family named,ALCE,GPT-4 ( Vanilla prompting) / GPT-4 (5-psg),2023-06-13,2023-06-13,75.6,1,V03488
+ALCE|ALCE_paper|Citation precision|ASQA; prompt and model family named,ALCE,GPT-4 ( Vanilla prompting) / GPT-4 (20-psg),2023-06-13,2023-06-13,76.5,1,V03489
+DTBENCH|DTBENCH_paper|Cell extraction F1|DTBench original; all capability types,DTBench,Qwen3-4B,2025-04-29,2025-04-29,33.65,1,V03533
+DTBENCH|DTBENCH_paper|Cell extraction F1|DTBench original; all capability types,DTBench,Qwen3-32B,2025-04-29,2025-04-29,62.98,1,V03534
+DTBENCH|DTBENCH_paper|Cell extraction F1|DTBench original; all capability types,DTBench,Llama3.1-8B,2024-07-23,2024-07-23,66.39,1,V03535
+DTBENCH|DTBENCH_paper|Cell extraction F1|DTBench original; all capability types,DTBench,Llama3.1-70B,2024-07-23,2024-07-23,74.73,1,V03536
+DTBENCH|DTBENCH_paper|Cell extraction F1|DTBench original; all capability types,DTBench,GPT-5-mini,2025-08-07,2025-08-07,84.47,1,V03538
+DTBENCH|DTBENCH_paper|Cell extraction F1|DTBench original; all capability types,DTBench,GPT-5,2025-08-07,2025-08-07,85.99,1,V03539
+DTBENCH|DTBENCH_paper|Cell extraction F1|DTBench original; all capability types,DTBench,Gemini-3-flash,2025-12-17,2025-12-17,89.34,1,V03540
+DTBENCH|DTBENCH_paper|Direct extraction recall|DTBench original,DTBench,Qwen3-4B,2025-04-29,2025-04-29,35.47,1,V03541
+DTBENCH|DTBENCH_paper|Direct extraction recall|DTBench original,DTBench,Qwen3-32B,2025-04-29,2025-04-29,73.84,1,V03542
+DTBENCH|DTBENCH_paper|Direct extraction recall|DTBench original,DTBench,Llama3.1-8B,2024-07-23,2024-07-23,74.1,1,V03543
+DTBENCH|DTBENCH_paper|Direct extraction recall|DTBench original,DTBench,Llama3.1-70B,2024-07-23,2024-07-23,91.0,1,V03544
+DTBENCH|DTBENCH_paper|Direct extraction recall|DTBench original,DTBench,GPT-5-mini,2025-08-07,2025-08-07,92.93,1,V03546
+DTBENCH|DTBENCH_paper|Direct extraction recall|DTBench original,DTBench,GPT-5,2025-08-07,2025-08-07,92.48,1,V03547
+DTBENCH|DTBENCH_paper|Direct extraction recall|DTBench original,DTBench,Gemini-3-flash,2025-12-17,2025-12-17,95.93,1,V03548
+DTBENCH|DTBENCH_paper|Indirect extraction recall|DTBench original,DTBench,Qwen3-4B,2025-04-29,2025-04-29,19.33,1,V03549
+DTBENCH|DTBENCH_paper|Indirect extraction recall|DTBench original,DTBench,Qwen3-32B,2025-04-29,2025-04-29,43.25,1,V03550
+DTBENCH|DTBENCH_paper|Indirect extraction recall|DTBench original,DTBench,Llama3.1-8B,2024-07-23,2024-07-23,51.15,1,V03551
+DTBENCH|DTBENCH_paper|Indirect extraction recall|DTBench original,DTBench,Llama3.1-70B,2024-07-23,2024-07-23,57.4,1,V03552
+DTBENCH|DTBENCH_paper|Indirect extraction recall|DTBench original,DTBench,GPT-5-mini,2025-08-07,2025-08-07,73.88,1,V03554
+DTBENCH|DTBENCH_paper|Indirect extraction recall|DTBench original,DTBench,GPT-5,2025-08-07,2025-08-07,75.12,1,V03555
+DTBENCH|DTBENCH_paper|Indirect extraction recall|DTBench original,DTBench,Gemini-3-flash,2025-12-17,2025-12-17,80.9,1,V03556
+UNIKIE|UNIKIE_paper|Average KIE score|Constrained-category track; original Table 4,UNIKIE-BENCH,GPT-5,2025-08-07,2025-08-07,67.59,1,V03559
+UNIKIE|UNIKIE_paper|Average KIE score|Constrained-category track; original Table 4,UNIKIE-BENCH,Gemini-3-Pro,2025-11-18,2025-11-18,82.37,1,V03562
+UNIKIE|UNIKIE_paper|Average KIE score|Open-category track; original Table 5,UNIKIE-BENCH,GPT-5,2025-08-07,2025-08-07,47.39,1,V03574
+UNIKIE|UNIKIE_paper|Average KIE score|Open-category track; original Table 5,UNIKIE-BENCH,Gemini-3-Pro,2025-11-18,2025-11-18,81.65,1,V03577
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Meta-Llama-3-8B-Instruct,2024-04-18,2024-04-18,11.1,1,V03593
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Meta-Llama-3-70B-Instruct,2024-04-18,2024-04-18,29.1,1,V03594
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Llama-3.1-8B-Instruct,2024-07-23,2024-07-23,5.1,1,V03595
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Llama-3.1-70B-Instruct,2024-07-23,2024-07-23,52.7,1,V03596
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Llama-3.3-70B-Instruct,2024-12-06,2024-12-06,58.0,1,V03597
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Qwen2-7B-Instruct,2024-06-07,2024-06-07,13.6,1,V03603
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Qwen2-72B-Instruct,2024-06-07,2024-06-07,49.8,1,V03604
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,32.6,1,V03605
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,52.2,1,V03606
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Qwen2.5-32B-Instruct,2024-09-19,2024-09-19,49.3,1,V03607
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,61.2,1,V03608
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,★ QwQ-32B-Preview,2024-11-28,2024-11-28,71.5,1,V03609
+PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3,ProcessBench,o1-mini,2024-09-12,2024-09-12,87.9,1,V03611
+LOOGLE2|LOOGLE2_paper|Average task score|LooGLE v2; original Table 2,LooGLE,Llama-3.1-8B-Instruct,2024-07-23,2024-07-23,24.16,1,V03628
+LOOGLE2|LOOGLE2_paper|Average task score|LooGLE v2; original Table 2,LooGLE,Qwen2.5-7B-Instruct-1M,2025-01-27,2025-01-27,28.97,1,V03629
+LOOGLE2|LOOGLE2_paper|Average task score|LooGLE v2; original Table 2,LooGLE,GPT-4.1,2025-04-14,2025-04-14,59.2,1,V03634
+LOOGLE2|LOOGLE2_paper|Average task score|LooGLE v2; original Table 2,LooGLE,DeepSeek-R1,2025-01-20,2025-01-20,41.85,1,V03636
+LOOGLE2|LOOGLE2_paper|Average task score|LooGLE v2; original Table 2,LooGLE,DeepSeek-V3,2024-12-26,2024-12-26,36.71,1,V03637
+MMNIAH|MMNIAH_paper|Answer accuracy|32K context; original MM-NIAH,MM-NIAH,Emu2-Chat,2023-12,2023-12-16,0.0,1,V03638
+MMNIAH|MMNIAH_paper|Answer accuracy|32K context; original MM-NIAH,MM-NIAH,IDEFICS2,2024-04-15,2024-04-15,0.0,1,V03640
+MMNIAH|MMNIAH_paper|Answer accuracy|32K context; original MM-NIAH,MM-NIAH,InternVL-1.5,2024-04-18,2024-04-18,33.2,1,V03643
+MMNIAH|MMNIAH_paper|Answer accuracy|64K context; original MM-NIAH,MM-NIAH,Emu2-Chat,2023-12,2023-12-16,0.0,1,V03647
+MMNIAH|MMNIAH_paper|Answer accuracy|64K context; original MM-NIAH,MM-NIAH,IDEFICS2,2024-04-15,2024-04-15,0.0,1,V03649
+MMNIAH|MMNIAH_paper|Answer accuracy|64K context; original MM-NIAH,MM-NIAH,InternVL-1.5,2024-04-18,2024-04-18,30.1,1,V03652
+NUPA|NUPA_paper|Exact match|Integer addition; L difficulty; shot count in model label; 5-shot,NUPA,Llama-2-7b-hf-5-shot,2023-07-18,2023-07-18,0.0,1,V03674
+NUPA|NUPA_paper|Exact match|Integer addition; L difficulty; shot count in model label; 5-shot,NUPA,Llama-3.1-8B-5-shot,2024-07-23,2024-07-23,0.1,1,V03676
+NUPA|NUPA_paper|Exact match|Integer addition; L difficulty; shot count in model label; 5-shot,NUPA,Qwen2-7B-5-shot,2024-06-07,2024-06-07,0.37,1,V03678
+NUPA|NUPA_paper|Exact match|Integer addition; L difficulty; shot count in model label; No few-shot demonstrations,NUPA,Llama-2-7b-hf,2023-07-18,2023-07-18,0.0,1,V03675
+NUPA|NUPA_paper|Exact match|Integer addition; L difficulty; shot count in model label; No few-shot demonstrations,NUPA,Llama-3.1-8B,2024-07-23,2024-07-23,0.06,1,V03677
+NUPA|NUPA_paper|Exact match|Integer addition; L difficulty; shot count in model label; No few-shot demonstrations,NUPA,Qwen2-7B,2024-06-07,2024-06-07,0.23,1,V03679
+NUPA|NUPA_paper|Exact match|Float maximum; L difficulty; shot count in model label; 5-shot,NUPA,Llama-2-7b-hf-5-shot,2023-07-18,2023-07-18,0.49,1,V03680
+NUPA|NUPA_paper|Exact match|Float maximum; L difficulty; shot count in model label; 5-shot,NUPA,Llama-3.1-8B-5-shot,2024-07-23,2024-07-23,0.63,1,V03682
+NUPA|NUPA_paper|Exact match|Float maximum; L difficulty; shot count in model label; 5-shot,NUPA,Qwen2-7B-5-shot,2024-06-07,2024-06-07,0.81,1,V03684
+NUPA|NUPA_paper|Exact match|Float maximum; L difficulty; shot count in model label; No few-shot demonstrations,NUPA,Llama-2-7b-hf,2023-07-18,2023-07-18,0.28,1,V03681
+NUPA|NUPA_paper|Exact match|Float maximum; L difficulty; shot count in model label; No few-shot demonstrations,NUPA,Llama-3.1-8B,2024-07-23,2024-07-23,0.41,1,V03683
+NUPA|NUPA_paper|Exact match|Float maximum; L difficulty; shot count in model label; No few-shot demonstrations,NUPA,Qwen2-7B,2024-06-07,2024-06-07,0.55,1,V03685
+SYMBOL|SYMBOL_HTML_paper|Copy accuracy|In-distribution repeated symbols; five digits,Symbolic manipulation,GPT3,2022-03-15,2022-03-15,100.0,1,V03813
+TRIAL|TRIAL_extraction|Result extraction accuracy|Immunotherapy; source Figure 4d,TrialReviewBench,Sonnet baseline,2024-03-04,2024-03-04,0.63,1,V03819
+TRIAL|TRIAL_extraction|Result extraction accuracy|Radiation/Chemotherapy; source Figure 4d,TrialReviewBench,Sonnet baseline,2024-03-04,2024-03-04,0.52,1,V03822
+TRIAL|TRIAL_extraction|Result extraction accuracy|Hormone therapy; source Figure 4d,TrialReviewBench,Sonnet baseline,2024-03-04,2024-03-04,0.45,1,V03825
+TRIAL|TRIAL_extraction|Result extraction accuracy|Hyperthermia; source Figure 4d,TrialReviewBench,Sonnet baseline,2024-03-04,2024-03-04,0.52,1,V03828
+MC|782b829bcd4d9019aaff,BFCL,Qwen3-235B-A22B,2025-04-29,2025-04-29,68.0,1,V03863
+MC|05bc21507bbc21244d4d,BFCL,Qwen3-235B-A22B-Instruct-2507,2025-07-21,2025-07-21,70.9,1,V03864
+MC|5505c50cf7e74ee9e2c1,BFCL,DeepSeek-R1-0528,2025-05-28,2025-05-28,63.8,1,V03870
+MC|be5e70aaec98714d0a80,BFCL,Qwen3-235B-A22B,2025-04-29,2025-04-29,70.8,1,V03873
+MC|be5e70aaec98714d0a80,BFCL,Qwen3-235B-A22B-Thinking-2507,2025-07-25,2025-07-25,71.9,1,V03874
+MC|65a4b6acbd59ca0d89b8,BFCL,Qwen3-30B-A3B,2025-04-29,2025-04-29,69.1,1,V03879
+MC|65a4b6acbd59ca0d89b8,BFCL,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,72.4,1,V03880
+MC|73e94e3c8935cf3fa290,BFCL,Qwen3-30B-A3B,2025-04-29,2025-04-29,58.6,1,V03886
+MC|73e94e3c8935cf3fa290,BFCL,Qwen3-4B,2025-04-29,2025-04-29,57.6,1,V03887
+MC|e963475da4699c73f515,LongBench,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,44.8,1,V03891
+MC|51a15be27359d62984f7,LongBench,Qwen3.5-9B (2026-03),2026-03,2026-03-16,55.2,1,V03892
+MC|51a15be27359d62984f7,LongBench,Qwen3.5-4B (2026-03),2026-03,2026-03-16,50.0,1,V03893
+MC|bd28f2f246dbee9dc5d2,BFCL,Qwen3-30B-A3B-Thinking-2507,2025-07-31,2025-07-31,42.4,1,V03894
+MC|b543d665e8a383fbcf5e,BFCL,Qwen3.5-9B (2026-03),2026-03,2026-03-16,66.1,1,V03895
+MC|b543d665e8a383fbcf5e,BFCL,Qwen3.5-4B (2026-03),2026-03,2026-03-16,50.3,1,V03896
+MC|03d55711dc49956f5783,OmniDocBench,Qwen3.5-9B (2026-03),2026-03,2026-03-16,87.7,1,V03903
+MC|03d55711dc49956f5783,OmniDocBench,Qwen3.5-4B (2026-03),2026-03,2026-03-16,86.2,1,V03904
+MC|d2ce35993d2d906826a6,MMLongBench-Doc,Qwen3.5-9B (2026-03),2026-03,2026-03-16,57.7,1,V03907
+MC|d2ce35993d2d906826a6,MMLongBench-Doc,Qwen3.5-4B (2026-03),2026-03,2026-03-16,54.2,1,V03908
+MC|fbc70716da6e40e2253c,OCRBench,Qwen3.5-9B (2026-03),2026-03,2026-03-16,89.2,1,V03911
+MC|fbc70716da6e40e2253c,OCRBench,Qwen3.5-4B (2026-03),2026-03,2026-03-16,85.0,1,V03912
+MC|4e6d639addb7cb45af28,FRAMES,DeepSeek-R1-0528,2025-05-28,2025-05-28,83.0,1,V03914
+MC|77bdc4b80eb410526710,BFCL,DeepSeek-R1-0528,2025-05-28,2025-05-28,37.0,1,V03915
+MC|1a47630fe09bc7ae29d6,DROP,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,76.7,1,V03916
+MC|1a47630fe09bc7ae29d6,DROP,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,88.7,1,V03917
+MC|5832c7b7b9b6b804813e,FRAMES,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,69.8,1,V03922
+MC|5832c7b7b9b6b804813e,FRAMES,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,70.0,1,V03923
+MC|a4436bfac659beab7f7c,LongBench,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,39.4,1,V03924
+MC|a4436bfac659beab7f7c,LongBench,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,36.1,1,V03925
+MC|a4436bfac659beab7f7c,LongBench,Claude 3.5 Sonnet-1022,2024-10-22,2024-10-22,41.0,1,V03926
+MC|a4436bfac659beab7f7c,LongBench,GPT-4o-0513,2024-05-13,2024-05-13,48.1,1,V03927
+MC|a4436bfac659beab7f7c,LongBench,DeepSeek V3,2024-12-26,2024-12-26,48.7,1,V03928
+MC|1dd4fab0f549127a8db1,DROP,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,85.5,1,V03939
+MC|1dd4fab0f549127a8db1,DROP,GPT-4o mini,2024-07-18,2024-07-18,79.3,1,V03940
+MC|1dd4fab0f549127a8db1,DROP,Llama-3.3-70B-Instruct (FC),2024-12-06,2024-12-06,90.2,1,V03941
+MC|cebf45c87f7966a20937,DROP,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,85.0,1,V03995
+MC|cebf45c87f7966a20937,DROP,DeepSeek V3,2024-12-26,2024-12-26,91.0,1,V03996
+MC|cebf45c87f7966a20937,DROP,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,92.5,1,V03997
+MC|48277308201e884dd54e,OCRBench,GPT-5.2,2025-12-11,2025-12-11,80.7,1,V04025
+MC|be0a3fb4c9db7ea25205,OCRBench,Gemini 3 Pro,2025-11-18,2025-11-18,90.3,1,V04026
+MC|674e3b936d0228a5fd8b,OmniDocBench,GPT-5.2,2025-12-11,2025-12-11,85.7,1,V04028
+MC|e0643f9b3019e72e22cb,OmniDocBench,Gemini 3 Pro,2025-11-18,2025-11-18,88.5,1,V04029
+MC|e60497975bc39d54815d,LongBench,GPT-5.2,2025-12-11,2025-12-11,54.5,1,V04037
+MC|04427503410a7de88569,LongBench,Gemini 3 Pro,2025-11-18,2025-11-18,68.2,1,V04038
+MC|276f1c0bf43e260b9860,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.138,1,V04110
+MC|276f1c0bf43e260b9860,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.252,1,V04134
+MC|276f1c0bf43e260b9860,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.214,1,V04146
+MC|276f1c0bf43e260b9860,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.125,1,V04170
+MC|c7162ecc3c247ab58096,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.206,1,V04111
+MC|c7162ecc3c247ab58096,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.327,1,V04135
+MC|c7162ecc3c247ab58096,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.261,1,V04147
+MC|c7162ecc3c247ab58096,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.16,1,V04171
+MC|10f31b15b42fb4da35e4,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.067,1,V04112
+MC|10f31b15b42fb4da35e4,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.096,1,V04136
+MC|10f31b15b42fb4da35e4,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.092,1,V04148
+MC|10f31b15b42fb4da35e4,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.032,1,V04172
+MC|e73b2d100c3e54c1e0ad,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.107,1,V04113
+MC|e73b2d100c3e54c1e0ad,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.218,1,V04137
+MC|e73b2d100c3e54c1e0ad,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.18,1,V04149
+MC|e73b2d100c3e54c1e0ad,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.066,1,V04173
+MC|3c7d4e7e59ad4790b1dc,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.246,1,V04114
+MC|3c7d4e7e59ad4790b1dc,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.404,1,V04138
+MC|3c7d4e7e59ad4790b1dc,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.315,1,V04150
+MC|3c7d4e7e59ad4790b1dc,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.329,1,V04174
+MC|f1af83247e4bdeb009ac,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.421,1,V04115
+MC|f1af83247e4bdeb009ac,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.487,1,V04139
+MC|f1af83247e4bdeb009ac,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.434,1,V04151
+MC|f1af83247e4bdeb009ac,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.416,1,V04175
+MC|d8a50823c796d1e420ae,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,81.5,1,V04116
+MC|d8a50823c796d1e420ae,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,76.8,1,V04140
+MC|d8a50823c796d1e420ae,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,82.9,1,V04152
+MC|d8a50823c796d1e420ae,OmniDocBench,dots.OCR,2025-07,2025-07-16,88.6,1,V04176
+MC|1843139a115ac9167b72,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,87.5,1,V04117
+MC|1843139a115ac9167b72,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,76.4,1,V04141
+MC|1843139a115ac9167b72,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,83.9,1,V04153
+MC|1843139a115ac9167b72,OmniDocBench,dots.OCR,2025-07,2025-07-16,89.0,1,V04177
+MC|e01ce3637ce09f5a72f2,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.139,1,V04118
+MC|e01ce3637ce09f5a72f2,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.387,1,V04142
+MC|e01ce3637ce09f5a72f2,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.341,1,V04154
+MC|e01ce3637ce09f5a72f2,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.099,1,V04178
+MC|8013fb4c8492b1a227bb,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.111,1,V04119
+MC|8013fb4c8492b1a227bb,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.408,1,V04143
+MC|8013fb4c8492b1a227bb,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.262,1,V04155
+MC|8013fb4c8492b1a227bb,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.092,1,V04179
+MC|5f20b4cd1517aae7bf6a,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.1,1,V04120
+MC|5f20b4cd1517aae7bf6a,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.119,1,V04144
+MC|5f20b4cd1517aae7bf6a,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.106,1,V04156
+MC|5f20b4cd1517aae7bf6a,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.04,1,V04180
+MC|2f2b8e84f0c578eb55d6,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.185,1,V04121
+MC|2f2b8e84f0c578eb55d6,OmniDocBench,Qwen2-VL-72B,2024-08-29,2024-08-29,0.193,1,V04145
+MC|2f2b8e84f0c578eb55d6,OmniDocBench,Qwen2.5-VL-72B,2025-01-26,2025-01-26,0.168,1,V04157
+MC|2f2b8e84f0c578eb55d6,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.067,1,V04181
+MC|0b0475f3aee77b762ce4,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.084,1,V04212
+MC|0b0475f3aee77b762ce4,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.148,1,V04232
+MC|0b0475f3aee77b762ce4,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.031,1,V04242
+MC|363d4043fcd342094a32,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.129,1,V04213
+MC|363d4043fcd342094a32,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.053,1,V04233
+MC|363d4043fcd342094a32,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.047,1,V04243
+MC|ef95a2d8ba7523978c66,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.06,1,V04214
+MC|ef95a2d8ba7523978c66,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.111,1,V04234
+MC|ef95a2d8ba7523978c66,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.011,1,V04244
+MC|5ca8b6baeb46bbdb2057,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.09,1,V04215
+MC|5ca8b6baeb46bbdb2057,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.137,1,V04235
+MC|5ca8b6baeb46bbdb2057,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.082,1,V04245
+MC|e8f16650e2dfc2699c8b,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.107,1,V04216
+MC|e8f16650e2dfc2699c8b,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.189,1,V04236
+MC|e8f16650e2dfc2699c8b,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.079,1,V04246
+MC|ae586f7e9dad8d5e5534,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.073,1,V04217
+MC|ae586f7e9dad8d5e5534,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.117,1,V04237
+MC|ae586f7e9dad8d5e5534,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.028,1,V04247
+MC|ab1323a15597a978cb55,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.05,1,V04218
+MC|ab1323a15597a978cb55,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.134,1,V04238
+MC|ab1323a15597a978cb55,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.029,1,V04248
+MC|7bb13f5456006b598f01,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.171,1,V04219
+MC|7bb13f5456006b598f01,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.204,1,V04239
+MC|7bb13f5456006b598f01,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.109,1,V04249
+MC|2ecef5135a1c044fa183,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.107,1,V04220
+MC|2ecef5135a1c044fa183,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.706,1,V04240
+MC|2ecef5135a1c044fa183,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.056,1,V04250
+MC|a83867d05272857b55a0,OmniDocBench,MonkeyOCR Pro 3B,2025-06,2025-06-15,0.1,1,V04221
+MC|a83867d05272857b55a0,OmniDocBench,Qwen 2.5 VL 7B,2025-01-26,2025-01-26,0.205,1,V04241
+MC|a83867d05272857b55a0,OmniDocBench,dots.OCR,2025-07,2025-07-16,0.055,1,V04251
+MC|27acebd9a74c64ed0ead,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,83.8,1,V04325
+MC|27acebd9a74c64ed0ead,olmOCR-bench,dots.OCR,2025-07,2025-07-16,82.1,1,V04333
+MC|b4f4edb2e1ebbf5c771c,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,68.8,1,V04326
+MC|b4f4edb2e1ebbf5c771c,olmOCR-bench,dots.OCR,2025-07,2025-07-16,64.2,1,V04334
+MC|4541b5b0a6026e05d1ac,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,74.6,1,V04327
+MC|4541b5b0a6026e05d1ac,olmOCR-bench,dots.OCR,2025-07,2025-07-16,88.3,1,V04335
+MC|04c595dbe66923136c39,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,36.1,1,V04328
+MC|04c595dbe66923136c39,olmOCR-bench,dots.OCR,2025-07,2025-07-16,40.9,1,V04336
+MC|e827accc9fc5ce4eb1c8,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,91.2,1,V04329
+MC|e827accc9fc5ce4eb1c8,olmOCR-bench,dots.OCR,2025-07,2025-07-16,94.1,1,V04337
+MC|0e6cea6b22d529e83a5c,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,76.6,1,V04330
+MC|0e6cea6b22d529e83a5c,olmOCR-bench,dots.OCR,2025-07,2025-07-16,82.4,1,V04338
+MC|dd14389523fbae382beb,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,80.1,1,V04331
+MC|dd14389523fbae382beb,olmOCR-bench,dots.OCR,2025-07,2025-07-16,81.2,1,V04339
+MC|d6d9884d979fb8d9f004,olmOCR-bench,MonkeyOCR Pro 3B,2025-06,2025-06-15,95.3,1,V04332
+MC|d6d9884d979fb8d9f004,olmOCR-bench,dots.OCR,2025-07,2025-07-16,99.5,1,V04340
+MC|20178e5462cbec9ad376,DROP,Llama-3.1-8B-Instruct (Prompt),2024-07-23,2024-07-23,61.48,1,V04343
+MC|20178e5462cbec9ad376,DROP,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,54.71,1,V04348
+MC|20178e5462cbec9ad376,DROP,DeepSeek-R1-Distill-Qwen-7B,2025-01-20,2025-01-20,42.76,1,V04353
+MC|9cbeb105b42b61ac8eb2,BFCL,Qwen3-32B,2025-04-29,2025-04-29,70.3,1,V04391
+MC|9cbeb105b42b61ac8eb2,BFCL,DeepSeek-R1-0528,2025-05-28,2025-05-28,64.7,1,V04392
+MC|81ba6477aa6a07a1b478,LongBench,Qwen3-32B,2025-04-29,2025-04-29,44.2,1,V04409
+MC|81ba6477aa6a07a1b478,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,45.3,1,V04410
+MC|ff34ae9cb3ca8d38888b,BFCL,Qwen3-32B,2025-04-29,2025-04-29,63.0,1,V04414
+MC|caa73a8b5234ec573b5f,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,46.4,1,V04427
+MC|caa73a8b5234ec573b5f,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,56.6,1,V04428
+MC|fc8be524be011a72ad08,RULER,Qwen3-0.6B (FC),2025-04-29,2025-04-29,55.1,1,V04436
+MC|fc8be524be011a72ad08,RULER,Qwen3-1.7B (FC),2025-04-29,2025-04-29,65.9,1,V04437
+MC|2d10f7a7146e0dd89c92,LongBench,Qwen3-0.6B (FC),2025-04-29,2025-04-29,32.4,1,V04439
+MC|2d10f7a7146e0dd89c92,LongBench,Qwen3-1.7B (FC),2025-04-29,2025-04-29,41.9,1,V04440
+MC|80fc07e28a6864088637,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,44.1,1,V04442
+MC|80fc07e28a6864088637,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,52.2,1,V04443
+MC|55677574e12dcf324c3b,BFCL,Llama-3.1-8B-Instruct (Prompt),2024-07-23,2024-07-23,65.4,1,V04462
+MC|55677574e12dcf324c3b,BFCL,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,77.5,1,V04463
+MC|55677574e12dcf324c3b,BFCL,Llama-3.3-70B-Instruct (FC),2024-12-06,2024-12-06,77.3,1,V04464
+MC|55677574e12dcf324c3b,BFCL,Llama-3.1-405B-Instruct,2024-07-23,2024-07-23,81.1,1,V04465
+MC|46efc66f43ff06018c2a,RULER,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,85.4,1,V04524
+MC|46efc66f43ff06018c2a,RULER,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,91.4,1,V04531
+MC|46efc66f43ff06018c2a,RULER,Qwen2.5-32B-Instruct,2024-09-19,2024-09-19,92.9,1,V04538
+MC|46efc66f43ff06018c2a,RULER,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,95.1,1,V04545
+MC|46efc66f43ff06018c2a,RULER,Qwen3-4B,2025-04-29,2025-04-29,84.35,2,V04552 V04558
+MC|46efc66f43ff06018c2a,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,86.75,2,V04553 V04565
+MC|46efc66f43ff06018c2a,RULER,Qwen3-14B (FC),2025-04-29,2025-04-29,92.35,2,V04554 V04572
+MC|46efc66f43ff06018c2a,RULER,Qwen3-32B,2025-04-29,2025-04-29,92.35,2,V04555 V04579
+MC|46efc66f43ff06018c2a,RULER,Qwen3-30B-A3B,2025-04-29,2025-04-29,89.1,2,V04556 V04586
+MC|46efc66f43ff06018c2a,RULER,Qwen3-235B-A22B,2025-04-29,2025-04-29,93.6,2,V04557 V04593
+MC|7442187ae248d0864767,RULER,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,96.7,1,V04525
+MC|7442187ae248d0864767,RULER,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,97.7,1,V04532
+MC|7442187ae248d0864767,RULER,Qwen2.5-32B-Instruct,2024-09-19,2024-09-19,96.9,1,V04539
+MC|7442187ae248d0864767,RULER,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,97.7,1,V04546
+MC|7442187ae248d0864767,RULER,Qwen3-4B,2025-04-29,2025-04-29,92.7,1,V04559
+MC|7442187ae248d0864767,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,94.7,1,V04566
+MC|7442187ae248d0864767,RULER,Qwen3-14B (FC),2025-04-29,2025-04-29,95.4,1,V04573
+MC|7442187ae248d0864767,RULER,Qwen3-32B,2025-04-29,2025-04-29,94.7,1,V04580
+MC|7442187ae248d0864767,RULER,Qwen3-30B-A3B,2025-04-29,2025-04-29,94.1,1,V04587
+MC|a1fbd294773d08663c18,RULER,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,95.1,1,V04526
+MC|a1fbd294773d08663c18,RULER,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,96.8,1,V04533
+MC|a1fbd294773d08663c18,RULER,Qwen2.5-32B-Instruct,2024-09-19,2024-09-19,97.1,1,V04540
+MC|a1fbd294773d08663c18,RULER,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,97.2,1,V04547
+MC|a1fbd294773d08663c18,RULER,Qwen3-4B,2025-04-29,2025-04-29,88.7,1,V04560
+MC|a1fbd294773d08663c18,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,94.4,1,V04567
+MC|a1fbd294773d08663c18,RULER,Qwen3-14B (FC),2025-04-29,2025-04-29,93.6,1,V04574
+MC|a1fbd294773d08663c18,RULER,Qwen3-32B,2025-04-29,2025-04-29,93.7,1,V04581
+MC|a1fbd294773d08663c18,RULER,Qwen3-30B-A3B,2025-04-29,2025-04-29,92.7,1,V04588
+MC|a1fbd294773d08663c18,RULER,Qwen3-235B-A22B,2025-04-29,2025-04-29,94.8,1,V04594
+MC|c6fa4daedb86f29de02f,RULER,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,93.7,1,V04527
+MC|c6fa4daedb86f29de02f,RULER,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,95.9,1,V04534
+MC|c6fa4daedb86f29de02f,RULER,Qwen2.5-32B-Instruct,2024-09-19,2024-09-19,95.5,1,V04541
+MC|c6fa4daedb86f29de02f,RULER,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,97.7,1,V04548
+MC|c6fa4daedb86f29de02f,RULER,Qwen3-4B,2025-04-29,2025-04-29,86.5,1,V04561
+MC|c6fa4daedb86f29de02f,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,86.1,1,V04568
+MC|c6fa4daedb86f29de02f,RULER,Qwen3-14B (FC),2025-04-29,2025-04-29,89.8,1,V04575
+MC|c6fa4daedb86f29de02f,RULER,Qwen3-32B,2025-04-29,2025-04-29,91.6,1,V04582
+MC|c6fa4daedb86f29de02f,RULER,Qwen3-30B-A3B,2025-04-29,2025-04-29,89.0,1,V04589
+MC|c6fa4daedb86f29de02f,RULER,Qwen3-235B-A22B,2025-04-29,2025-04-29,93.0,1,V04595
+MC|ad51567ad4e6471d4199,RULER,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,89.4,1,V04528
+MC|ad51567ad4e6471d4199,RULER,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,93.4,1,V04535
+MC|ad51567ad4e6471d4199,RULER,Qwen2.5-32B-Instruct,2024-09-19,2024-09-19,95.5,1,V04542
+MC|ad51567ad4e6471d4199,RULER,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,96.5,1,V04549
+MC|ad51567ad4e6471d4199,RULER,Qwen3-4B,2025-04-29,2025-04-29,83.2,1,V04562
+MC|ad51567ad4e6471d4199,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,80.8,1,V04569
+MC|ad51567ad4e6471d4199,RULER,Qwen3-14B (FC),2025-04-29,2025-04-29,91.9,1,V04576
+MC|ad51567ad4e6471d4199,RULER,Qwen3-32B,2025-04-29,2025-04-29,92.5,1,V04583
+MC|ad51567ad4e6471d4199,RULER,Qwen3-30B-A3B,2025-04-29,2025-04-29,86.6,1,V04590
+MC|ad51567ad4e6471d4199,RULER,Qwen3-235B-A22B,2025-04-29,2025-04-29,92.3,1,V04596
+MC|1fb54ccbeab4e011639a,RULER,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,82.3,1,V04529
+MC|1fb54ccbeab4e011639a,RULER,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,86.7,1,V04536
+MC|1fb54ccbeab4e011639a,RULER,Qwen2.5-32B-Instruct,2024-09-19,2024-09-19,90.3,1,V04543
+MC|1fb54ccbeab4e011639a,RULER,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,93.0,1,V04550
+MC|1fb54ccbeab4e011639a,RULER,Qwen3-4B,2025-04-29,2025-04-29,83.0,1,V04563
+MC|1fb54ccbeab4e011639a,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,78.3,1,V04570
+MC|1fb54ccbeab4e011639a,RULER,Qwen3-14B (FC),2025-04-29,2025-04-29,90.6,1,V04577
+MC|1fb54ccbeab4e011639a,RULER,Qwen3-32B,2025-04-29,2025-04-29,90.0,1,V04584
+MC|1fb54ccbeab4e011639a,RULER,Qwen3-30B-A3B,2025-04-29,2025-04-29,82.1,1,V04591
+MC|1fb54ccbeab4e011639a,RULER,Qwen3-235B-A22B,2025-04-29,2025-04-29,92.0,1,V04597
+MC|43845dcb2f1ac6db0cca,RULER,Qwen2.5-7B-Instruct,2024-09-19,2024-09-19,55.1,1,V04530
+MC|43845dcb2f1ac6db0cca,RULER,Qwen2.5-14B-Instruct,2024-09-19,2024-09-19,78.1,1,V04537
+MC|43845dcb2f1ac6db0cca,RULER,Qwen2.5-32B-Instruct,2024-09-19,2024-09-19,82.0,1,V04544
+MC|43845dcb2f1ac6db0cca,RULER,Qwen2.5-72B-Instruct,2024-09-19,2024-09-19,88.4,1,V04551
+MC|43845dcb2f1ac6db0cca,RULER,Qwen3-4B,2025-04-29,2025-04-29,67.2,1,V04564
+MC|43845dcb2f1ac6db0cca,RULER,Qwen3-8B (8B),2025-04-29,2025-04-29,72.0,1,V04571
+MC|43845dcb2f1ac6db0cca,RULER,Qwen3-14B (FC),2025-04-29,2025-04-29,79.0,1,V04578
+MC|43845dcb2f1ac6db0cca,RULER,Qwen3-32B,2025-04-29,2025-04-29,83.5,1,V04585
+MC|43845dcb2f1ac6db0cca,RULER,Qwen3-30B-A3B,2025-04-29,2025-04-29,75.0,1,V04592
+MC|43845dcb2f1ac6db0cca,RULER,Qwen3-235B-A22B,2025-04-29,2025-04-29,86.0,1,V04598
+MC|ff99e3a1ff54bd231bbc,RULER,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,89.6,1,V04652
+MC|ff99e3a1ff54bd231bbc,RULER,GPT-4o mini,2024-07-18,2024-07-18,87.3,1,V04659
+MC|c573c8b4ee46e6710fc9,RULER,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,96.5,1,V04653
+MC|c573c8b4ee46e6710fc9,RULER,GPT-4o mini,2024-07-18,2024-07-18,95.0,1,V04660
+MC|aa406de2f77291614c30,RULER,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,95.8,1,V04654
+MC|aa406de2f77291614c30,RULER,GPT-4o mini,2024-07-18,2024-07-18,92.9,1,V04661
+MC|e1960cdaee1f1f81016a,RULER,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,95.4,1,V04655
+MC|e1960cdaee1f1f81016a,RULER,GPT-4o mini,2024-07-18,2024-07-18,92.7,1,V04662
+MC|f0a487f8d21a9d905fc1,RULER,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,94.8,1,V04656
+MC|f0a487f8d21a9d905fc1,RULER,GPT-4o mini,2024-07-18,2024-07-18,90.2,1,V04663
+MC|6c1267866d37302ee28f,RULER,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,88.4,1,V04657
+MC|6c1267866d37302ee28f,RULER,GPT-4o mini,2024-07-18,2024-07-18,87.6,1,V04664
+MC|2393c1e4d4db80d698c5,RULER,Llama3.1-70B-Instruct,2024-07-23,2024-07-23,66.6,1,V04658
+MC|2393c1e4d4db80d698c5,RULER,GPT-4o mini,2024-07-18,2024-07-18,65.8,1,V04665
+MC|29f6a98be86252d39652,MRCR,GPT-5.6 Luna (max),2026-07-09,2026-07-09,41.3,1,V04679
+MC|901d376ba620d9726211,MRCR,GPT-5.6 Sol,2026-07-09,2026-07-09,73.8,1,V04680
+MC|901d376ba620d9726211,MRCR,GPT-5.6 Terra,2026-07-09,2026-07-09,72.5,1,V04681
+MC|901d376ba620d9726211,MRCR,GPT-5.6 Luna (max),2026-07-09,2026-07-09,41.3,1,V04682
+MC|901d376ba620d9726211,MRCR,GPT-5.5,2026-04-23,2026-04-23,74.0,1,V04683
+MC|7e0eeced49d7482d27f4,BFCL,GPT-4.1,2025-04-14,2025-04-14,68.9,1,V04686
+MC|d127812efdb06041aa2d,BFCL,Qwen3-32B,2025-04-29,2025-04-29,63.0,1,V04709
+MC|d127812efdb06041aa2d,BFCL,Qwen3-30B-A3B,2025-04-29,2025-04-29,58.6,1,V04711
+MC|b2a83866c0205eb27dae,BFCL,Qwen3-30B-A3B-Instruct-2507 (FC),2025-07-30,2025-07-30,65.1,1,V04712
+MC|60cad9b074021fe29106,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,52.2,1,V04718
+MC|60cad9b074021fe29106,BFCL,Qwen3-4B (4B),2025-04-29,2025-04-29,57.6,1,V04719
+MC|60cad9b074021fe29106,BFCL,Qwen3-8B (FC),2025-04-29,2025-04-29,60.2,1,V04720
+MC|41aba7946c2c95701320,BFCL,Qwen3-VL-2B (2025-10),2025-10,2025-10-16,57.2,1,V04727
+MC|41aba7946c2c95701320,BFCL,Qwen3-VL-4B (2025-10),2025-10,2025-10-16,67.3,1,V04728
+MC|41aba7946c2c95701320,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,56.6,1,V04730
+MC|41aba7946c2c95701320,BFCL,Qwen3-4B,2025-04-29,2025-04-29,65.9,1,V04731
+MC|41aba7946c2c95701320,BFCL,Qwen3-8B (8B),2025-04-29,2025-04-29,68.1,1,V04732
+MC|546fd51adfbd48193bdd,LongBench,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,56.8,1,V04743
+MC|546fd51adfbd48193bdd,LongBench,Qwen3-235B-A22B,2025-04-29,2025-04-29,54.8,1,V04744
+MC|546fd51adfbd48193bdd,LongBench,Qwen3.5-27B (2026-02),2026-02,2026-02-14,60.6,1,V04746
+MC|546fd51adfbd48193bdd,LongBench,Qwen3.5-35B-A3B (2026-02),2026-02,2026-02-14,59.0,1,V04747
+MC|0baba3dc058a0eebbb16,BFCL,Qwen3-235B-A22B,2025-04-29,2025-04-29,54.8,1,V04748
+MC|0baba3dc058a0eebbb16,BFCL,Qwen3.5-27B (2026-02),2026-02,2026-02-14,68.5,1,V04750
+MC|0baba3dc058a0eebbb16,BFCL,Qwen3.5-35B-A3B (2026-02),2026-02,2026-02-14,67.3,1,V04751
+MC|76db723e051ac595b1d1,OmniDocBench,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,77.0,1,V04757
+MC|76db723e051ac595b1d1,OmniDocBench,Qwen3.5-27B (2026-02),2026-02,2026-02-14,88.9,1,V04760
+MC|76db723e051ac595b1d1,OmniDocBench,Qwen3.5-35B-A3B (2026-02),2026-02,2026-02-14,89.3,1,V04761
+MC|b39d3e086d06e1e1ae97,MMLongBench-Doc,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,50.3,1,V04762
+MC|b39d3e086d06e1e1ae97,MMLongBench-Doc,Qwen3.5-27B (2026-02),2026-02,2026-02-14,60.2,1,V04764
+MC|b39d3e086d06e1e1ae97,MMLongBench-Doc,Qwen3.5-35B-A3B (2026-02),2026-02,2026-02-14,59.5,1,V04765
+MC|e35f6be7cb0f34d4d82a,OCRBench,GPT-5-mini-2025-08-07 (FC),2025-08-07,2025-08-07,82.1,1,V04766
+MC|e35f6be7cb0f34d4d82a,OCRBench,Qwen3.5-27B (2026-02),2026-02,2026-02-14,89.4,1,V04769
+MC|e35f6be7cb0f34d4d82a,OCRBench,Qwen3.5-35B-A3B (2026-02),2026-02,2026-02-14,91.0,1,V04770
+MC|5b38b5aa784b2b4a4501,LongBench,Gemini 3 Pro,2025-11-18,2025-11-18,68.2,1,V04777
+MC|5b38b5aa784b2b4a4501,LongBench,Qwen3.5-397B-A17B (2026-02),2026-02,2026-02-14,63.2,1,V04779
+MC|3bed4d36372faff222c9,BFCL,GPT-5.2,2025-12-11,2025-12-11,63.1,1,V04780
+MC|3bed4d36372faff222c9,BFCL,Gemini 3 Pro,2025-11-18,2025-11-18,72.5,1,V04781
+MC|3bed4d36372faff222c9,BFCL,Qwen3.5-397B-A17B (2026-02),2026-02,2026-02-14,72.9,1,V04783
+MC|c9acda50a6f413e2ecb3,OmniDocBench,Gemini 3 Pro,2025-11-18,2025-11-18,88.5,1,V04790
+MC|c9acda50a6f413e2ecb3,OmniDocBench,Qwen3.5-397B-A17B (2026-02),2026-02,2026-02-14,90.8,1,V04792
+MC|15ee5e0fd780c93b92d5,MMLongBench-Doc,Gemini 3 Pro,2025-11-18,2025-11-18,60.5,1,V04794
+MC|15ee5e0fd780c93b92d5,MMLongBench-Doc,Qwen3.5-397B-A17B (2026-02),2026-02,2026-02-14,61.5,1,V04796
+MC|a0314044e612699d6f49,OCRBench,Gemini 3 Pro,2025-11-18,2025-11-18,90.4,1,V04798
+MC|a0314044e612699d6f49,OCRBench,Qwen3.5-397B-A17B (2026-02),2026-02,2026-02-14,93.1,1,V04800
+MC|adebb49a6f2f78725b4c,OmniDocBench,Qwen3.8-27B (2026-08),2026-08,2026-08-16,91.1,1,V04810
+MC|adebb49a6f2f78725b4c,OmniDocBench,Qwen3.6-27B (2026-04),2026-04,2026-04-15,89.4,1,V04811
+MC|d9a949da38a201f543ee,MRCR,GPT-6 Astra (max),2026-09-03,2026-09-03,100.0,1,V04816
+MC|6c9c5aa35d2eff93e39d,MRCR,GPT-6 Astra (max),2026-09-03,2026-09-03,96.3,1,V04817
+MC|0941f1940d8c51541133,OCRBench,Qwen3.6-35B-A3B (2026-04),2026-04,2026-04-15,90.0,1,V04820
+MC|0941f1940d8c51541133,OCRBench,Qwen3.6-27B (2026-04),2026-04,2026-04-15,89.4,1,V04821
+MC|510ed782c26ccaf2acf5,OmniDocBench,Qwen3.6-35B-A3B (2026-04),2026-04,2026-04-15,89.9,1,V04822
+MC|bd41e9779724a2df5a25,BFCL,Qwen3-235B-A22B,2025-04-29,2025-04-29,70.8,1,V04825
+MC|bd41e9779724a2df5a25,BFCL,Qwen3-32B,2025-04-29,2025-04-29,70.3,1,V04831
+MC|bd41e9779724a2df5a25,BFCL,Qwen3-14B (FC),2025-04-29,2025-04-29,70.4,1,V04839
+MC|bd41e9779724a2df5a25,BFCL,Qwen3-30B-A3B,2025-04-29,2025-04-29,69.1,1,V04840
+MC|bd41e9779724a2df5a25,BFCL,Qwen3-4B,2025-04-29,2025-04-29,65.9,1,V04851
+MC|bd41e9779724a2df5a25,BFCL,Qwen3-8B (8B),2025-04-29,2025-04-29,68.1,1,V04852
+MC|bd41e9779724a2df5a25,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,46.4,1,V04863
+MC|bd41e9779724a2df5a25,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,56.6,1,V04864
+MC|947c1a9eae8273e031b1,BFCL,Qwen3-235B-A22B,2025-04-29,2025-04-29,68.0,1,V04828
+MC|947c1a9eae8273e031b1,BFCL,Qwen3-32B,2025-04-29,2025-04-29,63.0,1,V04834
+MC|947c1a9eae8273e031b1,BFCL,Qwen3-14B (FC),2025-04-29,2025-04-29,61.5,1,V04845
+MC|947c1a9eae8273e031b1,BFCL,Qwen3-30B-A3B,2025-04-29,2025-04-29,58.6,1,V04846
+MC|947c1a9eae8273e031b1,BFCL,Qwen3-4B,2025-04-29,2025-04-29,57.6,1,V04857
+MC|947c1a9eae8273e031b1,BFCL,Qwen3-8B (8B),2025-04-29,2025-04-29,60.2,1,V04858
+MC|947c1a9eae8273e031b1,BFCL,Qwen3-0.6B (FC),2025-04-29,2025-04-29,44.1,1,V04869
+MC|947c1a9eae8273e031b1,BFCL,Qwen3-1.7B (FC),2025-04-29,2025-04-29,52.2,1,V04870
+MC|f1170fa2704dcdafe882,LAB-Bench,Claude Sonnet 4.6,2026-02-17,2026-02-17,58.8,1,V04871
+MC|a731b92c46d4a7176c1d,LAB-Bench,Claude Sonnet 4.6,2026-02-17,2026-02-17,77.1,1,V04872
+MC|02ff2d555f3272f468cd,LAB-Bench,Claude Opus 4.6,2026-02-05,2026-02-05,58.0,1,V04875
+MC|618c17cde1d3bcad938c,LAB-Bench,Claude Opus 4.6,2026-02-05,2026-02-05,78.3,1,V04876
+MC|2c596247445cc123bd78,MRCR,Claude Sonnet 4.6,2026-02-17,2026-02-17,90.6,1,V04879
+MC|27b43d6a4515b2cc3c55,MRCR,Claude Sonnet 4.6,2026-02-17,2026-02-17,90.3,1,V04880
+MC|22413327f1969021e10f,MRCR,Claude Sonnet 4.6,2026-02-17,2026-02-17,65.1,1,V04881
+MC|ac3a20736ea9e89a7460,MRCR,Claude Sonnet 4.6,2026-02-17,2026-02-17,65.8,1,V04882
+MC|39c95828139cb37cd72e,MRCR,Claude Opus 4.6,2026-02-05,2026-02-05,91.9,1,V04883
+MC|64f64c201111b2a4ccb9,MRCR,Claude Opus 4.6,2026-02-05,2026-02-05,93.0,1,V04884
+MC|349109b52a1b621031a8,MRCR,Claude Opus 4.6,2026-02-05,2026-02-05,78.3,1,V04885
+MC|ab3e5d5255d6fcfe3f69,MRCR,Claude Opus 4.6,2026-02-05,2026-02-05,76.0,1,V04886
+MC|1cd3fcbc3aa586c7b485,MRCR,Claude Sonnet 4.6,2026-02-17,2026-02-17,71.3,1,V04887
+MC|6d8a9e7331b8587bd742,MRCR,Claude Sonnet 4.6,2026-02-17,2026-02-17,77.8,1,V04888
+MC|c2ba66f29a5ce980dab6,OmniDocBench,PaddleOCR-VL,2025-10,2025-10-16,92.86,1,V04929
+MC|3fa47ccff54f6f0fe42f,OmniDocBench,PaddleOCR-VL,2025-10,2025-10-16,0.035,1,V04930
+MC|be09803c1cad68e843db,OmniDocBench,PaddleOCR-VL,2025-10,2025-10-16,91.22,1,V04931
+MC|3cbaf6a433b1fbb69bf9,OmniDocBench,PaddleOCR-VL,2025-10,2025-10-16,90.89,1,V04932
+MC|6d2909eba3001dfe6250,OmniDocBench,PaddleOCR-VL,2025-10,2025-10-16,94.76,1,V04933
+MC|b5b3ba6978b5799c5661,OmniDocBench,PaddleOCR-VL,2025-10,2025-10-16,0.043,1,V04934
+MC|783009311343e15a1222,OmniDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,96.33,1,V04935
+MC|a9417d07b30129ee5c5f,OmniDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,0.033,1,V04936
+MC|aa90493efd4e98b33125,OmniDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,97.49,1,V04937
+MC|4247307caa9d96d13b90,OmniDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,94.76,1,V04938
+MC|27f3c9479584dc8395e5,OmniDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,97.11,1,V04939
+MC|416d72269def9e8e630f,OmniDocBench,PaddleOCR-VL-1.6 (2026-05),2026-05,2026-05-16,0.127,1,V04940

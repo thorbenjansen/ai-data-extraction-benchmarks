@@ -1,0 +1,24 @@
+{
+  "audit_kind": "Primary-source date fact sheet",
+  "accessed": "2026-10-31",
+  "hash_target": "Inspected web-tool response; not original HTTP body; raw response retained in local working material",
+  "inspected_response_sha256": "9a335753e93308c834fd31e9b80fe6e2c895a87632d0b993ac76e6668b3d0617",
+  "primary_sources": [
+    "https://openai.com/index/gpt-6-astra/",
+    "https://www.anthropic.com/claude-opus-5-5",
+    "https://github.com/allenai/longformer",
+    "https://github.com/EmilyAlsentzer/clinicalBERT",
+    "https://github.com/microsoft/BiomedNLP",
+    "https://github.com/UKPLab/sentence-transformers"
+  ],
+  "reviewed_release_facts": [
+    {
+      "release_id": "RD042",
+      "release_date": "2026-09-22",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "locator": "September 22 heading and Availability",
+      "evidence": "The named Opus 5.5 model is released on September 22."
+    }
+  ],
+  "note": "Only reviewed factual assertions are redistributed; full source articles are not reproduced."
+}

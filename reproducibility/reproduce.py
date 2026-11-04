@@ -1,0 +1,9 @@
+from pathlib import Path
+import sys,shutil,subprocess
+here=Path(__file__).resolve().parent.parent
+if len(sys.argv)!=2:raise SystemExit('Usage: python reproduce.py /new/output/folder')
+out=Path(sys.argv[1]).expanduser().resolve()
+if out.exists():raise SystemExit('Choose a new output folder.')
+shutil.copytree(here,out,ignore=shutil.ignore_patterns('__pycache__','*.pyc'))
+subprocess.run([sys.executable,str(out/'reproducibility/validate_selection.py')],check=True)
+print('Reproduced the frozen selected-50 snapshot:',out)

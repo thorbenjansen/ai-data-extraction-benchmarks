@@ -1,0 +1,148 @@
+﻿step,level,rationale,benchmark_id,family,figure_id
+documents,Component task,"Full-page parsing: text, tables, formulas and reading order. Parsing score is not systematic-review extraction accuracy.",OMNI,OmniDocBench,F001
+bind,Component task,"Full-page parsing: text, tables, formulas and reading order. Parsing score is not systematic-review extraction accuracy.",OMNI,OmniDocBench,F001
+documents,Component task,Convert whole PDFs to structured Markdown. Whole-document parsing; not codebook interpretation.,READOC,READoc,F002
+bind,Component task,Convert whole PDFs to structured Markdown. Whole-document parsing; not codebook interpretation.,READOC,READoc,F002
+documents,Component task,"Unit tests on text, tables, mathematics and reading order. Unit-test coverage is not exhaustive; parser system, not language-model-only performance.",OLMOCR,olmOCR-bench,F003
+bind,Component task,"Unit tests on text, tables, mathematics and reading order. Unit-test coverage is not exhaustive; parser system, not language-model-only performance.",OLMOCR,olmOCR-bench,F003
+documents,Component task,OCR-centred visual QA and text recognition. Mixed visual tasks; normalization to 0–100 is a scale conversion only.,OCR1,OCRBench,F004
+bind,Component task,OCR-centred visual QA and text recognition. Mixed visual tasks; normalization to 0–100 is a scale conversion only.,OCR1,OCRBench,F004
+documents,Component task,"Text localization, visual extraction and reasoning. Different tasks and difficulty from v1; no cross-version trend.",OCR2,OCRBench,F004
+bind,Component task,"Text localization, visual extraction and reasoning. Different tasks and difficulty from v1; no cross-version trend.",OCR2,OCRBench,F004
+documents,Component task,Multilingual digital and photographed document parsing. Photographic and language robustness are distinct from psychological coding.,MDP,MDPBench,F005
+bind,Component task,Multilingual digital and photographed document parsing. Photographic and language robustness are distinct from psychological coding.,MDP,MDPBench,F005
+documents,Component task,Source-traceable clean and degraded document parsing. Programmatically constructed documents; distribution differs from published psychology PDFs.,PUREDOC,PureDocBench,F006
+bind,Component task,Source-traceable clean and degraded document parsing. Programmatically constructed documents; distribution differs from published psychology PDFs.,PUREDOC,PureDocBench,F006
+documents,Component task,Difficult expert-domain parsing of long documents. Failure-based sampling deliberately changes difficulty and coverage.,DRDOC,Dr. DocBench,F007
+bind,Component task,Difficult expert-domain parsing of long documents. Failure-based sampling deliberately changes difficulty and coverage.,DRDOC,Dr. DocBench,F007
+documents,Component task,Answer questions from visual document pages. Question answering over mostly short documents; ANLS is not a proportion of correct meta-analytic values.,DOCVQA,DocVQA,F008
+bind,Component task,Answer questions from visual document pages. Question answering over mostly short documents; ANLS is not a proportion of correct meta-analytic values.,DOCVQA,DocVQA,F008
+bind,Component task,Visual and logical question answering on charts. Chart lookup/reasoning does not validate extraction from complete scientific reports.,CHARTQA,ChartQA,F010
+derive,Component task,Visual and logical question answering on charts. Chart lookup/reasoning does not validate extraction from complete scientific reports.,CHARTQA,ChartQA,F010
+bind,Component task,Harder and more diverse chart question answering. Cannot append ChartQAPro values to the easier ChartQA trajectory.,CHARTPRO,ChartQAPro,F011
+derive,Component task,Harder and more diverse chart question answering. Cannot append ChartQAPro values to the easier ChartQA trajectory.,CHARTPRO,ChartQAPro,F011
+bind,Component task,"Hierarchical table question answering and data-to-text. Hierarchical table skill, not full review extraction; QA and generation are different tasks.",HITAB,HiTab,F012
+derive,Component task,"Hierarchical table question answering and data-to-text. Hierarchical table skill, not full review extraction; QA and generation are different tasks.",HITAB,HiTab,F012
+retrieve,Component task,Multi-step numerical reasoning across hierarchical tables and text. Financial reporting domain; supports reasoning-trace diagnosis.,MULTIHI,MultiHiertt,F013
+bind,Component task,Multi-step numerical reasoning across hierarchical tables and text. Financial reporting domain; supports reasoning-trace diagnosis.,MULTIHI,MultiHiertt,F013
+derive,Component task,Multi-step numerical reasoning across hierarchical tables and text. Financial reporting domain; supports reasoning-trace diagnosis.,MULTIHI,MultiHiertt,F013
+bind,Component task,Hybrid table/text numerical question answering. Financial data; answer matching does not establish codebook reproducibility.,TATQA,TAT-QA,F014
+derive,Component task,Hybrid table/text numerical question answering. Financial data; answer matching does not establish codebook reproducibility.,TATQA,TAT-QA,F014
+bind,Component task,Generate numerical reasoning programs from financial reports. Finance-specific operations; not effect-size conversion validation.,FINQA,FinQA,F015
+derive,Component task,Generate numerical reasoning programs from financial reports. Finance-specific operations; not effect-size conversion validation.,FINQA,FinQA,F015
+coordinate,Component task,Generate numerical reasoning programs from financial reports. Finance-specific operations; not effect-size conversion validation.,FINQA,FinQA,F015
+retrieve,Component task,Numerical reasoning over short/long financial documents. Three subsets adapt previous benchmarks; avoid counting them as independent evidence.,DOCMATH,DocMath-Eval,F018
+bind,Component task,Numerical reasoning over short/long financial documents. Three subsets adapt previous benchmarks; avoid counting them as independent evidence.,DOCMATH,DocMath-Eval,F018
+derive,Component task,Numerical reasoning over short/long financial documents. Three subsets adapt previous benchmarks; avoid counting them as independent evidence.,DOCMATH,DocMath-Eval,F018
+documents,Component task,Long multimodal document QA including cross-page and unanswerable items. Model-based response extraction/evaluation and input route can change scores.,MMLONGDOC,MMLongBench-Doc,F019
+retrieve,Component task,Long multimodal document QA including cross-page and unanswerable items. Model-based response extraction/evaluation and input route can change scores.,MMLONGDOC,MMLongBench-Doc,F019
+bind,Component task,Long multimodal document QA including cross-page and unanswerable items. Model-based response extraction/evaluation and input route can change scores.,MMLONGDOC,MMLongBench-Doc,F019
+retrieve,Component task,"Bilingual long-context QA, summarization and retrieval. Mixed metrics and inherited datasets; do not read average as extraction accuracy.",LONGB1,LongBench,F020
+coordinate,Component task,"Bilingual long-context QA, summarization and retrieval. Mixed metrics and inherited datasets; do not read average as extraction accuracy.",LONGB1,LongBench,F020
+retrieve,Component task,Deep long-context understanding across realistic tasks. Human reference is time-limited; task mix differs across length subsets.,LONGB2,LongBench,F020
+bind,Component task,Deep long-context understanding across realistic tasks. Human reference is time-limited; task mix differs across length subsets.,LONGB2,LongBench,F020
+coordinate,Component task,Deep long-context understanding across realistic tasks. Human reference is time-limited; task mix differs across length subsets.,LONGB2,LongBench,F020
+retrieve,Component task,"Synthetic retrieval, variable tracking and aggregation. Synthetic tasks; claimed context length is not effective context performance.",RULER,RULER,F021
+coordinate,Component task,"Synthetic retrieval, variable tracking and aggregation. Synthetic tasks; claimed context length is not effective context performance.",RULER,RULER,F021
+retrieve,Component task,"Diverse long-context retrieval, QA, summarization and citation tasks. Contains other benchmark components; avoid independent-evidence double counting.",HELMET,HELMET,F022
+coordinate,Component task,"Diverse long-context retrieval, QA, summarization and citation tasks. Contains other benchmark components; avoid independent-evidence double counting.",HELMET,HELMET,F022
+verify,Component task,"Diverse long-context retrieval, QA, summarization and citation tasks. Contains other benchmark components; avoid independent-evidence double counting.",HELMET,HELMET,F022
+retrieve,Component task,"Non-literal retrieval with low lexical overlap. A stronger diagnostic than literal retrieval, still not codebook-based extraction.",NOLIMA,NoLiMa,F023
+coordinate,Component task,"Non-literal retrieval with low lexical overlap. A stronger diagnostic than literal retrieval, still not codebook-based extraction.",NOLIMA,NoLiMa,F023
+retrieve,Component task,Long-context tasks above 100K tokens. Mixed real and synthetic tasks; not a common accuracy scale.,INFINITE,InfiniteBench,F024
+derive,Component task,Long-context tasks above 100K tokens. Mixed real and synthetic tasks; not a common accuracy scale.,INFINITE,InfiniteBench,F024
+coordinate,Component task,Long-context tasks above 100K tokens. Mixed real and synthetic tasks; not a common accuracy scale.,INFINITE,InfiniteBench,F024
+retrieve,Component task,"Disambiguate repeated, similar long-context requests. Original v1 digitizations are approximate; not a direct reasoning/extraction benchmark.",MRCR,MRCR,F026
+protocol,Component task,Arithmetic robustness under symbolic and numerical perturbations. Template perturbation does not reproduce scientific extraction conditions.,GSMSYM,GSM-Symbolic,F031
+code,Component task,Arithmetic robustness under symbolic and numerical perturbations. Template perturbation does not reproduce scientific extraction conditions.,GSMSYM,GSM-Symbolic,F031
+derive,Component task,Arithmetic robustness under symbolic and numerical perturbations. Template perturbation does not reproduce scientific extraction conditions.,GSMSYM,GSM-Symbolic,F031
+retrieve,Component task,"Discrete reasoning over text passages. Short-passage reading and arithmetic, not full scientific documents.",DROP,DROP,F033
+bind,Component task,"Discrete reasoning over text passages. Short-passage reading and arithmetic, not full scientific documents.",DROP,DROP,F033
+derive,Component task,"Discrete reasoning over text passages. Short-passage reading and arithmetic, not full scientific documents.",DROP,DROP,F033
+retrieve,Component task,"Factuality, retrieval and multi-hop reasoning. Open-domain retrieval; not directly empirical data extraction.",FRAMES,FRAMES,F034
+coordinate,Component task,"Factuality, retrieval and multi-hop reasoning. Open-domain retrieval; not directly empirical data extraction.",FRAMES,FRAMES,F034
+verify,Component task,"Factuality, retrieval and multi-hop reasoning. Open-domain retrieval; not directly empirical data extraction.",FRAMES,FRAMES,F034
+retrieve,Component task,Compositional multi-hop questions requiring connected evidence. Public QA text; evidence structure differs from scientific analyses.,MUSIQUE,MuSiQue,F035
+coordinate,Component task,Compositional multi-hop questions requiring connected evidence. Public QA text; evidence structure differs from scientific analyses.,MUSIQUE,MuSiQue,F035
+retrieve,Component task,Multi-hop QA with supporting sentences. Wikipedia-based; weak transfer to review-specific interpretation.,HOTPOT,HotpotQA,F036
+coordinate,Component task,Multi-hop QA with supporting sentences. Wikipedia-based; weak transfer to review-specific interpretation.,HOTPOT,HotpotQA,F036
+verify,Component task,Multi-hop QA with supporting sentences. Wikipedia-based; weak transfer to review-specific interpretation.,HOTPOT,HotpotQA,F036
+retrieve,Component task,Question answering on research papers with evidence annotations. Computer-science papers; paper QA rather than extraction under a meta-analysis codebook.,QASPER,QASPER,F038
+bind,Component task,Question answering on research papers with evidence annotations. Computer-science papers; paper QA rather than extraction under a meta-analysis codebook.,QASPER,QASPER,F038
+verify,Component task,Question answering on research papers with evidence annotations. Computer-science papers; paper QA rather than extraction under a meta-analysis codebook.,QASPER,QASPER,F038
+retrieve,Component task,"Scientific literature comprehension, extraction and analysis. Biology/chemistry/materials; a total score mixes different constructs.",SCIASS,SciAssess,F040
+bind,Component task,"Scientific literature comprehension, extraction and analysis. Biology/chemistry/materials; a total score mixes different constructs.",SCIASS,SciAssess,F040
+coordinate,Component task,"Scientific literature comprehension, extraction and analysis. Biology/chemistry/materials; a total score mixes different constructs.",SCIASS,SciAssess,F040
+retrieve,Component task,"Literature, supplements, tables and figures in biological research. Do not count LitQA2/PaperQA2 as independent datasets; retrieval and abstention settings matter.",LAB,LAB-Bench,F041
+bind,Component task,"Literature, supplements, tables and figures in biological research. Do not count LitQA2/PaperQA2 as independent datasets; retrieval and abstention settings matter.",LAB,LAB-Bench,F041
+coordinate,Component task,"Literature, supplements, tables and figures in biological research. Do not count LitQA2/PaperQA2 as independent datasets; retrieval and abstention settings matter.",LAB,LAB-Bench,F041
+verify,Component task,"Literature, supplements, tables and figures in biological research. Do not count LitQA2/PaperQA2 as independent datasets; retrieval and abstention settings matter.",LAB,LAB-Bench,F041
+coordinate,Component task,Reproduce results from scientific code and data. Public leaderboard mixes budgets and agents; manual validation gives a different score.,CORE,CORE-Bench,F044
+verify,Component task,Reproduce results from scientific code and data. Public leaderboard mixes budgets and agents; manual validation gives a different score.,CORE,CORE-Bench,F044
+retrieve,Component task,Multi-step assistant tasks using external tools and multimodal evidence. General assistant tasks; not human coder accuracy.,GAIA,GAIA,F046
+coordinate,Component task,Multi-step assistant tasks using external tools and multimodal evidence. General assistant tasks; not human coder accuracy.,GAIA,GAIA,F046
+protocol,Component task,"Select tools, construct arguments and perform multi-turn function calls. Correct call syntax does not establish that extracted inputs or coding rules are valid.",BFCL,BFCL,F047
+code,Component task,"Select tools, construct arguments and perform multi-turn function calls. Correct call syntax does not establish that extracted inputs or coding rules are valid.",BFCL,BFCL,F047
+coordinate,Component task,"Select tools, construct arguments and perform multi-turn function calls. Correct call syntax does not establish that extracted inputs or coding rules are valid.",BFCL,BFCL,F047
+protocol,Component task,Compose multiple constraints and dependencies in instructions. Generic instruction composition; evaluate coding interpretations separately.,COMPLEX,ComplexBench,F051
+code,Component task,Compose multiple constraints and dependencies in instructions. Generic instruction composition; evaluate coding interpretations separately.,COMPLEX,ComplexBench,F051
+coordinate,Component task,Compose multiple constraints and dependencies in instructions. Generic instruction composition; evaluate coding interpretations separately.,COMPLEX,ComplexBench,F051
+retrieve,Component task,"Generate answers supported by citations. Citation quality is one aspect of auditability, not a complete workflow audit.",ALCE,ALCE,F059
+verify,Component task,"Generate answers supported by citations. Citation quality is one aspect of auditability, not a complete workflow audit.",ALCE,ALCE,F059
+retrieve,Component task,Retrieve and interpret methodological evidence for risk of bias. Biomedical risk-of-bias rules; cannot transfer unchanged to psychological study quality.,ROBBR,RoBBR,F065
+code,Component task,Retrieve and interpret methodological evidence for risk of bias. Biomedical risk-of-bias rules; cannot transfer unchanged to psychological study quality.,ROBBR,RoBBR,F065
+verify,Component task,Retrieve and interpret methodological evidence for risk of bias. Biomedical risk-of-bias rules; cannot transfer unchanged to psychological study quality.,ROBBR,RoBBR,F065
+retrieve,Component task,"Search, screen and extract results from clinical evidence. Version/corpus mismatch must be resolved before a numerical time series.",TRIAL,TrialReviewBench,F066
+bind,Component task,"Search, screen and extract results from clinical evidence. Version/corpus mismatch must be resolved before a numerical time series.",TRIAL,TrialReviewBench,F066
+coordinate,Component task,"Search, screen and extract results from clinical evidence. Version/corpus mismatch must be resolved before a numerical time series.",TRIAL,TrialReviewBench,F066
+product,Direct extraction task,The benchmark evaluates extraction outputs in its stated document/domain setting; Version/corpus mismatch must be resolved before a numerical time series.,TRIAL,TrialReviewBench,F066
+retrieve,Component task,End-to-end screening and multimodal meta-analysis extraction. Author system evaluation; independent benchmark history not established.,MANALYZER,Manalyzer,F067
+bind,Component task,End-to-end screening and multimodal meta-analysis extraction. Author system evaluation; independent benchmark history not established.,MANALYZER,Manalyzer,F067
+coordinate,Component task,End-to-end screening and multimodal meta-analysis extraction. Author system evaluation; independent benchmark history not established.,MANALYZER,Manalyzer,F067
+product,Direct extraction task,The benchmark evaluates extraction outputs in its stated document/domain setting; Author system evaluation; independent benchmark history not established.,MANALYZER,Manalyzer,F067
+protocol,Component task,Document-to-table extraction under a target schema. Synthetic table-to-document construction is not equivalent to empirical study reports.,DTBENCH,DTBench,F068
+bind,Direct extraction task,Structured output requires preserving field/group relationships in the source task; Synthetic table-to-document construction is not equivalent to empirical study reports.,DTBENCH,DTBench,F068
+code,Component task,Document-to-table extraction under a target schema. Synthetic table-to-document construction is not equivalent to empirical study reports.,DTBENCH,DTBench,F068
+derive,Component task,Document-to-table extraction under a target schema. Synthetic table-to-document construction is not equivalent to empirical study reports.,DTBENCH,DTBench,F068
+verify,Component task,Document-to-table extraction under a target schema. Synthetic table-to-document construction is not equivalent to empirical study reports.,DTBENCH,DTBench,F068
+product,Direct extraction task,The benchmark evaluates extraction outputs in its stated document/domain setting; Synthetic table-to-document construction is not equivalent to empirical study reports.,DTBENCH,DTBench,F068
+protocol,Component task,Schema-constrained and open-category key information extraction. Visual business/document KIE; not scientific evidence synthesis by default.,UNIKIE,UNIKIE-BENCH,F069
+documents,Component task,Schema-constrained and open-category key information extraction. Visual business/document KIE; not scientific evidence synthesis by default.,UNIKIE,UNIKIE-BENCH,F069
+bind,Component task,Schema-constrained and open-category key information extraction. Visual business/document KIE; not scientific evidence synthesis by default.,UNIKIE,UNIKIE-BENCH,F069
+code,Component task,Schema-constrained and open-category key information extraction. Visual business/document KIE; not scientific evidence synthesis by default.,UNIKIE,UNIKIE-BENCH,F069
+product,Direct extraction task,The benchmark evaluates extraction outputs in its stated document/domain setting; Visual business/document KIE; not scientific evidence synthesis by default.,UNIKIE,UNIKIE-BENCH,F069
+bind,Component task,"Fact checking, numerical reasoning, data analysis and visualization over tables. 886 test cases; financial/business-style tables differ from psychological reports.",TABLEBENCH,TableBench,F073
+derive,Component task,"Fact checking, numerical reasoning, data analysis and visualization over tables. 886 test cases; financial/business-style tables differ from psychological reports.",TABLEBENCH,TableBench,F073
+coordinate,Component task,"Fact checking, numerical reasoning, data analysis and visualization over tables. 886 test cases; financial/business-style tables differ from psychological reports.",TABLEBENCH,TableBench,F073
+protocol,Component task,"Structured table understanding, lookup and manipulation. Tests explicitly discussed table-understanding limitations; not full review extraction.",SUC,SUC,F074
+bind,Component task,"Structured table understanding, lookup and manipulation. Tests explicitly discussed table-understanding limitations; not full review extraction.",SUC,SUC,F074
+code,Component task,"Structured table understanding, lookup and manipulation. Tests explicitly discussed table-understanding limitations; not full review extraction.",SUC,SUC,F074
+derive,Component task,Numerical understanding and processing across representations. Elementary number handling complements mathematics reasoning; not effect-size extraction.,NUPA,NUPA,F075
+protocol,Component task,"Copy, reverse and add symbol sequences. Artificial symbol tasks; distinguish original models from newer replications.",SYMBOL,Symbolic manipulation,F076
+code,Component task,"Copy, reverse and add symbol sequences. Artificial symbol tasks; distinguish original models from newer replications.",SYMBOL,Symbolic manipulation,F076
+derive,Component task,"Copy, reverse and add symbol sequences. Artificial symbol tasks; distinguish original models from newer replications.",SYMBOL,Symbolic manipulation,F076
+derive,Component task,Identify the first incorrect step in a mathematical solution. Model verification task; not evidence that human reviewers detect the same errors.,PROCESS,ProcessBench,F077
+coordinate,Component task,Identify the first incorrect step in a mathematical solution. Model verification task; not evidence that human reviewers detect the same errors.,PROCESS,ProcessBench,F077
+verify,Component task,Identify the first incorrect step in a mathematical solution. Model verification task; not evidence that human reviewers detect the same errors.,PROCESS,ProcessBench,F077
+retrieve,Component task,"Retrieve a planted sentence at varying depth and context length. Directly discussed in Lu and Wang as insufficient for semantic, dispersed-evidence reasoning.",NIAH,NIAH,F078
+retrieve,Component task,Short- and long-dependency comprehension across realistic long documents. Directly cited in Lu and Wang; mixed metrics and judge versions limit pooling.,LOOGLE,LooGLE,F079
+derive,Component task,Short- and long-dependency comprehension across realistic long documents. Directly cited in Lu and Wang; mixed metrics and judge versions limit pooling.,LOOGLE,LooGLE,F079
+coordinate,Component task,Short- and long-dependency comprehension across realistic long documents. Directly cited in Lu and Wang; mixed metrics and judge versions limit pooling.,LOOGLE,LooGLE,F079
+retrieve,Component task,Long-context comprehension under more realistic complex tasks. Successor rather than continuation of the original LooGLE score scale.,LOOGLE2,LooGLE,F079
+coordinate,Component task,Long-context comprehension under more realistic complex tasks. Successor rather than continuation of the original LooGLE score scale.,LOOGLE2,LooGLE,F079
+verify,Component task,Long-context comprehension under more realistic complex tasks. Successor rather than continuation of the original LooGLE score scale.,LOOGLE2,LooGLE,F079
+retrieve,Component task,"Retrieve, count and reason over evidence in long multimodal documents. Diagnostic multimodal haystacks rather than systematic-review full-text extraction.",MMNIAH,MM-NIAH,F080
+bind,Component task,"Retrieve, count and reason over evidence in long multimodal documents. Diagnostic multimodal haystacks rather than systematic-review full-text extraction.",MMNIAH,MM-NIAH,F080
+protocol,Component task,Normalize document-level structured evidence from immunization systematic reviews. Medical review domain; annotation construction and exact-normalization choices limit transfer.,VAX,VaxScope,F081
+retrieve,Component task,Normalize document-level structured evidence from immunization systematic reviews. Medical review domain; annotation construction and exact-normalization choices limit transfer.,VAX,VaxScope,F081
+bind,Component task,Normalize document-level structured evidence from immunization systematic reviews. Medical review domain; annotation construction and exact-normalization choices limit transfer.,VAX,VaxScope,F081
+code,Component task,Normalize document-level structured evidence from immunization systematic reviews. Medical review domain; annotation construction and exact-normalization choices limit transfer.,VAX,VaxScope,F081
+product,Direct extraction task,The benchmark evaluates extraction outputs in its stated document/domain setting; Medical review domain; annotation construction and exact-normalization choices limit transfer.,VAX,VaxScope,F081
+protocol,Component task,"Recover participant counts, grouping and flow under a target schema. Scientific diagrams only; does not test full-paper meta-analytic coding.",CONSORT,CONSORT diagrams,F082
+documents,Component task,"Recover participant counts, grouping and flow under a target schema. Scientific diagrams only; does not test full-paper meta-analytic coding.",CONSORT,CONSORT diagrams,F082
+bind,Direct extraction task,Structured output requires preserving field/group relationships in the source task; Scientific diagrams only; does not test full-paper meta-analytic coding.,CONSORT,CONSORT diagrams,F082
+code,Component task,"Recover participant counts, grouping and flow under a target schema. Scientific diagrams only; does not test full-paper meta-analytic coding.",CONSORT,CONSORT diagrams,F082
+product,Direct extraction task,The benchmark evaluates extraction outputs in its stated document/domain setting; Scientific diagrams only; does not test full-paper meta-analytic coding.,CONSORT,CONSORT diagrams,F082
+retrieve,Component task,"Bilingual long-context QA, summarization and retrieval. Mixed metrics and inherited datasets; do not read average as extraction accuracy.",LONGBCHAT,LongBench,F020
+coordinate,Component task,"Bilingual long-context QA, summarization and retrieval. Mixed metrics and inherited datasets; do not read average as extraction accuracy.",LONGBCHAT,LongBench,F020
+derive,Direct extraction task,"Level 3 explicitly requires calculating values from research reports; Table 4 distinguishes these from text and table/image copying. Source: Xu et al., Manalyzer, arXiv:2505.20310v2, Table 4. Domain transfer to psychology remains untested.",MANALYZER,Manalyzer,F067
