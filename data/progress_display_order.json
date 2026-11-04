@@ -1,0 +1,120 @@
+{
+  "version": "2026-11-04",
+  "purpose": "Illustrative left-to-right ordering within each challenge",
+  "primary": "Descending first-to-last supported 180-day mean-curve gain in the existing default condition, divided by its native score-axis maximum",
+  "ties": "Descending date-median tau-a, then configuration count, then figure ID",
+  "limits": "An editorial display heuristic. Benchmark tasks, difficulty, conditions and observed date spans differ; this is not a comparable effect size or a ranking of benchmark quality. Default conditions, observations and fitted curves are unchanged.",
+  "challenge_order": {
+    "A": [
+      "OmniDocBench",
+      "TableBench",
+      "olmOCR-bench",
+      "PureDocBench"
+    ],
+    "B": [
+      "LongBench",
+      "RULER"
+    ],
+    "C": [
+      "GSM-Symbolic",
+      "TableBench",
+      "ProcessBench"
+    ],
+    "D": [
+      "TableBench",
+      "ProcessBench",
+      "LongBench",
+      "RULER"
+    ]
+  },
+  "default_conditions": [
+    {
+      "family": "GSM-Symbolic",
+      "series_id": "GSMSYM|GSMSYM_paper|Answer accuracy|Original Symbolic; 8-shot",
+      "condition": "Original Symbolic; 8-shot",
+      "mean_curve_gain_native": 22.902660619053364,
+      "axis_max_native": 100.0,
+      "gain_as_percent_of_axis": 22.902660619053364,
+      "date_median_tau_a": 0.6444444444444445,
+      "n_configurations": 18,
+      "span_days": 351
+    },
+    {
+      "family": "LongBench",
+      "series_id": "LONGB2|LongBench2_site|LongBench-v2|overall|CoT",
+      "condition": "503-question v2; overall; CoT",
+      "mean_curve_gain_native": 6.993452697744345,
+      "axis_max_native": 100.0,
+      "gain_as_percent_of_axis": 6.993452697744345,
+      "date_median_tau_a": 0.5736842105263158,
+      "n_configurations": 25,
+      "span_days": 378
+    },
+    {
+      "family": "OmniDocBench",
+      "series_id": "OMNI|legacy_figure|OmniDocBench v1.5|OmniDocBench v1.5",
+      "condition": "OmniDocBench v1.5",
+      "mean_curve_gain_native": 29.43270385869541,
+      "axis_max_native": 100.0,
+      "gain_as_percent_of_axis": 29.43270385869541,
+      "date_median_tau_a": 0.4090909090909091,
+      "n_configurations": 12,
+      "span_days": 534
+    },
+    {
+      "family": "ProcessBench",
+      "series_id": "PROCESS|PROCESS_paper|Process error identification F1|Average of four math subsets; original Table 3",
+      "condition": "Average of four math subsets; original Table 3",
+      "mean_curve_gain_native": 7.348451431423193,
+      "axis_max_native": 100.0,
+      "gain_as_percent_of_axis": 7.348451431423193,
+      "date_median_tau_a": 0.5238095238095238,
+      "n_configurations": 13,
+      "span_days": 232
+    },
+    {
+      "family": "PureDocBench",
+      "series_id": "PUREDOC|PUREDOC_paper|Overall parsing score|Clean; same 1475 source pages",
+      "condition": "Clean; same 1475 source pages",
+      "mean_curve_gain_native": 13.152992207099103,
+      "axis_max_native": 100.0,
+      "gain_as_percent_of_axis": 13.152992207099103,
+      "date_median_tau_a": 0.5,
+      "n_configurations": 58,
+      "span_days": 669
+    },
+    {
+      "family": "RULER",
+      "series_id": "RULER|RULER|RULER|4K",
+      "condition": "Original 13-task RULER; 4K tokens",
+      "mean_curve_gain_native": 3.3578459561181546,
+      "axis_max_native": 100.0,
+      "gain_as_percent_of_axis": 3.3578459561181546,
+      "date_median_tau_a": 0.3956043956043956,
+      "n_configurations": 22,
+      "span_days": 651
+    },
+    {
+      "family": "TableBench",
+      "series_id": "TABLEBENCH|TableBench_site|TableBench-corrected-2025|model|DP",
+      "condition": "Corrected/refined April 2025 release; DP",
+      "mean_curve_gain_native": 19.788209225237583,
+      "axis_max_native": 100.0,
+      "gain_as_percent_of_axis": 19.788209225237583,
+      "date_median_tau_a": 0.6190476190476191,
+      "n_configurations": 11,
+      "span_days": 476
+    },
+    {
+      "family": "olmOCR-bench",
+      "series_id": "OLMOCR|OLMOCR2_paper|Unit-test pass score|olmOCR 2 paper Table 1; source-reported release month",
+      "condition": "olmOCR 2 paper Table 1; source-reported release month",
+      "mean_curve_gain_native": 15.639750748103111,
+      "axis_max_native": 100.0,
+      "gain_as_percent_of_axis": 15.639750748103111,
+      "date_median_tau_a": 0.6363636363636364,
+      "n_configurations": 19,
+      "span_days": 518
+    }
+  ]
+}

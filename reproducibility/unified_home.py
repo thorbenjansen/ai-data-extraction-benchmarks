@@ -77,6 +77,7 @@ def build():
     selection = load('data/progress_selection.json')
     family_decisions = {r['family']: r for r in read('data/progress_family_decisions.csv')}
     condition_decisions = {r['series_id']: r for r in read('data/progress_condition_decisions.csv')}
+    condition_metadata = {r['series_id']: r for r in read('data/article_conditions.csv')}
     selected = set(selection['families'])
     register = [r for r in archive_register if r['family'] in selected]
     ARCHIVED_FIGURES = {r['figure_id'] for r in archive_register if r['family'] not in selected}
@@ -97,6 +98,31 @@ def build():
     stepmap = {r['family']: r['workflow_steps'].split('; ') for r in register}
     chmap = {r['family']: [c.strip() for c in r['commentary_challenges'].split(';')]
              for r in register}
+    # Use the existing default condition, never a newly selected favorable subtask.
+    # The axis-normalized gain is a display heuristic, not a pooled performance metric.
+    display = {}
+    for family in selected:
+        sid = charts[family]['primary_variant']['id']
+        decision = condition_decisions[sid]
+        axis_max = float(condition_metadata[sid]['axis_max_native'])
+        gain = float(decision['directional_curve_change_180d'])
+        display[family] = dict(family=family, series_id=sid, condition=decision['condition'],
+                               mean_curve_gain_native=gain, axis_max_native=axis_max,
+                               gain_as_percent_of_axis=100*gain/axis_max,
+                               date_median_tau_a=float(decision['date_median_tau_a']),
+                               n_configurations=int(decision['n_configurations']),
+                               span_days=int(decision['span_days']))
+    def display_key(family):
+        r = display[family]
+        return (-r['gain_as_percent_of_axis'], -r['date_median_tau_a'],
+                -r['n_configurations'], int(byfamily[family]['figure_id'][1:]))
+    ordered = {c: sorted([r['family'] for r in register if c in chmap[r['family']]], key=display_key) for c in defs}
+    order_audit = dict(version='2026-11-04', purpose='Illustrative left-to-right ordering within each challenge',
+                       primary='Descending first-to-last supported 180-day mean-curve gain in the existing default condition, divided by its native score-axis maximum',
+                       ties='Descending date-median tau-a, then configuration count, then figure ID',
+                       limits='An editorial display heuristic. Benchmark tasks, difficulty, conditions and observed date spans differ; this is not a comparable effect size or a ranking of benchmark quality. Default conditions, observations and fitted curves are unchanged.',
+                       challenge_order=ordered, default_conditions=[display[f] for f in sorted(selected)])
+    (ROOT/'data/progress_display_order.json').write_text(json.dumps(order_audit,ensure_ascii=False,indent=2)+'\n')
 
     doc = H.parse(str(ROOT / 'index.html')).getroot()
     doc.find('body').set('class', 'workflow-home unified-home')
@@ -117,7 +143,7 @@ def build():
     body += ''.join(f'<option value="{sid}" data-name="{esc(steps[sid]["name"])}" data-task="{esc(steps[sid]["task"])}" data-gap="{esc(steps[sid]["gap"])}">{i:02} · {esc(steps[sid]["name"])}</option>'
                     for i, sid in enumerate(ORDER, 1))
     body += f'''</select></label><button type="button" id="flow-reset">Show all selected benchmarks</button><span id="flow-count" role="status" aria-live="polite">{len(register)} benchmark families · 4 challenges</span></div>
-<p class="flow-help">X: documented model release date. Y: the original benchmark metric. Date ranges can differ between figures; compare the calendar labels. Dashed curves describe mean performance within the named test condition. Click a figure for its raw data and sources.</p>
+<p class="flow-help">X: documented model release date. Y: the original benchmark metric. Date ranges can differ between figures; compare the calendar labels. Dashed curves describe mean performance within the named test condition. Within each challenge, the larger displayed mean-curve gains come first. <a href="methods.html#figure-order">How the figures are ordered</a>. Click a figure for its raw data and sources.</p>
 <div class="supplement-links"><a href="model-releases.html">Model release-date sources</a><a href="methods.html#mean-curves">Mean-curve methods</a><a href="methods.html#progress-selection">Progress selection and limits</a><a href="archive.html">Source archive and PDF</a></div></div>
 <details class="unified-workflow" id="workflow-map"><summary>The 12 workflow steps and their links to A–D</summary><p>Challenge badges indicate links through the mapped benchmark tasks. They do not establish that an entire step is validated. Select a step to filter the figures below.</p><div class="workflow-tiles">'''
     for i, sid in enumerate(ORDER, 1):
@@ -138,8 +164,7 @@ def build():
 <div class="flow-sequence challenge-sequence">'''
     used_ids = set()
     for c, d in defs.items():
-        families = [r['family'] for r in register if c in chmap[r['family']]]
-        families.sort(key=lambda f: (not bool(charts[f]['primary_variant']['plotted']), int(byfamily[f]['figure_id'][1:])))
+        families = ordered[c]
         related_steps = [s for s in ORDER if any(s in stepmap[f] for f in families)]
         body += (f'<section class="flow-step challenge-section" id="challenge-{c}" data-challenge="{c}">'
                  f'<div class="step-copy challenge-copy"><div class="step-number">{c}</div>'

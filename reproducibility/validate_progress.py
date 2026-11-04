@@ -94,6 +94,13 @@ for card in cards:
     assert available[default.get('value')]in qualified
     assert card.xpath('.//img[@class="time-preview"]/@src')[0]==default.get('value')
 assert variants==shown and len(cards)==13
+order=json.loads((ROOT/'data/progress_display_order.json').read_text())
+for section in home.xpath('//section[@data-challenge]'):
+    families=[c.get('data-family')for c in section.xpath('.//article[@data-family]')]
+    assert families==order['challenge_order'][section.get('data-challenge')]
+    values={r['family']:r for r in order['default_conditions']}
+    assert all(values[a]['gain_as_percent_of_axis']>=values[b]['gain_as_percent_of_axis']for a,b in zip(families,families[1:]))
+assert {c:fs[0]for c,fs in order['challenge_order'].items()}=={'A':'OmniDocBench','B':'LongBench','C':'GSM-Symbolic','D':'TableBench'}
 archive=H.parse(str(ROOT/'archive.html')).getroot()
 assert len(archive.xpath('//tbody/tr'))==50
 assert not (ROOT/'claims.html').exists()

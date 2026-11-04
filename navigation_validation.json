@@ -13,7 +13,31 @@
     "Reset restores all eight families",
     "LongBench short no-CoT switches to series_10 with 18 shown observations and its reference",
     "Search ProcessBench yields one family in two challenges",
-    "Criteria page explains outcome selection and retains complete decisions"
+    "Criteria page explains outcome selection and retains complete decisions",
+    "Left-to-right order follows the existing default mean-curve gain; all A-D orders checked in the generated HTML and A/D inspected in the browser"
   ],
-  "browser_scope": "Representative affected controls and existing figures inspected; frozen figure assets retained unchanged"
+  "browser_scope": "Representative affected controls and existing figures inspected; frozen figure assets retained unchanged",
+  "display_order": {
+    "A": [
+      "OmniDocBench",
+      "TableBench",
+      "olmOCR-bench",
+      "PureDocBench"
+    ],
+    "B": [
+      "LongBench",
+      "RULER"
+    ],
+    "C": [
+      "GSM-Symbolic",
+      "TableBench",
+      "ProcessBench"
+    ],
+    "D": [
+      "TableBench",
+      "ProcessBench",
+      "LongBench",
+      "RULER"
+    ]
+  }
 }
